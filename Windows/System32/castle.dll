@@ -1,0 +1,7 @@
+CastleFreeMemory
+CastleFreeNodeInfo
+CastleFreeNodeList
+CastleGetCastleInfo
+CastleGetNodeInfo
+CastleJoinNode
+CastleUnjoinNode

@@ -68,6 +68,7 @@ CloseClipboard
 CloseDesktop
 CloseWindow
 CloseWindowStation
+ConsolePlaySound
 CopyAcceleratorTableA
 CopyAcceleratorTableW
 CopyIcon
@@ -280,6 +281,7 @@ GetFocus
 GetForegroundWindow
 GetGuiResources
 GetGUIThreadInfo
+GetHVISUALFromHWND
 GetIconInfo
 GetInputDesktop
 GetInputState
@@ -422,8 +424,11 @@ IsGUIThread
 IsHungAppWindow
 IsIconic
 IsMenu
+IsProcess16Bit
 IsRectEmpty
 IsServerSideWindow
+IsServicesProcess
+IsSETEnabled
 IsWindow
 IsWindowEnabled
 IsWindowInDestroy
@@ -521,8 +526,6 @@ PrivateExtractIconExA
 PrivateExtractIconExW
 PrivateExtractIconsA
 PrivateExtractIconsW
-PrivateSetDbgTag
-PrivateSetRipFlags
 PtInRect
 QuerySendMessage
 QueryUserCounters
@@ -661,6 +664,8 @@ ShowStartGlass
 ShowWindow
 ShowWindowAsync
 SoftModalMessageBox
+StartDCE
+StopDCE
 SubtractRect
 SwapMouseButton
 SwitchDesktop
@@ -713,12 +718,9 @@ VkKeyScanA
 VkKeyScanExA
 VkKeyScanExW
 VkKeyScanW
-VRipOutput
-VTagOutput
 WaitForInputIdle
 WaitMessage
 WCSToMBEx
-Win32PoolAllocationStats
 WindowFromDC
 WindowFromPoint
 WinHelpA

@@ -1,4 +1,3 @@
-ConvertDIBSECTIONToThumbnail
 DllCanUnloadNow
 DllGetClassObject
 DllInstall
@@ -12,3 +11,5 @@ imageview_fullscreenW
 ImageView_PrintTo
 ImageView_PrintToA
 ImageView_PrintToW
+LoadCompressedImage
+SHIsFileADocumentImage

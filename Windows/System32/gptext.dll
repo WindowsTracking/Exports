@@ -2,9 +2,12 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+GenerateIPSECPolicy
 GenerateScriptsGroupPolicy
-ProcessIPSECPolicy
+GenerateWIRELESSPolicy
+ProcessIPSECPolicyEx
 ProcessPSCHEDPolicy
 ProcessScriptsGroupPolicy
 ProcessScriptsGroupPolicyEx
+ProcessWIRELESSPolicyEx
 ScrRegGPOListToWbem

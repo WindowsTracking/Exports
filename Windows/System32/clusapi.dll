@@ -10,7 +10,6 @@ CloseClusterNetwork
 CloseClusterNode
 CloseClusterNotifyPort
 CloseClusterResource
-ClusapiSetRPCAuthentication
 ClusterCloseEnum
 ClusterControl
 ClusterEnum
@@ -113,3 +112,4 @@ SetClusterNetworkName
 SetClusterNetworkPriorityOrder
 SetClusterQuorumResource
 SetClusterResourceName
+SetClusterServiceAccountPassword

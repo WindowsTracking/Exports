@@ -1,8 +1,6 @@
 BackupPerfRegistryToFileW
 InstallPerfDllA
 InstallPerfDllW
-LoadMofFromInstalledServiceA
-LoadMofFromInstalledServiceW
 LoadPerfCounterTextStringsA
 LoadPerfCounterTextStringsW
 RestorePerfRegistryFromFileW

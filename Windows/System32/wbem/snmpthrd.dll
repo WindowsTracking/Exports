@@ -72,12 +72,13 @@
 ?ProcessDetach@SnmpThreadObject@@CGXH@Z
 ?ReapTask@SnmpThreadObject@@QAEHAAVSnmpAbstractTaskObject@@@Z
 ?RegisterThread@SnmpThreadObject@@AAEHXZ
+?RemoveThread@SnmpThreadObject@@AAEHXZ
 ?RotateTask@SnmpThreadObject@@AAEXPAVSnmpAbstractTaskObject@@@Z
 ?s_CriticalSection@SnmpDebugLog@@2U_RTL_CRITICAL_SECTION@@A
 ?s_Initialised@SnmpDebugLog@@0HA
 ?s_Lock@SnmpThreadObject@@0VCCriticalSection@@A
-?s_ReferenceCount@SnmpDebugLog@@0JA
-?s_ReferenceCount@SnmpThreadObject@@0JA
+?s_ReferenceCount@SnmpDebugLog@@2JA
+?s_ReferenceCount@SnmpThreadObject@@2JA
 ?s_SnmpDebugLog@SnmpDebugLog@@2PAV1@A
 ?s_ThreadContainer@SnmpThreadObject@@0V?$SnmpMap@KKPAVSnmpThreadObject@@PAV1@@@A
 ?ScheduleTask@SnmpThreadObject@@QAEHAAVSnmpAbstractTaskObject@@@Z
@@ -111,7 +112,7 @@
 ?WaitAcknowledgementDispatch@SnmpAbstractTaskObject@@AAEHPAVSnmpThreadObject@@PAXAAH@Z
 ?WaitDispatch@SnmpAbstractTaskObject@@AAEHPAVSnmpThreadObject@@PAXAAH@Z
 ?WaitDispatch@SnmpThreadObject@@AAEHKAAH@Z
-?WaitForStartup@SnmpThreadObject@@QAEXXZ
+?WaitForStartup@SnmpThreadObject@@QAEHXZ
 ?Write@SnmpDebugLog@@QAAXPBGZZ
 ?WriteFileAndLine@SnmpDebugLog@@QAAXPBDKPBGZZ
 ?WriteOutput@SnmpDebugLog@@AAEXPBG@Z

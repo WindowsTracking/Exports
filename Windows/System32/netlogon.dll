@@ -1,4 +1,3 @@
-DsrGetDcName
 DsrGetDcNameEx2
 I_DsGetDcCache
 I_NetLogonAddressToSiteName
@@ -6,11 +5,10 @@ I_NetLogonAppendChangeLog
 I_NetLogonCloseChangeLog
 I_NetLogonFree
 I_NetLogonGetAuthDataEx
-I_NetLogonGetDirectDomain
 I_NetLogonGetIpAddresses
 I_NetLogonGetSerialNumber
-I_NetLogonLdapLookup
 I_NetLogonLdapLookupEx
+I_NetLogonMixedDomain
 I_NetLogonNewChangeLog
 I_NetLogonReadChangeLog
 I_NetLogonSendToSamOnPdc
@@ -23,6 +21,5 @@ I_NetNotifyNtdsDsaDeletion
 I_NetNotifyRole
 I_NetNotifyTrustedDomain
 InitSecurityInterfaceW
-NetrLogonSamLogoff
-NetrLogonSamLogon
+NetILogonSamLogon
 NlNetlogonMain

@@ -7,12 +7,15 @@
 ?CreateVssExamineWriterMetadata@@YGJPAGPAPAVIVssExamineWriterMetadata@@@Z
 ?CreateVssSnapshotSetDescription@@YGJU_GUID@@JPAPAVIVssSnapshotSetDescription@@@Z
 ?GetBackupType@CVssWriter@@IBG?AW4_VSS_BACKUP_TYPE@@XZ
+?GetContext@CVssWriter@@IBGJXZ
 ?GetCurrentLevel@CVssWriter@@IBG?AW4_VSS_APPLICATION_LEVEL@@XZ
 ?GetCurrentSnapshotSetId@CVssWriter@@IBG?AU_GUID@@XZ
 ?GetCurrentVolumeArray@CVssWriter@@IBGPAPBGXZ
 ?GetCurrentVolumeCount@CVssWriter@@IBGIXZ
+?GetRestoreType@CVssWriter@@IBG?AW4_VSS_RESTORE_TYPE@@XZ
+?GetSnapshotDeviceName@CVssWriter@@IBGJPBGPAPBG@Z
 ?Initialize@CVssJetWriter@@QAGJU_GUID@@PBG_N211@Z
-?Initialize@CVssWriter@@QAGJU_GUID@@PBGW4VSS_USAGE_TYPE@@W4VSS_SOURCE_TYPE@@W4_VSS_APPLICATION_LEVEL@@KW4VSS_ALTERNATE_WRITER_STATE@@_N@Z
+?Initialize@CVssWriter@@QAGJU_GUID@@PBGW4VSS_USAGE_TYPE@@W4VSS_SOURCE_TYPE@@W4_VSS_APPLICATION_LEVEL@@KW4VSS_ALTERNATE_WRITER_STATE@@_N1@Z
 ?InstallAlternateWriter@CVssWriter@@QAGJU_GUID@@0@Z
 ?IsBootableSystemStateBackedUp@CVssWriter@@IBG_NXZ
 ?IsPartialFileSupportEnabled@CVssWriter@@IBG_NXZ
@@ -24,6 +27,7 @@
 ?OnBackupComplete@CVssWriter@@UAG_NPAVIVssWriterComponents@@@Z
 ?OnBackupCompleteBegin@CVssJetWriter@@UAG_NPAVIVssWriterComponents@@@Z
 ?OnBackupCompleteEnd@CVssJetWriter@@UAG_NPAVIVssWriterComponents@@_N@Z
+?OnBackupShutdown@CVssWriter@@UAG_NU_GUID@@@Z
 ?OnContinueIOOnVolume@CVssWriter@@UAG_NPAGU_GUID@@1@Z
 ?OnFreezeBegin@CVssJetWriter@@UAG_NXZ
 ?OnFreezeEnd@CVssJetWriter@@UAG_N_N@Z
@@ -51,8 +55,6 @@
 ?Uninitialize@CVssJetWriter@@QAGXXZ
 ?Unsubscribe@CVssWriter@@QAGJXZ
 IsVolumeSnapshotted
-RegisterSnapshotSubscriptions
 SimulateSnapshotFreeze
 SimulateSnapshotThaw
-UnregisterSnapshotSubscriptions
 VssFreeSnapshotProperties

@@ -5,11 +5,8 @@ DeskSetCurrentSchemeW
 DisplayClassInstaller
 DisplayOcSetupProc
 DisplaySaveSettings
-DisplayTestSettingsW
 DllCanUnloadNow
 DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
 InstallScreenSaver
 InstallScreenSaverA
 InstallScreenSaverW

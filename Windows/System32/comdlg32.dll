@@ -4,6 +4,10 @@ ChooseColorW
 ChooseFontA
 ChooseFontW
 CommDlgExtendedError
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
 dwLBSubclass
 dwOKSubclass
 FindTextA

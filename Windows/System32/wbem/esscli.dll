@@ -18,6 +18,7 @@
 ??0CStandardMetaData@@QAE@ABV0@@Z
 ??0CStandardMetaData@@QAE@PAUIWbemServices@@@Z
 ??0CTempMemoryManager@@QAE@XZ
+??0CTimeKeeper@@QAE@XZ
 ??1CClassInfoArray@@QAE@XZ
 ??1CClassInformation@@QAE@XZ
 ??1CContextMetaData@@QAE@XZ
@@ -30,10 +31,10 @@
 ??1CSortedArray@@QAE@XZ
 ??1CStandardMetaData@@UAE@XZ
 ??1CTempMemoryManager@@QAE@XZ
+??1CTimeKeeper@@QAE@XZ
 ??4CClassInfoArray@@QAE_NAAV0@@Z
 ??4CClassInformation@@QAEAAU0@ABU0@@Z
 ??4CContextMetaData@@QAEAAV0@ABV0@@Z
-??4CEvalNode@@QAEAAV0@ABV0@@Z
 ??4CEvalTree@@QAEXABV0@@Z
 ??4CMetaData@@QAEAAV0@ABV0@@Z
 ??4CObjectInfo@@QAEAAV0@ABV0@@Z
@@ -43,6 +44,7 @@
 ??4CSortedArray@@QAEXABV0@@Z
 ??4CStandardMetaData@@QAEAAV0@ABV0@@Z
 ??4CTempMemoryManager@@QAEAAV0@ABV0@@Z
+??4CTimeKeeper@@QAEAAV0@ABV0@@Z
 ??_7CEvalNode@@6B@
 ??_7CMetaData@@6B@
 ??_7CPropertyProjectionFilter@@6B@
@@ -87,6 +89,7 @@
 ?CreateFromQuery@CEvalTree@@QAEJPAVCContextMetaData@@PBGJJ@Z
 ?CreateProjection@CEvalTree@@QAEJAAV1@PAVCContextMetaData@@PAVCProjectionFilter@@W4EProjectionType@@_N@Z
 ?DebugDump@CSortedArray@@QAEXXZ
+?DecorateObject@CTimeKeeper@@QAE_NPAU_IWmiObject@@@Z
 ?Dump@CEvalTree@@QAEXPAU_iobuf@@@Z
 ?DumpNode@CEvalNode@@SGXPAU_iobuf@@HPAV1@@Z
 ?Empty@CSortedArray@@QAEXXZ

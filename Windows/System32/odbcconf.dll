@@ -3,6 +3,7 @@ AddInfToList
 ApplyMillenCat
 ApplyW2KXPak
 AppRegEnum
+BackupCatalog
 BackupRegKey
 CalculateRequiredDriveSpace
 CloseAppRegEnum
@@ -32,6 +33,7 @@ DLListRemoveNode
 DLListSetData
 DllRegisterServer
 DllUnregisterServer
+DoesFileExist
 EnableDebugPrivileges
 EnableNTPrivilege
 EnumerateProcesses
@@ -69,6 +71,7 @@ RegKeyRestore
 RegVersion
 RegVersionEx
 RemoveFilterRunOnceExRegistrationFromRegistry
+RestoreCatalog
 RestoreRegKey
 RunDLL32_FilterRunOnceExRegistration
 RunDLL32_RegisterApplication

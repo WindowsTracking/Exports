@@ -149,6 +149,8 @@ DeviceCapabilitiesExA
 DeviceCapabilitiesExW
 DPtoLP
 DrawEscape
+DVSDestinationPosition
+DVSGetInfo
 Ellipse
 EnableEUDC
 EndDoc
@@ -459,6 +461,8 @@ HT_Get8BPPFormatPalette
 HT_Get8BPPMaskPalette
 IntersectClipRect
 InvertRgn
+IsValidEnhMetaRecord
+IsValidEnhMetaRecordOffExt
 LineDDA
 LineTo
 LPtoDP

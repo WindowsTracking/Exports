@@ -2,5 +2,3 @@ DllInstall
 DllRegisterServer
 DllUnregisterServer
 FixIE
-IEAccessSysInst
-IEAccessUserInst

@@ -1,0 +1,8 @@
+DisableCurrentVersionW
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
+StartW
+UninstallW

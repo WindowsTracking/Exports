@@ -2,6 +2,7 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+TF_CheckThreadInputIdle
 TF_ClearLangBarAddIns
 TF_CreateCategoryMgr
 TF_CreateCicLoadMutex
@@ -10,6 +11,8 @@ TF_CreateInputProcessorProfiles
 TF_CreateLangBarItemMgr
 TF_CreateLangBarMgr
 TF_CreateThreadMgr
+TF_CUASAppFix
+TF_DllDetachInOther
 TF_GetGlobalCompartment
 TF_GetLangIcon
 TF_GetMlngHKL

@@ -1,8 +1,14 @@
+SE_AddNewHooks
 SE_DllLoaded
 SE_DllUnloaded
+SE_DynamicCompleteUnshim
 SE_DynamicShim
-SE_GetProcAddress
+SE_DynamicUnshim
+SE_GetHookAPIs
 SE_InstallAfterInit
 SE_InstallBeforeInit
+SE_IsModuleExcluded
 SE_IsShimDll
 SE_ProcessDying
+SE_RemoveNTVDMTask
+SE_ShimNTVDM

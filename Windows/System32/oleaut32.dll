@@ -53,6 +53,7 @@ OleTranslateColor
 QueryPathOfRegTypeLib
 RegisterActiveObject
 RegisterTypeLib
+RegisterTypeLibForUser
 RevokeActiveObject
 SafeArrayAccessData
 SafeArrayAllocData
@@ -96,6 +97,7 @@ SysStringByteLen
 SysStringLen
 SystemTimeToVariantTime
 UnRegisterTypeLib
+UnRegisterTypeLibForUser
 VarAbs
 VarAdd
 VarAnd

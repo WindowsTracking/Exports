@@ -6,4 +6,4 @@ PNP_HwProfFlags
 PNP_SetActiveService
 RegisterScmCallback
 RegisterServiceNotification
-ServiceEntry
+SvcEntry_PlugPlay

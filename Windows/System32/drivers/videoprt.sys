@@ -73,6 +73,7 @@ VideoPortReadRegisterUchar
 VideoPortReadRegisterUlong
 VideoPortReadRegisterUshort
 VideoPortReadStateEvent
+VideoPortRegisterBugcheckCallback
 VideoPortReleaseBuffer
 VideoPortReleaseCommonBuffer
 VideoPortReleaseDeviceLock
@@ -111,3 +112,4 @@ VideoPortWriteRegisterUlong
 VideoPortWriteRegisterUshort
 VideoPortZeroDeviceMemory
 VideoPortZeroMemory
+WdDdiWatchdogDpcCallback

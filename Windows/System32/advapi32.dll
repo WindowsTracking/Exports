@@ -96,6 +96,7 @@ CreatePrivateObjectSecurityWithMultipleInheritance
 CreateProcessAsUserA
 CreateProcessAsUserW
 CreateProcessWithLogonW
+CreateProcessWithTokenW
 CreateRestrictedToken
 CreateServiceA
 CreateServiceW
@@ -185,6 +186,7 @@ ElfClearEventLogFileA
 ElfClearEventLogFileW
 ElfCloseEventLog
 ElfDeregisterEventSource
+ElfFlushEventLog
 ElfNumberOfRecords
 ElfOldestRecord
 ElfOpenBackupEventLogA
@@ -450,7 +452,6 @@ QueryServiceStatusEx
 QueryTraceA
 QueryTraceW
 QueryUsersOnEncryptedFile
-QueryWindows31FilesMigration
 ReadEncryptedFileRaw
 ReadEventLogA
 ReadEventLogW
@@ -579,7 +580,6 @@ StartTraceA
 StartTraceW
 StopTraceA
 StopTraceW
-SynchronizeWindows31FilesAndWindowsNTRegistry
 SystemFunction001
 SystemFunction002
 SystemFunction003
@@ -634,6 +634,8 @@ UpdateTraceA
 UpdateTraceW
 WdmWmiServiceMain
 WmiCloseBlock
+WmiCloseTraceWithCursor
+WmiConvertTimestamp
 WmiDevInstToInstanceNameA
 WmiDevInstToInstanceNameW
 WmiEnumerateGuids
@@ -643,12 +645,14 @@ WmiFileHandleToInstanceNameA
 WmiFileHandleToInstanceNameW
 WmiFreeBuffer
 WmiGetFirstTraceOffset
+WmiGetNextEvent
 WmiGetTraceHeader
 WmiMofEnumerateResourcesA
 WmiMofEnumerateResourcesW
 WmiNotificationRegistrationA
 WmiNotificationRegistrationW
 WmiOpenBlock
+WmiOpenTraceWithCursor
 WmiParseTraceEvent
 WmiQueryAllDataA
 WmiQueryAllDataMultipleA

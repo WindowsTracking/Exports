@@ -4,11 +4,14 @@ bind
 closesocket
 connect
 freeaddrinfo
+FreeAddrInfoW
 getaddrinfo
+GetAddrInfoW
 gethostbyaddr
 gethostbyname
 gethostname
 getnameinfo
+GetNameInfoW
 getpeername
 getprotobyname
 getprotobynumber

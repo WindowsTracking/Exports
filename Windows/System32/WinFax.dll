@@ -53,3 +53,4 @@ FaxSetRoutingInfoA
 FaxSetRoutingInfoW
 FaxStartPrintJobA
 FaxStartPrintJobW
+FaxUnregisterServiceProviderW

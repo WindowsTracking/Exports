@@ -1,4 +1,5 @@
-_DllEntryPoint@12
-DliHook
+_DllMain@12
 DllCanUnloadNow
 DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -11,8 +11,10 @@ _WinStationNotifyDisconnectPipe
 _WinStationNotifyLogoff
 _WinStationNotifyLogon
 _WinStationNotifyNewSession
+_WinStationOpenSessionDirectory
 _WinStationReadRegistry
 _WinStationReInitializeSecurity
+_WinStationSessionInitialized
 _WinStationShadowTarget
 _WinStationShadowTargetSetup
 _WinStationUpdateClientCachedCredentials
@@ -21,6 +23,7 @@ _WinStationUpdateUserConfig
 _WinStationWaitForConnect
 LogonIdFromWinStationNameA
 LogonIdFromWinStationNameW
+RemoteAssistancePrepareSystemRestore
 ServerGetInternetConnectorStatus
 ServerLicensingClose
 ServerLicensingDeactivateCurrentPolicy
@@ -38,7 +41,9 @@ ServerQueryInetConnectorInformationA
 ServerQueryInetConnectorInformationW
 ServerSetInternetConnectorStatus
 WinStationActivateLicense
+WinStationAutoReconnect
 WinStationBroadcastSystemMessage
+WinStationCheckAccess
 WinStationCheckLoopBack
 WinStationCloseServer
 WinStationConnectA
@@ -73,6 +78,8 @@ WinStationQueryLicense
 WinStationQueryLogonCredentialsW
 WinStationQueryUpdateRequired
 WinStationRegisterConsoleNotification
+WinStationRegisterConsoleNotificationEx
+WinStationRegisterNotificationEvent
 WinStationRemoveLicense
 WinStationRenameA
 WinStationRenameW
@@ -89,5 +96,6 @@ WinStationShadowStop
 WinStationShutdownSystem
 WinStationTerminateProcess
 WinStationUnRegisterConsoleNotification
+WinStationUnRegisterNotificationEvent
 WinStationVirtualOpen
 WinStationWaitSystemEvent

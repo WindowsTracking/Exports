@@ -3,6 +3,8 @@ DllUnregisterServer
 IPSecAllocPolMem
 IPSecAllocPolStr
 IPSecAssignPolicy
+IPSecChooseDriverBootMode
+IPSecClearWMIStore
 IPSecClosePolicyStore
 IPSecCopyAuthMethod
 IPSecCopyFilterData
@@ -59,3 +61,4 @@ IPSecSetNegPolData
 IPSecSetNFAData
 IPSecSetPolicyData
 IPSecUnassignPolicy
+WriteDirectoryPolicyToWMI

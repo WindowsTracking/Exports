@@ -6,15 +6,5 @@ DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
 DoDeleteAllItems
-GetDeviceFromDeviceId
-GetDeviceIdFromDevice
-GetDeviceUIKey
-GetGeneralUIKey
-IMCreateCameraItemIDL
-IMGetDeviceIdFromIDL
-IMGetFullPathNameFromIDL
-IMGetItemFromIDL
 MakeFullPidlForDevice
-PropertySheetFromDevice
-PropertySheetFromItem
-TakeAPicture
+WMCreateStreamForURL

@@ -2,7 +2,5 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
-OpenChannel
 ParseDesktopComponent
-Subscribe
 SubscribeToCDF

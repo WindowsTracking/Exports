@@ -22,12 +22,15 @@ TLSDisconnectFromServer
 TLSFreeTSCertificate
 TLSGetAvailableLicenses
 TLSGetLastError
+TLSGetLastErrorFixed
 TLSGetLSPKCS10CertRequest
 TLSGetServerCertificate
 TLSGetServerName
 TLSGetServerNameEx
+TLSGetServerNameFixed
 TLSGetServerPID
 TLSGetServerScope
+TLSGetServerScopeFixed
 TLSGetServerSPK
 TLSGetSupportFlags
 TLSGetTlsPrivateData
@@ -52,6 +55,7 @@ TLSLicenseEnumEnd
 TLSLicenseEnumNext
 TLSLicenseEnumNextEx
 TLSLookupServer
+TLSLookupServerFixed
 TLSMarkLicense
 TLSRegisterLicenseKeyPack
 TLSRequestTermServCert

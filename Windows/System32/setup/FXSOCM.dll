@@ -4,5 +4,6 @@ DllRegisterServer
 DllUnregisterServer
 FaxModemCoClassInstaller
 FaxOcmSetupProc
+SecureFaxServiceDirectories
 WhereDidMyFaxGo
 XP_UninstallProvider

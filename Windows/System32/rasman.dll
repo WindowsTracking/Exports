@@ -23,12 +23,12 @@ RasDeviceGetInfo
 RasDeviceSetInfo
 RasDoIke
 RasEnableIpSec
-RasEnableRasAudio
 RasEnumConnectionPorts
 RasEnumLanNets
 RasFindPrerequisiteEntry
 RasFreeBuffer
 RasGetBandwidthUtilization
+RasGetBestInterface
 RasGetBuffer
 RasGetCalledIdInfo
 RasGetConnectInfo
@@ -39,6 +39,7 @@ RasGetDevConfig
 RasGetDevConfigEx
 RasGetDeviceConfigInfo
 RasGetDeviceName
+RasGetDeviceNameW
 RasGetDialParams
 RasGetEapUserInfo
 RasGetFramingCapabilities
@@ -57,6 +58,7 @@ RasGetUserCredentials
 RasInitialize
 RasInitializeNoWait
 RasIsIpSecEnabled
+RasIsPulseDial
 RasIsTrustedCustomDll
 RasLinkGetStatistics
 RasmanUninitialize

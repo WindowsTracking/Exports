@@ -12,7 +12,4 @@ IsPathShared
 IsPathSharedA
 IsPathSharedW
 SetFolderPermissionsForSharing
-SharingDialog
-SharingDialogA
-SharingDialogW
 ShowShareFolderUIW

@@ -1,5 +1,6 @@
 DavFreeUsedDiskSpace
 DavGetDiskSpaceUsage
+DavGetTheLockOwnerOfTheFile
 DllCanUnloadNow
 DllGetClassObject
 DllMain

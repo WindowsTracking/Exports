@@ -16,7 +16,6 @@
 #123
 #125
 #130
-#131
 #135
 #136
 #137
@@ -38,7 +37,6 @@
 #158
 #159
 #160
-#161
 #162
 #164
 #165
@@ -91,6 +89,8 @@
 #225
 #226
 #227
+#228
+#229
 AddUrlToFavorites
 DllCanUnloadNow
 DllGetClassObject
@@ -109,7 +109,6 @@ DoPrivacyDlg
 HlinkFindFrame
 HlinkFrameNavigate
 HlinkFrameNavigateNHL
-IEWriteErrorLog
 ImportPrivacySettings
 OpenURL
 SetQueryNetSessionCount

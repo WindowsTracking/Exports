@@ -17,6 +17,7 @@ AllocADsStr
 BinarySDToSecurityDescriptor
 ConvertSecDescriptorToVariant
 ConvertSecurityDescriptorToSecDes
+ConvertTrusteeToSid
 DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer

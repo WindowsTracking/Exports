@@ -47,13 +47,13 @@
 ?LastRefReleased@CMMCStrongReferences@@SG_NXZ
 ?Lock@CEventBuffer@@QAEXXZ
 ?MakeSc@SC@mmcerror@@AAEXW4facility_type@12@J@Z
+?MMC_PickIconDlg@@YGHPAUHWND__@@PAGIPAH@Z
 ?MMCErrorBox@@YGHII@Z
 ?MMCErrorBox@@YGHIVSC@mmcerror@@I@Z
 ?MMCErrorBox@@YGHPBGI@Z
 ?MMCErrorBox@@YGHPBGVSC@mmcerror@@I@Z
 ?MMCErrorBox@@YGHVSC@mmcerror@@I@Z
 ?MMCUpdateRegistry@@YGJHPBVCObjectRegParams@@PBVCControlRegParams@@@Z
-?PickIconDlg@@YGHPAUHWND__@@PAGIPAH@Z
 ?Release@CMMCStrongReferences@@SGKXZ
 ?s_dwMainThreadID@SC@mmcerror@@0KA
 ?s_hInst@SC@mmcerror@@0PAUHINSTANCE__@@A

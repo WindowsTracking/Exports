@@ -3,7 +3,6 @@ call_ica_hw_interrupt
 cmdCheckTemp
 cmdCheckTempInit
 cpu_createthread
-CurrentMonitorTeb
 DBGNotifyDebugged
 DBGNotifyNewTask
 DBGNotifyRemoteThreadAddress
@@ -11,22 +10,15 @@ demClientErrorEx
 demFileDelete
 demFileFindFirst
 demFileFindNext
-demGetCurrentDirectoryLCDS
 demGetFileTimeByHandle_WOW
-demGetPhysicalDriveType
 demIsShortPathName
-demLFNCleanup
 demLFNGetCurrentDirectory
 demSetCurrentDirectoryGetDrive
-demSetCurrentDirectoryLCDS
-demWOWLFNAllocateSearchHandle
-demWOWLFNCloseSearchHandle
 demWOWLFNEntry
-demWOWLFNGetSearchHandle
 demWOWLFNInit
 DispatchInterrupts
-DpmiSetIncrementalAlloc
 ExpLdt
+fInjectedWow
 FlatAddress
 fSeparateWow
 getAF
@@ -72,7 +64,6 @@ getSF
 getSI
 getSP
 getSS
-GetWOWShortCutInfo
 getZF
 host_com_close
 host_CreateThread
@@ -84,7 +75,6 @@ MGetVdmPointer
 pDeviceChain
 RegisterWOWIdle
 ResumeTimerThread
-SelectorLimit
 setAF
 setAH
 setAL
@@ -123,7 +113,6 @@ setMSW
 setOF
 setPF
 setSF
-SetShadowDescriptorEntries
 setSI
 setSP
 setSS

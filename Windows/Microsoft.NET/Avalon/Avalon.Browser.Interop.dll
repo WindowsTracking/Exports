@@ -1,0 +1,7 @@
+CreateAndInitServer
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetIStorage
+RunServer

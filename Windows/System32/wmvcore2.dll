@@ -1,0 +1,11 @@
+DllRegisterServer
+WMCreateBackupRestorer
+WMCreateEditor
+WMCreateIndexer
+WMCreateProfileManager
+WMCreateReader
+WMCreateSyncReader
+WMCreateWriter
+WMCreateWriterFileSink
+WMCreateWriterNetworkSink
+WMIsContentProtected

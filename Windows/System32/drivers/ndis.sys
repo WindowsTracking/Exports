@@ -72,6 +72,7 @@ NdisCoRequestComplete
 NdisCoSendPackets
 NdisCreateBlockPool
 NdisDeregisterProtocol
+NdisDeregisterTdiCallBack
 NdisDestroyBlockPool
 NdisDprAcquireSpinLock
 NdisDprAllocatePacket

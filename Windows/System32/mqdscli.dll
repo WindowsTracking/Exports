@@ -1,4 +1,5 @@
 DSBeginDeleteNotification
+DSClientInit
 DSCreateObject
 DSCreateServersCache
 DSDeleteObject
@@ -13,13 +14,11 @@ DSGetObjectPropertiesGuidEx
 DSGetObjectSecurity
 DSGetObjectSecurityGuid
 DSGetUserParams
-DSInit
 DSLookupBegin
 DSLookupEnd
 DSLookupNext
 DSNotifyDelete
 DSQMGetObjectSecurity
-DSQMSetMachineProperties
 DSSetObjectProperties
 DSSetObjectPropertiesGuid
 DSSetObjectSecurity

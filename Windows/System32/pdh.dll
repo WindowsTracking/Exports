@@ -72,10 +72,6 @@ PdhiPlaSetRunAs
 PdhIsRealTimeQuery
 PdhListLogFileHeaderA
 PdhListLogFileHeaderW
-PdhLogServiceCommandA
-PdhLogServiceCommandW
-PdhLogServiceControlA
-PdhLogServiceControlW
 PdhLookupPerfIndexByNameA
 PdhLookupPerfIndexByNameW
 PdhLookupPerfNameByIndexA

@@ -33,7 +33,7 @@
 ?AddTitle@CCollection@@QAEPAVCTitle@@PBD0000GIPAVCLocation@@PAKH0@Z
 ?AddTitle@CCollection@@QAEPAVCTitle@@PBG0000GIPAVCLocation@@PAKH0@Z
 ?AllocCopyValue@CCollection@@AAEKPAVCParseXML@@PADPAPAD@Z
-?AllocSetValue@@YAKPBDPAPAD@Z
+?AllocSetValue@@YGKPBDPAPAD@Z
 ?bIsVisable@CFolder@@QAEHXZ
 ?CheckTitleRef@CCollection@@AAEKPBDG@Z
 ?CheckTitleRef@CCollection@@AAEKPBGG@Z
@@ -142,3 +142,4 @@
 ?SetVolume@CLocation@@QAEXPBG@Z
 ?WriteFolder@CCollection@@AAEHPAPAVCFolder@@@Z
 ?WriteFolders@CCollection@@AAEHPAPAVCFolder@@@Z
+?wssResetNextColNum@CCollection@@AAEXXZ

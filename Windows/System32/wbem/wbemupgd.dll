@@ -1,2 +1,4 @@
 DllRegisterServer
+LoadMofFiles
 MUI_InstallMFLFiles
+OcEntry

@@ -18,9 +18,9 @@ NsGetFriendlyNameFromIfName
 NsGetIfNameFromFriendlyName
 PreprocessCommand
 PrintError
-PrintEventLog
 PrintMessage
 PrintMessageFromModule
+ProcessCommand
 RefreshConsole
 RegisterContext
 RegisterHelper

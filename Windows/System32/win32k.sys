@@ -19,6 +19,7 @@ EngAllocUserMem
 EngAlphaBlend
 EngAssociateSurface
 EngBitBlt
+EngBugCheckEx
 EngCheckAbort
 EngClearEvent
 EngComputeGlyphSet

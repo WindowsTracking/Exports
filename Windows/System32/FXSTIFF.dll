@@ -5,6 +5,8 @@ ConvMmrPageToMrSameRes
 FindNextEol
 FreeMsTagInfo
 FXSTIFFInitialize
+GetMsTagDwordLong
+GetMsTagFileTime
 GetMsTagString
 GetW2kMsTiffTags
 MemoryMapTiffFile
@@ -19,6 +21,7 @@ TiffCreate
 TiffEndPage
 TiffExtractFirstPage
 TiffGetCurrentPageData
+TiffLimitTagNumber
 TiffOpen
 TiffPostProcessFast
 TiffPrint
@@ -26,9 +29,8 @@ TiffPrintDC
 TiffRead
 TiffRecoverGoodPages
 TiffSeekToPage
-TiffSetCurrentPageWidth
+TiffSetCurrentPageParams
 TiffStartPage
 TiffUncompressMmrPage
 TiffUncompressMmrPageRaw
-TiffWrite
 TiffWriteRaw

@@ -12,6 +12,7 @@ WOWCallback16
 WOWCallback16Ex
 WOWDirectedYield16
 WOWFreeMetafile
+WOWGetSMapHelpers
 WOWGetVDMPointer
 WOWGetVDMPointerFix
 WOWGetVDMPointerUnfix

@@ -1,2 +1,5 @@
+DtcGetWebApplicationServerRole
+DtcSetWebApplicationServerRole
 OcEntry
+RunDtcSetWebApplicationServerRoleW
 SetupPrintLog

@@ -1,3 +1,8 @@
+DllCanUnloadNow
+DllGetClassObject
 DllMain
-InitializePrintMonitor
+DllRegisterServer
+DllUnregisterServer
+InitializePrintMonitor2
 InitializePrintProvidor
+ProviderEntryW

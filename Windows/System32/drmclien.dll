@@ -1,7 +1,9 @@
 ??0CDRMLiteCrypto@@QAE@XZ
 ??1CDRMLiteCrypto@@QAE@XZ
 ?BackupLicenses@CDRMLiteCrypto@@QAEJKPAGPAUIUnknown@@PAHPAX@Z
-?EncryptIndirect@CDRMLiteCrypto@@QAEJPBDKPAE1@Z
+?EncryptFast@CDRMLiteCrypto@@QAEJPBDKPAE1@Z
+?EncryptIndirectFast@CDRMLiteCrypto@@QAEJPBDKPAE1@Z
+?GenerateNewLicenseEx@CDRMLiteCrypto@@QAEJKPAE00PAPAD10@Z
 ?GetLicenses@CDRMLiteCrypto@@QAEJPBDPAUPMLICENSE@@PAKKPAX2PAE@Z
 ?GetPublicKey@CDRMLiteCrypto@@QAEJPAUPKCERT@@@Z
 ?QueryXferToPMEx@CDRMLiteCrypto@@QAEJPBDKPAKPAEK2K12@Z

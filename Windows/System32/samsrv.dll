@@ -35,6 +35,7 @@ SamIGCLookupSids
 SamIGetAliasMembership
 SamIGetBootKeyInformation
 SamIGetDefaultAdministratorName
+SamIGetDefaultComputersContainer
 SamIGetFixedAttributes
 SamIGetInterdomainTrustAccountPasswordsForUpgrade
 SamIGetPrivateData
@@ -43,9 +44,11 @@ SamIGetSerialNumberDomain
 SamIGetUserLogonInformation
 SamIGetUserLogonInformation2
 SamIGetUserLogonInformationEx
+SamIHandleObjectUpdate
 SamIImpersonateNullSession
 SamIIncrementPerformanceCounter
 SamIInitialize
+SamIIsAttributeProtected
 SamIIsDownlevelDcUpgrade
 SamIIsExtendedSidMode
 SamIIsRebootAfterPromotion
@@ -97,7 +100,9 @@ SampInitializeRegistry
 SampInitializeSdConversion
 SampInvalidateDomainCache
 SampInvalidateRidRange
+SampIsAuditingEnabled
 SampNetLogonNotificationRequired
+SampNotifyAuditChange
 SampNotifyReplicatedInChange
 SampProcessSingleLoopbackTask
 SampReleaseSamLockExclusive

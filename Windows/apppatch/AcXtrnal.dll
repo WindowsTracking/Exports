@@ -335,6 +335,7 @@ glVertex4s
 glVertex4sv
 glVertexPointer
 glViewport
+NotifyShims
 wglChoosePixelFormat
 wglCopyContext
 wglCreateContext

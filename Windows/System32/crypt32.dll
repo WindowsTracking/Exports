@@ -190,6 +190,7 @@ CryptMsgUpdate
 CryptMsgVerifyCountersignatureEncoded
 CryptMsgVerifyCountersignatureEncodedEx
 CryptProtectData
+CryptProtectMemory
 CryptQueryObject
 CryptRegisterDefaultOIDFunction
 CryptRegisterOIDFunction
@@ -218,6 +219,7 @@ CryptStringToBinaryA
 CryptStringToBinaryW
 CryptUninstallDefaultContext
 CryptUnprotectData
+CryptUnprotectMemory
 CryptUnregisterDefaultOIDFunction
 CryptUnregisterOIDFunction
 CryptUnregisterOIDInfo

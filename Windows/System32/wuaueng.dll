@@ -1,7 +1,10 @@
 DllCanUnloadNow
 DllGetClassObject
+DllInstall
 DllMain
 DllRegisterServer
 DllUnregisterServer
+GetEngineStatusInfo
+RegisterServiceVersion
 ServiceHandler
 ServiceMain

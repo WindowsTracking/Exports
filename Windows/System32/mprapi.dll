@@ -3,6 +3,7 @@ MprAdminBufferFree
 MprAdminConnectionClearStats
 MprAdminConnectionEnum
 MprAdminConnectionGetInfo
+MprAdminConnectionRemoveQuarantine
 MprAdminDeregisterConnectionNotification
 MprAdminDeviceEnum
 MprAdminEstablishDomainRasServer
@@ -109,10 +110,6 @@ MprInfoDelete
 MprInfoDuplicate
 MprInfoRemoveAll
 MprPortSetUsage
-MprSetupIpInIpInterfaceFriendlyNameCreate
-MprSetupIpInIpInterfaceFriendlyNameDelete
-MprSetupIpInIpInterfaceFriendlyNameEnum
-MprSetupIpInIpInterfaceFriendlyNameFree
 RasAdminBufferFree
 RasAdminConnectionClearStats
 RasAdminConnectionEnum

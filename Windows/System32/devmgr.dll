@@ -4,8 +4,6 @@ DeviceCreateHardwarePage
 DeviceCreateHardwarePageEx
 DeviceManager_ExecuteA
 DeviceManager_ExecuteW
-DeviceManagerPrintA
-DeviceManagerPrintW
 DeviceProblemTextA
 DeviceProblemTextW
 DeviceProblemWizardA

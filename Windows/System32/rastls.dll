@@ -3,6 +3,7 @@ DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
 RasEapFreeMemory
+RasEapGetCredentials
 RasEapGetIdentity
 RasEapGetInfo
 RasEapInvokeConfigUI

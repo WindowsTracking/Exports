@@ -304,6 +304,8 @@ SetupCloseLog
 SetupCommitFileQueue
 SetupCommitFileQueueA
 SetupCommitFileQueueW
+SetupConfigureWmiFromInfSectionA
+SetupConfigureWmiFromInfSectionW
 SetupCopyErrorA
 SetupCopyErrorW
 SetupCopyOEMInfA

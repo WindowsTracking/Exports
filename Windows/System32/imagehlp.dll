@@ -1,6 +1,7 @@
 BindImage
 BindImageEx
 CheckSumMappedFile
+EnumDirTree
 EnumerateLoadedModules
 EnumerateLoadedModules64
 FindDebugInfoFile
@@ -52,6 +53,7 @@ SymEnumerateSymbolsW64
 SymEnumSourceFiles
 SymEnumSym
 SymEnumSymbols
+SymEnumSymbolsForAddr
 SymEnumTypes
 SymFindFileInPath
 SymFromAddr

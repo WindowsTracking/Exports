@@ -3,3 +3,4 @@ DllGetClassObject
 DllInstall
 DllRegisterServer
 DllUnregisterServer
+ServiceMain

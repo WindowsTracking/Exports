@@ -1,1 +1,5 @@
+CloseProc
 SchedServiceMain
+SysPrepBackup
+SysPrepCallback
+SysPrepRestore

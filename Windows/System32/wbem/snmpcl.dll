@@ -1,3 +1,7 @@
+??$CompareElements@PAGPAG@@YGHPBQAG0@Z
+??$CompareElements@VSnmpObjectIdentifierType@@V1@@@YGHPBVSnmpObjectIdentifierType@@0@Z
+??$HashKey@AAVSnmpObjectIdentifierType@@@@YGIAAVSnmpObjectIdentifierType@@@Z
+??$HashKey@PAG@@YGIPAG@Z
 ??0CBString@@QAE@H@Z
 ??0CBString@@QAE@PAG@Z
 ??0CBString@@QAE@XZ
@@ -591,8 +595,6 @@
 ?Cleanup@GetNextOperation@@AAEXXZ
 ?Closedown@SnmpClassLibrary@@SGXXZ
 ?Compare@SnmpObjectIdentifier@@IBE?AW4Comparison@1@ABV1@0@Z
-?CompareElements@@YGHPBQAG0@Z
-?CompareElements@@YGHPBVSnmpObjectIdentifierType@@0@Z
 ?Copy@SnmpBitStringType@@UBEPAVSnmpInstanceType@@XZ
 ?Copy@SnmpCommunityBasedSecurity@@UBEPAVSnmpSecurity@@XZ
 ?Copy@SnmpCounter64@@UBEPAVSnmpValue@@XZ
@@ -666,7 +668,6 @@
 ?Decode@SnmpUInteger32Type@@UAE?AVSnmpObjectIdentifier@@ABV2@@Z
 ?DecodeFrame@SnmpEncodeDecode@@UAEHAAVSnmpPdu@@JW4PduType@1@AAVSnmpErrorReport@@AAPAVSnmpVarBindList@@AAPAVSnmpCommunityBasedSecurity@@AAPAVSnmpTransportAddress@@5@Z
 ?DecodeFrame@SnmpEncodeDecode@@UAEHPAXAAVSnmpPdu@@@Z
-?DecodePduFrame@SnmpEncodeDecode@@UAEHAAVSnmpPdu@@JW4PduType@1@AAVSnmpErrorReport@@AAVSnmpCommunityBasedSecurity@@AAVSnmpVarBindList@@AAPAVSnmpTransportAddress@@5@Z
 ?DecWCharToDecInteger@SnmpAnalyser@@SGKG@Z
 ?DeregisterOperation@SnmpImpSession@@UAEXAAVSnmpOperation@@@Z
 ?DestroyOperation@GetNextOperation@@QAEXXZ
@@ -695,7 +696,6 @@
 ?Encode@SnmpUInteger32Type@@UBE?AVSnmpObjectIdentifier@@ABV2@@Z
 ?EncodeFrame@SnmpEncodeDecode@@UAEHAAVSnmpPdu@@JW4PduType@1@AAVSnmpErrorReport@@AAVSnmpVarBindList@@AAPAVSnmpCommunityBasedSecurity@@AAPAVSnmpTransportAddress@@5@Z
 ?EncodeFrame@SnmpEncodeDecode@@UAEHAAVSnmpPdu@@PAX@Z
-?EncodePduFrame@SnmpEncodeDecode@@UAEHAAVSnmpPdu@@JW4PduType@1@AAVSnmpErrorReport@@AAVSnmpCommunityBasedSecurity@@AAVSnmpVarBindList@@AAVSnmpTransportAddress@@5@Z
 ?EnumerationDef@SnmpEnumeratedType@@AAEHXZ
 ?Equivalent@SnmpCounter64@@MBEHABVSnmpValue@@@Z
 ?Equivalent@SnmpCounter64@@QBEHABV1@@Z
@@ -783,18 +783,11 @@
 ?GetLowValue@SnmpCounter64@@QBEKXZ
 ?GetNext@SnmpVarBindListNode@@QAEPAV1@XZ
 ?GetOperation@SnmpImpSession@@AAEPAVSnmpOperation@@K@Z
-?GetPduCommunityName@SnmpEncodeDecode@@UAEHAAVSnmpPdu@@AAVSnmpCommunityBasedSecurity@@@Z
-?GetPduDestinationAddress@SnmpEncodeDecode@@UAEHAAVSnmpPdu@@AAPAVSnmpTransportAddress@@@Z
-?GetPduErrorReport@SnmpEncodeDecode@@UAEHAAVSnmpPdu@@AAVSnmpErrorReport@@@Z
-?GetPduPduType@SnmpEncodeDecode@@UAEHAAVSnmpPdu@@AAW4PduType@1@@Z
-?GetPduRequestId@SnmpEncodeDecode@@UAEHAAVSnmpPdu@@AAJ@Z
-?GetPduSourceAddress@SnmpEncodeDecode@@UAEHAAVSnmpPdu@@AAPAVSnmpTransportAddress@@@Z
 ?GetPduType@SnmpEncodeDecode@@UAEHAAVSnmpPdu@@AAW4PduType@1@@Z
 ?GetPduType@SnmpGetNextOperation@@MAE?AW4PduType@SnmpEncodeDecode@@XZ
 ?GetPduType@SnmpGetOperation@@MAE?AW4PduType@SnmpEncodeDecode@@XZ
 ?GetPduType@SnmpPdu@@UAEAAW4PduType@SnmpEncodeDecode@@XZ
 ?GetPduType@SnmpSetOperation@@MAE?AW4PduType@SnmpEncodeDecode@@XZ
-?GetPduVarbindList@SnmpEncodeDecode@@UAEHAAVSnmpPdu@@AAVSnmpVarBindList@@@Z
 ?GetPosition@SnmpVarBindList@@IAEPAVListPosition@1@XZ
 ?GetPrevious@SnmpVarBindListNode@@QAEPAV1@XZ
 ?GetRequestId@SnmpEncodeDecode@@UAEHAAVSnmpPdu@@AAJ@Z
@@ -894,10 +887,8 @@
 ?GotoIndex@SnmpVarBindList@@IAEHI@Z
 ?GotoPosition@SnmpVarBindList@@IAEXPAVListPosition@1@@Z
 ?HandleDeletionEvent@SnmpImpSession@@AAEXXZ
-?HandleSentFrame@SnmpImpSession@@AAEXK@Z
+?HandleSentFrame@SnmpImpSession@@AAEXKPAVSnmpOperation@@@Z
 ?HandleSentFrame@SnmpImpTransport@@MAEXK@Z
-?HashKey@@YGIAAVSnmpObjectIdentifierType@@@Z
-?HashKey@@YGIPAG@Z
 ?HexCharToDecInteger@SnmpAnalyser@@SGKD@Z
 ?HexWCharToDecInteger@SnmpAnalyser@@SGKG@Z
 ?Initialise@SnmpAnalyser@@MAEXXZ
@@ -960,6 +951,7 @@
 ?Parse@SnmpTimeTicksType@@IAEHPBG@Z
 ?Parse@SnmpUDPAddressType@@IAEHPBG@Z
 ?Parse@SnmpUInteger32Type@@IAEHPBG@Z
+?PostSentFrameEvent@SnmpImpSession@@AAEXKAAVSnmpOperation@@VSnmpErrorReport@@@Z
 ?Prefix@SnmpObjectIdentifier@@QBEHKAAV1@@Z
 ?ProcessInternalEvent@SnmpOperation@@AAEJPAUHWND__@@IIJ@Z
 ?ProcessRow@GetNextOperation@@AAEHXZ
@@ -1000,7 +992,6 @@
 ?s_ReferenceCount@SnmpClassLibrary@@1JA
 ?Secure@SnmpCommunityBasedSecurity@@UAE?AVSnmpErrorReport@@AAVSnmpEncodeDecode@@AAVSnmpPdu@@@Z
 ?Send@GetNextOperation@@AAEXXZ
-?SendFrame@SnmpOperation@@AAEXAAVFrameState@@@Z
 ?SendFrame@SnmpOperation@@AAEXAAVVBList@@@Z
 ?SendRequest@GetNextOperation@@QAEXAAVSnmpVarBindList@@0@Z
 ?SendRequest@GetNextOperation@@UAEXAAVSnmpVarBindList@@@Z
@@ -1037,15 +1028,8 @@
 ?SetNull@SnmpInstanceType@@QAEXH@Z
 ?SetPdu@SnmpPdu@@QAEXAAV1@@Z
 ?SetPdu@SnmpPdu@@QAEXPBEK@Z
-?SetPduCommunityName@SnmpEncodeDecode@@UAEHAAVSnmpPdu@@AAVSnmpCommunityBasedSecurity@@@Z
-?SetPduDestinationAddress@SnmpEncodeDecode@@UAEHAAVSnmpPdu@@AAVSnmpTransportAddress@@@Z
-?SetPduErrorReport@SnmpEncodeDecode@@UAEHAAVSnmpPdu@@AAVSnmpErrorReport@@@Z
-?SetPduPduType@SnmpEncodeDecode@@UAEHAAVSnmpPdu@@W4PduType@1@@Z
-?SetPduRequestId@SnmpEncodeDecode@@UAEHAAVSnmpPdu@@J@Z
-?SetPduSourceAddress@SnmpEncodeDecode@@UAEHAAVSnmpPdu@@AAVSnmpTransportAddress@@@Z
 ?SetPduType@SnmpEncodeDecode@@UAEHAAVSnmpPdu@@W4PduType@1@@Z
 ?SetPduType@SnmpPdu@@UAEHW4PduType@SnmpEncodeDecode@@@Z
-?SetPduVarBindList@SnmpEncodeDecode@@UAEHAAVSnmpPdu@@AAVSnmpVarBindList@@@Z
 ?SetPrevious@SnmpVarBindListNode@@QAEXPAV1@@Z
 ?SetRequestId@SnmpEncodeDecode@@UAEHAAVSnmpPdu@@J@Z
 ?SetRequestId@SnmpPdu@@UAEHJ@Z

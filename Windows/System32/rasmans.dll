@@ -1,5 +1,5 @@
 _RasmanEngine
 _RasmanInit
 ServiceMain
-ServiceRequest
+ServiceRequestInProcess
 SetEntryDialParams

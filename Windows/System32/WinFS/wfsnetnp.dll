@@ -1,0 +1,13 @@
+ConnectionAccept
+ConnectionClose
+ConnectionError
+ConnectionInitAsync
+ConnectionListen
+ConnectionObjectSize
+ConnectionPeek
+ConnectionRead
+ConnectionReadAsync
+ConnectionVer
+ConnectionWrite
+ConnectionWriteAsync
+ConnectionWriteStatus

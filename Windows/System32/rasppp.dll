@@ -9,6 +9,7 @@ PppDdmCallbackDone
 PppDdmChangeNotification
 PppDdmDeInit
 PppDdmInit
+PppDdmRemoveQuarantine
 PppDdmSendInterfaceInfo
 PppDdmStart
 PppDdmStop

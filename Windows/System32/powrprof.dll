@@ -1,6 +1,5 @@
 CallNtPowerInformation
 CanUserWritePwrScheme
-DebugPrintA
 DeletePwrScheme
 EnumPwrSchemes
 GetActivePwrScheme

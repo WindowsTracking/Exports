@@ -1,4 +1,3 @@
-AppWizard
 ConfigStartMenu
 CPlApplet
 DllCanUnloadNow
@@ -8,8 +7,4 @@ DllInstall
 DllRegisterServer
 DllUnregisterServer
 InstallOnTerminalServerWithUI
-NewLinkHere
-NewLinkHereA
-NewLinkHereW
-SingleMSDOSWizard
 WOW64Uninstall_RunDLLW

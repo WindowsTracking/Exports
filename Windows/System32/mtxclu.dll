@@ -41,6 +41,7 @@ MtxCluGetListOfSharedDisksOnVirtualServerW
 MtxCluGetListOfSharedDisksW
 MtxCluGetListOfVirtualServersA
 MtxCluGetListOfVirtualServersW
+MtxCluGetNewCryptoKey
 MtxCluGetNodeClusterStateW
 MtxCluGetSecurityRegValue
 MtxCluInitialize
@@ -73,6 +74,7 @@ MtxCluSetDTCLogPathW
 MtxCluSetDTCLogSizeA
 MtxCluSetDTCLogSizeW
 MtxCluSetDtcUserInfo
+MtxCluSetNewCryptoKey
 MtxCluSetSecurityRegValue
 MtxCluTakeOfflineDTC2W
 MtxCluTakeOfflineDTCA

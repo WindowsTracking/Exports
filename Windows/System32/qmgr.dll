@@ -1,2 +1,4 @@
 BITSServiceMain
+DllRegisterServer
+DllUnregisterServer
 ServiceMain

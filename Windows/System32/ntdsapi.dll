@@ -7,10 +7,15 @@ DsaopExecuteScript
 DsaopPrepareScript
 DsaopUnBind
 DsBindA
+DsBindingSetTimeout
+DsBindToISTGA
+DsBindToISTGW
 DsBindW
 DsBindWithCredA
 DsBindWithCredW
 DsBindWithSpnA
+DsBindWithSpnExA
+DsBindWithSpnExW
 DsBindWithSpnW
 DsClientMakeSpnForTargetServerA
 DsClientMakeSpnForTargetServerW
@@ -62,6 +67,9 @@ DsMakeSpnA
 DsMakeSpnW
 DsMapSchemaGuidsA
 DsMapSchemaGuidsW
+DsQuerySitesByCostA
+DsQuerySitesByCostW
+DsQuerySitesFree
 DsQuoteRdnValueA
 DsQuoteRdnValueW
 DsRemoveDsDomainA

@@ -1,4 +1,6 @@
+?AddLDMObjMapEntry@CDataCache@@QAEXPAU_LDM_OBJ_MAP_ENTRY@@@Z
 ?GetBottomViewStyle@CDMSnapin@@QAEHXZ
+?GetDiskCount@CDataCache@@QAEKXZ
 ?GetDiskScaling@CDMSnapin@@QAEHXZ
 ?GetFilterToggle@CDMSnapin@@QAEHXZ
 ?GetLdmObjectId@CDMNodeObj@@QAE_JXZ
@@ -9,6 +11,7 @@
 ?GetRegionScaling@CDMSnapin@@QAEHXZ
 ?GetServerName@CDataCache@@QAE?AVCString@@XZ
 ?GetTopViewStyle@CDMSnapin@@QAEHXZ
+?GetVolumeCount@CDataCache@@QAEKXZ
 ?GetWaitCursor@CDMSnapin@@QAEHXZ
 DllCanUnloadNow
 DllGetClassObject

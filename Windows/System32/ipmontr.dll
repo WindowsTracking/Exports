@@ -1,7 +1,5 @@
 InitHelperDll
-IpmontrCreateInterface
 IpmontrDeleteInfoBlockFromInterfaceInfo
-IpmontrDeleteInterface
 IpmontrDeleteProtocol
 IpmontrGetFriendlyNameFromIfIndex
 IpmontrGetFriendlyNameFromIfName

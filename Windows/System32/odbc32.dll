@@ -4,6 +4,11 @@ CursorLibLockDbc
 CursorLibLockDesc
 CursorLibLockStmt
 CursorLibTransact
+DllBidCtlProc
+DllBidEntryPoint
+DllBidPutStrA
+DllBidPutStrW
+DllBidSnap
 g_hHeapMalloc
 GetODBCSharedData
 LockHandle

@@ -1,5 +1,6 @@
 #1
 ClassInstall32
+IppOcEntry
 PSetupAssociateICMProfiles
 PSetupBuildDriversFromPath
 PSetupCreateDrvSetupPage
@@ -26,12 +27,10 @@ PSetupInstallPrinterDriver
 PSetupInstallPrinterDriverFromTheWeb
 PSetupIsCompatibleDriver
 PSetupIsDriverInstalled
-PSetupIsOemDriver
 PSetupIsTheDriverFoundInInfInstalled
 PSetupKillBadUserConnections
 PSetupPreSelectDriver
 PSetupProcessPrinterAdded
-PSetupRefreshDriverList
 PSetupSelectDeviceButtons
 PSetupSelectDriver
 PSetupSetSelectDevTitleAndInstructions

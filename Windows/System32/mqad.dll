@@ -2,6 +2,7 @@ MQADBeginDeleteNotification
 MQADCreateObject
 MQADDeleteObject
 MQADDeleteObjectGuid
+MQADDeleteObjectGuidSid
 MQADEndDeleteNotification
 MQADEndQuery
 MQADFreeMemory
@@ -15,7 +16,6 @@ MQADGetObjectSecurityGuid
 MQADInit
 MQADNotifyDelete
 MQADQMGetObjectSecurity
-MQADQMSetMachineProperties
 MQADQueryAllLinks
 MQADQueryAllSites
 MQADQueryConnectors
@@ -31,4 +31,3 @@ MQADSetObjectProperties
 MQADSetObjectPropertiesGuid
 MQADSetObjectSecurity
 MQADSetObjectSecurityGuid
-MQADSetupInit

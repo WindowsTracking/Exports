@@ -1,3 +1,4 @@
+DDMFreePhonebookContext
 DDMGetPhonebookInfo
 DwCloneEntry
 DwDeleteSubEntry
@@ -49,6 +50,7 @@ RasfileGetLineType
 RasfileGetSectionName
 RasfileInsertLine
 RasfileLoad
+RasfileLoadEx
 RasfileLoadInfo
 RasfilePutKeyValueFields
 RasfilePutLineMark

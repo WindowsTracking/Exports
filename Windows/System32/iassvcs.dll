@@ -7,10 +7,14 @@ IASAllocateUniqueID
 IASGetDictionary
 IASGetHostByName
 IASGetLocalDictionary
+IASGetProductLimits
+IASGlobalLock
+IASGlobalUnlock
 IASInitialize
 IASRadiusCrypt
 IASRegisterComponent
 IASReportEvent
+IASReportLicenseViolation
 IASRequestThread
 IASSetMaxNumberOfThreads
 IASSetMaxThreadIdle

@@ -24,6 +24,7 @@ AllocateAndGetTcpExTableFromStack
 AllocateAndGetTcpTableFromStack
 AllocateAndGetUdpExTableFromStack
 AllocateAndGetUdpTableFromStack
+CancelIPChangeNotify
 CreateIpForwardEntry
 CreateIpNetEntry
 CreateProxyArpEntry
@@ -42,11 +43,13 @@ GetAdapterOrderMap
 GetAdaptersAddresses
 GetAdaptersInfo
 GetBestInterface
+GetBestInterfaceEx
 GetBestInterfaceFromStack
 GetBestRoute
 GetBestRouteFromStack
 GetFriendlyIfIndex
 GetIcmpStatistics
+GetIcmpStatisticsEx
 GetIcmpStatsFromStack
 GetIcmpStatsFromStackEx
 GetIfEntry

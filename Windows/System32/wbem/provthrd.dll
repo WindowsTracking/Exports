@@ -1,3 +1,5 @@
+??$CompareElements@PAGPAG@@YGHPBQAG0@Z
+??$HashKey@PAG@@YGIPAG@Z
 ??0CBString@@QAE@H@Z
 ??0CBString@@QAE@PAG@Z
 ??0CBString@@QAE@XZ
@@ -551,7 +553,6 @@
 ?CloseOutput@ProvDebugLog@@AAEXXZ
 ?CommitContext@ProvDebugLog@@QAEXXZ
 ?Compare@ProvObjectIdentifier@@IBE?AW4Comparison@1@ABV1@0@Z
-?CompareElements@@YGHPBQAG0@Z
 ?ComparePropertyName@WmiRangeNode@@QAEJAAV1@@Z
 ?ComparePropertyName@WmiValueNode@@QAEJAAV1@@Z
 ?Complete@ProvAbstractTaskObject@@UAEXXZ
@@ -715,9 +716,6 @@
 ?GetLowerBound@ProvNegativeRangeType@@QAEJXZ
 ?GetLowerBound@ProvPositiveRangeType@@QAEKXZ
 ?GetLowValue@ProvCounter64@@QBEKXZ
-?GetNonIntersectingRange@WmiSignedIntegerRangeNode@@QAE?AW4WmiTriState@@AAV1@AAPAV1@11@Z
-?GetNonIntersectingRange@WmiStringRangeNode@@QAE?AW4WmiTriState@@AAV1@AAPAV1@11@Z
-?GetNonIntersectingRange@WmiUnsignedIntegerRangeNode@@QAE?AW4WmiTriState@@AAV1@AAPAV1@11@Z
 ?GetOverlappingRange@WmiSignedIntegerRangeNode@@QAE?AW4WmiTriState@@AAV1@AAPAV1@@Z
 ?GetOverlappingRange@WmiStringRangeNode@@QAE?AW4WmiTriState@@AAV1@AAPAV1@@Z
 ?GetOverlappingRange@WmiUnsignedIntegerRangeNode@@QAE?AW4WmiTriState@@AAV1@AAPAV1@@Z
@@ -813,7 +811,6 @@
 ?GetValueLength@ProvOctetStringType@@QBEKXZ
 ?GetValueLength@ProvOpaque@@QBEKXZ
 ?GetValueLength@ProvOpaqueType@@QBEKXZ
-?HashKey@@YGIPAG@Z
 ?HexCharToDecInteger@ProvAnalyser@@SGKD@Z
 ?HexWCharToDecInteger@ProvAnalyser@@SGKG@Z
 ?InfiniteLowerBound@WmiRangeNode@@QAEHXZ
@@ -946,17 +943,18 @@
 ?RemoveInvariants@QueryPreprocessor@@IAE?AW4QuadState@1@PAXAAPAVWmiTreeNode@@@Z
 ?RemoveNonOverlappingRanges@QueryPreprocessor@@IAE?AW4QuadState@1@AAPAVWmiTreeNode@@@Z
 ?RemoveOverlaps@QueryPreprocessor@@IAE?AW4WmiTriState@@PAKK00PAPAVWmiRangeNode@@@Z
+?RemoveThread@ProvThreadObject@@AAEHXZ
 ?Replicate@ProvObjectIdentifier@@MBEPAKPBKK0K@Z
 ?Replicate@ProvObjectIdentifier@@MBEPAKPBKK@Z
 ?Replicate@ProvOctetString@@MAEPAEPBEK@Z
 ?Root@PartitionSet@@QAEHXZ
 ?s_CriticalSection@ProvDebugLog@@2U_RTL_CRITICAL_SECTION@@A
 ?s_Initialised@ProvDebugLog@@0HA
-?s_Lock@ProvThreadObject@@0VCCriticalSection@@A
+?s_Lock@ProvThreadObject@@0VCStaticCriticalSection@@A
 ?s_ProvDebugLog@ProvDebugLog@@2PAV1@A
-?s_ReferenceCount@ProvDebugLog@@0JA
-?s_ReferenceCount@ProvThreadObject@@0JA
-?s_ThreadContainer@ProvThreadObject@@0V?$WmiRedBlackTree@KPAVProvThreadObject@@@@A
+?s_ReferenceCount@ProvDebugLog@@2JA
+?s_ReferenceCount@ProvThreadObject@@2JA
+?s_ThreadContainer@ProvThreadObject@@0V?$WmiBasicTree@KPAVProvThreadObject@@@@A
 ?ScheduleTask@ProvThreadObject@@QAEHAAVProvAbstractTaskObject@@@Z
 ?Set@ProvAnalyser@@QAEXPBG@Z
 ?Set@ProvEventObject@@QAEXXZ
@@ -1049,7 +1047,7 @@
 ?WaitAcknowledgementDispatch@ProvAbstractTaskObject@@AAEHPAVProvThreadObject@@PAXAAH@Z
 ?WaitDispatch@ProvAbstractTaskObject@@AAEHPAVProvThreadObject@@PAXAAH@Z
 ?WaitDispatch@ProvThreadObject@@AAEHKAAH@Z
-?WaitForStartup@ProvThreadObject@@QAEXXZ
+?WaitForStartup@ProvThreadObject@@QAEHXZ
 ?Write@ProvDebugLog@@QAAXPBGZZ
 ?WriteA@ProvDebugLog@@QAAXPBDZZ
 ?WriteFileAndLine@ProvDebugLog@@QAAXPBGK0ZZ

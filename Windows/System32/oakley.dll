@@ -3,6 +3,7 @@ IKECloseIKENegotiationHandle
 IKECloseIKENotifyHandle
 IKEDeleteAssociation
 IKEEnumMMs
+IKEGetConfigurationVariables
 IKEInit
 IKEInitiateIKENegotiation
 IKEInterfaceChange
@@ -11,4 +12,5 @@ IKEQueryIKENegotiationStatus
 IKEQuerySpiChange
 IKEQueryStatistics
 IKERegisterNotifyClient
+IKESetConfigurationVariables
 IKEShutdown

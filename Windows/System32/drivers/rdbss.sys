@@ -1,11 +1,10 @@
 __RxFillAndInstallFastIoDispatch
-__RxSynchronizeBlockingOperationsMaybeDroppingFcbLock
+__RxSynchronizeBlockingOperations
 _RxAllocatePoolWithTag
 _RxCheckMemoryBlock
 _RxFreePool
 RxAcquireExclusiveFcbResourceInMRx
 RxAcquireSharedFcbResourceInMRx
-RxAssert
 RxAssociateContextWithMid
 RxCancelTimerRequest
 RxCeAllocateIrpWithMDL
@@ -37,7 +36,6 @@ RxCreateRxContext
 RxCreateSrvCall
 RxCreateSrvOpen
 RxCreateVNetRoot
-RxDbgBreakPoint
 RxDereference
 RxDereferenceAndDeleteRxContext_Real
 RxDestroyMidAtlas
@@ -59,6 +57,7 @@ RxIndicateChangeOfBufferingState
 RxIndicateChangeOfBufferingStateForSrvOpen
 RxInferFileType
 RxInitializeContext
+RxIsThisACscAgentOpen
 RxLockEnumerator
 RxLogEventDirect
 RxLogEventWithAnnotation
@@ -69,6 +68,7 @@ RxMakeLateDeviceAvailable
 RxMapAndDissociateMidFromContext
 RxMapMidToContext
 RxMapSystemBuffer
+RxMapUserBuffer
 RxNameCacheActivateEntry
 RxNameCacheCheckEntry
 RxNameCacheCreateEntry
@@ -78,16 +78,12 @@ RxNameCacheFetchEntry
 RxNameCacheFinalize
 RxNameCacheFreeEntry
 RxNameCacheInitialize
-RxNewMapUserBuffer
-RxpAcquirePrefixTableLockExclusive
-RxpAcquirePrefixTableLockShared
 RxpDereferenceNetFcb
 RxPostOneShotTimerRequest
 RxPostRecurrentTimerRequest
 RxPostToWorkerThread
 RxpReferenceNetFcb
 RxPrefixTableLookupName
-RxpReleasePrefixTableLock
 RxPrepareContextForReuse
 RxPrepareToReparseSymbolicLink
 RxpTrackDereference

@@ -1,3 +1,5 @@
 DllCanUnloadNow
 DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
 GetNPPBlobs

@@ -9,6 +9,7 @@ WsxIcaStackIoControl
 WsxInitialize
 WsxInitializeClientData
 WsxLogonNotify
+WsxSendAutoReconnectStatus
 WsxSetErrorInfo
 WsxVirtualChannelSecurity
 WsxWinStationInitialize

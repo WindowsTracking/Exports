@@ -5,6 +5,8 @@ CsGetClassAccess
 CsGetClassStore
 CsGetClassStorePath
 CsRegisterAppCategory
+CsServerGetClassStore
+CsSetOptions
 CsUnregisterAppCategory
 GenerateGroupPolicy
 IID_IClassAdmin

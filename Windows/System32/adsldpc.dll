@@ -1,6 +1,7 @@
-??0CLexer@@QAE@PAG@Z
+??0CLexer@@QAE@XZ
 ??1CLexer@@QAE@XZ
 ?GetNextToken@CLexer@@QAEJPAGPAK@Z
+?InitializePath@CLexer@@QAEJPAG@Z
 ?SetAtDisabler@CLexer@@QAEXH@Z
 ?SetExclaimnationDisabler@CLexer@@QAEXH@Z
 ?SetFSlashDisabler@CLexer@@QAEXH@Z
@@ -59,6 +60,7 @@ ADsWriteClassDefinition
 AllocADsMem
 AllocADsStr
 BerBvFree
+BerEncodingQuotaControl
 BuildADsParentPath
 BuildADsParentPathFromObjectInfo
 BuildADsParentPathFromObjectInfo2

@@ -1,3 +1,9 @@
+??$ConstructElements@VCString@@@@YGXPAVCString@@H@Z
+??$CopyElements@VCString@@@@YGXPAVCString@@PBV0@H@Z
+??$DestructElements@VCString@@@@YGXPAVCString@@H@Z
+??$HashKey@ABU_GUID@@@@YGIABU_GUID@@@Z
+??$HashKey@PBD@@YGIPBD@Z
+??$HashKey@PBG@@YGIPBG@Z
 ??0CCriticalSection@@QAE@XZ
 ??0CMapStringToPtr@@QAE@H@Z
 ??0CObject@@IAE@XZ
@@ -81,13 +87,10 @@
 ?CompareNoCase@CString@@QBEHPBG@Z
 ?ConcatCopy@CString@@IAEXHPBGH0@Z
 ?ConcatInPlace@CString@@IAEXHPBG@Z
-?ConstructElements@@YGXPAVCString@@H@Z
 ?Copy@CStringArray@@QAEXABV1@@Z
 ?CopyBeforeWrite@CString@@IAEXXZ
-?CopyElements@@YGXPAVCString@@PBV1@H@Z
 ?Create@CPlex@@SGPAU1@AAPAU1@II@Z
 ?data@CPlex@@QAEPAXXZ
-?DestructElements@@YGXPAVCString@@H@Z
 ?ElementAt@CStringArray@@QAEAAVCString@@H@Z
 ?Empty@CString@@QAEXXZ
 ?Find@CString@@QBEHG@Z
@@ -118,9 +121,6 @@
 ?GetSize@CStringArray@@QBEHXZ
 ?GetStartPosition@CMapStringToPtr@@QBEPAU__POSITION@@XZ
 ?GetUpperBound@CStringArray@@QBEHXZ
-?HashKey@@YGIABU_GUID@@@Z
-?HashKey@@YGIPBD@Z
-?HashKey@@YGIPBG@Z
 ?HashKey@CMapStringToPtr@@QBEIPBG@Z
 ?Init@CString@@IAEXXZ
 ?InitHashTable@CMapStringToPtr@@QAEXIH@Z

@@ -1,6 +1,5 @@
 AddERExcludedApplicationA
 AddERExcludedApplicationW
-CreateMinidumpA
 CreateMinidumpW
 ReportEREvent
 ReportEREventDW
@@ -9,6 +8,4 @@ ReportFaultDWM
 ReportFaultFromQueue
 ReportFaultToQueue
 ReportHang
-ReportKernelFaultA
 ReportKernelFaultDWW
-ReportKernelFaultW

@@ -86,6 +86,7 @@ CmRegisterCallback
 CmUnRegisterCallback
 DbgBreakPoint
 DbgBreakPointWithStatus
+DbgCommandString
 DbgLoadImageSymbols
 DbgPrint
 DbgPrintEx
@@ -97,6 +98,7 @@ ExAcquireFastMutexUnsafe
 ExAcquireResourceExclusiveLite
 ExAcquireResourceSharedLite
 ExAcquireRundownProtection
+ExAcquireRundownProtectionEx
 ExAcquireSharedStarveExclusive
 ExAcquireSharedWaitForExclusive
 ExAllocateFromPagedLookasideList
@@ -115,6 +117,8 @@ ExDisableResourceBoostLite
 ExEnumHandleTable
 ExEventObjectType
 ExExtendZone
+ExfAcquirePushLockExclusive
+ExfAcquirePushLockShared
 Exfi386InterlockedDecrementLong
 Exfi386InterlockedExchangeUlong
 Exfi386InterlockedIncrementLong
@@ -128,6 +132,8 @@ ExfInterlockedRemoveHeadList
 ExFreePool
 ExFreePoolWithTag
 ExFreeToPagedLookasideList
+ExfReleasePushLock
+ExfUnblockPushLock
 ExGetCurrentProcessorCounts
 ExGetCurrentProcessorCpuUsage
 ExGetExclusiveWaiterCount
@@ -176,6 +182,7 @@ ExReleaseFastMutexUnsafe
 ExReleaseResourceForThreadLite
 ExReleaseResourceLite
 ExReleaseRundownProtection
+ExReleaseRundownProtectionEx
 ExRundownCompleted
 ExSemaphoreObjectType
 ExSetResourceOwnerPointer
@@ -188,6 +195,7 @@ ExVerifySuite
 ExWaitForRundownProtectionRelease
 ExWindowStationObjectType
 FsRtlAcquireFileExclusive
+FsRtlAddBaseMcbEntry
 FsRtlAddLargeMcbEntry
 FsRtlAddMcbEntry
 FsRtlAddToTunnelCache
@@ -220,6 +228,7 @@ FsRtlFastUnlockSingle
 FsRtlFindInTunnelCache
 FsRtlFreeFileLock
 FsRtlGetFileSize
+FsRtlGetNextBaseMcbEntry
 FsRtlGetNextFileLock
 FsRtlGetNextLargeMcbEntry
 FsRtlGetNextMcbEntry
@@ -227,6 +236,7 @@ FsRtlIncrementCcFastReadNotPossible
 FsRtlIncrementCcFastReadNoWait
 FsRtlIncrementCcFastReadResourceMiss
 FsRtlIncrementCcFastReadWait
+FsRtlInitializeBaseMcb
 FsRtlInitializeFileLock
 FsRtlInitializeLargeMcb
 FsRtlInitializeMcb
@@ -242,7 +252,10 @@ FsRtlIsNtstatusExpected
 FsRtlIsPagingFile
 FsRtlIsTotalDeviceFailure
 FsRtlLegalAnsiCharacterArray
+FsRtlLookupBaseMcbEntry
 FsRtlLookupLargeMcbEntry
+FsRtlLookupLastBaseMcbEntry
+FsRtlLookupLastBaseMcbEntryAndIndex
 FsRtlLookupLastLargeMcbEntry
 FsRtlLookupLastLargeMcbEntryAndIndex
 FsRtlLookupLastMcbEntry
@@ -266,6 +279,7 @@ FsRtlNotifyInitializeSync
 FsRtlNotifyReportChange
 FsRtlNotifyUninitializeSync
 FsRtlNotifyVolumeEvent
+FsRtlNumberOfRunsInBaseMcb
 FsRtlNumberOfRunsInLargeMcb
 FsRtlNumberOfRunsInMcb
 FsRtlOplockFsctrl
@@ -279,16 +293,21 @@ FsRtlProcessFileLock
 FsRtlRegisterFileSystemFilterCallbacks
 FsRtlRegisterUncProvider
 FsRtlReleaseFile
+FsRtlRemoveBaseMcbEntry
 FsRtlRemoveLargeMcbEntry
 FsRtlRemoveMcbEntry
 FsRtlRemovePerFileObjectContext
 FsRtlRemovePerStreamContext
+FsRtlResetBaseMcb
 FsRtlResetLargeMcb
+FsRtlSplitBaseMcb
 FsRtlSplitLargeMcb
 FsRtlSyncVolumes
 FsRtlTeardownPerStreamContexts
+FsRtlTruncateBaseMcb
 FsRtlTruncateLargeMcb
 FsRtlTruncateMcb
+FsRtlUninitializeBaseMcb
 FsRtlUninitializeFileLock
 FsRtlUninitializeLargeMcb
 FsRtlUninitializeMcb
@@ -364,7 +383,9 @@ IoCreateSymbolicLink
 IoCreateSynchronizationEvent
 IoCreateUnprotectedSymbolicLink
 IoCsqInitialize
+IoCsqInitializeEx
 IoCsqInsertIrp
+IoCsqInsertIrpEx
 IoCsqRemoveIrp
 IoCsqRemoveNextIrp
 IoDeleteController
@@ -408,6 +429,7 @@ IoGetDriverObjectExtension
 IoGetFileObjectGenericMapping
 IoGetInitialStack
 IoGetLowerDeviceObject
+IoGetPagingIoPriority
 IoGetRelatedDeviceObject
 IoGetRequestorProcess
 IoGetRequestorProcessId
@@ -491,6 +513,7 @@ IoUnregisterFsRegistrationChange
 IoUnregisterPlugPlayNotification
 IoUnregisterShutdownNotification
 IoUpdateShareAccess
+IoValidateDeviceIoControlAccess
 IoVerifyPartitionTable
 IoVerifyVolume
 IoVolumeDeviceToDosName
@@ -527,24 +550,29 @@ KdEnableDebugger
 KdEnteredDebugger
 KdPollBreakIn
 KdPowerTransition
+KdRefreshDebuggerNotPresent
 Ke386CallBios
 Ke386IoSetAccessProcess
 Ke386QueryIoAccessMap
 Ke386SetIoAccessMap
 KeAcquireInStackQueuedSpinLockAtDpcLevel
+KeAcquireInStackQueuedSpinLockForDpc
 KeAcquireInterruptSpinLock
 KeAcquireSpinLockAtDpcLevel
+KeAcquireSpinLockForDpc
 KeAddSystemServiceTable
 KeAreApcsDisabled
 KeAttachProcess
 KeBugCheck
 KeBugCheckEx
 KeCancelTimer
+KeCapturePersistentThreadState
 KeClearEvent
 KeConnectInterrupt
-KeDcacheFlushCount
 KeDelayExecutionThread
 KeDeregisterBugCheckCallback
+KeDeregisterBugCheckReasonCallback
+KeDeregisterNmiCallback
 KeDetachProcess
 KeDisconnectInterrupt
 KeEnterCriticalRegion
@@ -553,7 +581,9 @@ KefAcquireSpinLockAtDpcLevel
 KeFindConfigurationEntry
 KeFindConfigurationNextEntry
 KeFlushEntireTb
+KeFlushQueuedDpcs
 KefReleaseSpinLockFromDpcLevel
+KeGenericCallDpc
 KeGetCurrentThread
 KeGetPreviousMode
 KeGetRecommendedSharedDataAlignment
@@ -568,7 +598,6 @@ KeI386MachineType
 KeI386ReleaseGdtSelectors
 KeI386ReleaseLid
 KeI386SetGdtSelector
-KeIcacheFlushCount
 KeInitializeApc
 KeInitializeDeviceQueue
 KeInitializeDpc
@@ -579,6 +608,7 @@ KeInitializeMutex
 KeInitializeQueue
 KeInitializeSemaphore
 KeInitializeSpinLock
+KeInitializeThreadedDpc
 KeInitializeTimer
 KeInitializeTimerEx
 KeInsertByKeyDeviceQueue
@@ -587,6 +617,8 @@ KeInsertHeadQueue
 KeInsertQueue
 KeInsertQueueApc
 KeInsertQueueDpc
+KeInvalidateAllCaches
+KeIpiGenericCall
 KeIsAttachedProcess
 KeIsExecutingDpc
 KeLeaveCriticalRegion
@@ -610,11 +642,15 @@ KeReadStateQueue
 KeReadStateSemaphore
 KeReadStateTimer
 KeRegisterBugCheckCallback
+KeRegisterBugCheckReasonCallback
+KeRegisterNmiCallback
+KeReleaseInStackQueuedSpinLockForDpc
 KeReleaseInStackQueuedSpinLockFromDpcLevel
 KeReleaseInterruptSpinLock
 KeReleaseMutant
 KeReleaseMutex
 KeReleaseSemaphore
+KeReleaseSpinLockForDpc
 KeReleaseSpinLockFromDpcLevel
 KeRemoveByKeyDeviceQueue
 KeRemoveByKeyDeviceQueueIfBusy
@@ -645,10 +681,12 @@ KeSetTargetProcessorDpc
 KeSetTimeIncrement
 KeSetTimer
 KeSetTimerEx
-KeSetTimeUpdateNotifyRoutine
+KeSignalCallDpcDone
+KeSignalCallDpcSynchronize
 KeStackAttachProcess
 KeSynchronizeExecution
 KeTerminateThread
+KeTestSpinLock
 KeTickCount
 KeUnstackDetachProcess
 KeUpdateRunTime
@@ -659,6 +697,7 @@ KeWaitForMutexObject
 KeWaitForSingleObject
 KiAcquireSpinLock
 KiBugCheckData
+KiCheckForKernelApcDelivery
 KiCoprocessorError
 KiDeliverApc
 KiDispatchInterrupt
@@ -698,7 +737,9 @@ MmAllocateNonCachedMemory
 MmAllocatePagesForMdl
 MmBuildMdlForNonPagedPool
 MmCanFileBeTruncated
+MmCommitSessionMappedView
 MmCreateMdl
+MmCreateMirror
 MmCreateSection
 MmDisableModifiedWriteOfSection
 MmFlushImageSection
@@ -716,6 +757,7 @@ MmGrowKernelStack
 MmHighestUserAddress
 MmIsAddressValid
 MmIsDriverVerifying
+MmIsIoSpaceActive
 MmIsNonPagedSystemAddressValid
 MmIsRecursiveIoFault
 MmIsThisAnNtAsSystem
@@ -833,6 +875,7 @@ ObCheckObjectAccess
 ObCloseHandle
 ObCreateObject
 ObCreateObjectType
+ObDeleteCapturedInsertInfo
 ObDereferenceObject
 ObDereferenceSecurityDescriptor
 ObfDereferenceObject
@@ -885,6 +928,7 @@ PsDereferenceImpersonationToken
 PsDereferencePrimaryToken
 PsDisableImpersonation
 PsEstablishWin32Callouts
+PsGetContextThread
 PsGetCurrentProcess
 PsGetCurrentProcessId
 PsGetCurrentProcessSessionId
@@ -942,6 +986,7 @@ PsReturnProcessNonPagedPoolQuota
 PsReturnProcessPagedPoolQuota
 PsRevertThreadToSelf
 PsRevertToSelf
+PsSetContextThread
 PsSetCreateProcessNotifyRoutine
 PsSetCreateThreadNotifyRoutine
 PsSetJobUIRestrictionsClass
@@ -966,6 +1011,7 @@ READ_REGISTER_ULONG
 READ_REGISTER_USHORT
 RtlAbsoluteToSelfRelativeSD
 RtlAddAccessAllowedAce
+RtlAddAccessAllowedAceEx
 RtlAddAce
 RtlAddAtomToAtomTable
 RtlAddRange
@@ -1077,6 +1123,7 @@ RtlGetFirstRange
 RtlGetGroupSecurityDescriptor
 RtlGetNextRange
 RtlGetNtGlobalFlags
+RtlGetOSProductName
 RtlGetOwnerSecurityDescriptor
 RtlGetSaclSecurityDescriptor
 RtlGetSetBootStatusData
@@ -1086,6 +1133,7 @@ RtlHashUnicodeString
 RtlImageDirectoryEntryToData
 RtlImageNtHeader
 RtlInitAnsiString
+RtlInitAnsiStringEx
 RtlInitCodePageTable
 RtlInitializeBitMap
 RtlInitializeGenericTable
@@ -1095,6 +1143,7 @@ RtlInitializeSid
 RtlInitializeUnicodePrefix
 RtlInitString
 RtlInitUnicodeString
+RtlInitUnicodeStringEx
 RtlInsertElementGenericTable
 RtlInsertElementGenericTableAvl
 RtlInsertElementGenericTableFull
@@ -1106,12 +1155,20 @@ RtlIntegerToUnicode
 RtlIntegerToUnicodeString
 RtlInvertRangeList
 RtlIpv4AddressToStringA
+RtlIpv4AddressToStringExA
+RtlIpv4AddressToStringExW
 RtlIpv4AddressToStringW
 RtlIpv4StringToAddressA
+RtlIpv4StringToAddressExA
+RtlIpv4StringToAddressExW
 RtlIpv4StringToAddressW
 RtlIpv6AddressToStringA
+RtlIpv6AddressToStringExA
+RtlIpv6AddressToStringExW
 RtlIpv6AddressToStringW
 RtlIpv6StringToAddressA
+RtlIpv6StringToAddressExA
+RtlIpv6StringToAddressExW
 RtlIpv6StringToAddressW
 RtlIsGenericTableEmpty
 RtlIsGenericTableEmptyAvl
@@ -1242,8 +1299,10 @@ SeAssignSecurity
 SeAssignSecurityEx
 SeAuditHardLinkCreation
 SeAuditingFileEvents
+SeAuditingFileEventsWithContext
 SeAuditingFileOrGlobalEvents
 SeAuditingHardLinkEvents
+SeAuditingHardLinkEventsWithContext
 SeCaptureSecurityDescriptor
 SeCaptureSubjectContext
 SeCloseObjectAuditAlarm
@@ -1331,6 +1390,7 @@ WmiQueryTrace
 WmiQueryTraceInformation
 WmiStartTrace
 WmiStopTrace
+WmiTraceFastEvent
 WmiTraceMessage
 WmiTraceMessageVa
 WmiUpdateTrace
@@ -1343,6 +1403,7 @@ WRITE_REGISTER_USHORT
 XIPDispatch
 ZwAccessCheckAndAuditAlarm
 ZwAddBootEntry
+ZwAddDriverEntry
 ZwAdjustPrivilegesToken
 ZwAlertThread
 ZwAllocateVirtualMemory
@@ -1362,6 +1423,7 @@ ZwCreateSection
 ZwCreateSymbolicLinkObject
 ZwCreateTimer
 ZwDeleteBootEntry
+ZwDeleteDriverEntry
 ZwDeleteFile
 ZwDeleteKey
 ZwDeleteValueKey
@@ -1370,6 +1432,7 @@ ZwDisplayString
 ZwDuplicateObject
 ZwDuplicateToken
 ZwEnumerateBootEntries
+ZwEnumerateDriverEntries
 ZwEnumerateKey
 ZwEnumerateValueKey
 ZwFlushInstructionCache
@@ -1383,6 +1446,8 @@ ZwLoadDriver
 ZwLoadKey
 ZwMakeTemporaryObject
 ZwMapViewOfSection
+ZwModifyBootEntry
+ZwModifyDriverEntry
 ZwNotifyChangeKey
 ZwOpenDirectoryObject
 ZwOpenEvent
@@ -1406,6 +1471,7 @@ ZwQueryDefaultLocale
 ZwQueryDefaultUILanguage
 ZwQueryDirectoryFile
 ZwQueryDirectoryObject
+ZwQueryDriverEntryOrder
 ZwQueryEaFile
 ZwQueryFullAttributesFile
 ZwQueryInformationFile
@@ -1433,6 +1499,7 @@ ZwSetBootEntryOrder
 ZwSetBootOptions
 ZwSetDefaultLocale
 ZwSetDefaultUILanguage
+ZwSetDriverEntryOrder
 ZwSetEaFile
 ZwSetEvent
 ZwSetInformationFile

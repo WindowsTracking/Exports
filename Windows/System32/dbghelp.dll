@@ -2,6 +2,7 @@ dbghelp
 DbgHelpCreateUserDump
 DbgHelpCreateUserDumpW
 dh
+EnumDirTree
 EnumerateLoadedModules
 EnumerateLoadedModules64
 ExtensionApiVersion
@@ -28,10 +29,13 @@ MiniDumpWriteDump
 omap
 SearchTreeForFile
 srcfiles
+stackdbg
 StackWalk
 StackWalk64
 sym
+SymAddSymbol
 SymCleanup
+SymDeleteSymbol
 SymEnumerateModules
 SymEnumerateModules64
 SymEnumerateSymbols
@@ -41,6 +45,7 @@ SymEnumerateSymbolsW64
 SymEnumSourceFiles
 SymEnumSym
 SymEnumSymbols
+SymEnumSymbolsForAddr
 SymEnumTypes
 SymFindFileInPath
 SymFromAddr
@@ -64,6 +69,7 @@ SymGetModuleInfoW
 SymGetModuleInfoW64
 SymGetOptions
 SymGetSearchPath
+SymGetSourceFile
 SymGetSymFromAddr
 SymGetSymFromAddr64
 SymGetSymFromName
@@ -86,8 +92,8 @@ SymRegisterFunctionEntryCallback
 SymRegisterFunctionEntryCallback64
 SymSetContext
 SymSetOptions
+SymSetParentWindow
 SymSetSearchPath
-SymSetSymWithAddr64
 SymUnDName
 SymUnDName64
 SymUnloadModule

@@ -11,6 +11,7 @@ CryptRetrieveObjectByUrlW
 CryptUninstallCancelRetrieval
 DllRegisterServer
 DllUnregisterServer
+I_CryptNetEnumUrlCacheEntry
 I_CryptNetGetHostNameFromUrl
 I_CryptNetGetUserDsStoreUrl
 I_CryptNetIsConnected

@@ -7,7 +7,6 @@ AsrpGetLocalDiskInfo
 AsrpGetLocalVolumeInfo
 AsrpRestoreNonCriticalDisksW
 AsrRestorePlugPlayRegistryData
-CdromPropPageProvider
 ComputerClassInstaller
 CreateLocalAdminAccount
 CreateLocalAdminAccountEx
@@ -18,7 +17,6 @@ DevInstallW
 DiskPropPageProvider
 DoInstallComponentInfs
 EisaUpHalCoInstaller
-EisaUpHalPropPageProvider
 GenerateName
 HdcClassInstaller
 InitializeSetupLog
@@ -29,6 +27,7 @@ LegacyDriverPropPageProvider
 MigrateExceptionPackages
 MouseClassInstaller
 NtApmClassInstaller
+OpkCheckVersion
 PnPInitializationThread
 PrepareForAudit
 PS2MousePropPageProvider
@@ -49,6 +48,7 @@ SetupDestroyPhoneList
 SetupEnumerateRegisteredOsComponents
 SetupExtendPartition
 SetupGetGeoOptions
+SetupGetInstallMode
 SetupGetKeyboardOptions
 SetupGetLocaleOptions
 SetupGetProductType
@@ -76,6 +76,7 @@ SetupShellSettings
 SetupStartService
 SetupUnRegisterOsComponent
 StorageCoInstaller
+SystemUpdateUserProfileDirectory
 TapeClassInstaller
 TapePropPageProvider
 TerminateSetupLog

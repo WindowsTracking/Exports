@@ -20,6 +20,7 @@ RasSrvEnumConnections
 RasSrvHangupConnection
 RasSrvInitializeService
 RasSrvIsConnectionConnected
+RasSrvIsICConfigured
 RasSrvIsServiceRunning
 RasSrvQueryShowIcon
 RasUserEnableManualDial

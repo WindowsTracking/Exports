@@ -1,5 +1,3 @@
-?DepGetTmWhereabouts@@YGJKPAEPAK@Z
-?RTXactGetDTC@@YGJPAPAUIUnknown@@@Z
 DepBeginTransaction
 DepCloseCursor
 DepCloseQueue
@@ -32,9 +30,10 @@ DepPathNameToFormatName
 DepPurgeQueue
 DepReceiveMessage
 DepRegisterCertificate
+DepRegisterServer
 DepRegisterUserCert
 DepRemoveUserCert
 DepSendMessage
 DepSetQueueProperties
 DepSetQueueSecurity
-DllRegisterServer
+DepXactGetDTC

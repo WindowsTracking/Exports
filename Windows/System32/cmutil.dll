@@ -94,6 +94,8 @@ CmAtolA
 CmAtolW
 CmBuildFullPathFromRelativeA
 CmBuildFullPathFromRelativeW
+CmCompareStringA
+CmCompareStringW
 CmConvertRelativePathA
 CmConvertRelativePathW
 CmEndOfStrA

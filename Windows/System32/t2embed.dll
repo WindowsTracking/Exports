@@ -17,9 +17,11 @@ TTEmbedFontFromFileA
 TTEnableEmbeddingForFacename
 TTGetEmbeddedFontInfo
 TTGetEmbeddingType
+TTGetFontStrikes
 TTGetNewFontName
 TTIsEmbeddingEnabled
 TTIsEmbeddingEnabledForFacename
 TTLoadEmbeddedFont
 TTRunValidationTests
 TTRunValidationTestsEx
+TTStringToGlyphs

@@ -14,7 +14,6 @@ DhcpNotifyConfigChange
 DhcpNotifyConfigChangeEx
 DhcpOpenGlobalEvent
 DhcpPersistentRequestParams
-DhcpQueryHWInfo
 DhcpRegisterOptions
 DhcpRegisterParamChange
 DhcpReleaseIpAddressLease

@@ -27,5 +27,3 @@ DsSetAuthIdentityA
 DsSetAuthIdentityW
 DsSetCurrentBackupLogA
 DsSetCurrentBackupLogW
-I_DsCheckBackupLogs
-I_DsRestoreW

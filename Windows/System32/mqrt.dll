@@ -37,7 +37,9 @@ RTDeleteInternalCert
 RTGetInternalCert
 RTGetUserCerts
 RTIsDependentClient
+RTLogOnRegisterCert
 RTOpenInternalCertStore
 RTRegisterUserCert
 RTRemoveUserCert
+RTRemoveUserCertSid
 RTXactGetDTC

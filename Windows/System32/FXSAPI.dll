@@ -6,6 +6,7 @@ FaxAddOutboundGroupW
 FaxAddOutboundRuleA
 FaxAddOutboundRuleW
 FaxAnswerCall
+FaxCheckValidFaxFolder
 FaxClose
 FaxCompleteJobParamsA
 FaxCompleteJobParamsW
@@ -74,6 +75,7 @@ FaxGetReceiptsConfigurationW
 FaxGetReceiptsOptions
 FaxGetRecipientInfoA
 FaxGetRecipientInfoW
+FaxGetRecipientsLimit
 FaxGetReportedServerAPIVersion
 FaxGetRoutingInfoA
 FaxGetRoutingInfoW
@@ -83,6 +85,7 @@ FaxGetSenderInfoA
 FaxGetSenderInformation
 FaxGetSenderInfoW
 FaxGetServerActivity
+FaxGetServerSKU
 FaxGetServicePrintersA
 FaxGetServicePrintersW
 FaxGetVersion
@@ -95,7 +98,6 @@ FaxRegisterForServerEvents
 FaxRegisterRoutingExtensionW
 FaxRegisterServiceProviderExA
 FaxRegisterServiceProviderExW
-FaxRegisterServiceProviderW
 FaxRelease
 FaxRemoveMessage
 FaxRemoveOutboundGroupA

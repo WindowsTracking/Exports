@@ -4,6 +4,7 @@ AutoDialFunc
 CmCustomDialDlg
 CmCustomHangUp
 CmReConnect
+GetCustomProperty
 InetDialHandler
 RasCustomDeleteEntryNotify
 RasCustomDial

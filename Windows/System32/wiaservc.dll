@@ -10,11 +10,9 @@
 ?QuerySize@BUFFER@@QBEIXZ
 ?QueryUsed@BUFFER_CHAIN_ITEM@@QBEKXZ
 ?SetUsed@BUFFER_CHAIN_ITEM@@QAEXK@Z
-DllEntryPoint
 DllRegisterServer
 DllUnregisterServer
 ServiceMain
-SvchostPushServiceGlobals
 wiasCreateChildAppItem
 wiasCreateDrvItem
 wiasCreateLogInstance

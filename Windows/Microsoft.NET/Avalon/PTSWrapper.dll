@@ -1,0 +1,4 @@
+CreateDocContext
+DestroyDocContext
+GetFloaterHandlerInfo
+GetTableObjHandlerInfo

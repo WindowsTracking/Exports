@@ -33,6 +33,7 @@ DsRoleGetDatabaseFacts
 DsRoleGetDcOperationProgress
 DsRoleGetDcOperationResults
 DsRoleGetPrimaryDomainInformation
+DsRoleIfmHandleFree
 DsRoleServerSaveStateForUpgrade
 DsRoleUpgradeDownlevelServer
 DsValidateSubnetNameA
@@ -309,6 +310,8 @@ NetUserModalsSet
 NetUserSetGroups
 NetUserSetInfo
 NetValidateName
+NetValidatePasswordPolicy
+NetValidatePasswordPolicyFree
 NetWkstaGetInfo
 NetWkstaSetInfo
 NetWkstaTransportAdd

@@ -29,6 +29,7 @@
 #230
 #231
 #232
+#240
 AbortPrinter
 AddFormA
 AddFormW
@@ -152,6 +153,8 @@ GetPrinterW
 GetPrintProcessorDirectoryA
 GetPrintProcessorDirectoryW
 GetSpoolFileHandle
+IsValidDevmodeA
+IsValidDevmodeW
 OpenPrinterA
 OpenPrinterW
 PerfClose

@@ -1,4 +1,4 @@
-HalftoneUI_DLLInit
+DllMain
 HTUI_ColorAdjustment
 HTUI_ColorAdjustmentA
 HTUI_ColorAdjustmentW

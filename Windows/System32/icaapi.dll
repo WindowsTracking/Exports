@@ -23,6 +23,7 @@ IcaStackCreateShadowEndpoint
 IcaStackDisconnect
 IcaStackIoControl
 IcaStackOpen
+IcaStackQueryLocalAddress
 IcaStackQueryState
 IcaStackReconnect
 IcaStackTerminate

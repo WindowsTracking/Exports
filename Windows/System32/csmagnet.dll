@@ -1,0 +1,10 @@
+CastleDeviceCreate
+CastleDeviceFree
+CastleDeviceStart
+CastleDeviceStop
+CastleFinderCreate
+CastleFinderFree
+CastleFinderStart
+CastleFinderStop
+CastleMonitorRun
+CastleSetupRunWizard

@@ -1,4 +1,3 @@
-serverTrapThread
 SnmpMgrClose
 SnmpMgrCtl
 SnmpMgrGetTrap

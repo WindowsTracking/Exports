@@ -54,6 +54,7 @@ $I10_OUTPUT
 ?unexpected@@YAXXZ
 ?what@exception@@UBEPBDXZ
 ___lc_codepage_func
+___lc_collate_cp_func
 ___lc_handle_func
 ___mb_cur_max_func
 ___setlc_active_func
@@ -68,9 +69,11 @@ __crtGetStringTypeW
 __crtLCMapStringA
 __crtLCMapStringW
 __CxxCallUnwindDtor
+__CxxCallUnwindVecDtor
 __CxxDetectRethrow
 __CxxExceptionFilter
 __CxxFrameHandler
+__CxxFrameHandler2
 __CxxLongjmpUnwind
 __CxxQueryExceptionSize
 __CxxRegisterExceptionObject
@@ -121,6 +124,7 @@ __p__winver
 __p__wpgmptr
 __pctype_func
 __pioinfo
+__pwctype_func
 __pxcptinfoptrs
 __RTCastToVoid
 __RTDynamicCast
@@ -141,6 +145,7 @@ __wcserror
 __wgetmainargs
 __winitenv
 _abnormal_termination
+_abs64
 _access
 _acmdln
 _adj_fdiv_m16i
@@ -277,6 +282,7 @@ _fullpath
 _futime
 _futime64
 _gcvt
+_get_heap_handle
 _get_osfhandle
 _get_sbh_threshold
 _getch
@@ -427,6 +433,8 @@ _mbsupr
 _memccpy
 _memicmp
 _mkdir
+_mkgmtime
+_mkgmtime64
 _mktemp
 _mktime64
 _msize
@@ -456,7 +464,9 @@ _resetstkoflw
 _rmdir
 _rmtmp
 _rotl
+_rotl64
 _rotr
+_rotr64
 _safe_fdiv
 _safe_fdivr
 _safe_fprem
@@ -563,6 +573,7 @@ _wcstoui64
 _wcsupr
 _wctime
 _wctime64
+_wctype
 _wenviron
 _wexecl
 _wexecle

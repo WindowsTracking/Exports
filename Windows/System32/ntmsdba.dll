@@ -41,7 +41,7 @@
 ??0NtmsDbObject@@QAE@K@Z
 ??0NtmsDbObject@@QAE@PAVNtmsDbDataCtxt@@KABVNtmsDbGuid@@@Z
 ??0NtmsDbObject@@QAE@XZ
-??0NtmsDbObjTypeDef@@QAE@PAD0KKPAVNtmsDbRecordType@@PAVNtmsPropInfo@@@Z
+??0NtmsDbObjTypeDef@@QAE@PAD0KKPAVNtmsDbRecordType@@@Z
 ??0NtmsDbOpRequest@@QAE@PAVNtmsDbDataCtxt@@ABVNtmsDbGuid@@@Z
 ??0NtmsDbOpRequest@@QAE@XZ
 ??0NtmsDbPartition@@QAE@PAVNtmsDbDataCtxt@@ABVNtmsDbGuid@@@Z
@@ -225,7 +225,6 @@
 ??4NtmsDbTypeGuid@@QAEAAV0@ABU_GUID@@@Z
 ??4NtmsDbTypeGuid@@QAEAAV0@ABV0@@Z
 ??4NtmsDbUIDestination@@QAEAAV0@ABV0@@Z
-??4NtmsPropInfo@@QAEAAV0@ABV0@@Z
 ??4NtmsPropMetaInfo@@QAEAAV0@ABV0@@Z
 ??4NtmsTransaction@@QAEAAV0@ABV0@@Z
 ??5NtmsDbList@@QAEXAAPAVNtmsDbListItem@@@Z
@@ -365,7 +364,6 @@
 ?BuildPropertyList@NtmsDbPhysicalMedia@@AAEXXZ
 ?BuildPropertyList@NtmsDbStorageSlot@@AAEXXZ
 ?BuildPropertyList@NtmsDbUIDestination@@AAEXXZ
-?BumpActivityCounter@NtmsDbDataCtxt@@SGXXZ
 ?Capacity@NtmsDbPartition@@QAEAAT_LARGE_INTEGER@@XZ
 ?Changers@NtmsDbLibrary@@QAEKPAVNtmsDbDataCtxt@@AAVNtmsDbSelectionSet@@@Z
 ?ChangerType@NtmsDbChanger@@QBEABVNtmsDbGuid@@XZ
@@ -388,16 +386,6 @@
 ?ConcatString@NtmsDbString@@IAEXPBD@Z
 ?Connect@NtmsDbDataCtxt@@QAEKPBG0@Z
 ?ConvertMBString@NtmsDbString@@IAEXPBGKAAPADAAI@Z
-?ConvertToString@NtmsDbPropBinary@@QBEXPAD@Z
-?ConvertToString@NtmsDbPropChar@@QBEXPAD@Z
-?ConvertToString@NtmsDbPropDouble@@QBEXPAD@Z
-?ConvertToString@NtmsDbPropGuid@@QBEXPAD@Z
-?ConvertToString@NtmsDbPropLargeInt@@QBEXPAD@Z
-?ConvertToString@NtmsDbPropLong@@QBEXPAD@Z
-?ConvertToString@NtmsDbPropRelation@@QBEXPAD@Z
-?ConvertToString@NtmsDbPropShort@@QBEXPAD@Z
-?ConvertToString@NtmsDbPropTimeDate@@QBEXPAD@Z
-?ConvertToString@NtmsDbRecordProp@@QBEXPAD@Z
 ?CopyData@NtmsDbRecordProp@@QAEXPAXJ@Z
 ?Count@NtmsDbList@@QBEJXZ
 ?Count@NtmsDbObject@@QBEJXZ
@@ -440,6 +428,7 @@
 ?Description_n@NtmsDbObject@@QAEPBDXZ
 ?DescriptionW@NtmsDbObject@@QAEPBGXZ
 ?DescriptionW@NtmsDbObject@@QBEPBGXZ
+?DestroyMutex@NtmsDbDataCtxt@@SGXXZ
 ?Destruct@NtmsDbList@@UAEXPAVNtmsDbListItem@@@Z
 ?DeviceType@NtmsDbChangerType@@QBE?BKXZ
 ?DeviceType@NtmsDbMediaType@@QBE?BKXZ
@@ -466,7 +455,6 @@
 ?ExplicitRemoveRelation@NtmsDbObject@@QAEKJABVNtmsDbGuid@@@Z
 ?ExportDatabase@NtmsDbDataCtxt@@QAEKXZ
 ?ExtendState@NtmsDbIEPort@@QBE?BKXZ
-?ExtensionPrivateData@NtmsDbDataCtxt@@QAEPAXXZ
 ?Fetch@NtmsDbObject@@UAEKPAVNtmsDbDataCtxt@@@Z
 ?FileEnd@NtmsDatabase@@AAEKXZ
 ?Filename@NtmsDbFile@@QAEPAGXZ
@@ -652,6 +640,7 @@
 ?InitDefaults@NtmsDbStorageSlot@@AAEXXZ
 ?InitDefaults@NtmsDbUIDestination@@AAEXXZ
 ?InitializeObject@NtmsDbObject@@MAEKK@Z
+?InitMutex@NtmsDbDataCtxt@@SGHXZ
 ?Insert@NtmsDbObject@@UAEKPAVNtmsDbDataCtxt@@@Z
 ?InstanceNameW@NtmsDbChanger@@QBEPBGXZ
 ?InstanceNameW@NtmsDbDrive@@QBEPBGXZ
@@ -664,6 +653,7 @@
 ?IsNew@NtmsDbRecordKey@@QAEHXZ
 ?IsNull@NtmsDbRecordProp@@QBEHXZ
 ?IsSuccess@NtmsDbError@@QBEHXZ
+?IsValid@NtmsDatabase@@QAEHXZ
 ?IsValid@NtmsDbDataCtxt@@QBEHXZ
 ?IsValid@NtmsDbObject@@QBEHXZ
 ?IsValid@NtmsDbRecordKey@@QAEHXZ
@@ -707,7 +697,6 @@
 ?Logicalmedia_IsNotNull@NtmsDbPartition@@QBEJXZ
 ?Logicalmedia_n@NtmsDbPartition@@QBEABVNtmsDbGuid@@XZ
 ?LogicalPoolMember@NtmsDbMediaPool@@QAEKPAVNtmsDbDataCtxt@@AAVNtmsDbSelectionSet@@@Z
-?m_activity_counter@NtmsDbDataCtxt@@0PAKA
 ?m_ChangeMutex@NtmsDbDataCtxt@@0PAXA
 ?m_ChangeTable@NtmsDbDataCtxt@@2PAVChangeRegistration@@A
 ?m_locked@NtmsDbDataCtxt@@0HA
@@ -745,7 +734,6 @@
 ?MediaTypes@NtmsDbLibrary@@QAEKPAVNtmsDbDataCtxt@@AAVNtmsDbSelectionSet@@@Z
 ?Message@NtmsDbOpRequest@@QBEPBGXZ
 ?messageString@NtmsDbError@@QBEPBDXZ
-?MinimizeResources@NtmsDbDataCtxt@@QAEKXZ
 ?ModifyTs@NtmsDbObject@@QBE?AU_SYSTEMTIME@@XZ
 ?ModifyValueToNull@NtmsDbObject@@MAEXJ@Z
 ?MountCount@NtmsDbPartition@@QBE?BKXZ
@@ -852,7 +840,6 @@
 ?PropCode@NtmsDbPropHeader@@QBEFXZ
 ?PropertySpace@NtmsDbRecordPropList@@QAEKXZ
 ?PropertyType@NtmsDbRecordPropList@@QAEABVNtmsDbPropDataType@@XZ
-?PropInfo@NtmsDbObjTypeDef@@QBEPAVNtmsPropInfo@@XZ
 ?Protected@NtmsDbLibWorkItem@@QAEHXZ
 ?Put@Map@NtmsDbList@@QAEJJAAVNtmsDbListItem@@@Z
 ?Quantity@NtmsDbRecordPropList@@QBEHXZ
@@ -878,7 +865,6 @@
 ?Reset@NtmsDbList@@QAEXXZ
 ?Reset@NtmsDbRecordPropList@@QAEXXZ
 ?Reset@NtmsDbSelectionSet@@UAEXXZ
-?RetryNeeded@NtmsDbDataCtxt@@QAEHAAVNtmsDbError@@@Z
 ?Revision@NtmsDbChanger@@QAEPBDXZ
 ?Revision@NtmsDbDrive@@QAEPBDXZ
 ?RevisionW@NtmsDbChanger@@QBEPBGXZ
@@ -910,7 +896,6 @@
 ?SerialNumberW@NtmsDbChanger@@QBEPBGXZ
 ?SerialNumberW@NtmsDbDrive@@QBEPBGXZ
 ?Set@Map@NtmsDbList@@QAEXJPAVNtmsDbListItem@@@Z
-?SetActivityCounter@NtmsDbDataCtxt@@SGXPAK@Z
 ?SetAdminControlSecurity@NtmsDbObject@@QAEKXZ
 ?SetAllocateCount@NtmsDbPartition@@QAEKK@Z
 ?SetAllocationPolicy@NtmsDbMediaPool@@QAEKK@Z

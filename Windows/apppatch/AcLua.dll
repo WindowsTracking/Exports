@@ -21,7 +21,6 @@ LuaDeleteFileW
 LuaFSInit
 LuaGetFileAttributesW
 LuaGetPrivateProfileIntW
-LuaGetPrivateProfileSectionNamesW
 LuaGetPrivateProfileSectionW
 LuaGetPrivateProfileStringW
 LuaGetPrivateProfileStructW
@@ -34,6 +33,7 @@ LuaRegDeleteKeyW
 LuaRegEnumKeyExW
 LuaRegEnumKeyW
 LuaRegEnumValueW
+LuaRegInit
 LuaRegOpenKeyExW
 LuaRegOpenKeyW
 LuaRegQueryValueExW
