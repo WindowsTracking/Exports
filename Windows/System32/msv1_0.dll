@@ -1,7 +1,9 @@
 LsaApCallPackage
+LsaApCallPackageUntrusted
 LsaApInitializePackage
 LsaApLogonTerminated
-LsaApLogonUser
+LsaApLogonUserEx
 LsaApMsInitialize
+MsvGetLogonAttemptCount
 MsvSamLogoff
 MsvSamValidate

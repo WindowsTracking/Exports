@@ -1,3 +1,5 @@
 BaseSetProcessCreateNotify
 BaseSrvDestroyGlobalAtomTable
+BaseSrvNlsLogon
+BaseSrvNlsUpdateRegistryCache
 ServerDllInitialization

@@ -1,6 +1,8 @@
 SamAddMemberToAlias
 SamAddMemberToGroup
+SamAddMultipleMembersToAlias
 SamChangePasswordUser
+SamChangePasswordUser2
 SamCloseHandle
 SamConnect
 SamCreateAliasInDomain
@@ -21,7 +23,10 @@ SamGetGroupsForUser
 SamGetMembersInAlias
 SamGetMembersInGroup
 SamiChangePasswordUser
+SamiChangePasswordUser2
+SamiEncryptPasswords
 SamiLmChangePasswordUser
+SamiOemChangePasswordUser2
 SamLookupDomainInSamServer
 SamLookupIdsInDomain
 SamLookupNamesInDomain
@@ -38,6 +43,7 @@ SamQuerySecurityObject
 SamRemoveMemberFromAlias
 SamRemoveMemberFromForeignDomain
 SamRemoveMemberFromGroup
+SamRemoveMultipleMembersFromAlias
 SamSetInformationAlias
 SamSetInformationDomain
 SamSetInformationGroup

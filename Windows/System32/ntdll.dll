@@ -109,15 +109,12 @@ __eFXTRACT
 __eFYL2X
 __eFYL2XP1
 __eGetStatusWord
-_abnormal_termination
+_alloca_probe
 _chkstk
 _CIpow
-_except_handler2
 _fltused
 _ftol
-_global_unwind2
 _itoa
-_local_unwind2
 _ltoa
 _memccpy
 _memicmp
@@ -180,10 +177,12 @@ iswalpha
 iswctype
 isxdigit
 KiUserApcDispatcher
+KiUserCallbackDispatcher
 KiUserExceptionDispatcher
 labs
 LdrAccessResource
 LdrDisableThreadCalloutsForDll
+LdrEnumResources
 LdrFindEntryForAddress
 LdrFindResource_U
 LdrFindResourceDirectory_U
@@ -216,7 +215,9 @@ NtAdjustPrivilegesToken
 NtAlertResumeThread
 NtAlertThread
 NtAllocateLocallyUniqueId
+NtAllocateUuids
 NtAllocateVirtualMemory
+NtCallbackReturn
 NtCancelIoFile
 NtCancelTimer
 NtClearEvent
@@ -253,6 +254,7 @@ NtDeviceIoControlFile
 NtDisplayString
 NtDuplicateObject
 NtDuplicateToken
+NtEnumerateBus
 NtEnumerateKey
 NtEnumerateValueKey
 NtExtendSection
@@ -264,6 +266,7 @@ NtFlushWriteBuffer
 NtFreeVirtualMemory
 NtFsControlFile
 NtGetContextThread
+NtGetPlugPlayEvent
 NtGetTickCount
 NtImpersonateClientOfPort
 NtImpersonateThread
@@ -293,6 +296,7 @@ NtOpenSymbolicLinkObject
 NtOpenThread
 NtOpenThreadToken
 NtOpenTimer
+NtPlugPlayControl
 NtPrivilegeCheck
 NtPrivilegedServiceAuditAlarm
 NtPrivilegeObjectAuditAlarm
@@ -332,6 +336,7 @@ NtRaiseHardError
 NtReadFile
 NtReadRequestData
 NtReadVirtualMemory
+NtRegisterNewDevice
 NtRegisterThreadTerminatePort
 NtReleaseMutant
 NtReleaseProcessMutant
@@ -362,6 +367,7 @@ NtSetInformationProcess
 NtSetInformationThread
 NtSetInformationToken
 NtSetIntervalProfile
+NtSetIoCompletion
 NtSetLdtEntries
 NtSetLowEventPair
 NtSetLowWaitHighEventPair
@@ -369,6 +375,7 @@ NtSetLowWaitHighThread
 NtSetSecurityObject
 NtSetSystemEnvironmentValue
 NtSetSystemInformation
+NtSetSystemPowerState
 NtSetSystemTime
 NtSetTimer
 NtSetTimerResolution
@@ -388,6 +395,7 @@ NtUnlockFile
 NtUnlockVirtualMemory
 NtUnmapViewOfSection
 NtVdmControl
+NtW32Call
 NtWaitForMultipleObjects
 NtWaitForProcessMutant
 NtWaitForSingleObject
@@ -461,8 +469,10 @@ RtlCreateAndSetSD
 RtlCreateEnvironment
 RtlCreateHeap
 RtlCreateProcessParameters
+RtlCreateQueryDebugBuffer
 RtlCreateRegistryKey
 RtlCreateSecurityDescriptor
+RtlCreateTagHeap
 RtlCreateUnicodeString
 RtlCreateUnicodeStringFromAsciiz
 RtlCreateUserProcess
@@ -483,6 +493,7 @@ RtlDeNormalizeProcessParams
 RtlDestroyEnvironment
 RtlDestroyHeap
 RtlDestroyProcessParameters
+RtlDestroyQueryDebugBuffer
 RtlDetermineDosPathNameType_U
 RtlDoesFileExists_U
 RtlDosPathNameToNtPathName_U
@@ -494,6 +505,7 @@ RtlEnlargedUnsignedMultiply
 RtlEnterCriticalSection
 RtlEnumerateGenericTable
 RtlEnumerateGenericTableWithoutSplaying
+RtlEnumProcessHeaps
 RtlEqualComputerName
 RtlEqualDomainName
 RtlEqualLuid
@@ -506,6 +518,7 @@ RtlExpandEnvironmentStrings_U
 RtlExtendedIntegerMultiply
 RtlExtendedLargeIntegerDivide
 RtlExtendedMagicDivide
+RtlExtendHeap
 RtlFillMemory
 RtlFillMemoryUlong
 RtlFindClearBits
@@ -537,9 +550,9 @@ RtlGetLongestNtPathLength
 RtlGetNtGlobalFlags
 RtlGetNtProductType
 RtlGetOwnerSecurityDescriptor
+RtlGetProcessHeaps
 RtlGetSaclSecurityDescriptor
-RtlGetUserFlagsHeap
-RtlGetUserValueHeap
+RtlGetUserInfoHeap
 RtlIdentifierAuthoritySid
 RtlImageDirectoryEntryToData
 RtlImageNtHeader
@@ -553,7 +566,6 @@ RtlInitializeGenericTable
 RtlInitializeResource
 RtlInitializeRXact
 RtlInitializeSid
-RtlInitializeStackTraceDataBase
 RtlInitNlsTables
 RtlInitString
 RtlInitUnicodeString
@@ -562,6 +574,7 @@ RtlIntegerToChar
 RtlIntegerToUnicodeString
 RtlIsDosDeviceName_U
 RtlIsGenericTableEmpty
+RtlIsNameLegalDOS8Dot3
 RtlIsTextUnicode
 RtlLargeIntegerAdd
 RtlLargeIntegerArithmeticShift
@@ -577,10 +590,7 @@ RtlLengthSecurityDescriptor
 RtlLengthSid
 RtlLocalTimeToSystemTime
 RtlLockHeap
-RtlLogStackBackTrace
 RtlLookupElementGenericTable
-RtlLookupSymbolByAddress
-RtlLookupSymbolByName
 RtlMakeSelfRelativeSD
 RtlMapGenericMask
 RtlMoveMemory
@@ -608,16 +618,18 @@ RtlpNtQueryValueKey
 RtlpNtSetValueKey
 RtlPrefixString
 RtlPrefixUnicodeString
+RtlProtectHeap
 RtlpUnWaitCriticalSection
 RtlpWaitForCriticalSection
 RtlQueryEnvironmentVariable_U
 RtlQueryInformationAcl
-RtlQueryModuleInformation
 RtlQueryProcessBackTraceInformation
+RtlQueryProcessDebugInformation
 RtlQueryProcessHeapInformation
 RtlQueryProcessLockInformation
 RtlQueryRegistryValues
 RtlQuerySecurityObject
+RtlQueryTagHeap
 RtlQueryTimeZoneInformation
 RtlRaiseException
 RtlRaiseStatus
@@ -649,7 +661,6 @@ RtlSetTimeZoneInformation
 RtlSetUserFlagsHeap
 RtlSetUserValueHeap
 RtlSizeHeap
-RtlSnapShotHeap
 RtlSplay
 RtlStartRXact
 RtlSubAuthorityCountSid
@@ -685,8 +696,10 @@ RtlUpcaseUnicodeToMultiByteN
 RtlUpcaseUnicodeToOemN
 RtlUpperChar
 RtlUpperString
+RtlUsageHeap
 RtlValidAcl
 RtlValidateHeap
+RtlValidateProcessHeaps
 RtlValidSecurityDescriptor
 RtlValidSid
 RtlWalkHeap
@@ -747,7 +760,9 @@ ZwAdjustPrivilegesToken
 ZwAlertResumeThread
 ZwAlertThread
 ZwAllocateLocallyUniqueId
+ZwAllocateUuids
 ZwAllocateVirtualMemory
+ZwCallbackReturn
 ZwCancelIoFile
 ZwCancelTimer
 ZwClearEvent
@@ -783,6 +798,7 @@ ZwDeviceIoControlFile
 ZwDisplayString
 ZwDuplicateObject
 ZwDuplicateToken
+ZwEnumerateBus
 ZwEnumerateKey
 ZwEnumerateValueKey
 ZwExtendSection
@@ -794,6 +810,7 @@ ZwFlushWriteBuffer
 ZwFreeVirtualMemory
 ZwFsControlFile
 ZwGetContextThread
+ZwGetPlugPlayEvent
 ZwGetTickCount
 ZwImpersonateClientOfPort
 ZwImpersonateThread
@@ -823,6 +840,7 @@ ZwOpenSymbolicLinkObject
 ZwOpenThread
 ZwOpenThreadToken
 ZwOpenTimer
+ZwPlugPlayControl
 ZwPrivilegeCheck
 ZwPrivilegedServiceAuditAlarm
 ZwPrivilegeObjectAuditAlarm
@@ -862,6 +880,7 @@ ZwRaiseHardError
 ZwReadFile
 ZwReadRequestData
 ZwReadVirtualMemory
+ZwRegisterNewDevice
 ZwRegisterThreadTerminatePort
 ZwReleaseMutant
 ZwReleaseProcessMutant
@@ -892,6 +911,7 @@ ZwSetInformationProcess
 ZwSetInformationThread
 ZwSetInformationToken
 ZwSetIntervalProfile
+ZwSetIoCompletion
 ZwSetLdtEntries
 ZwSetLowEventPair
 ZwSetLowWaitHighEventPair
@@ -899,6 +919,7 @@ ZwSetLowWaitHighThread
 ZwSetSecurityObject
 ZwSetSystemEnvironmentValue
 ZwSetSystemInformation
+ZwSetSystemPowerState
 ZwSetSystemTime
 ZwSetTimer
 ZwSetTimerResolution
@@ -918,6 +939,7 @@ ZwUnlockFile
 ZwUnlockVirtualMemory
 ZwUnmapViewOfSection
 ZwVdmControl
+ZwW32Call
 ZwWaitForMultipleObjects
 ZwWaitForProcessMutant
 ZwWaitForSingleObject

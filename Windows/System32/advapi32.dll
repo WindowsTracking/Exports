@@ -24,6 +24,8 @@ CloseServiceHandle
 ControlService
 CopySid
 CreatePrivateObjectSecurity
+CreateProcessAsUserA
+CreateProcessAsUserW
 CreateServiceA
 CreateServiceW
 DeleteAce
@@ -86,6 +88,7 @@ GetUserNameA
 GetUserNameW
 I_ScSetServiceBitsA
 I_ScSetServiceBitsW
+ImpersonateLoggedOnUser
 ImpersonateNamedPipeClient
 ImpersonateSelf
 InitializeAcl
@@ -98,6 +101,8 @@ IsValidAcl
 IsValidSecurityDescriptor
 IsValidSid
 LockServiceDatabase
+LogonUserA
+LogonUserW
 LookupAccountNameA
 LookupAccountNameW
 LookupAccountSidA
@@ -108,6 +113,7 @@ LookupPrivilegeNameA
 LookupPrivilegeNameW
 LookupPrivilegeValueA
 LookupPrivilegeValueW
+LsaAddAccountRights
 LsaAddPrivilegesToAccount
 LsaClearAuditLog
 LsaClose
@@ -115,7 +121,10 @@ LsaCreateAccount
 LsaCreateSecret
 LsaCreateTrustedDomain
 LsaDelete
+LsaDeleteTrustedDomain
+LsaEnumerateAccountRights
 LsaEnumerateAccounts
+LsaEnumerateAccountsWithUserRight
 LsaEnumeratePrivileges
 LsaEnumeratePrivilegesOfAccount
 LsaEnumerateTrustedDomains
@@ -129,6 +138,7 @@ LsaLookupPrivilegeDisplayName
 LsaLookupPrivilegeName
 LsaLookupPrivilegeValue
 LsaLookupSids
+LsaNtStatusToWinError
 LsaOpenAccount
 LsaOpenPolicy
 LsaOpenSecret
@@ -137,13 +147,18 @@ LsaQueryInformationPolicy
 LsaQueryInfoTrustedDomain
 LsaQuerySecret
 LsaQuerySecurityObject
+LsaQueryTrustedDomainInfo
+LsaRemoveAccountRights
 LsaRemovePrivilegesFromAccount
+LsaRetrievePrivateData
 LsaSetInformationPolicy
 LsaSetInformationTrustedDomain
 LsaSetQuotasForAccount
 LsaSetSecret
 LsaSetSecurityObject
 LsaSetSystemAccessAccount
+LsaSetTrustedDomainInformation
+LsaStorePrivateData
 MakeAbsoluteSD
 MakeSelfRelativeSD
 MapGenericMask
@@ -209,6 +224,8 @@ RegOpenKeyExW
 RegOpenKeyW
 RegQueryInfoKeyA
 RegQueryInfoKeyW
+RegQueryMultipleValuesA
+RegQueryMultipleValuesW
 RegQueryValueA
 RegQueryValueExA
 RegQueryValueExW

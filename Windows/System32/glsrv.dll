@@ -1,0 +1,13 @@
+glsrvAttention
+glsrvCleanupWndobj
+glsrvCopyDriverInfo
+glsrvCreateContext
+glsrvDeleteContext
+glsrvDuplicateSection
+glsrvLoseCurrent
+glsrvMakeCurrent
+glsrvMsgStats
+glsrvSetPixelFormat
+glsrvShareLists
+glsrvSwapBuffers
+glsrvThreadExit

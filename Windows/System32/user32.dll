@@ -20,6 +20,8 @@ CallWindowProcW
 CascadeChildWindows
 CascadeWindows
 ChangeClipboardChain
+ChangeDisplaySettingsA
+ChangeDisplaySettingsW
 ChangeMenuA
 ChangeMenuW
 CharLowerA
@@ -28,11 +30,9 @@ CharLowerBuffW
 CharLowerW
 CharNextA
 CharNextExA
-CharNextExW
 CharNextW
 CharPrevA
 CharPrevExA
-CharPrevExW
 CharPrevW
 CharToOemA
 CharToOemBuffA
@@ -179,10 +179,11 @@ EnumChildWindows
 EnumClipboardFormats
 EnumDesktopsA
 EnumDesktopsW
-EnumDisplayDeviceModesA
-EnumDisplayDeviceModesW
+EnumDesktopWindows
 EnumDisplayDevicesA
 EnumDisplayDevicesW
+EnumDisplaySettingsA
+EnumDisplaySettingsW
 EnumPropsA
 EnumPropsExA
 EnumPropsExW
@@ -258,7 +259,6 @@ GetMenu
 GetMenuCheckMarkDimensions
 GetMenuContextHelpId
 GetMenuDefaultItem
-GetMenuIndex
 GetMenuItemCount
 GetMenuItemID
 GetMenuItemInfoA
@@ -306,6 +306,7 @@ GetWindowLongA
 GetWindowLongW
 GetWindowPlacement
 GetWindowRect
+GetWindowRgn
 GetWindowTextA
 GetWindowTextLengthA
 GetWindowTextLengthW
@@ -382,6 +383,7 @@ LookupIconIdFromDirectoryEx
 MapDialogRect
 MapVirtualKeyA
 MapVirtualKeyExA
+MapVirtualKeyExW
 MapVirtualKeyW
 MapWindowPoints
 MBToWCSEx
@@ -417,7 +419,6 @@ PackDDElParam
 PaintDesktop
 PeekMessageA
 PeekMessageW
-PlaySoundEvent
 PostMessageA
 PostMessageW
 PostQuitMessage
@@ -434,6 +435,7 @@ RegisterClipboardFormatA
 RegisterClipboardFormatW
 RegisterHotKey
 RegisterLogonProcess
+RegisterServicesProcess
 RegisterSystemThread
 RegisterTasklist
 RegisterWindowMessageA
@@ -444,7 +446,6 @@ RemoveMenu
 RemovePropA
 RemovePropW
 ReplyMessage
-ResetDisplay
 ReuseDDElParam
 ScreenToClient
 ScrollChildren
@@ -505,7 +506,6 @@ SetScrollPos
 SetScrollRange
 SetShellWindow
 SetSysColors
-SetSysColorsTemp
 SetSystemCursor
 SetSystemMenu
 SetSystemTimer
@@ -520,6 +520,7 @@ SetWindowLongA
 SetWindowLongW
 SetWindowPlacement
 SetWindowPos
+SetWindowRgn
 SetWindowsHookA
 SetWindowsHookExA
 SetWindowsHookExW
@@ -548,12 +549,12 @@ TileWindows
 ToAscii
 ToAsciiEx
 ToUnicode
+ToUnicodeEx
 TrackPopupMenu
 TrackPopupMenuEx
 TranslateAccelerator
 TranslateAcceleratorA
 TranslateAcceleratorW
-TranslateCharsetInfo
 TranslateMDISysAccel
 TranslateMessage
 UnhookWindowsHook

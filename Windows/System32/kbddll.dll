@@ -1,0 +1,3 @@
+InitKbdHook
+KbdGetMsgProc
+LibMain

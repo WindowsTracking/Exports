@@ -309,6 +309,10 @@ wglCreateContext
 wglDeleteContext
 wglGetCurrentContext
 wglGetCurrentDC
+wglGetProcAddress
 wglMakeCurrent
+wglShareLists
 wglUseFontBitmapsA
 wglUseFontBitmapsW
+wglUseFontOutlinesA
+wglUseFontOutlinesW

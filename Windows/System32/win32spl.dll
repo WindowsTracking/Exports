@@ -1,2 +1,14 @@
+AddPortExW
+AddPortW
+ClosePort
+ConfigurePortW
+DeletePortW
+EndDocPort
+EnumPortsW
+InitializeMonitor
 InitializePrintProvidor
 LibMain
+OpenPort
+ReadPort
+StartDocPort
+WritePort

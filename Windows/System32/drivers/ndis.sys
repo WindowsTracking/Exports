@@ -99,7 +99,10 @@ NdisMIndicateStatus
 NdisMIndicateStatusComplete
 NdisMInitializeTimer
 NdisMMapIoSpace
+NdisMPciAssignResources
+NdisMQueryAdapterResources
 NdisMQueryInformationComplete
+NdisMReadDmaCounter
 NdisMRegisterAdapterShutdownHandler
 NdisMRegisterDmaChannel
 NdisMRegisterInterrupt
@@ -120,8 +123,10 @@ NdisMWanSendComplete
 NdisOpenAdapter
 NdisOpenConfiguration
 NdisOpenFile
+NdisOverrideBusNumber
 NdisPciAssignResources
 NdisQueryBuffer
+NdisQueryBufferOffset
 NdisReadBindingInformation
 NdisReadConfiguration
 NdisReadEisaSlotInformation

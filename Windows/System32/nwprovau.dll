@@ -20,8 +20,10 @@ NwAddGWDevice
 NwCleanupGatewayShares
 NwClearGatewayShare
 NwDeleteGWDevice
+NwEncryptChallenge
 NwEnumConnections
 NwEnumGWDevices
+NwGetUserNameForServer
 NwLogonGatewayAccount
 NwQueryGatewayAccount
 NwQueryInfo

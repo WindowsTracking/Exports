@@ -25,6 +25,7 @@ SampInitializeRegistry
 SampRtlConvertUlongToUnicodeString
 SamrAddMemberToAlias
 SamrAddMemberToGroup
+SamrAddMultipleMembersToAlias
 SamrChangePasswordUser
 SamrCloseHandle
 SamrConnect
@@ -59,6 +60,7 @@ SamrQuerySecurityObject
 SamrRemoveMemberFromAlias
 SamrRemoveMemberFromForeignDomain
 SamrRemoveMemberFromGroup
+SamrRemoveMultipleMembersFromAlias
 SamrSetInformationAlias
 SamrSetInformationDomain
 SamrSetInformationGroup

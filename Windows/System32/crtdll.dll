@@ -162,6 +162,7 @@ _ismbslead
 _ismbstrail
 _isnan
 _itoa
+_itow
 _j0
 _j1
 _jn
@@ -176,6 +177,7 @@ _lrotr
 _lsearch
 _lseek
 _ltoa
+_ltow
 _makepath
 _matherr
 _mbbtombc
@@ -306,6 +308,7 @@ _toupper
 _tzname
 _tzset
 _ultoa
+_ultow
 _umask
 _ungetch
 _unlink

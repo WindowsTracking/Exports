@@ -1,6 +1,8 @@
 AcceptSecurityContext
 AcquireCredentialsHandleA
 AcquireCredentialsHandleW
+ApplyControlToken
+CompleteAuthToken
 DeleteSecurityContext
 EnumerateSecurityPackagesA
 EnumerateSecurityPackagesW
@@ -15,5 +17,9 @@ MakeSignature
 NtLmSspControl
 QueryContextAttributesA
 QueryContextAttributesW
+QuerySecurityPackageInfoA
+QuerySecurityPackageInfoW
 RevertSecurityContext
+SealMessage
+UnsealMessage
 VerifySignature

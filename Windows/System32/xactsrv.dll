@@ -110,4 +110,5 @@ XsNetWkstaSetInfo
 XsNetWkstaSetUID
 XsNetWkstaUserLogoff
 XsNetWkstaUserLogon
+XsSamOEMChangePasswordUser2_P
 XsSetParameters

@@ -1,6 +1,7 @@
 NcDetectCloseHandle
 NcDetectCreateHandle
 NcDetectFirstNext
+NcDetectFreeTemporaryResource
 NcDetectIdentify
 NcDetectOpenHandle
 NcDetectParamRange
@@ -8,4 +9,5 @@ NcDetectQueryCfg
 NcDetectQueryMask
 NcDetectQueryParameterName
 NcDetectResourceClaim
+NcDetectTemporaryClaimResource
 NcDetectVerifyCfg

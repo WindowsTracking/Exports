@@ -1,3 +1,4 @@
+LsaIAuditNotifyPackageLoad
 LsaIAuditSamEvent
 LsaIEnumerateSecrets
 LsaIFree_LSAI_PRIVATE_DATA
@@ -18,6 +19,7 @@ LsaIFree_LSAPR_UNICODE_STRING
 LsaIGetPrivateData
 LsaIGetSerialNumberPolicy
 LsaIGetSerialNumberPolicy2
+LsaIHealthCheck
 LsaIInitializeWellKnownSids
 LsaIOpenPolicyTrusted
 LsaIQueryInformationPolicyTrusted

@@ -1,0 +1,12 @@
+WlxActivateUserShell
+WlxDisplayLockedNotice
+WlxDisplaySASNotice
+WlxInitialize
+WlxIsLockOk
+WlxIsLogoffOk
+WlxLoggedOnSAS
+WlxLoggedOutSAS
+WlxLogoff
+WlxNegotiate
+WlxShutdown
+WlxWkstaLockedSAS

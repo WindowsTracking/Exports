@@ -35,8 +35,10 @@ acmMessage32
 acmMetrics
 acmStreamClose
 acmStreamConvert
+acmStreamMessage
 acmStreamOpen
 acmStreamPrepareHeader
 acmStreamReset
 acmStreamSize
 acmStreamUnprepareHeader
+XRegThunkEntry

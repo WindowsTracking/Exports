@@ -5,6 +5,7 @@ I_BrowserQueryStatistics
 I_BrowserResetNetlogonState
 I_BrowserResetStatistics
 I_BrowserServerEnum
+I_BrowserSetNetlogonState
 I_NetAccountDeltas
 I_NetAccountSync
 I_NetDatabaseDeltas
@@ -55,6 +56,7 @@ NetFileEnum
 NetFileGetInfo
 NetGetAnyDCName
 NetGetDCName
+NetGetDisplayInformationIndex
 NetGroupAdd
 NetGroupAddUser
 NetGroupDel
@@ -66,8 +68,10 @@ NetGroupSetInfo
 NetGroupSetUsers
 NetLocalGroupAdd
 NetLocalGroupAddMember
+NetLocalGroupAddMembers
 NetLocalGroupDel
 NetLocalGroupDelMember
+NetLocalGroupDelMembers
 NetLocalGroupEnum
 NetLocalGroupGetInfo
 NetLocalGroupGetMembers
@@ -131,6 +135,7 @@ NetpwNameValidate
 NetpwPathCanonicalize
 NetpwPathCompare
 NetpwPathType
+NetQueryDisplayInformation
 NetRemoteComputerSupports
 NetRemoteTOD
 NetReplExportDirAdd
@@ -209,6 +214,7 @@ NetUseDel
 NetUseEnum
 NetUseGetInfo
 NetUserAdd
+NetUserChangePassword
 NetUserDel
 NetUserEnum
 NetUserGetGroups

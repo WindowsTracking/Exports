@@ -6,6 +6,8 @@ VerFindFileA
 VerFindFileW
 VerInstallFileA
 VerInstallFileW
+VerLanguageNameA
+VerLanguageNameW
 VerQueryValueA
 VerQueryValueIndexA
 VerQueryValueIndexW

@@ -50,6 +50,7 @@ SetServiceW
 setsockopt
 shutdown
 socket
+TransmitFile
 WEP
 WSAAsyncGetHostByAddr
 WSAAsyncGetHostByName

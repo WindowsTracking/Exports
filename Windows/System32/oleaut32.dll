@@ -5,6 +5,7 @@ CreateTypeLib
 DispGetIDsOfNames
 DispGetParam
 DispInvoke
+DllCanUnloadNow
 DllGetClassObject
 DosDateTimeToVariantTime
 GetActiveObject

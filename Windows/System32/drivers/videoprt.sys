@@ -10,6 +10,7 @@ VideoPortGetRegistryParameters
 VideoPortInitialize
 VideoPortInt10
 VideoPortLogError
+VideoPortMapBankedMemory
 VideoPortMapMemory
 VideoPortMoveMemory
 VideoPortReadPortBufferUchar

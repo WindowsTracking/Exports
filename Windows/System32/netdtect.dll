@@ -5,6 +5,7 @@ DetectFreeTemporaryResources
 DetectInitialInit
 DetectQueryInterruptTrap
 DetectReadMappedMemory
+DetectReadPciSlotInformation
 DetectReadPortUchar
 DetectReadPortUlong
 DetectReadPortUshort
@@ -12,6 +13,7 @@ DetectRemoveInterruptTrap
 DetectSetInterruptTrap
 DetectTemporaryClaimResource
 DetectWriteMappedMemory
+DetectWritePciSlotInformation
 DetectWritePortUchar
 DetectWritePortUlong
 DetectWritePortUshort

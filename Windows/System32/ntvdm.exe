@@ -11,6 +11,7 @@ DispatchInterrupts
 ExpLdt
 ExpVdmTib
 FlatAddress
+fSeparateWow
 getAF
 getAH
 getAL
@@ -62,9 +63,9 @@ host_ExitThread
 host_simulate
 MGetVdmPointer
 pDeviceChain
-pfSeparateWow
 RegisterWOWIdle
 ResumeTimerThread
+SelectorLimit
 setAF
 setAH
 setAL

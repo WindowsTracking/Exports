@@ -1,6 +1,10 @@
+RasCreatePhonebookEntryA
+RasCreatePhonebookEntryW
 RasDialA
 RasDialW
 RasDialWow
+RasEditPhonebookEntryA
+RasEditPhonebookEntryW
 RasEnumConnectionsA
 RasEnumConnectionsW
 RasEnumConnectionsWow
@@ -11,6 +15,8 @@ RasGetConnectResponse
 RasGetConnectStatusA
 RasGetConnectStatusW
 RasGetConnectStatusWow
+RasGetEntryDialParamsA
+RasGetEntryDialParamsW
 RasGetErrorStringA
 RasGetErrorStringW
 RasGetErrorStringWow
@@ -20,3 +26,6 @@ RasGetProjectionInfoW
 RasHangUpA
 RasHangUpW
 RasHangUpWow
+RasSetEntryDialParamsA
+RasSetEntryDialParamsW
+RasSetOldPassword

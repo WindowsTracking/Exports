@@ -22,7 +22,7 @@ DeleteNetConnection
 DeleteUserProfile
 DelFile
 Delnode
-DLLInit
+dll_main
 DoesDirExist
 DoesFileExist
 DosPathToArcPath
@@ -30,7 +30,9 @@ DosPathToNtPath
 EnablePrivilege
 ExpandSz
 FindFileInstances
+FpuCheck
 GenerateSortedIndexList
+GetAnsiCodepage
 GetCountry
 GetCrashDumpSize
 GetDevicemapValue
@@ -49,6 +51,7 @@ GetInstalledOSNames
 GetKeyboardLayout
 GetLanguage
 GetLoadedEnvVar
+GetMCABusInformation
 GetMemorySize
 GetMyBusType
 GetMyBusTypeList
@@ -62,6 +65,8 @@ GetNtBootInfo
 GetNtDir
 GetNtDrive
 GetNVRAMVar
+GetOemCodepage
+GetPciInformation
 GetPhysicalHardDiskSizes
 GetPlatform
 GetPrinterDriverDir

@@ -3,10 +3,10 @@ AddPortW
 ClosePort
 ConfigurePortW
 DeletePortW
+DllEntryPoint
 EndDocPort
 EnumPortsW
 InitializeMonitor
-LibMain
 OpenPort
 ReadPort
 StartDocPort

@@ -16,6 +16,8 @@ gluEndTrim
 gluErrorString
 gluErrorUnicodeStringEXT
 gluGetNurbsProperty
+gluGetString
+gluGetTessProperty
 gluLoadSamplingMatrices
 gluLookAt
 gluNewNurbsRenderer
@@ -39,6 +41,12 @@ gluQuadricOrientation
 gluQuadricTexture
 gluScaleImage
 gluSphere
+gluTessBeginContour
+gluTessBeginPolygon
 gluTessCallback
+gluTessEndContour
+gluTessEndPolygon
+gluTessNormal
+gluTessProperty
 gluTessVertex
 gluUnProject

@@ -25,6 +25,9 @@ I_RpcBindingInqDynamicEndpoint
 I_RpcBindingInqTransportType
 I_RpcBindingIsClientLocal
 I_RpcClearMutex
+I_RpcConnectionInqSockBuffSize
+I_RpcConnectionInqSockBuffSize2
+I_RpcConnectionSetSockBuffSize
 I_RpcDeleteMutex
 I_RpcFree
 I_RpcFreeBuffer
@@ -123,9 +126,12 @@ NdrConformantVaryingStructUnmarshall
 NdrContextHandleSize
 NdrConvert
 NDRcopy
+NdrCStdStubBuffer2_Release
 NdrCStdStubBuffer_Release
 NdrDllCanUnloadNow
 NdrDllGetClassObject
+NdrDllRegisterProxy
+NdrDllUnregisterProxy
 NdrEncapsulatedUnionBufferSize
 NdrEncapsulatedUnionFree
 NdrEncapsulatedUnionMarshall
@@ -144,6 +150,11 @@ NdrFullPointerQueryRefId
 NdrFullPointerXlatFree
 NdrFullPointerXlatInit
 NdrGetBuffer
+NdrHardStructBufferSize
+NdrHardStructFree
+NdrHardStructMarshall
+NdrHardStructMemorySize
+NdrHardStructUnmarshall
 NdrInterfacePointerBufferSize
 NdrInterfacePointerFree
 NdrInterfacePointerMarshall
@@ -207,6 +218,7 @@ NdrSimpleStructUnmarshall
 NdrSimpleTypeMarshall
 NdrSimpleTypeUnmarshall
 NdrStubCall
+NdrStubForwardingFunction
 NdrStubGetBuffer
 NdrStubInitialize
 NdrStubInitializeMarshall
@@ -281,6 +293,8 @@ RpcProtseqVectorFreeW
 RpcRaiseException
 RpcRevertToSelf
 RpcServerInqBindings
+RpcServerInqDefaultPrincNameA
+RpcServerInqDefaultPrincNameW
 RpcServerInqIf
 RpcServerListen
 RpcServerRegisterAuthInfoA

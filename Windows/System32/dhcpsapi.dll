@@ -15,10 +15,12 @@ DhcpGetMibInfo
 DhcpGetOptionInfo
 DhcpGetOptionValue
 DhcpGetSubnetInfo
+DhcpGetVersion
 DhcpRemoveOption
 DhcpRemoveOptionValue
 DhcpRemoveSubnetElement
 DhcpRpcFreeMemory
+DhcpScanDatabase
 DhcpServerGetConfig
 DhcpServerSetConfig
 DhcpSetClientInfo

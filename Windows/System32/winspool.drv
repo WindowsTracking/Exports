@@ -1,3 +1,4 @@
+#100
 AbortPrinter
 AddFormA
 AddFormW
@@ -51,6 +52,7 @@ DeviceCapabilitiesW
 DEVICEMODE
 DeviceMode
 DevQueryPrint
+DocumentEvent
 DocumentPropertiesA
 DocumentPropertiesW
 EndDocPrinter
@@ -76,6 +78,7 @@ ExtDeviceMode
 FindClosePrinterChangeNotification
 FindFirstPrinterChangeNotification
 FindNextPrinterChangeNotification
+FreePrinterNotifyInfo
 GetFormA
 GetFormW
 GetJobA
@@ -101,6 +104,7 @@ ReadPrinter
 ResetPrinterA
 ResetPrinterW
 ScheduleJob
+SetAllocFailCount
 SetFormA
 SetFormW
 SetJobA
