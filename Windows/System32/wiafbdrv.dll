@@ -1,0 +1,4 @@
+_DllEntryPoint@12
+DliHook
+DllCanUnloadNow
+DllGetClassObject

@@ -5,6 +5,7 @@ SxsBeginAssemblyInstall
 SxsEndAssemblyInstall
 SxsGenerateActivationContext
 SxsInstallAssemblyW
+SxsInstallW
 SxsOleAut32MapReferenceClsidToConfiguredClsid
 SxsOleAut32RedirectTypeLibrary
 SxspGenerateManifestPathOnAssemblyIdentity
@@ -20,3 +21,4 @@ SxspRunDllDeleteDirectoryW
 SxsQueryManifestInformation
 SxsRunDllInstallAssembly
 SxsRunDllInstallAssemblyW
+SxsUninstallW

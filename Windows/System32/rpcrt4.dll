@@ -387,8 +387,6 @@ RpcIfIdVectorFree
 RpcIfInqId
 RpcImpersonateClient
 RpcInitializeAsyncHandle
-RpcInqClientSecurityContextAttributesA
-RpcInqClientSecurityContextAttributesW
 RpcMgmtEnableIdleCleanup
 RpcMgmtEpEltInqBegin
 RpcMgmtEpEltInqDone
@@ -425,6 +423,8 @@ RpcRegisterAsyncInfo
 RpcRevertToSelf
 RpcRevertToSelfEx
 RpcServerInqBindings
+RpcServerInqCallAttributesA
+RpcServerInqCallAttributesW
 RpcServerInqDefaultPrincNameA
 RpcServerInqDefaultPrincNameW
 RpcServerInqIf

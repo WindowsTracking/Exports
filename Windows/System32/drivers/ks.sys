@@ -160,6 +160,7 @@ KsPinGetTrailingEdgeStreamPointer
 KsPinPropertyHandler
 KsPinRegisterFrameReturnCallback
 KsPinRegisterHandshakeCallback
+KsPinRegisterIrpCompletionCallback
 KsPinRegisterPowerCallbacks
 KsPinReleaseProcessingMutex
 KsPinSetPinClockTime

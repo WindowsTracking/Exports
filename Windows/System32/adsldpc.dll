@@ -2,6 +2,7 @@
 ??1CLexer@@QAE@XZ
 ?GetNextToken@CLexer@@QAEJPAGPAK@Z
 ?SetAtDisabler@CLexer@@QAEXH@Z
+?SetExclaimnationDisabler@CLexer@@QAEXH@Z
 ?SetFSlashDisabler@CLexer@@QAEXH@Z
 ADsAbandonSearch
 ADsCloseSearchHandle
@@ -79,6 +80,7 @@ FreeObjectInfo
 GetDefaultServer
 GetDisplayName
 GetDomainDNSNameForDomain
+GetLDAPTypeName
 GetSyntaxOfAttribute
 InitObjectInfo
 intcmp

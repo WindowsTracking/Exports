@@ -17,6 +17,7 @@ LsaICallPackage
 LsaICallPackageEx
 LsaICallPackagePassthrough
 LsaICancelNotification
+LsaIChangeSecretCipherKey
 LsaICryptProtectData
 LsaICryptUnprotectData
 LsaIDsNotifiedObjectChange

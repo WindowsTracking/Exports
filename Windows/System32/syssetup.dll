@@ -36,7 +36,9 @@ pSetupDebugPrint
 pSetuplogSfcError
 RepairStartMenuItems
 ReportError
+RunOEMExtraTasks
 ScsiClassInstaller
+SetAccountsDomainSid
 SetupAddOrRemoveTestCertificate
 SetupChangeFontSize
 SetupChangeLocale
@@ -53,6 +55,7 @@ SetupGetProductType
 SetupGetSetupInfo
 SetupGetValidEula
 SetupInfObjectInstallActionW
+SetupInstallCatalog
 SetupMapTapiToIso
 SetupOobeBnk
 SetupOobeCleanup

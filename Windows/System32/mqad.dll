@@ -4,6 +4,7 @@ MQADDeleteObject
 MQADDeleteObjectGuid
 MQADEndDeleteNotification
 MQADEndQuery
+MQADFreeMemory
 MQADGetADsPathInfo
 MQADGetComputerSites
 MQADGetComputerVersion

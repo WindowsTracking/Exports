@@ -8,6 +8,7 @@ DHSetICSInterfaces
 DHSetICSOff
 FindServices
 FindServicesCallback
+FindServicesCancel
 FindServicesClose
 FreeSsdpMessage
 GetFirstService

@@ -619,6 +619,7 @@ RtlCaptureStackBackTrace
 RtlCaptureStackContext
 RtlCharToInteger
 RtlCheckForOrphanedCriticalSections
+RtlCheckProcessParameters
 RtlCheckRegistryKey
 RtlClearAllBits
 RtlClearBits
@@ -799,7 +800,7 @@ RtlGetNativeSystemInformation
 RtlGetNextRange
 RtlGetNtGlobalFlags
 RtlGetNtProductType
-RtlGetNtVersionInfo
+RtlGetNtVersionNumbers
 RtlGetOwnerSecurityDescriptor
 RtlGetProcessHeaps
 RtlGetSaclSecurityDescriptor
@@ -988,12 +989,12 @@ RtlSetLastWin32Error
 RtlSetLastWin32ErrorAndNtStatusFromNtStatus
 RtlSetMemoryStreamSize
 RtlSetOwnerSecurityDescriptor
-RtlSetProcessDebugOnExit
+RtlSetProcessIsCritical
 RtlSetSaclSecurityDescriptor
 RtlSetSecurityDescriptorRMControl
 RtlSetSecurityObject
 RtlSetSecurityObjectEx
-RtlSetThreadDebugOnExit
+RtlSetThreadIsCritical
 RtlSetThreadPoolStartFunc
 RtlSetTimer
 RtlSetTimeZoneInformation

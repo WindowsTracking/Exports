@@ -1001,7 +1001,7 @@
 ?EnsureProperty@CClassPart@@QAEJPBGGJH@Z
 ?EnsureQualifier@CMethodPart@@QAEJPAVCWbemObject@@PBGPAPAV2@@Z
 ?EnsureQualifier@CWbemClass@@QAEJPBG@Z
-?EnsureReal@CQualifierSetList@@QAEXXZ
+?EnsureReal@CQualifierSetList@@QAEHXZ
 ?EnumPrimaryQualifiers@CBasicQualifierSet@@QAEJEEAAVCFixedBSTRArray@@0@Z
 ?EnumQualifiers@CQualifierSet@@QAEJEEAAVCFixedBSTRArray@@@Z
 ?equal_range@?$map@VCGUID@@PAUIWbemClassObject@@U?$less@VCGUID@@@std@@VCCCWCOAlloc@@@std@@QAE?AU?$pair@Viterator@?$_Tree@VCGUID@@U?$pair@$$CBVCGUID@@PAUIWbemClassObject@@@std@@U_Kfn@?$map@VCGUID@@PAUIWbemClassObject@@U?$less@VCGUID@@@std@@VCCCWCOAlloc@@@3@U?$less@VCGUID@@@3@VCCCWCOAlloc@@@std@@V123@@2@ABVCGUID@@@Z
@@ -1076,8 +1076,8 @@
 ?ExtendQualifierSetSpace@CInstancePart@@UAEHPAVCBasicQualifierSet@@K@Z
 ?ExtendQualifierSetSpace@CInstancePQSContainer@@UAEHPAVCBasicQualifierSet@@K@Z
 ?ExtendQualifierSetSpace@CMethodQualifierSetContainer@@UAEHPAVCBasicQualifierSet@@K@Z
-?ExtendQualifierSetSpace@CQualifierSetList@@QAEXPAVCBasicQualifierSet@@K@Z
-?ExtendTo@CDataTable@@QAEXGK@Z
+?ExtendQualifierSetSpace@CQualifierSetList@@QAEHPAVCBasicQualifierSet@@K@Z
+?ExtendTo@CDataTable@@QAEHGK@Z
 ?fast_wcscpy@CCompressedString@@SGPAGPAGPBG@Z
 ?fast_wcslen@CCompressedString@@SGHPBG@Z
 ?fast_wcsncpy@CCompressedString@@SGPAGPAGPBGH@Z

@@ -25,6 +25,7 @@ SamGetDisplayEnumerationIndex
 SamGetGroupsForUser
 SamGetMembersInAlias
 SamGetMembersInGroup
+SamiChangeKeys
 SamiChangePasswordUser
 SamiChangePasswordUser2
 SamiEncryptPasswords

@@ -36,6 +36,7 @@
 ?FindQualifier@WbemSnmpClassObject@@QBEPAVWbemSnmpQualifier@@PAG@Z
 ?FindQualifier@WbemSnmpProperty@@QBEPAVWbemSnmpQualifier@@PAG@Z
 ?Get@WbemSnmpClassObject@@QAEHAAVWbemSnmpErrorObject@@PAUIWbemClassObject@@@Z
+?GetCimType@WbemSnmpProperty@@QAEJXZ
 ?GetClassNameW@WbemSnmpClassObject@@QBEPAGXZ
 ?GetCurrentProperty@WbemSnmpClassObject@@QAEPAVWbemSnmpProperty@@XZ
 ?GetHandle@WbemSnmpProperty@@QAEJXZ

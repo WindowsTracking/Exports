@@ -6,6 +6,7 @@ PhoneBookEnumRegions
 PhoneBookFreeFilter
 PhoneBookGetCountryId
 PhoneBookGetCountryNameA
+PhoneBookGetCountryNameW
 PhoneBookGetCurrentCountryId
 PhoneBookGetPhoneCanonicalA
 PhoneBookGetPhoneDescA

@@ -115,6 +115,7 @@
 ?SetOrder@CSortKey@@QAEXABK@Z
 ?SetPrevSeqNum@CDSBaseUpdate@@QAEXAAVCSeqNum@@@Z
 ?SetProperty@CSortKey@@QAEXABK@Z
+?ShutDownCancelThread@CCancelRpc@@QAEXXZ
 ?UnalignedWcslen@@YGIPBG@Z
 ?UpdateRegistry@COutputReport@@AAEXPBG@Z
 ?WriteMsmqLog@COutputReport@@QAAXKW4enumLogComponents@@KPAGZZ

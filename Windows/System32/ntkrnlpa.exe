@@ -239,6 +239,7 @@ FsRtlIsFatDbcsLegal
 FsRtlIsHpfsDbcsLegal
 FsRtlIsNameInExpression
 FsRtlIsNtstatusExpected
+FsRtlIsPagingFile
 FsRtlIsTotalDeviceFailure
 FsRtlLegalAnsiCharacterArray
 FsRtlLookupLargeMcbEntry

@@ -4,6 +4,7 @@ DSCreateServersCache
 DSDeleteObject
 DSDeleteObjectGuid
 DSEndDeleteNotification
+DSFreeMemory
 DSGetComputerSites
 DSGetObjectProperties
 DSGetObjectPropertiesEx

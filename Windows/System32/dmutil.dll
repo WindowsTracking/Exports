@@ -5,13 +5,13 @@ DisplayError
 DisplayErrorRgszw
 DllMain
 DmCommonNtOpenFile
+DynamicSupport
 FreeRgszw
 FTrace
 FTraceValist
 GetErrorData
 GetInstallDirectoryPath
 GetSystemVolume
-IsLaptop
 IsPersonalSKU
 LowAcquirePrivilege
 LowGetPartitionInfo
