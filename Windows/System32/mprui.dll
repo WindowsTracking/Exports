@@ -1,0 +1,12 @@
+BrowseDialogA0
+DoPasswordDialog
+DoProfileErrorDialog
+ShowReconnectDialog
+WNetBrowseDialog
+WNetBrowsePrinterDialog
+WNetClearConnections
+WNetConnectionDialog2
+WNetDisconnectDialog2
+WNetFormatNetworkNameA
+WNetFormatNetworkNameW
+WNetRestoreConnection

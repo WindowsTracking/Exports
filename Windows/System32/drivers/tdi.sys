@@ -1,0 +1,15 @@
+TdiBuildNetbiosAddress
+TdiBuildNetbiosAddressEa
+TdiCopyBufferToMdl
+TdiCopyMdlToBuffer
+TdiDefaultConnectHandler
+TdiDefaultDisconnectHandler
+TdiDefaultErrorHandler
+TdiDefaultRcvDatagramHandler
+TdiDefaultRcvExpeditedHandler
+TdiDefaultReceiveHandler
+TdiDefaultSendPossibleHandler
+TdiMapBuffer
+TdiMapUserRequest
+TdiOpenNetbiosAddress
+TdiUnmapBuffer

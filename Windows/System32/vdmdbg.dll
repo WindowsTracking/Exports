@@ -1,0 +1,16 @@
+VDMBreakThread
+VDMDetectWOW
+VDMEnumProcessWOW
+VDMEnumTaskWOW
+VDMGetModuleSelector
+VDMGetPointer
+VDMGetSelectorModule
+VDMGetThreadContext
+VDMGetThreadSelectorEntry
+VDMGlobalFirst
+VDMGlobalNext
+VDMKillWOW
+VDMModuleFirst
+VDMModuleNext
+VDMProcessException
+VDMSetThreadContext

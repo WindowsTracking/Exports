@@ -1,0 +1,11 @@
+DllCreate
+DllCreateFromClip
+DllCreateFromFile
+DllCreateFromTemplate
+DllCreateLinkFromClip
+DllCreateLinkFromFile
+DllLoadFromStream
+GetMessageHook
+InstallHook
+OleQueryObjPos
+RemoveHook

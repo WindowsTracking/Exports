@@ -1,0 +1,7 @@
+getmsg
+OpenStream
+poll
+putmsg
+s_ioctl
+s_open
+s_perror

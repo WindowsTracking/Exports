@@ -1,0 +1,17 @@
+DetectCheckMemoryUsage
+DetectCheckPortUsage
+DetectClaimResource
+DetectFreeTemporaryResources
+DetectInitialInit
+DetectQueryInterruptTrap
+DetectReadMappedMemory
+DetectReadPortUchar
+DetectReadPortUlong
+DetectReadPortUshort
+DetectRemoveInterruptTrap
+DetectSetInterruptTrap
+DetectTemporaryClaimResource
+DetectWriteMappedMemory
+DetectWritePortUchar
+DetectWritePortUlong
+DetectWritePortUshort

@@ -1,0 +1,12 @@
+MAPIAddress
+MAPIDeleteMail
+MAPIDetails
+MAPIFindNext
+MAPIFreeBuffer
+MAPILogoff
+MAPILogon
+MAPIReadMail
+MAPIResolveName
+MAPISaveMail
+MAPISendDocuments
+MAPISendMail

@@ -1,0 +1,13 @@
+RapArrayLength
+RapAsciiToDecimal
+RapAuxDataCount
+RapAuxDataCountOffset
+RapConvertSingleEntry
+RapExamineDescriptor
+RapGetFieldSize
+RapIsValidDescriptorSmb
+RapLastPointerOffset
+RapParmNumDescriptor
+RapStructureAlignment
+RapStructureSize
+RapTotalSize

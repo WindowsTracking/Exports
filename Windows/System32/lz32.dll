@@ -1,0 +1,12 @@
+CopyLZFile
+GetExpandedNameA
+GetExpandedNameW
+LZClose
+LZCopy
+LZDone
+LZInit
+LZOpenFileA
+LZOpenFileW
+LZRead
+LZSeek
+LZStart

@@ -1,0 +1,12 @@
+AddPortW
+ClosePort
+ConfigurePortW
+DeletePortW
+EndDocPort
+EnumPortsW
+InitializeMonitor
+LibMain
+OpenPort
+ReadPort
+StartDocPort
+WritePort

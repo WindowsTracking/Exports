@@ -1,0 +1,10 @@
+GetFileVersionInfoA
+GetFileVersionInfoSizeA
+GetFileVersionInfoSizeW
+GetFileVersionInfoW
+VerFindFileA
+VerFindFileW
+VerInstallFileA
+VerInstallFileW
+VerQueryValueA
+VerQueryValueW

@@ -1,0 +1,5 @@
+DLLInit
+InitRasmanSecurityDescriptor
+InitRemoteSecurityDescriptor
+RasNotStrstr
+RasPortsConfig

@@ -1,0 +1,15 @@
+?FProcessMenuClick@TRPOBJ@@QAEHG@Z
+?FProcessMenuInit@TRPOBJ@@QAEHPAVMNU@@@Z
+ABAddress
+ABAddressType
+ABDeinit
+ABDetailsType
+ABGetNSSession
+ABInit
+ABResolveName
+EcGetPhgrtrpFromPedit
+EcSetPeditFromPgrtrp
+EcTextizeHgrtrp
+FIsDelimiter
+NsecResolveHgrtrp
+TmcABPGroup

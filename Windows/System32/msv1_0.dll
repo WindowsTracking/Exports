@@ -1,0 +1,7 @@
+LsaApCallPackage
+LsaApInitializePackage
+LsaApLogonTerminated
+LsaApLogonUser
+LsaApMsInitialize
+MsvSamLogoff
+MsvSamValidate

@@ -1,0 +1,12 @@
+CheckSumMappedFile
+FindDebugInfoFile
+MakeSureDirectoryPathExists
+MapDebugInformation
+MapFileAndCheckSumA
+MapFileAndCheckSumW
+SearchTreeForFile
+SplitSymbols
+TouchFileTimes
+UnDecorateSymbolName
+UnmapDebugInformation
+UpdateDebugInfoFile

@@ -1,0 +1,7 @@
+I_NetGetAnyDCName
+I_NetNotifyDelta
+I_NetNotifyMachineAccount
+I_NetNotifyRole
+NetrLogonSamLogoff
+NetrLogonSamLogon
+NlNetlogonMain
