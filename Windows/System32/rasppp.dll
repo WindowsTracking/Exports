@@ -2,7 +2,6 @@ HelperResetDefaultInterfaceNet
 HelperResetDefaultInterfaceNetEx
 HelperSetDefaultInterfaceNet
 HelperSetDefaultInterfaceNetEx
-InitNbfCp
 IpxcpBind
 IpxCpInit
 PppDdmBapCallbackResult
@@ -22,7 +21,6 @@ RasSrvrInitialize
 RasSrvrQueryServerAddresses
 RasSrvrReleaseAddress
 RasSrvrUninitialize
-SendMessageToNbfCp
 SendPPPMessageToEngine
 StartPPP
 StopPPP

@@ -2,6 +2,7 @@
 ?GetNumMembers@CDMNodeObj@@QAEKXZ
 ?GetOcxFrameCWndPtr@CTaskData@@QAEPAVCWnd@@XZ
 ?GetRegionColorStructPtr@CTaskData@@QAEXPAPAU_REGION_COLORS@@AAH@Z
+?GetServerName@CDataCache@@QAE?AVCString@@XZ
 DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer

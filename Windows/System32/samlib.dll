@@ -3,6 +3,7 @@ SamAddMemberToGroup
 SamAddMultipleMembersToAlias
 SamChangePasswordUser
 SamChangePasswordUser2
+SamChangePasswordUser3
 SamCloseHandle
 SamConnect
 SamConnectWithCreds
@@ -19,6 +20,7 @@ SamEnumerateGroupsInDomain
 SamEnumerateUsersInDomain
 SamFreeMemory
 SamGetAliasMembership
+SamGetCompatibilityMode
 SamGetDisplayEnumerationIndex
 SamGetGroupsForUser
 SamGetMembersInAlias
@@ -47,6 +49,7 @@ SamRemoveMemberFromAlias
 SamRemoveMemberFromForeignDomain
 SamRemoveMemberFromGroup
 SamRemoveMultipleMembersFromAlias
+SamRidToSid
 SamSetInformationAlias
 SamSetInformationDomain
 SamSetInformationGroup

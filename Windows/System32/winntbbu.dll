@@ -1,0 +1,14 @@
+BB_Refresh
+GetBBHwnd
+GetBBMainHwnd
+GetPanelCount
+InitBillBoard
+ProgressGaugeMsg
+SetInfoText
+SetProgress
+SetProgressText
+SetStep
+ShowProgressGaugeWindow
+StartBillBoard
+StopBillBoard
+TermBillBoard

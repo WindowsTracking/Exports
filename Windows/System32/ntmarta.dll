@@ -3,8 +3,10 @@ AccConvertAccessToSD
 AccConvertAccessToSecurityDescriptor
 AccConvertAclToAccess
 AccConvertSDToAccess
+AccFreeIndexArray
 AccGetAccessForTrustee
 AccGetExplicitEntries
+AccGetInheritanceSource
 AccLookupAccountName
 AccLookupAccountSid
 AccLookupAccountTrustee
@@ -36,5 +38,6 @@ AccRewriteSetEntriesInAcl
 AccRewriteSetHandleRights
 AccRewriteSetNamedRights
 AccSetEntriesInAList
+AccTreeResetNamedSecurityInfo
 EventGuidToName
 EventNameFree

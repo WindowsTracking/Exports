@@ -19,6 +19,7 @@ EngAlphaBlend
 EngAssociateSurface
 EngBitBlt
 EngCheckAbort
+EngClearEvent
 EngComputeGlyphSet
 EngControlSprites
 EngCopyBits
@@ -77,6 +78,8 @@ EngGetTickCount
 EngGetType1FontList
 EngGradientFill
 EngInitializeSafeSemaphore
+EngIsSemaphoreOwned
+EngIsSemaphoreOwnedByCurrentThread
 EngLineTo
 EngLoadImage
 EngLoadModule
@@ -106,6 +109,7 @@ EngQueryPalette
 EngQueryPerformanceCounter
 EngQueryPerformanceFrequency
 EngQuerySystemAttribute
+EngReadStateEvent
 EngReleaseSemaphore
 EngRestoreFloatingPointState
 EngSaveFloatingPointState

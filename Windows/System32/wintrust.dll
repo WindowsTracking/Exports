@@ -4,8 +4,11 @@ CryptCATAdminAcquireContext
 CryptCATAdminAddCatalog
 CryptCATAdminCalcHashFromFileHandle
 CryptCATAdminEnumCatalogFromHash
+CryptCATAdminPauseServiceForBackup
 CryptCATAdminReleaseCatalogContext
 CryptCATAdminReleaseContext
+CryptCATAdminRemoveCatalog
+CryptCATAdminResolveCatalogPath
 CryptCATCatalogInfoFromContext
 CryptCATCDFClose
 CryptCATCDFEnumAttributes
@@ -47,6 +50,7 @@ GenericChainCertificateTrust
 GenericChainFinalProv
 HTTPSCertificateTrust
 HTTPSFinalProv
+I_CryptCatAdminMigrateToNewCatDB
 IsCatalogFile
 mscat32DllRegisterServer
 mscat32DllUnregisterServer
@@ -97,6 +101,7 @@ WTHelperGetProvSignerFromChain
 WTHelperIsInRootStore
 WTHelperOpenKnownStores
 WTHelperProvDataFromStateData
+WTHelperVerifyTrust
 WVTAsn1CatMemberInfoDecode
 WVTAsn1CatMemberInfoEncode
 WVTAsn1CatNameValueDecode

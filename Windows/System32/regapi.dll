@@ -8,11 +8,16 @@ RegCdEnumerateW
 RegCdQueryA
 RegCdQueryW
 RegCloseServer
+RegConsoleShadowQueryA
+RegConsoleShadowQueryW
 RegDefaultUserConfigQueryA
 RegDefaultUserConfigQueryW
+RegDenyTSConnectionsPolicy
 RegFreeUtilityCommandList
+RegGetMachinePolicy
 RegGetTServerVersion
 RegGetUserConfigFromUserParameters
+RegGetUserPolicy
 RegIsTServer
 RegMergeUserConfigWithUserParameters
 RegOpenServerA
@@ -57,3 +62,4 @@ RegWinStationQueryW
 RegWinStationSetNumValueW
 RegWinStationSetSecurityA
 RegWinStationSetSecurityW
+WaitTSConnectionsPolicyAccepted

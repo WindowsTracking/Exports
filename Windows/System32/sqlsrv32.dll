@@ -7,10 +7,12 @@ BCP_columns
 BCP_control
 BCP_done
 BCP_exec
+BCP_getcolfmt
 BCP_init
 BCP_moretext
 BCP_readfmt
 BCP_sendrow
+BCP_setcolfmt
 BCP_writefmt
 ConfigDriverW
 ConfigDSNW

@@ -15,7 +15,10 @@ BlockInput
 BringWindowToTop
 BroadcastSystemMessage
 BroadcastSystemMessageA
+BroadcastSystemMessageExA
+BroadcastSystemMessageExW
 BroadcastSystemMessageW
+CalcMenuBar
 CallMsgFilter
 CallMsgFilterA
 CallMsgFilterW
@@ -284,6 +287,7 @@ GetKeyNameTextW
 GetKeyState
 GetLastActivePopup
 GetLastInputInfo
+GetLayeredWindowAttributes
 GetListBoxInfo
 GetMenu
 GetMenuBarInfo
@@ -318,6 +322,11 @@ GetProgmanWindow
 GetPropA
 GetPropW
 GetQueueStatus
+GetRawInputBuffer
+GetRawInputData
+GetRawInputDeviceInfoA
+GetRawInputDeviceInfoW
+GetRegisteredRawInputDevices
 GetScrollBarInfo
 GetScrollInfo
 GetScrollPos
@@ -351,6 +360,7 @@ GetWindowModuleFileNameW
 GetWindowPlacement
 GetWindowRect
 GetWindowRgn
+GetWindowRgnBox
 GetWindowTextA
 GetWindowTextLengthA
 GetWindowTextLengthW
@@ -397,6 +407,7 @@ IsDialogMessage
 IsDialogMessageA
 IsDialogMessageW
 IsDlgButtonChecked
+IsGUIThread
 IsHungAppWindow
 IsIconic
 IsMenu
@@ -405,6 +416,7 @@ IsWindow
 IsWindowEnabled
 IsWindowUnicode
 IsWindowVisible
+IsWinEventHookInstalled
 IsZoomed
 keybd_event
 KillSystemTimer
@@ -481,6 +493,7 @@ OpenWindowStationA
 OpenWindowStationW
 PackDDElParam
 PaintDesktop
+PaintMenuBar
 PeekMessageA
 PeekMessageW
 PostMessageA
@@ -488,6 +501,7 @@ PostMessageW
 PostQuitMessage
 PostThreadMessageA
 PostThreadMessageW
+PrintWindow
 PrivateExtractIconExA
 PrivateExtractIconExW
 PrivateExtractIconsA
@@ -501,6 +515,7 @@ RealChildWindowFromPoint
 RealGetWindowClass
 RealGetWindowClassA
 RealGetWindowClassW
+RecordShutdownReason
 RedrawWindow
 RegisterClassA
 RegisterClassExA
@@ -512,10 +527,12 @@ RegisterDeviceNotificationA
 RegisterDeviceNotificationW
 RegisterHotKey
 RegisterLogonProcess
+RegisterRawInputDevices
 RegisterServicesProcess
 RegisterShellHookWindow
 RegisterSystemThread
 RegisterTasklist
+RegisterUserApiHook
 RegisterWindowMessageA
 RegisterWindowMessageW
 ReleaseCapture
@@ -660,6 +677,7 @@ UnregisterClassA
 UnregisterClassW
 UnregisterDeviceNotification
 UnregisterHotKey
+UnregisterUserApiHook
 UpdateLayeredWindow
 UpdatePerUserSystemParameters
 UpdateWindow

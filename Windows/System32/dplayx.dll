@@ -6,4 +6,6 @@ DirectPlayLobbyCreateA
 DirectPlayLobbyCreateW
 DllCanUnloadNow
 DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
 gdwDPlaySPRefCount

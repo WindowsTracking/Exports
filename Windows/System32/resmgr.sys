@@ -1,9 +1,0 @@
-DllInitialize
-RmActivityObjectType
-RmAddResourceAndReserve
-RmAddResourceToConfiguration
-RmGetAttributeBuffer
-RmGetDefaultActivityAndConfiguration
-RmRegisterResource
-RmRemoveResourceFromConfiguration
-RmUnregisterResource

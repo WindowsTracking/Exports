@@ -2,7 +2,9 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+GetProxyDllInfo
+MigrateRegisteredSTIAppsForWIAEvents
+RegSTIforWia
 StiCreateInstance
 StiCreateInstanceA
 StiCreateInstanceW
-StiPrivateGetDeviceInfoW

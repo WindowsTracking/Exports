@@ -1,9 +1,7 @@
 CPlApplet
-DllInitialize
 HotPlugDeviceTree
 HotPlugEjectDevice
 HotPlugEjectVetoedW
-HotPlugGetWizardPages
 HotPlugHibernateVetoedW
 HotPlugRemovalVetoedW
 HotPlugSafeRemovalNotificationW

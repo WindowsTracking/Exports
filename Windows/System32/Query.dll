@@ -354,7 +354,7 @@
 ?Get@CRegAccess@@QAEKPBG@Z
 ?Get@CRegAccess@@QAEXPBGPAGI@Z
 ?Get@CWin32RegAccess@@QAEHPBGAAK@Z
-?Get@CWin32RegAccess@@QAEHPBGPAGI@Z
+?Get@CWin32RegAccess@@QAEHPBGPAGIH@Z
 ?GetAllEntries@CPropertyList@@UAEJPAPAVCPropEntry@@K@Z
 ?GetBackupSize@CPropStoreManager@@QAEKK@Z
 ?GetBlob@CMemDeSerStream@@UAEXPAEK@Z
@@ -479,7 +479,7 @@
 ?IsPaused@CCatalogAdmin@@QAEHXZ
 ?IsRunningAsSystem@CImpersonateSystem@@SGHXZ
 ?IsSameDrive@CDriveInfo@@QAEHPBG@Z
-?IsScopeValid@@YGJPBGI@Z
+?IsScopeValid@@YGJPBGIH@Z
 ?IsStarted@CCatalogAdmin@@QAEHXZ
 ?IsStopped@CCatalogAdmin@@QAEHXZ
 ?IsValid@CAllocStorageVariant@@QBEHXZ
@@ -528,6 +528,7 @@
 ?MinPageInUse@CBufferCache@@QAEHAAK@Z
 ?MinPageInUse@CPhysStorage@@QAEHAAK@Z
 ?MultiByteToXArrayWideChar@@YGKPBEKIAAV?$XArray@G@@@Z
+?My_wcstoui64@@YA_KPBGPAPAGH@Z
 ?NameToPid@CPidMapper@@QAEKABVCFullPropSpec@@@Z
 ?NameToReal@CPidRemapper@@QAEKPBVCFullPropSpec@@@Z
 ?NewStemmer@CCiOle@@SGPAUIStemmer@@ABU_GUID@@@Z
@@ -620,11 +621,9 @@
 ?Remove@CDbSortSet@@QAEXI@Z
 ?Remove@CSort@@QAEXI@Z
 ?Remove@CWorkQueue@@QAEXPAVPWorkItem@@@Z
-?RemoveAllDirs@CCatState@@QAEXXZ
 ?RemoveCatalog@CMachineAdmin@@QAEXPBGH@Z
 ?RemoveCatalogFiles@CMachineAdmin@@QAEXPBG@Z
 ?RemoveChild@CNodeRestriction@@QAEPAVCRestriction@@I@Z
-?RemoveDir@CCatState@@QAEXPBG@Z
 ?RemoveFirstChild@CDbCmdTreeNode@@IAEPAV1@XZ
 ?RemoveScope@CCatalogAdmin@@QAEXPBG@Z
 ?Reopen@CPhysStorage@@QAEXH@Z

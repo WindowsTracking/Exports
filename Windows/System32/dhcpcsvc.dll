@@ -5,6 +5,7 @@ DhcpDelPersistentRequestParams
 DhcpDeRegisterOptions
 DhcpDeRegisterParamChange
 DhcpEnumClasses
+DhcpFallbackRefreshParams
 DhcpHandlePnPEvent
 DhcpLeaseIpAddress
 DhcpLeaseIpAddressEx
@@ -32,4 +33,4 @@ McastGenUID
 McastReleaseAddress
 McastRenewAddress
 McastRequestAddress
-ServiceEntry
+ServiceMain

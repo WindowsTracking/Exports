@@ -23,6 +23,6 @@
 ?SNMPToPrinterStatus@CTcpMib@@UAEKK@Z
 ?SnmpWalk@CTcpMib@@QAEKPBD0KPAUSnmpVarBindList@@@Z
 ?SnmpWalk@CTcpMib@@UAEKPBD0KPAUAsnObjectIdentifier@@PAUSnmpVarBindList@@@Z
-?SupportsPrinterMib@CTcpMib@@UAEHPBD0K@Z
+?SupportsPrinterMib@CTcpMib@@UAEHPBD0KPAH@Z
 _Ping@4
 GetTcpMibPtr

@@ -23,6 +23,7 @@ DsFreeSpnArrayA
 DsFreeSpnArrayW
 DsGetDomainControllerInfoA
 DsGetDomainControllerInfoW
+DsGetRdnW
 DsGetSpnA
 DsGetSpnW
 DsInheritSecurityIdentityA
@@ -58,6 +59,7 @@ DsReplicaConsistencyCheck
 DsReplicaDelA
 DsReplicaDelW
 DsReplicaFreeInfo
+DsReplicaGetInfo2W
 DsReplicaGetInfoW
 DsReplicaModifyA
 DsReplicaModifyW

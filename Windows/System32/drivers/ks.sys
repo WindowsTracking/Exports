@@ -73,7 +73,10 @@ KsEnableEventWithAllocator
 KsFastMethodHandler
 KsFastPropertyHandler
 KsFilterAcquireProcessingMutex
+KsFilterAddTopologyConnections
 KsFilterAttemptProcessing
+KsFilterCreateNode
+KsFilterCreatePinFactory
 KsFilterFactoryAddCreateItem
 KsFilterFactoryGetSymbolicLink
 KsFilterFactorySetDeviceClassesState
@@ -107,6 +110,8 @@ KsGetFirstChild
 KsGetImageNameAndResourceId
 KsGetNextSibling
 KsGetNodeIdFromIrp
+KsGetObjectFromFileObject
+KsGetObjectTypeFromFileObject
 KsGetObjectTypeFromIrp
 KsGetParent
 KsGetPinFromIrp
@@ -138,6 +143,7 @@ KsPinAttachOrGate
 KsPinAttemptProcessing
 KsPinDataIntersection
 KsPinGetAndGate
+KsPinGetAvailableByteCount
 KsPinGetConnectedFilterInterface
 KsPinGetConnectedPinFileObject
 KsPinGetConnectedPinInterface
@@ -156,6 +162,7 @@ KsPinSetPinClockTime
 KsPinSubmitFrame
 KsPinSubmitFrameMdl
 KsProbeStreamIrp
+KsProcessPinUpdate
 KsPropertyHandler
 KsPropertyHandlerWithAllocator
 KsQueryDevicePnpObject

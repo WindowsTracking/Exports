@@ -4,7 +4,6 @@ LsaApCallPackageUntrusted
 LsaApInitializePackage
 LsaApLogonTerminated
 LsaApLogonUserEx2
-LsaApMsInitialize
 Msv1_0ExportSubAuthenticationRoutine
 Msv1_0SubAuthenticationPresent
 MsvGetLogonAttemptCount

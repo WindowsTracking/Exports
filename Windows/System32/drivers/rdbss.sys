@@ -102,5 +102,6 @@ RxScavengeFobxsForNetRoot
 RxSetDomainForMailslotBroadcast
 RxSetMinirdrCancelRoutine
 RxSetSrvCallDomainName
+RxSpinDownMRxDispatcher
 RxStartMinirdr
 RxStopMinirdr

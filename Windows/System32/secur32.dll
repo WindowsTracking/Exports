@@ -66,6 +66,8 @@ SecInitUserModeContext
 SecpFreeMemory
 SecpTranslateName
 SecpTranslateNameEx
+SetContextAttributesA
+SetContextAttributesW
 TranslateNameA
 TranslateNameW
 UnsealMessage

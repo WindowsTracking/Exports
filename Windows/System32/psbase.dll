@@ -3,9 +3,6 @@ SPAcquireContext
 SPCloseItem
 SPCreateSubtype
 SPCreateType
-SPCryptInitialize
-SPCryptProtect
-SPCryptUnprotect
 SPDeleteItem
 SPDeleteSubtype
 SPDeleteType

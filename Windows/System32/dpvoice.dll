@@ -1,0 +1,6 @@
+DirectPlayVoiceCreate
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer

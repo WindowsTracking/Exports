@@ -8,7 +8,6 @@ DisplaySaveSettings
 DisplayTestSettingsW
 DllCanUnloadNow
 DllGetClassObject
-DllInitialize
 DllRegisterServer
 DllUnregisterServer
 InstallScreenSaver

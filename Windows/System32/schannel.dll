@@ -2,6 +2,8 @@ AcceptSecurityContext
 AcquireCredentialsHandleA
 AcquireCredentialsHandleW
 ApplyControlToken
+CloseSslPerformanceData
+CollectSslPerformanceData
 CompleteAuthToken
 DeleteSecurityContext
 EnableCertMapping
@@ -15,6 +17,7 @@ InitializeSecurityContextW
 InitSecurityInterfaceA
 InitSecurityInterfaceW
 MakeSignature
+OpenSslPerformanceData
 QueryContextAttributesA
 QueryContextAttributesW
 QuerySecurityPackageInfoA
@@ -24,6 +27,8 @@ SealMessage
 SpLsaModeInitialize
 SpUserModeInitialize
 SslCrackCertificate
+SslEmptyCacheA
+SslEmptyCacheW
 SslFreeCertificate
 SslGenerateKeyPair
 SslGenerateRandomBits

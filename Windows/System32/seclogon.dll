@@ -1,3 +1,4 @@
 DllRegisterServer
 DllUnregisterServer
 SvcEntry_Seclogon
+SvchostPushServiceGlobals

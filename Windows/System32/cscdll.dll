@@ -13,6 +13,7 @@ CSCDoEnableDisable
 CSCDoLocalRenameA
 CSCDoLocalRenameExW
 CSCDoLocalRenameW
+CSCEncryptDecryptDatabase
 CSCEndSynchronizationW
 CSCEnumForStatsA
 CSCEnumForStatsExA
@@ -37,6 +38,7 @@ CSCMergeShareA
 CSCMergeShareW
 CSCPinFileA
 CSCPinFileW
+CSCQueryDatabaseStatus
 CSCQueryFileStatusA
 CSCQueryFileStatusW
 CSCSetMaxSpace

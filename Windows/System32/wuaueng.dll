@@ -1,0 +1,11 @@
+AcceptEula
+GetDownloadStatus
+GetOption
+GetState
+GetUpdateList
+Init
+PauseDownload
+SaveSelections
+StartDownload
+StartInstall
+Update

@@ -7,6 +7,7 @@
 ?GetOcxFrameCWndPtr@CTaskData@@QAEPAVCWnd@@XZ
 ?GetRegionColorStructPtr@CTaskData@@QAEXPAPAU_REGION_COLORS@@AAH@Z
 ?GetRegionScaling@CDMSnapin@@QAEHXZ
+?GetServerName@CDataCache@@QAE?AVCString@@XZ
 ?GetTopViewStyle@CDMSnapin@@QAEHXZ
 ?GetWaitCursor@CDMSnapin@@QAEHXZ
 DllCanUnloadNow

@@ -3,9 +3,12 @@ accept
 bind
 closesocket
 connect
+freeaddrinfo
+getaddrinfo
 gethostbyaddr
 gethostbyname
 gethostname
+getnameinfo
 getpeername
 getprotobyname
 getprotobynumber
@@ -74,6 +77,7 @@ WSALookupServiceBeginW
 WSALookupServiceEnd
 WSALookupServiceNextA
 WSALookupServiceNextW
+WSANSPIoctl
 WSANtohl
 WSANtohs
 WSAProviderConfigChange
@@ -105,5 +109,6 @@ WSCGetProviderPath
 WSCInstallNameSpace
 WSCInstallProvider
 WSCUnInstallNameSpace
+WSCUpdateProvider
 WSCWriteNameSpaceOrder
 WSCWriteProviderOrder

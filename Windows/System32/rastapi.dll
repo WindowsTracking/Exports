@@ -35,4 +35,5 @@ PortTestSignalState
 RastapiGetCalledID
 RastapiSetCalledID
 RemovePort
+SetCommSettings
 UnloadRastapiDll

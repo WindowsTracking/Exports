@@ -1,6 +1,5 @@
 BatMeterCapabilities
 CreateBatMeter
 DestroyBatMeter
-DllInitialize
 PowerCapabilities
 UpdateBatMeter

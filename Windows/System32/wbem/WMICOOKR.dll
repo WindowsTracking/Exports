@@ -1,0 +1,17 @@
+??0CArena@@QAE@ABV0@@Z
+??0CArena@@QAE@XZ
+??0CWin32DefaultArena@@QAE@ABV0@@Z
+??0CWin32DefaultArena@@QAE@XZ
+??1CWin32DefaultArena@@QAE@XZ
+??4CArena@@QAEAAV0@ABV0@@Z
+??4CWin32DefaultArena@@QAEAAV0@ABV0@@Z
+??_7CArena@@6B@
+??_7CWin32DefaultArena@@6B@
+?Alloc@CWin32DefaultArena@@UAEPAXK@Z
+?Free@CWin32DefaultArena@@UAEHPAX@Z
+?Realloc@CWin32DefaultArena@@UAEPAXPAXK@Z
+?WbemSysFreeString@CWin32DefaultArena@@SGXPAG@Z
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

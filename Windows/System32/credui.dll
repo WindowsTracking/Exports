@@ -1,0 +1,17 @@
+CredUICmdLineGetCredentialsA
+CredUICmdLineGetCredentialsW
+CredUICmdLineGetPasswordA
+CredUICmdLineGetPasswordW
+CredUIGetCredentialsA
+CredUIGetCredentialsW
+CredUIGetPasswordA
+CredUIGetPasswordW
+CredUIInitControls
+CredUIMessageBoxA
+CredUIMessageBoxW
+CredUIParseUserNameA
+CredUIParseUserNameW
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -9,6 +9,7 @@ ResUtilDupString
 ResUtilEnumPrivateProperties
 ResUtilEnumProperties
 ResUtilEnumResources
+ResUtilEnumResourcesEx
 ResUtilExpandEnvironmentStrings
 ResUtilFindBinaryProperty
 ResUtilFindDependentDiskResourceDriveLetter
@@ -60,6 +61,7 @@ ResUtilSetUnknownProperties
 ResUtilStartResourceService
 ResUtilStopResourceService
 ResUtilStopService
+ResUtilTerminateServiceProcessFromResDll
 ResUtilVerifyPrivatePropertyList
 ResUtilVerifyPropertyTable
 ResUtilVerifyResourceService

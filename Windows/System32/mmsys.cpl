@@ -1,12 +1,12 @@
 CPlApplet
 DllCanUnloadNow
 DllGetClassObject
-DllInitialize
 MediaClassInstaller
 MediaPropPageProvider
 mmseRunOnce
 mmseRunOnceA
 mmseRunOnceW
+Multichannel
 RunOnceSchemeInit
 ShowAudioPropertySheet
 ShowDriverSettingsAfterFork

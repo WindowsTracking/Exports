@@ -1,7 +1,7 @@
+#200
 bFolderEnumPrinters
 bFolderGetPrinter
 bFolderRefresh
-bPrintDlgSheetsPropPages
 bPrinterSetup
 ConnectToPrinterDlg
 ConnectToPrinterPropertyPage
@@ -11,6 +11,8 @@ DllGetClassObject
 DllMain
 PnPInterface
 PrinterPropPageProvider
+PrintNotifyTray_Exit
+PrintNotifyTray_Init
 PrintUIEntryW
 RegisterPrintNotify
 UnregisterPrintNotify

@@ -83,7 +83,10 @@ CertGetPublicKeyLength
 CertGetStoreProperty
 CertGetSubjectCertificateFromStore
 CertGetValidUsages
+CertInstallIntermediateCAs
+CertInstallSignedListOfTrustedCertificates
 CertIsRDNAttrsInCertificateName
+CertIsValidCRLForCertificate
 CertNameToStrA
 CertNameToStrW
 CertOIDToAlgId
@@ -119,9 +122,13 @@ CertVerifySubjectCertificateContext
 CertVerifyTimeValidity
 CertVerifyValidityNesting
 ChainWlxLogoffEvent
+CloseCertPerformanceData
+CollectCertPerformanceData
 CreateFileU
 CryptAcquireCertificatePrivateKey
 CryptAcquireContextU
+CryptBinaryToStringA
+CryptBinaryToStringW
 CryptCloseAsyncHandle
 CryptCreateAsyncHandle
 CryptCreateKeyIdentifierFromCSP
@@ -206,6 +213,8 @@ CryptSIPRemoveProvider
 CryptSIPRemoveSignedDataMsg
 CryptSIPRetrieveSubjectGuid
 CryptSIPVerifyIndirectData
+CryptStringToBinaryA
+CryptStringToBinaryW
 CryptUninstallDefaultContext
 CryptUnprotectData
 CryptUnregisterDefaultOIDFunction
@@ -222,6 +231,7 @@ CryptVerifySignatureU
 I_CertProtectFunction
 I_CertSrvProtectFunction
 I_CertSyncStore
+I_CertUpdateStore
 I_CryptAddRefLruEntry
 I_CryptAddSmartCardCertToStore
 I_CryptAllocTls
@@ -249,6 +259,7 @@ I_CryptGetTls
 I_CryptInsertLruEntry
 I_CryptInstallAsn1Module
 I_CryptInstallOssGlobal
+I_CryptReadTrustedPublisherDWORDValueFromRegistry
 I_CryptRegisterSmartCardStore
 I_CryptReleaseLruEntry
 I_CryptRemoveLruEntry
@@ -258,6 +269,7 @@ I_CryptUninstallAsn1Module
 I_CryptUninstallOssGlobal
 I_CryptUnregisterSmartCardStore
 I_CryptWalkAllLruCacheEntries
+OpenCertPerformanceData
 PFXExportCertStore
 PFXExportCertStoreEx
 PFXImportCertStore

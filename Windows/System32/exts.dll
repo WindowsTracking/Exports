@@ -1,0 +1,14 @@
+acl
+atom
+DebugExtensionInitialize
+DebugExtensionNotify
+DebugExtensionUninitialize
+dlls
+gflag
+heap
+kuser
+peb
+psr
+sd
+sid
+teb

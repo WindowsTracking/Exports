@@ -5,6 +5,8 @@ AccessibleObjectFromWindow
 CreateStdAccessibleObject
 CreateStdAccessibleProxyA
 CreateStdAccessibleProxyW
+DllCanUnloadNow
+DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
 GetOleaccVersionInfo

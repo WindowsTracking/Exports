@@ -3,3 +3,4 @@ DllGetClassObject
 DLLGetDocumentation
 DllRegisterServer
 DllUnregisterServer
+DoOpenPipeStream

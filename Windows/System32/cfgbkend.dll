@@ -1,0 +1,7 @@
+CLSID_CfgComp
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+IID_ICfgComp
+IID_ISettingsComp

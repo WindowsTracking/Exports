@@ -6,6 +6,5 @@ DllMain
 DllRegisterServer
 DllUnregisterServer
 NetAccessWizard
-NetAccWizRunDll
 NetPlacesWizardDoModal
 UsersRunDll

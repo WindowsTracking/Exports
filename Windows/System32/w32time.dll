@@ -1,2 +1,12 @@
-FetchParentDomainName
-SvcEntry_W32Time
+DllRegisterServer
+DllUnregisterServer
+fnW32TmRegisterServiceCtrlHandlerEx
+fnW32TmSetServiceStatus
+SvchostEntry_W32Time
+SvchostPushServiceGlobals
+TimeProvClose
+TimeProvCommand
+TimeProvOpen
+W32TimeVerifyJoinConfig
+W32TimeVerifyUnjoinConfig
+W32TmServiceMain

@@ -1,4 +1,10 @@
+AudioGetCaptureDeviceInfo
+AudioGetRenderDeviceInfo
+AudioReleaseCaptureDeviceInfo
+AudioReleaseRenderDeviceInfo
 DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+GetNumVideoCapDevices
+GetVideoCapDeviceInfo

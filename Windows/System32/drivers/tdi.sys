@@ -5,6 +5,7 @@ CTEInitialize
 CTEInitString
 CTEInitTimer
 CTELogEvent
+CTEScheduleDelayedEvent
 CTEScheduleEvent
 CTESignal
 CTEStartTimer
@@ -12,6 +13,7 @@ CTESystemUpTime
 TdiBuildNetbiosAddress
 TdiBuildNetbiosAddressEa
 TdiCopyBufferToMdl
+TdiCopyMdlChainToMdlChain
 TdiCopyMdlToBuffer
 TdiDefaultChainedRcvDatagramHandler
 TdiDefaultChainedRcvExpeditedHandler
@@ -31,7 +33,6 @@ TdiDeregisterPnPHandlers
 TdiDeregisterProvider
 TdiEnumerateAddresses
 TdiInitialize
-TdiMapBuffer
 TdiMapUserRequest
 TdiMatchPdoWithChainedReceiveContext
 TdiOpenNetbiosAddress
@@ -45,4 +46,3 @@ TdiRegisterNotificationHandler
 TdiRegisterPnPHandlers
 TdiRegisterProvider
 TdiReturnChainedReceives
-TdiUnmapBuffer

@@ -7,6 +7,7 @@ FindDebugInfoFile
 FindDebugInfoFileEx
 FindExecutableImage
 FindExecutableImageEx
+FindFileInPath
 FindFileInSearchPath
 GetImageConfigInformation
 GetImageUnusedHeaderBytes
@@ -48,6 +49,9 @@ SymEnumerateSymbols
 SymEnumerateSymbols64
 SymEnumerateSymbolsW
 SymEnumerateSymbolsW64
+SymEnumSym
+SymFromAddr
+SymFromName
 SymFunctionTableAccess
 SymFunctionTableAccess64
 SymGetLineFromAddr
@@ -86,6 +90,7 @@ SymRegisterCallback
 SymRegisterCallback64
 SymRegisterFunctionEntryCallback
 SymRegisterFunctionEntryCallback64
+SymSetContext
 SymSetOptions
 SymSetSearchPath
 SymUnDName

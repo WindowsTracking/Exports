@@ -69,6 +69,8 @@ ldap_create_page_controlW
 ldap_create_sort_control
 ldap_create_sort_controlA
 ldap_create_sort_controlW
+ldap_create_vlv_controlA
+ldap_create_vlv_controlW
 ldap_delete
 ldap_delete_ext
 ldap_delete_ext_s
@@ -95,6 +97,8 @@ ldap_explode_dn
 ldap_explode_dnA
 ldap_explode_dnW
 ldap_extended_operation
+ldap_extended_operation_sA
+ldap_extended_operation_sW
 ldap_extended_operationA
 ldap_extended_operationW
 ldap_first_attribute
@@ -173,6 +177,8 @@ ldap_parse_resultW
 ldap_parse_sort_control
 ldap_parse_sort_controlA
 ldap_parse_sort_controlW
+ldap_parse_vlv_controlA
+ldap_parse_vlv_controlW
 ldap_perror
 ldap_rename_ext
 ldap_rename_ext_s
@@ -219,7 +225,10 @@ ldap_simple_bindW
 ldap_sslinit
 ldap_sslinitA
 ldap_sslinitW
+ldap_start_tls_sA
+ldap_start_tls_sW
 ldap_startup
+ldap_stop_tls_s
 ldap_ufn2dn
 ldap_ufn2dnA
 ldap_ufn2dnW

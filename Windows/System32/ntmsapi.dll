@@ -43,7 +43,12 @@ GetNtmsObjectInformationA
 GetNtmsObjectInformationW
 GetNtmsObjectSecurity
 GetNtmsRequestOrder
+GetNtmsUIOptionsA
+GetNtmsUIOptionsW
 GetProxyDllInfo
+GetVolumesFromDriveA
+GetVolumesFromDriveW
+IdentifyNtmsSlot
 ImportNtmsDatabase
 InjectNtmsCleaner
 InjectNtmsMedia
@@ -64,6 +69,8 @@ SetNtmsObjectInformationA
 SetNtmsObjectInformationW
 SetNtmsObjectSecurity
 SetNtmsRequestOrder
+SetNtmsUIOptionsA
+SetNtmsUIOptionsW
 SubmitNtmsOperatorRequestA
 SubmitNtmsOperatorRequestW
 SwapNtmsMedia

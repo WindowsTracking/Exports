@@ -2,6 +2,7 @@ ClassAcquireChildLock
 ClassAcquireRemoveLockEx
 ClassAsynchronousCompletion
 ClassBuildRequest
+ClassBuildRequestEx
 ClassCheckMediaState
 ClassClaimDevice
 ClassCleanupMediaChangeDetection
@@ -11,9 +12,11 @@ ClassDebugPrint
 ClassDeleteSrbLookasideList
 ClassDeviceControl
 ClassDisableMediaChangeDetection
+ClassEnableEmergencySrb
 ClassEnableMediaChangeDetection
 ClassFindModePage
 ClassForwardIrpSynchronous
+ClassFreeOrReuseSrb
 ClassGetDescriptor
 ClassGetDriverExtension
 ClassGetVpb
@@ -37,6 +40,7 @@ ClassReleaseQueue
 ClassReleaseRemoveLock
 ClassRemoveDevice
 ClassResetMediaChangeTimer
+ClassRetryRequest
 ClassSendDeviceIoControlSynchronous
 ClassSendIrpSynchronous
 ClassSendSrbAsynchronous

@@ -6,12 +6,12 @@ CsrCreateRemoteThread
 CsrCreateThread
 CsrCreateWait
 CsrDebugProcess
+CsrDebugProcessStop
 CsrDereferenceProcess
 CsrDereferenceThread
 CsrDereferenceWait
 CsrDestroyProcess
 CsrDestroyThread
-CsrGetApiPorts
 CsrGetProcessLuid
 CsrImpersonateClient
 CsrLockProcessByClientId

@@ -1,5 +1,7 @@
 CSCUIInitialize
+CSCUIIsTerminalServerCompatibleWithCSC
 CSCUIMsgProcess
+CSCUIOptionsPropertySheet
 CSCUIRemoveFolderFromCache
 CSCUISetState
 DllCanUnloadNow

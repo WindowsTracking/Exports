@@ -1,0 +1,6 @@
+ClosePopupTipbar
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetPopupTipbar

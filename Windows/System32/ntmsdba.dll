@@ -6,7 +6,6 @@
 ??0NtmsDbChangerType@@QAE@XZ
 ??0NtmsDbComputer@@QAE@PAVNtmsDbDataCtxt@@ABVNtmsDbGuid@@@Z
 ??0NtmsDbComputer@@QAE@XZ
-??0NtmsDbDataCtxt@@QAE@PBD0H@Z
 ??0NtmsDbDataCtxt@@QAE@PBG0@Z
 ??0NtmsDbDrive@@QAE@PAVNtmsDbDataCtxt@@ABVNtmsDbGuid@@@Z
 ??0NtmsDbDrive@@QAE@XZ
@@ -281,9 +280,6 @@
 ??_7NtmsDbSelectionSet@@6B@
 ??_7NtmsDbStorageSlot@@6B@
 ??_7NtmsTransaction@@6B@
-??_C@_01PCFE@?2?$AA@
-??_C@_0M@LBNN@wait?5failed?$AA@
-??_C@_0O@LBFB@NTMS?5Database?$AA@
 ??_FNtmsDbDataCtxt@@QAEXXZ
 ??_FNtmsDbList@@QAEXXZ
 ??ANtmsDbList@@QBEPAVNtmsDbListItem@@J@Z
@@ -383,7 +379,6 @@
 ?Computer_n@NtmsDbDrive@@QBEABVNtmsDbGuid@@XZ
 ?Computer_n@NtmsDbLibrary@@QBEABVNtmsDbGuid@@XZ
 ?ConcatString@NtmsDbString@@IAEXPBD@Z
-?Connect@NtmsDbDataCtxt@@QAEKPBD0@Z
 ?Connect@NtmsDbDataCtxt@@QAEKPBG0@Z
 ?ConvertMBString@NtmsDbString@@IAEXPBGKAAPADAAI@Z
 ?ConvertToString@NtmsDbPropBinary@@QBEXPAD@Z

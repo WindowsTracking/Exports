@@ -67,13 +67,17 @@ DhcpRemoveSubnetElementV5
 DhcpRpcFreeMemory
 DhcpScanDatabase
 DhcpScanMDatabase
+DhcpServerBackupDatabase
 DhcpServerGetConfig
 DhcpServerGetConfigV4
 DhcpServerQueryAttribute
 DhcpServerQueryAttributes
+DhcpServerQueryDnsRegCredentials
 DhcpServerRedoAuthorization
+DhcpServerRestoreDatabase
 DhcpServerSetConfig
 DhcpServerSetConfigV4
+DhcpServerSetDnsRegCredentials
 DhcpSetClientInfo
 DhcpSetClientInfoV4
 DhcpSetMScopeInfo

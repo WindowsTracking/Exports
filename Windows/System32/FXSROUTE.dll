@@ -1,0 +1,11 @@
+FaxExtInitializeConfig
+FaxRouteConfigure
+FaxRouteDeviceChangeNotification
+FaxRouteDeviceEnable
+FaxRouteEmail
+FaxRouteGetRoutingInfo
+FaxRouteInBox
+FaxRouteInitialize
+FaxRoutePrint
+FaxRouteSetRoutingInfo
+FaxRouteStore

@@ -1,3 +1,6 @@
+?GetSymVolName@@YGHPAG0@Z
+?GetSystemPartitionName@@YGHPAG@Z
+?GetSystemRoot@@YGHPAG@Z
 DisplayError
 DisplayErrorRgszw
 DllMain

@@ -1,0 +1,5 @@
+DllRegisterServer
+DllUnregisterServer
+GenerateGroupPolicyProc
+ProcessGroupPolicyProc
+ProcessGroupPolicyProcEx

@@ -12,6 +12,7 @@ PSetupDestroySelectedDriverInfo
 PSetupDriverInfoFromName
 PSetupEnumMonitor
 PSetupFreeDrvField
+PSetupFreeMem
 PSetupGetDriverInfForPrinter
 PSetupGetDriverInfo3
 PSetupGetLocalDataField
@@ -34,3 +35,5 @@ PSetupSelectDeviceButtons
 PSetupSelectDriver
 PSetupSetSelectDevTitleAndInstructions
 PSetupThisPlatform
+PSetupUpgradeClusterDriversW
+ServerInstallW

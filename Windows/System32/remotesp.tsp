@@ -123,8 +123,12 @@ TSPI_providerEnumDevices
 TSPI_providerFreeDialogInstance
 TSPI_providerGenericDialogData
 TSPI_providerInit
+TSPI_providerInstall
+TSPI_providerRemove
 TSPI_providerShutdown
 TSPI_providerUIIdentify
 TUISPI_lineConfigDialog
 TUISPI_lineConfigDialogEdit
 TUISPI_phoneConfigDialog
+TUISPI_providerInstall
+TUISPI_providerRemove

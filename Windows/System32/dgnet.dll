@@ -1,0 +1,15 @@
+??0COutput@@QAE@ABV0@@Z
+??0COutput@@QAE@XZ
+??1COutput@@QAE@XZ
+??4COutput@@QAEAAV0@ABV0@@Z
+??YCOutput@@QAEAAV0@ABV0@@Z
+?err@COutput@@QAAXPBDZZ
+?good@COutput@@QAAXPBDZZ
+?Reset@COutput@@QAEXXZ
+?Status@COutput@@QAEPBDXZ
+?warnErr@COutput@@QAAXPBDZZ
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer

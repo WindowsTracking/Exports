@@ -1,5 +1,7 @@
 EmptyWorkingSet
 EnumDeviceDrivers
+EnumPageFilesA
+EnumPageFilesW
 EnumProcesses
 EnumProcessModules
 GetDeviceDriverBaseNameA
@@ -13,6 +15,7 @@ GetModuleBaseNameW
 GetModuleFileNameExA
 GetModuleFileNameExW
 GetModuleInformation
+GetPerformanceInfo
 GetProcessMemoryInfo
 GetWsChanges
 InitializeProcessForWsWatch

@@ -1,13 +1,11 @@
-DevInstallRebootPromptW
-DevInstallUiOnlyW
+ClientSideInstallW
 DevInstallW
-DllInitialize
-InstallCDMDriver
 InstallDevInst
 InstallDevInstEx
 InstallNewDevice
 InstallSelectedDevice
 InstallSelectedDriver
 InstallWindowsUpdateDriver
+RollbackDriver
 UpdateDriverForPlugAndPlayDevicesA
 UpdateDriverForPlugAndPlayDevicesW

@@ -1,3 +1,6 @@
+DbgHelpCreateUserDump
+DbgHelpCreateUserDumpW
+dh
 EnumerateLoadedModules
 EnumerateLoadedModules64
 ExtensionApiVersion
@@ -5,6 +8,7 @@ FindDebugInfoFile
 FindDebugInfoFileEx
 FindExecutableImage
 FindExecutableImageEx
+FindFileInPath
 FindFileInSearchPath
 GetTimestampForLoadedLibrary
 ImageDirectoryEntryToData
@@ -14,8 +18,12 @@ ImagehlpApiVersionEx
 ImageNtHeader
 ImageRvaToSection
 ImageRvaToVa
+lmi
 MakeSureDirectoryPathExists
 MapDebugInformation
+MiniDumpReadDumpStream
+MiniDumpWriteDump
+se
 SearchTreeForFile
 StackWalk
 StackWalk64
@@ -27,8 +35,12 @@ SymEnumerateSymbols
 SymEnumerateSymbols64
 SymEnumerateSymbolsW
 SymEnumerateSymbolsW64
+SymEnumSym
+SymFromAddr
+SymFromName
 SymFunctionTableAccess
 SymFunctionTableAccess64
+SymGetFileLineOffsets64
 SymGetLineFromAddr
 SymGetLineFromAddr64
 SymGetLineFromName
@@ -65,6 +77,7 @@ SymRegisterCallback
 SymRegisterCallback64
 SymRegisterFunctionEntryCallback
 SymRegisterFunctionEntryCallback64
+SymSetContext
 SymSetOptions
 SymSetSearchPath
 SymSetSymWithAddr64

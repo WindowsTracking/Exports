@@ -10,9 +10,13 @@ DeviceProblemTextA
 DeviceProblemTextW
 DeviceProblemWizardA
 DeviceProblemWizardW
+DeviceProblenWizard_RunDLLA
+DeviceProblenWizard_RunDLLW
 DeviceProperties_RunDLLA
 DeviceProperties_RunDLLW
 DevicePropertiesA
+DevicePropertiesExA
+DevicePropertiesExW
 DevicePropertiesW
 DllCanUnloadNow
 DllGetClassObject

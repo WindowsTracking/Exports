@@ -15,6 +15,16 @@
 #215
 #216
 #217
+#218
+#219
+#220
+#221
+#222
+#223
+#224
+#226
+#227
+#228
 AbortPrinter
 AddFormA
 AddFormW
@@ -138,7 +148,6 @@ GetPrinterW
 GetPrintProcessorDirectoryA
 GetPrintProcessorDirectoryW
 GetSpoolFileHandle
-InitializeDll
 OpenPrinterA
 OpenPrinterW
 PerfClose

@@ -1,4 +1,3 @@
-ScsiDebugPrint
 TapeClassAllocateSrbBuffer
 TapeClassCompareMemory
 TapeClassInitialize
@@ -6,3 +5,4 @@ TapeClassLiDiv
 TapeClassLogicalBlockToPhysicalBlock
 TapeClassPhysicalBlockToLogicalBlock
 TapeClassZeroMemory
+TapeDebugPrint

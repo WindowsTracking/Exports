@@ -1,5 +1,6 @@
 GetTapi16CallbackMsg
 internalConfig
+internalCreateDefLocation
 internalNewLocationW
 internalPerformance
 internalRemoveLocation
@@ -202,6 +203,7 @@ LOpenDialAsst
 MMCAddProvider
 MMCConfigProvider
 MMCGetAvailableProviders
+MMCGetDeviceFlags
 MMCGetLineInfo
 MMCGetLineStatus
 MMCGetPhoneInfo

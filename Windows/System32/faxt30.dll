@@ -1,7 +1,0 @@
-FaxDevAbortOperation
-FaxDevEndJob
-FaxDevInitialize
-FaxDevReceive
-FaxDevReportStatus
-FaxDevSend
-FaxDevStartJob

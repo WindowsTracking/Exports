@@ -5,6 +5,7 @@
 ?DXOverArray@@YGXPAVDXPMSAMPLE@@PBV1@K@Z
 ?DXOverArrayMMX@@YGXPAVDXPMSAMPLE@@PBV1@K@Z
 DllCanUnloadNow
+DllEnumClassObjects
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer

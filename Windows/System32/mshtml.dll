@@ -14,8 +14,6 @@ PrintHTML
 RNIGetCompatibleVersion
 RunHTMLApplication
 ShowHTMLDialog
+ShowHTMLDialogEx
 ShowModalDialog
 ShowModelessHTMLDialog
-SvrTri_ClearCache
-SvrTri_GetDLText
-SvrTri_NormalizeUA

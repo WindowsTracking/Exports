@@ -1,7 +1,14 @@
 CloseCDMContext
-DownloadGetUpdatedFiles
+DetFilesDownloaded
 DownloadIsInternetAvailable
 DownloadUpdatedFiles
+FindMatchingDriver
 GetPackage
+InternalDetFilesDownloaded
+InternalFindMatchingDriver
+InternalLogDriverNotFound
+InternalQueryDetectionFiles
+LogDriverNotFound
 OpenCDMContext
-RealDownloadGetUpdatedFiles
+OpenCDMContextEx
+QueryDetectionFiles

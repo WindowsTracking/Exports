@@ -1,17 +1,11 @@
 swchAvoidScanChar
 swchCloseSwitchPort
-swchGetDeviceNumber
 swchGetDeviceType
 swchGetSwitchConfig
 swchGetSwitchDevice
-swchGetSwitchList
 swchOpenSwitchPort
-swchReadSwitches
 swchSetSwitchConfig
 swcKeyboardHookProc
-swcLptDbgGetCtrStatus
-swcLptDbgGetData
-swcLptDbgGetPrtStatus
 XswchEndAll
 XswchPollSwitches
 XswchRegHelperWnd

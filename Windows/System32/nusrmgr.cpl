@@ -1,0 +1,6 @@
+CPlApplet
+DllCanUnloadNow
+DllGetClassObject
+DllInstall
+DllRegisterServer
+DllUnregisterServer

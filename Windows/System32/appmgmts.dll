@@ -6,9 +6,10 @@ CsGetClassStore
 CsGetClassStorePath
 CsRegisterAppCategory
 CsUnregisterAppCategory
+GenerateGroupPolicy
 IID_IClassAdmin
-ProcessGroupPolicyObjects
+ProcessGroupPolicyObjectsEx
 ReleaseAppCategoryInfoList
 ReleasePackageDetail
 ReleasePackageInfo
-ServiceEntry
+ServiceMain

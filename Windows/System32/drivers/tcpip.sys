@@ -19,6 +19,7 @@ IPSetIPSecStatus
 IPTransmit
 LookupRoute
 LookupRouteInformation
+LookupRouteInformationWithBuffer
 SendICMPErr
 SetIPSecPtr
 tcpxsum

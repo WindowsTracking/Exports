@@ -1,5 +1,5 @@
-ChangeAppIDAccessACL
-ChangeAppIDLaunchACL
+??4CCaptureFile@@QAEAAV0@ABV0@@Z
+??4IDS@@QAEAAV0@ABV0@@Z
 ClearEventData
 CreateBlob
 CreateNPPInterface
@@ -28,6 +28,12 @@ IsRemoteNPP
 LockBlob
 MarshalBlob
 MergeBlob
+NmAddUsedEntry
+NmHeapAllocate
+NmHeapFree
+NmHeapReallocate
+NmHeapSize
+NmRemoveUsedEntry
 RaiseNMEvent
 ReadBlobFromFile
 recursiveDeleteKey

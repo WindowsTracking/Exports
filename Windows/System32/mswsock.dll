@@ -15,12 +15,17 @@ GetTypeByNameW
 inet_network
 MigrateWinsockConfiguration
 NPLoadNameSpaces
+NSPStartup
 rcmd
 rexec
 rresvport
 s_perror
+ServiceMain
 sethostname
 SetServiceA
 SetServiceW
 TransmitFile
 WSARecvEx
+WSPGetSockOpt
+WSPSetSockOpt
+WSPStartup

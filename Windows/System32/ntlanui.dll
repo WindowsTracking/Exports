@@ -1,6 +1,4 @@
 DllMain
-GetUIErrorString
-I_GetCredentials
 I_SystemFocusDialog
 NPGetPropertyText
 NPPropertyDialog

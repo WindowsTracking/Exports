@@ -11,5 +11,7 @@ CryptRetrieveObjectByUrlW
 CryptUninstallCancelRetrieval
 DllRegisterServer
 DllUnregisterServer
+I_CryptNetGetHostNameFromUrl
 I_CryptNetGetUserDsStoreUrl
+I_CryptNetIsConnected
 LdapProvOpenStore

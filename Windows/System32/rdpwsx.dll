@@ -1,0 +1,14 @@
+WsxBrokenConnection
+WsxClearContext
+WsxConnect
+WsxCopyContext
+WsxDisconnect
+WsxDuplicateContext
+WsxIcaStackIoControl
+WsxInitialize
+WsxInitializeClientData
+WsxLogonNotify
+WsxVirtualChannelSecurity
+WsxWinStationInitialize
+WsxWinStationReInitialize
+WsxWinStationRundown

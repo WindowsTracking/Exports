@@ -1,0 +1,4 @@
+DllRegisterServer
+DllUnregisterServer
+SCCPDllCanUnloadNow
+SCCPDllGetClassObject

@@ -1,2 +1,3 @@
 I_BrowserServerEnumForXactsrv
-SvcEntry_Browser
+ServiceMain
+SvchostPushServiceGlobals

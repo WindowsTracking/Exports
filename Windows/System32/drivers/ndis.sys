@@ -20,6 +20,7 @@ NdisAllocateSpinLock
 NdisAnsiStringToUnicodeString
 NdisBufferLength
 NdisBufferVirtualAddress
+NdisCancelSendPackets
 NdisCancelTimer
 NdisClAddParty
 NdisClCloseAddressFamily
@@ -85,14 +86,19 @@ NdisFreePacket
 NdisFreePacketPool
 NdisFreeSpinLock
 NdisFreeToBlockPool
+NdisGeneratePartialCancelId
 NdisGetBufferPhysicalArraySize
 NdisGetCurrentProcessorCounts
 NdisGetCurrentProcessorCpuUsage
 NdisGetCurrentSystemTime
 NdisGetDriverHandle
 NdisGetFirstBufferFromPacket
+NdisGetFirstBufferFromPacketSafe
+NdisGetPacketCancelId
 NdisGetPoolFromPacket
 NdisGetReceivedPacket
+NdisGetRoutineAddress
+NdisGetSharedDataAlignment
 NdisGetSystemUpTime
 NdisIMAssociateMiniport
 NdisIMCancelInitializeDeviceInstance
@@ -115,6 +121,7 @@ NdisImmediateWritePortUchar
 NdisImmediateWritePortUlong
 NdisImmediateWritePortUshort
 NdisImmediateWriteSharedMemory
+NdisIMNotifyPnPEvent
 NdisIMQueueMiniportCallback
 NdisIMRegisterLayeredMiniport
 NdisIMRevertBack
@@ -171,6 +178,7 @@ NdisMIndicateStatusComplete
 NdisMInitializeScatterGatherDma
 NdisMInitializeTimer
 NdisMMapIoSpace
+NdisMNotifyPnPEvent
 NdisMPciAssignResources
 NdisMPromoteMiniport
 NdisMQueryAdapterInstanceName
@@ -218,6 +226,7 @@ NdisQueryBuffer
 NdisQueryBufferOffset
 NdisQueryBufferSafe
 NdisQueryMapRegisterCount
+NdisQueryPendingIOCount
 NdisReadConfiguration
 NdisReadEisaSlotInformation
 NdisReadEisaSlotInformationEx
@@ -238,6 +247,7 @@ NdisScheduleWorkItem
 NdisSend
 NdisSendPackets
 NdisSetEvent
+NdisSetPacketCancelId
 NdisSetPacketPoolProtocolId
 NdisSetProtocolFilter
 NdisSetTimer

@@ -4,7 +4,9 @@ DllRegisterServer
 DllUnregisterServer
 IASAdler32
 IASAllocateUniqueID
+IASGetDictionary
 IASGetHostByName
+IASGetLocalDictionary
 IASInitialize
 IASRadiusCrypt
 IASRegisterComponent

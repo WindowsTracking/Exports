@@ -2,7 +2,9 @@ NatAcquirePortReservation
 NatCancelDynamicRedirect
 NatCancelRedirect
 NatCreateDynamicRedirect
+NatCreateDynamicRedirectEx
 NatCreateRedirect
+NatCreateRedirectEx
 NatInitializePortReservation
 NatInitializeTranslator
 NatLookupAndQueryInformationSessionMapping

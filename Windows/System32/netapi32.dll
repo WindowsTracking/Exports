@@ -7,16 +7,23 @@ DsDeregisterDnsHostRecordsW
 DsEnumerateDomainTrustsA
 DsEnumerateDomainTrustsW
 DsGetDcClose
+DsGetDcCloseW
 DsGetDcNameA
 DsGetDcNameW
 DsGetDcNameWithAccountA
 DsGetDcNameWithAccountW
 DsGetDcNext
+DsGetDcNextA
+DsGetDcNextW
 DsGetDcOpen
+DsGetDcOpenA
+DsGetDcOpenW
 DsGetDcSiteCoverageA
 DsGetDcSiteCoverageW
+DsGetForestTrustInformationW
 DsGetSiteNameA
 DsGetSiteNameW
+DsMergeForestTrustInformationW
 DsRoleAbortDownlevelServerUpgrade
 DsRoleCancel
 DsRoleDcAsDc
@@ -24,6 +31,7 @@ DsRoleDcAsReplica
 DsRoleDemoteDc
 DsRoleDnsNameToFlatName
 DsRoleFreeMemory
+DsRoleGetDatabaseFacts
 DsRoleGetDcOperationProgress
 DsRoleGetDcOperationResults
 DsRoleGetPrimaryDomainInformation
@@ -59,6 +67,7 @@ I_NetDfsModifyPrefix
 I_NetDfsSetLocalVolumeState
 I_NetDfsSetServerInfo
 I_NetGetDCList
+I_NetGetForestTrustInformation
 I_NetListCanonicalize
 I_NetListTraverse
 I_NetlogonComputeClientDigest
@@ -88,6 +97,7 @@ I_NetServerPasswordSet2
 I_NetServerReqChallenge
 I_NetServerSetServiceBits
 I_NetServerSetServiceBitsEx
+I_NetServerTrustPasswordsGet
 NetAlertRaise
 NetAlertRaiseEx
 NetApiBufferAllocate
@@ -168,7 +178,6 @@ NetpAccessCheckAndAudit
 NetpAllocConfigName
 NetpAllocStrFromStr
 NetpAllocStrFromWStr
-NetpAllocTStrFromString
 NetpAllocWStrFromStr
 NetpAllocWStrFromWStr
 NetpApiStatusToNtStatus

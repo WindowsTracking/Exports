@@ -6,6 +6,7 @@ DllGetClassObject
 DllInstall
 DllRegisterServer
 DllUnregisterServer
+DownloadFile
 GetICifFileFromFile
 GetICifRWFileFromFile
 PurgeDownloadDirectory

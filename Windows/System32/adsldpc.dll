@@ -25,6 +25,7 @@ ADsGetNextColumnName
 ADsGetNextRow
 ADsGetObjectAttributes
 ADsGetPreviousRow
+ADsHelperGetCurrentRowMessage
 ADSIAbandonSearch
 ADSICloseDSObject
 ADSICloseSearchHandle
@@ -85,6 +86,7 @@ IsGCNamespace
 LdapAddExtS
 LdapAddS
 LdapAttributeFree
+LdapCacheAddRef
 LdapcKeepHandleAround
 LdapCloseObject
 LdapCompareExt
@@ -103,9 +105,11 @@ LdapGetDn
 LdapGetNextPageS
 LdapGetSchemaObjectCount
 LdapGetSubSchemaSubEntryPath
+LdapGetSyntaxIdOfAttribute
 LdapGetSyntaxOfAttributeOnServer
 LdapGetValues
 LdapGetValuesLen
+LdapInitializeSearchPreferences
 LdapIsClassNameValidOnServer
 LdapMakeSchemaCacheObsolete
 LdapMemFree
@@ -140,6 +144,8 @@ LdapTypeToAdsTypeGeneralizedTime
 LdapTypeToAdsTypeUTCTime
 LdapValueFree
 LdapValueFreeLen
+MapADSTypeToLDAPType
+MapLDAPTypeToADSType
 PathName
 ReadPagingSupportedAttr
 ReadSecurityDescriptorControlType

@@ -1,2 +1,4 @@
 CPlApplet
 DebugMain
+DllRegisterServer
+DllUnregisterServer

@@ -2,7 +2,7 @@ CdromDisableDigitalPlayback
 CdromEnableDigitalPlayback
 CdromIsDigitalPlaybackEnabled
 CdromKnownGoodDigitalPlayback
-DiskPropPageProvider
+DiskClassInstaller
 DllMain
 DvdClassInstaller
 DvdLauncher

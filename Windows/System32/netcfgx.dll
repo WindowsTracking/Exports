@@ -1,3 +1,4 @@
+??4WLBS_REG_PARAMS@@QAEAAU0@ABU0@@Z
 DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
@@ -13,5 +14,3 @@ RasCountBindings
 RasRemoveBindings
 SvchostChangeSvchostGroup
 UpdateLanaConfigUsingAnswerfile
-WlbsInitParams
-WlbsSetNetworkAddress

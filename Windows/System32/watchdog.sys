@@ -1,0 +1,17 @@
+WdAllocateDeferredWatchdog
+WdAllocateWatchdog
+WdDdiWatchdogDpcCallback
+WdEnterMonitoredSection
+WdExitMonitoredSection
+WdFreeDeferredWatchdog
+WdFreeWatchdog
+WdResetDeferredWatch
+WdResetWatch
+WdResumeDeferredWatch
+WdResumeWatch
+WdStartDeferredWatch
+WdStartWatch
+WdStopDeferredWatch
+WdStopWatch
+WdSuspendDeferredWatch
+WdSuspendWatch

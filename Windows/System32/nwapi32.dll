@@ -71,6 +71,7 @@ NwNdsAddObject
 NwNdsChangePassword
 NwNdsChangeUserPassword
 NwNdsCloseObject
+NwNdsConnHandleFree
 NwNdsCreateBuffer
 NwNdsCreateQueryNode
 NwNdsDefineAttribute
@@ -94,6 +95,7 @@ NwNdsList
 NwNdsListSubObjects
 NwNdsModifyObject
 NwNdsMoveObject
+NwNdsObjectHandleToConnHandle
 NwNdsOpenGenericHandle
 NwNdsOpenObject
 NwNdsOpenStream

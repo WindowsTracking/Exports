@@ -14,6 +14,7 @@ AdsTypeToPropVariant
 AdsTypeToPropVariant2
 AllocADsMem
 AllocADsStr
+BinarySDToSecurityDescriptor
 ConvertSecDescriptorToVariant
 ConvertSecurityDescriptorToSecDes
 DllCanUnloadNow
@@ -26,3 +27,4 @@ PropVariantToAdsType
 PropVariantToAdsType2
 ReallocADsMem
 ReallocADsStr
+SecurityDescriptorToBinarySD

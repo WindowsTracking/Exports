@@ -67,6 +67,7 @@ WNetOpenEnumW
 WNetPasswordChangeNotify
 WNetPropertyDialogA
 WNetPropertyDialogW
+WNetRestoreConnection2W
 WNetRestoreConnectionW
 WNetSetConnectionA
 WNetSetConnectionW

@@ -102,3 +102,4 @@ MimeOleSMimeCapsFromDlg
 MimeOleSMimeCapsFull
 MimeOleSMimeCapsToDlg
 MimeOleStripHeaders
+MimeOleUnEscapeStringInPlace

@@ -23,6 +23,7 @@ RasDeviceGetInfo
 RasDeviceSetInfo
 RasDoIke
 RasEnableIpSec
+RasEnableRasAudio
 RasEnumConnectionPorts
 RasEnumLanNets
 RasFindPrerequisiteEntry
@@ -119,7 +120,6 @@ RasRpcGetInstalledProtocolsEx
 RasRpcGetSystemDirectory
 RasRpcGetUserPreferences
 RasRpcGetVersion
-RasRpcLoadDll
 RasRpcPortEnum
 RasRpcPortGetInfo
 RasRpcRemoteGetSystemDirectory
@@ -137,6 +137,7 @@ RasServerPortClose
 RasSetBapPolicy
 RasSetCachedCredentials
 RasSetCalledIdInfo
+RasSetCommSettings
 RasSetConnectionParams
 RasSetConnectionUserData
 RasSetDevConfig

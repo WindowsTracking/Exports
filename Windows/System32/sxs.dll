@@ -1,0 +1,14 @@
+#1
+CreateAssemblyCache
+CreateAssemblyCacheItem
+CreateAssemblyNameObject
+SxsBeginAssemblyInstall
+SxsEndAssemblyInstall
+SxsGenerateActivationContext
+SxsInstallAssemblyW
+SxsOleAut32MapReferenceClsidToConfiguredClsid
+SxsOleAut32RedirectTypeLibrary
+SxspRunDllDeleteDirectory
+SxspRunDllDeleteDirectoryW
+SxsRunDllInstallAssembly
+SxsRunDllInstallAssemblyW

@@ -20,7 +20,9 @@ AllocateAndGetIfTableFromStack
 AllocateAndGetIpAddrTableFromStack
 AllocateAndGetIpForwardTableFromStack
 AllocateAndGetIpNetTableFromStack
+AllocateAndGetTcpExTableFromStack
 AllocateAndGetTcpTableFromStack
+AllocateAndGetUdpExTableFromStack
 AllocateAndGetUdpTableFromStack
 CreateIpForwardEntry
 CreateIpNetEntry
@@ -29,11 +31,15 @@ DeleteIPAddress
 DeleteIpForwardEntry
 DeleteIpNetEntry
 DeleteProxyArpEntry
+DisableMediaSense
+do_echo_rep
+do_echo_req
 EnableRouter
 FlushIpNetTable
 FlushIpNetTableFromStack
 GetAdapterIndex
 GetAdapterOrderMap
+GetAdaptersAddresses
 GetAdaptersInfo
 GetBestInterface
 GetBestInterfaceFromStack
@@ -69,6 +75,11 @@ GetUdpStatsFromStack
 GetUdpTable
 GetUdpTableFromStack
 GetUniDirectionalAdapterInfo
+IcmpCloseHandle
+IcmpCreateFile
+IcmpParseReplies
+IcmpSendEcho
+IcmpSendEcho2
 InternalCreateIpForwardEntry
 InternalCreateIpNetEntry
 InternalDeleteIpForwardEntry
@@ -88,6 +99,7 @@ IpReleaseAddress
 IpRenewAddress
 IsLocalAddress
 NhGetGuidFromInterfaceName
+NhGetInterfaceNameFromDeviceGuid
 NhGetInterfaceNameFromGuid
 NhpAllocateAndGetInterfaceInfoFromStack
 NhpGetInterfaceIndexFromStack
@@ -96,6 +108,8 @@ NotifyRouteChange
 NotifyRouteChangeEx
 NTPTimeToNTFileTime
 NTTimeToNTPTime
+register_icmp
+RestoreMediaSense
 SendARP
 SetAdapterIpAddress
 SetBlockRoutes

@@ -1,0 +1,7 @@
+CreateMinidumpA
+CreateMinidumpW
+ReportFaultA
+ReportFaultW
+ReportHang
+ReportKernelFaultA
+ReportKernelFaultW

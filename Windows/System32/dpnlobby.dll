@@ -1,0 +1,5 @@
+DirectPlay8LobbyCreate
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -1,5 +1,4 @@
 DevQueryPrintEx
-DllInitialize
 DrvConvertDevMode
 DrvDeviceCapabilities
 DrvDevicePropertySheets

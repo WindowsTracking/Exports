@@ -1,4 +1,5 @@
 AddScript
+AllocAndGetEnvironmentVariable
 CreateScriptList
 CreateScriptListOfStr
 DeleteScriptsRsopData
@@ -11,7 +12,12 @@ GenerateScriptsGroupPolicy
 GetNamespace
 GPOIDFromPath
 LogScriptsRsopData
+PathUnquoteSpaces
+PrependToPath
 ProcessIPSECPolicy
+ProcessPSCHEDPolicy
 ProcessScriptsGroupPolicy
 ProcessScriptsGroupPolicyEx
+RSoPRunGPOScripts
 UpdateScriptsRsopData
+UpdateUserEnvironment

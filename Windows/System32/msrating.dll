@@ -10,6 +10,13 @@ RatingAccessDeniedDialog
 RatingAccessDeniedDialog2
 RatingAddPropertyPages
 RatingCheckUserAccess
+RatingCustomAddRatingHelper
+RatingCustomAddRatingSystem
+RatingCustomCrackData
+RatingCustomInit
+RatingCustomRemoveRatingHelper
+RatingCustomSetDefaultBureau
+RatingCustomSetUserOptions
 RatingEnable
 RatingEnabledQuery
 RatingFreeDetails

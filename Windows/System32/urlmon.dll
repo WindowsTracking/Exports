@@ -20,6 +20,7 @@ CreateAsyncBindCtx
 CreateAsyncBindCtxEx
 CreateFormatEnumerator
 CreateURLMoniker
+CreateURLMonikerEx
 DllCanUnloadNow
 DllGetClassObject
 DllInstall

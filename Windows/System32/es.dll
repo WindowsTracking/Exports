@@ -5,6 +5,6 @@ DllUnregisterServer
 LCEControlServer
 NotifyLogoffUser
 NotifyLogonUser
-RegisterTheFrigginEventServiceAfterSetup
-RegisterTheFrigginEventServiceDuringSetup
+RegisterTheEventServiceAfterSetup
+RegisterTheEventServiceDuringSetup
 ServiceMain

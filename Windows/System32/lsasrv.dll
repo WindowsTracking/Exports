@@ -11,9 +11,13 @@ LsaICallPackage
 LsaICallPackageEx
 LsaICallPackagePassthrough
 LsaICancelNotification
+LsaICryptProtectData
+LsaICryptUnprotectData
 LsaIDsNotifiedObjectChange
 LsaIEnumerateSecrets
 LsaIEventNotify
+LsaIFilterSids
+LsaIForestTrustFindMatch
 LsaIFree_LSAI_PRIVATE_DATA
 LsaIFree_LSAI_SECRET_ENUM_BUFFER
 LsaIFree_LSAP_SITE_INFO
@@ -34,7 +38,7 @@ LsaIFree_LSAPR_TRUSTED_DOMAIN_INFO
 LsaIFree_LSAPR_TRUSTED_ENUM_BUFFER
 LsaIFree_LSAPR_TRUSTED_ENUM_BUFFER_EX
 LsaIFree_LSAPR_UNICODE_STRING
-LsaIFreeDomainOrgInfo
+LsaIFree_LSAPR_UNICODE_STRING_BUFFER
 LsaIFreeForestTrustInfo
 LsaIFreeReturnBuffer
 LsaIGetBootOption
@@ -49,10 +53,8 @@ LsaIIsClassIdLsaClass
 LsaIIsDsPaused
 LsaIKerberosRegisterTrustNotification
 LsaILookupWellKnownName
+LsaINotifyPasswordChanged
 LsaIOpenPolicyTrusted
-LsaIOssAlloc
-LsaIOssFree
-LsaIQueryDomainOrgInfo
 LsaIQueryForestTrustInfo
 LsaIQueryInformationPolicyTrusted
 LsaIQuerySiteInfo

@@ -21,6 +21,7 @@ MsiConfigureProductA
 MsiConfigureProductExA
 MsiConfigureProductExW
 MsiConfigureProductW
+MsiCreateAndVerifyInstallerDirectory
 MsiCreateRecord
 MsiCreateTransformSummaryInfoA
 MsiCreateTransformSummaryInfoW
@@ -50,6 +51,8 @@ MsiEnableLogW
 MsiEnableUIPreview
 MsiEnumClientsA
 MsiEnumClientsW
+MsiEnumComponentCostsA
+MsiEnumComponentCostsW
 MsiEnumComponentQualifiersA
 MsiEnumComponentQualifiersW
 MsiEnumComponentsA
@@ -82,6 +85,10 @@ MsiGetFeatureUsageA
 MsiGetFeatureUsageW
 MsiGetFeatureValidStatesA
 MsiGetFeatureValidStatesW
+MsiGetFileHashA
+MsiGetFileHashW
+MsiGetFileSignatureInformationA
+MsiGetFileSignatureInformationW
 MsiGetFileVersionA
 MsiGetFileVersionW
 MsiGetLanguage
@@ -139,6 +146,8 @@ MsiPreviewDialogW
 MsiProcessAdvertiseScriptA
 MsiProcessAdvertiseScriptW
 MsiProcessMessage
+MsiProvideAssemblyA
+MsiProvideAssemblyW
 MsiProvideComponentA
 MsiProvideComponentFromDescriptorA
 MsiProvideComponentFromDescriptorW

@@ -3,7 +3,6 @@ SnmpMgrClose
 SnmpMgrCtl
 SnmpMgrGetTrap
 SnmpMgrGetTrapEx
-SnmpMgrMIB2Disk
 SnmpMgrOidToStr
 SnmpMgrOpen
 SnmpMgrRequest
