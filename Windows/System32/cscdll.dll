@@ -47,6 +47,7 @@ CSCQueryFileStatusW
 CSCQueryShareStatusA
 CSCQueryShareStatusW
 CSCSetMaxSpace
+CSCShareIdToShareName
 CSCTransitionServerOnlineA
 CSCTransitionServerOnlineW
 CSCUnpinFileA

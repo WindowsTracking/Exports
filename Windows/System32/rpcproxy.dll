@@ -1,6 +1,0 @@
-DllRegisterServer
-DllUnregisterServer
-GetExtensionVersion
-GetFilterVersion
-HttpExtensionProc
-HttpFilterProc

@@ -8,5 +8,7 @@ DllRegisterServer
 DllUnregisterServer
 NetAccessWizard
 NetPlacesWizardDoModal
+PassportWizardRunDll
+PublishRunDll
 SHDisconnectNetDrives
 UsersRunDll

@@ -1,0 +1,5 @@
+ChangerClassAllocatePool
+ChangerClassDebugPrint
+ChangerClassFreePool
+ChangerClassInitialize
+ChangerClassSendSrbSynchronous

@@ -1,0 +1,8 @@
+JgaDBlockQuery
+JgaDecodeBlock
+JgaDecodeCreate
+JgaDecodeDestroy
+JgaDecodeHook
+JgaDecodeUnhook
+JgaDecodeWorkSpaceNeeded
+JgaSpeechHeaderUnpack

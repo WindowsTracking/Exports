@@ -12,8 +12,6 @@ RasMonitorDlgA
 RasMonitorDlgW
 RasPhonebookDlgA
 RasPhonebookDlgW
-RasSharedAccessSettingsDlg
-RasSharingAndFirewallSettingsDlg
 RasSrvAddPropPages
 RasSrvAddWizPages
 RasSrvAllowConnectionsConfig
@@ -28,7 +26,9 @@ RasUserEnableManualDial
 RasUserGetManualDial
 RasUserPrefsDlg
 RasWizCreateNewEntry
+RasWizGetNCCFlags
 RasWizGetSuggestedEntryName
+RasWizGetUserInputConnectionName
 RasWizIsEntryRenamable
 RasWizQueryMaxPageCount
 RasWizSetEntryName

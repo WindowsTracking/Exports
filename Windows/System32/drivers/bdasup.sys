@@ -5,12 +5,14 @@ BdaCreateFilterFactoryEx
 BdaCreatePin
 BdaCreateTopology
 BdaDeletePin
+BdaFilterFactoryUpdateCacheData
 BdaGetChangeState
 BdaInitFilter
 BdaMethodCreatePin
 BdaMethodCreateTopology
 BdaMethodDeletePin
 BdaPropertyGetControllingPinId
+BdaPropertyGetPinControl
 BdaPropertyNodeDescriptors
 BdaPropertyNodeEvents
 BdaPropertyNodeMethods

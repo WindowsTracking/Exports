@@ -57,7 +57,6 @@ FaxGetJobExW
 FaxGetJobW
 FaxGetLoggingCategoriesA
 FaxGetLoggingCategoriesW
-FaxGetManualAnswerDevice
 FaxGetMessageA
 FaxGetMessageTiffA
 FaxGetMessageTiffW
@@ -75,9 +74,11 @@ FaxGetReceiptsConfigurationW
 FaxGetReceiptsOptions
 FaxGetRecipientInfoA
 FaxGetRecipientInfoW
+FaxGetReportedServerAPIVersion
 FaxGetRoutingInfoA
 FaxGetRoutingInfoW
 FaxGetSecurity
+FaxGetSecurityEx
 FaxGetSenderInfoA
 FaxGetSenderInformation
 FaxGetSenderInfoW
@@ -89,13 +90,13 @@ FaxInitializeEventQueue
 FaxOpenPort
 FaxPrintCoverPageA
 FaxPrintCoverPageW
-FaxRegisterForExtensionEventsA
-FaxRegisterForExtensionEventsW
+FaxRefreshArchive
 FaxRegisterForServerEvents
 FaxRegisterRoutingExtensionW
 FaxRegisterServiceProviderExA
 FaxRegisterServiceProviderExW
 FaxRegisterServiceProviderW
+FaxRelease
 FaxRemoveMessage
 FaxRemoveOutboundGroupA
 FaxRemoveOutboundGroupW
@@ -123,7 +124,6 @@ FaxSetJobA
 FaxSetJobW
 FaxSetLoggingCategoriesA
 FaxSetLoggingCategoriesW
-FaxSetManualAnswerDevice
 FaxSetOutboundGroupA
 FaxSetOutboundGroupW
 FaxSetOutboundRuleA
@@ -144,7 +144,6 @@ FaxStartMessagesEnum
 FaxStartPrintJob2W
 FaxStartPrintJobA
 FaxStartPrintJobW
-FaxUnregisterForExtensionEvents
 FaxUnregisterForServerEvents
 FaxUnregisterRoutingExtensionA
 FaxUnregisterRoutingExtensionW
@@ -152,3 +151,4 @@ FaxUnregisterServiceProviderExA
 FaxUnregisterServiceProviderExW
 FXSAPIFree
 FXSAPIInitialize
+IsDeviceVirtual

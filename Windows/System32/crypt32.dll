@@ -212,6 +212,7 @@ CryptSIPPutSignedDataMsg
 CryptSIPRemoveProvider
 CryptSIPRemoveSignedDataMsg
 CryptSIPRetrieveSubjectGuid
+CryptSIPRetrieveSubjectGuidForCatalogFile
 CryptSIPVerifyIndirectData
 CryptStringToBinaryA
 CryptStringToBinaryW

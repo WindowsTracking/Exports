@@ -1,13 +1,9 @@
 CloseCDMContext
 DetFilesDownloaded
+DownloadGetUpdatedFiles
 DownloadIsInternetAvailable
 DownloadUpdatedFiles
 FindMatchingDriver
-GetPackage
-InternalDetFilesDownloaded
-InternalFindMatchingDriver
-InternalLogDriverNotFound
-InternalQueryDetectionFiles
 LogDriverNotFound
 OpenCDMContext
 OpenCDMContextEx

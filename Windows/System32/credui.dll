@@ -2,10 +2,6 @@ CredUICmdLinePromptForCredentialsA
 CredUICmdLinePromptForCredentialsW
 CredUIConfirmCredentialsA
 CredUIConfirmCredentialsW
-CredUIGetCredentialsA
-CredUIGetCredentialsW
-CredUIGetPasswordA
-CredUIGetPasswordW
 CredUIInitControls
 CredUIParseUserNameA
 CredUIParseUserNameW

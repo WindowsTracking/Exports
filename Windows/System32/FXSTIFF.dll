@@ -3,7 +3,11 @@ ConvMmrPageHiResToMrLoRes
 ConvMmrPageToMh
 ConvMmrPageToMrSameRes
 FindNextEol
+FreeMsTagInfo
 FXSTIFFInitialize
+GetMsTagString
+GetW2kMsTiffTags
+MemoryMapTiffFile
 MergeTiffFiles
 MmrAddBranding
 PrintTiffFile

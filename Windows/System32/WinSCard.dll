@@ -26,7 +26,6 @@ SCardGetCardTypeProviderNameA
 SCardGetCardTypeProviderNameW
 SCardGetProviderIdA
 SCardGetProviderIdW
-SCardGetStartedEvent
 SCardGetStatusChangeA
 SCardGetStatusChangeW
 SCardIntroduceCardTypeA
@@ -45,6 +44,8 @@ SCardListReaderGroupsW
 SCardListReadersA
 SCardListReadersW
 SCardLocateCardsA
+SCardLocateCardsByATRA
+SCardLocateCardsByATRW
 SCardLocateCardsW
 SCardReconnect
 SCardReleaseAllEvents

@@ -1,3 +1,6 @@
+CredentialUpdateFree
+CredentialUpdateNotify
+CredentialUpdateRegister
 SpInitialize
 SpInstanceInit
 SpLsaModeInitialize

@@ -35,7 +35,6 @@
 ??0NtmsDbLogicalMedia@@QAE@XZ
 ??0NtmsDbMediaPool@@QAE@PAVNtmsDbDataCtxt@@ABVNtmsDbGuid@@@Z
 ??0NtmsDbMediaPool@@QAE@XZ
-??0NtmsDbMediaType@@QAE@ABV0@@Z
 ??0NtmsDbMediaType@@QAE@PAVNtmsDbDataCtxt@@ABVNtmsDbGuid@@@Z
 ??0NtmsDbMediaType@@QAE@XZ
 ??0NtmsDbObject@@QAE@ABV0@@Z
@@ -97,6 +96,8 @@
 ??0NtmsDbTypeGuid@@QAE@ABVNtmsDbGuid@@@Z
 ??0NtmsDbTypeGuid@@QAE@PBD@Z
 ??0NtmsDbTypeGuid@@QAE@XZ
+??0NtmsDbUIDestination@@QAE@PAVNtmsDbDataCtxt@@ABVNtmsDbGuid@@@Z
+??0NtmsDbUIDestination@@QAE@XZ
 ??0NtmsPropMetaInfo@@QAE@JPBD@Z
 ??0NtmsTransaction@@QAE@ABV0@@Z
 ??1Map@NtmsDbList@@QAE@XZ
@@ -137,6 +138,7 @@
 ??1NtmsDbSelectionSet@@UAE@XZ
 ??1NtmsDbStorageSlot@@UAE@XZ
 ??1NtmsDbString@@QAE@XZ
+??1NtmsDbUIDestination@@UAE@XZ
 ??4Map@NtmsDbList@@QAEAAV01@ABV01@@Z
 ??4NtmsDatabase@@QAEAAV0@ABV0@@Z
 ??4NtmsDbChanger@@QAEAAV0@AAV0@@Z
@@ -222,6 +224,7 @@
 ??4NtmsDbString@@QAEAAV0@PBG@Z
 ??4NtmsDbTypeGuid@@QAEAAV0@ABU_GUID@@@Z
 ??4NtmsDbTypeGuid@@QAEAAV0@ABV0@@Z
+??4NtmsDbUIDestination@@QAEAAV0@ABV0@@Z
 ??4NtmsPropInfo@@QAEAAV0@ABV0@@Z
 ??4NtmsPropMetaInfo@@QAEAAV0@ABV0@@Z
 ??4NtmsTransaction@@QAEAAV0@ABV0@@Z
@@ -279,6 +282,7 @@
 ??_7NtmsDbRecordKeyList@@6B@
 ??_7NtmsDbSelectionSet@@6B@
 ??_7NtmsDbStorageSlot@@6B@
+??_7NtmsDbUIDestination@@6B@
 ??_7NtmsTransaction@@6B@
 ??_FNtmsDbDataCtxt@@QAEXXZ
 ??_FNtmsDbList@@QAEXXZ
@@ -325,6 +329,8 @@
 ?AccessAllowed@NtmsDatabase@@QAEKXZ
 ?AcquireChangeMutex@NtmsDbDataCtxt@@SGKK@Z
 ?AddMediaType@NtmsDbLibrary@@QAEKABVNtmsDbGuid@@@Z
+?AddUIDestination@NtmsDbComputer@@QAEKKABVNtmsDbGuid@@@Z
+?AddUIDestination@NtmsDbLibrary@@QAEKKABVNtmsDbGuid@@@Z
 ?AllocateCount@NtmsDbPartition@@QBE?BKXZ
 ?AllocationPolicy@NtmsDbMediaPool@@QBE?BKXZ
 ?Application@NtmsDbLibWorkItem@@QBEPBGXZ
@@ -358,6 +364,7 @@
 ?BuildPropertyList@NtmsDbPartition@@AAEXXZ
 ?BuildPropertyList@NtmsDbPhysicalMedia@@AAEXXZ
 ?BuildPropertyList@NtmsDbStorageSlot@@AAEXXZ
+?BuildPropertyList@NtmsDbUIDestination@@AAEXXZ
 ?BumpActivityCounter@NtmsDbDataCtxt@@SGXXZ
 ?Capacity@NtmsDbPartition@@QAEAAT_LARGE_INTEGER@@XZ
 ?Changers@NtmsDbLibrary@@QAEKPAVNtmsDbDataCtxt@@AAVNtmsDbSelectionSet@@@Z
@@ -404,6 +411,7 @@
 ?DataSize@NtmsDbRecordProp@@QBEKXZ
 ?DeallocationPolicy@NtmsDbMediaPool@@QBE?BKXZ
 ?DecCount@NtmsDbPropHeader@@QAEXXZ
+?DecReference@NtmsDbUIDestination@@QAEJXZ
 ?DefCleanerSlot_IsNotNull@NtmsDbLibrary@@QBEJXZ
 ?DefCleanerSlot_n@NtmsDbLibrary@@QBEABVNtmsDbGuid@@XZ
 ?DeferDelay@NtmsDbDrive@@QBE?BKXZ
@@ -424,6 +432,7 @@
 ?DeleteDbObject@NtmsDbPartition@@MAEXPAVNtmsDbDataCtxt@@@Z
 ?DeleteDbObject@NtmsDbPhysicalMedia@@MAEXPAVNtmsDbDataCtxt@@@Z
 ?DeleteDbObject@NtmsDbStorageSlot@@MAEXPAVNtmsDbDataCtxt@@@Z
+?DeleteDbObject@NtmsDbUIDestination@@MAEXPAVNtmsDbDataCtxt@@@Z
 ?DeleteObjects@NtmsDbSelectionSet@@UAEKPAVNtmsDbDataCtxt@@@Z
 ?DeleteReferences@NtmsDbObject@@IAEXPAVNtmsDbDataCtxt@@PAVNtmsDbRecordPropList@@@Z
 ?DensityCode@NtmsDbPhysicalMedia@@QAEKXZ
@@ -486,6 +495,7 @@
 ?GetAttribute@NtmsDbObject@@QAEKPAVNtmsDbDataCtxt@@PBDPAXPAK@Z
 ?GetBarcodeA@NtmsDbPhysicalMedia@@QAEXPADH@Z
 ?GetBarcodeW@NtmsDbPhysicalMedia@@QAEXPAGH@Z
+?GetComputer@NtmsDbUIDestination@@QAEXPAGH@Z
 ?GetComputerA@NtmsDbLibWorkItem@@QAEXPADH@Z
 ?GetComputerA@NtmsDbOpRequest@@QAEXPADH@Z
 ?GetComputerW@NtmsDbLibWorkItem@@QAEXPAGH@Z
@@ -508,6 +518,7 @@
 ?GetDbObject@NtmsDbPartition@@MAEXPAVNtmsDbDataCtxt@@@Z
 ?GetDbObject@NtmsDbPhysicalMedia@@MAEXPAVNtmsDbDataCtxt@@@Z
 ?GetDbObject@NtmsDbStorageSlot@@MAEXPAVNtmsDbDataCtxt@@@Z
+?GetDbObject@NtmsDbUIDestination@@MAEXPAVNtmsDbDataCtxt@@@Z
 ?GetDbProperty@NtmsDbChanger@@MBEPAVNtmsDbRecordProp@@J@Z
 ?GetDbProperty@NtmsDbChangerType@@MBEPAVNtmsDbRecordProp@@J@Z
 ?GetDbProperty@NtmsDbComputer@@MBEPAVNtmsDbRecordProp@@J@Z
@@ -525,6 +536,7 @@
 ?GetDbProperty@NtmsDbPartition@@MBEPAVNtmsDbRecordProp@@J@Z
 ?GetDbProperty@NtmsDbPhysicalMedia@@MBEPAVNtmsDbRecordProp@@J@Z
 ?GetDbProperty@NtmsDbStorageSlot@@MBEPAVNtmsDbRecordProp@@J@Z
+?GetDbProperty@NtmsDbUIDestination@@MBEPAVNtmsDbRecordProp@@J@Z
 ?GetDescriptionA@NtmsDbObject@@QAEXPADH@Z
 ?GetDescriptionW@NtmsDbObject@@QAEXPAGH@Z
 ?GetDriveLetter@NtmsDbDrive@@QAEXPAGH@Z
@@ -562,6 +574,8 @@
 ?GetSerialNumberA@NtmsDbDrive@@QAEXPADH@Z
 ?GetSerialNumberW@NtmsDbChanger@@QAEXPAGH@Z
 ?GetSerialNumberW@NtmsDbDrive@@QAEXPAGH@Z
+?GetUIDestinations@NtmsDbComputer@@QAEKPAVNtmsDbDataCtxt@@KAAVNtmsDbSelectionSet@@@Z
+?GetUIDestinations@NtmsDbLibrary@@QAEKPAVNtmsDbDataCtxt@@KAAVNtmsDbSelectionSet@@@Z
 ?GetUserA@NtmsDbLibWorkItem@@QAEXPADH@Z
 ?GetUserA@NtmsDbOpRequest@@QAEXPADH@Z
 ?GetUserW@NtmsDbLibWorkItem@@QAEXPAGH@Z
@@ -586,6 +600,7 @@
 ?IEPorts@NtmsDbLibrary@@QAEKPAVNtmsDbDataCtxt@@AAVNtmsDbSelectionSet@@@Z
 ?ImportDatabase@NtmsDbDataCtxt@@QAEKXZ
 ?IncCount@NtmsDbPropHeader@@QAEXXZ
+?IncReference@NtmsDbUIDestination@@QAEJXZ
 ?Index@NtmsDbRecordKey@@QBEKXZ
 ?Init@NtmsDbRecordProp@@QAEXF@Z
 ?Init@NtmsDbRecordProp@@QAEXFAAVNtmsDbGuid@@H@Z
@@ -617,6 +632,7 @@
 ?InitDbObject@NtmsDbPartition@@MAEXPAVNtmsDbDataCtxt@@@Z
 ?InitDbObject@NtmsDbPhysicalMedia@@MAEXPAVNtmsDbDataCtxt@@@Z
 ?InitDbObject@NtmsDbStorageSlot@@MAEXPAVNtmsDbDataCtxt@@@Z
+?InitDbObject@NtmsDbUIDestination@@MAEXPAVNtmsDbDataCtxt@@@Z
 ?InitDefaults@NtmsDbChanger@@AAEXXZ
 ?InitDefaults@NtmsDbChangerType@@AAEXXZ
 ?InitDefaults@NtmsDbComputer@@AAEXXZ
@@ -634,6 +650,7 @@
 ?InitDefaults@NtmsDbPartition@@AAEXXZ
 ?InitDefaults@NtmsDbPhysicalMedia@@AAEXXZ
 ?InitDefaults@NtmsDbStorageSlot@@AAEXXZ
+?InitDefaults@NtmsDbUIDestination@@AAEXXZ
 ?InitializeObject@NtmsDbObject@@MAEKK@Z
 ?Insert@NtmsDbObject@@UAEKPAVNtmsDbDataCtxt@@@Z
 ?InstanceNameW@NtmsDbChanger@@QBEPBGXZ
@@ -711,6 +728,7 @@
 ?m_Type@NtmsDbPartition@@0VNtmsDbRecordType@@A
 ?m_Type@NtmsDbPhysicalMedia@@0VNtmsDbRecordType@@A
 ?m_Type@NtmsDbStorageSlot@@0VNtmsDbRecordType@@A
+?m_Type@NtmsDbUIDestination@@0VNtmsDbRecordType@@A
 ?MaxAllocates@NtmsDbMediaPool@@QBE?BKXZ
 ?MaxExtendSecs@NtmsDbIEPort@@QBE?BGXZ
 ?MaxOpenSecs@NtmsDbIEDoor@@QBE?BGXZ
@@ -778,6 +796,8 @@
 ?NumPhysicalMedia@NtmsDbMediaPool@@QAEKXZ
 ?NumPorts@NtmsDbLibrary@@QAEKXZ
 ?NumSlots@NtmsDbLibrary@@QAEKXZ
+?NumUIDestinations@NtmsDbComputer@@QAEKK@Z
+?NumUIDestinations@NtmsDbLibrary@@QAEKK@Z
 ?ObjectChange@@YGXHFABVNtmsDbGuid@@H@Z
 ?ObjectCode@NtmsDbObjTypeDef@@QBEKXZ
 ?ObjectGuid@NtmsDbObject@@QAEABVNtmsDbGuid@@XZ
@@ -850,6 +870,8 @@
 ?Remove@NtmsDbObject@@UAEKPAVNtmsDbDataCtxt@@@Z
 ?RemoveMediaType@NtmsDbLibrary@@QAEKABVNtmsDbGuid@@@Z
 ?RemoveRegardless@NtmsDbObject@@UAEKPAVNtmsDbDataCtxt@@@Z
+?RemoveUIDestination@NtmsDbComputer@@QAEKKABVNtmsDbGuid@@@Z
+?RemoveUIDestination@NtmsDbLibrary@@QAEKKABVNtmsDbGuid@@@Z
 ?ReplaceString@NtmsDbString@@IAEXPBD@Z
 ?ReportSpecificError@NtmsDbObject@@QBEKK@Z
 ?Request@NtmsDbOpRequest@@QBEKXZ
@@ -917,6 +939,7 @@
 ?SetComputer@NtmsDbLibrary@@QAEKABVNtmsDbGuid@@@Z
 ?SetComputer@NtmsDbLibWorkItem@@QAEKPBG@Z
 ?SetComputer@NtmsDbOpRequest@@QAEKPBG@Z
+?SetComputer@NtmsDbUIDestination@@QAEKQAG@Z
 ?SetComputer_Null@NtmsDbDrive@@QAEXXZ
 ?SetComputer_Null@NtmsDbLibrary@@QAEXXZ
 ?SetCount@NtmsDbPropHeader@@QAEXJ@Z
@@ -938,6 +961,7 @@
 ?SetDbObject@NtmsDbPartition@@MAEXPAVNtmsDbDataCtxt@@@Z
 ?SetDbObject@NtmsDbPhysicalMedia@@MAEXPAVNtmsDbDataCtxt@@@Z
 ?SetDbObject@NtmsDbStorageSlot@@MAEXPAVNtmsDbDataCtxt@@@Z
+?SetDbObject@NtmsDbUIDestination@@MAEXPAVNtmsDbDataCtxt@@@Z
 ?SetDeallocationPolicy@NtmsDbMediaPool@@QAEKK@Z
 ?SetDefault@NtmsDbProperty@@QAEXXZ
 ?SetDefault@NtmsDbRecordProp@@QAEXXZ

@@ -1,4 +1,8 @@
 DllMain
 GetUserInfo
+IsCompaqNETUser
+IsExistingAnyIAUser
+IsMSNIAUser
 Migrate
 MigrateEx
+MigrateRunDll32

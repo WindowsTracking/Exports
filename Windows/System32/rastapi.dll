@@ -3,6 +3,7 @@ DeviceConnect
 DeviceDone
 DeviceEnum
 DeviceGetDevConfig
+DeviceGetDevConfigEx
 DeviceGetInfo
 DeviceListen
 DeviceSetDevConfig

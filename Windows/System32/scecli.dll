@@ -25,6 +25,7 @@ SceEnumerateServices
 SceFreeMemory
 SceFreeProfileMemory
 SceGenerateGroupPolicy
+SceGenerateRollback
 SceGetAnalysisAreaSummary
 SceGetAreas
 SceGetDatabaseSetting

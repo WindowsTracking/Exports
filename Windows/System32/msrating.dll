@@ -1,4 +1,3 @@
-#1
 ChangeSupervisorPassword
 ClickedOnPRF
 ClickedOnRAT
@@ -13,6 +12,7 @@ RatingCheckUserAccess
 RatingCustomAddRatingHelper
 RatingCustomAddRatingSystem
 RatingCustomCrackData
+RatingCustomDeleteCrackedData
 RatingCustomInit
 RatingCustomRemoveRatingHelper
 RatingCustomSetDefaultBureau

@@ -1,0 +1,4 @@
+DllCanUnloadNow
+DllMain
+DllRegisterServer
+DllUnregisterServer

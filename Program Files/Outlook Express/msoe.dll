@@ -21,6 +21,8 @@ DllRegisterServer
 DllUnregisterServer
 FIsDefaultMailConfiged
 FIsDefaultNewsConfiged
+ImportMailStoreToGUID
+ImportNewsListToGUID
 MAPIAddress
 MAPIDeleteMail
 MAPIDetails

@@ -1,0 +1,5 @@
+_A3dCreate@12
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -36,6 +36,7 @@ RasGetConnectionParams
 RasGetConnectionUserData
 RasGetCustomScriptDll
 RasGetDevConfig
+RasGetDevConfigEx
 RasGetDeviceConfigInfo
 RasGetDeviceName
 RasGetDialParams
@@ -51,12 +52,14 @@ RasGetNumPortOpen
 RasGetPortUserData
 RasGetProtocolInfo
 RasGetTimeSinceLastActivity
+RasGetUnicodeDeviceName
 RasGetUserCredentials
 RasInitialize
 RasInitializeNoWait
 RasIsIpSecEnabled
 RasIsTrustedCustomDll
 RasLinkGetStatistics
+RasmanUninitialize
 RasPnPControl
 RasPortBundle
 RasPortCancelReceive
@@ -132,6 +135,7 @@ RasRpcUnloadDll
 RasSecurityDialogGetInfo
 RasSecurityDialogReceive
 RasSecurityDialogSend
+RasSendCreds
 RasSendNotification
 RasSendPppMessageToRasman
 RasServerPortClose

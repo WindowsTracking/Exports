@@ -80,6 +80,7 @@ KsFilterCreatePinFactory
 KsFilterFactoryAddCreateItem
 KsFilterFactoryGetSymbolicLink
 KsFilterFactorySetDeviceClassesState
+KsFilterFactoryUpdateCacheData
 KsFilterGetAndGate
 KsFilterGetChildPinCount
 KsFilterGetFirstChildPin
@@ -113,6 +114,7 @@ KsGetNodeIdFromIrp
 KsGetObjectFromFileObject
 KsGetObjectTypeFromFileObject
 KsGetObjectTypeFromIrp
+KsGetOuterUnknown
 KsGetParent
 KsGetPinFromIrp
 KsHandleSizedListQuery

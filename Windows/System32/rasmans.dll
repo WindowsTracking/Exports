@@ -2,3 +2,4 @@ _RasmanEngine
 _RasmanInit
 ServiceMain
 ServiceRequest
+SetEntryDialParams

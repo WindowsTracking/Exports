@@ -18,7 +18,6 @@ ClassInstall
 CoinstallerEntry
 InstallWiaService
 MigrateDevice
-RemoveDevice
 WiaAddDevice
 WiaCreatePortList
 WiaCreateWizardMenu

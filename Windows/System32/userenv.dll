@@ -46,6 +46,17 @@
 #145
 #146
 #147
+#148
+#149
+#150
+#151
+#152
+#153
+#154
+#155
+#156
+#157
+#158
 CreateEnvironmentBlock
 DeleteProfileA
 DeleteProfileW
@@ -58,6 +69,7 @@ DllUnregisterServer
 EnterCriticalPolicySection
 ExpandEnvironmentStringsForUserA
 ExpandEnvironmentStringsForUserW
+ForceSyncFgPolicy
 FreeGPOListA
 FreeGPOListW
 GenerateRsopPolicy
@@ -69,6 +81,8 @@ GetDefaultUserProfileDirectoryA
 GetDefaultUserProfileDirectoryW
 GetGPOListA
 GetGPOListW
+GetNextFgPolicyRefreshInfo
+GetPreviousFgPolicyRefreshInfo
 GetProfilesDirectoryA
 GetProfilesDirectoryW
 GetProfileType
@@ -89,3 +103,5 @@ RsopResetPolicySettingStatus
 RsopSetPolicySettingStatus
 UnloadUserProfile
 UnregisterGPNotification
+WaitForMachinePolicyForegroundProcessing
+WaitForUserPolicyForegroundProcessing

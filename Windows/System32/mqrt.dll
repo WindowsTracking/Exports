@@ -1,4 +1,6 @@
 DllRegisterServer
+MQADsPathToFormatName
+MQAllocateMemory
 MQBeginTransaction
 MQCloseCursor
 MQCloseQueue

@@ -27,4 +27,3 @@
 ?StateChanged@PrimProcessor@@QAEXXZ
 ?Tri@PrimProcessor@@QAEJPAU_D3DTLVERTEX@@00@Z
 ?TriSetup@PrimProcessor@@AAEHPAU_D3DTLVERTEX@@00@Z
-?ValidateVertex@PrimProcessor@@AAEJPAU_D3DTLVERTEX@@@Z

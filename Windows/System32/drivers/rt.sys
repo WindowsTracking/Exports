@@ -1,8 +1,0 @@
-DllInitialize
-RtAdjustCpuLoad
-RtCreateThread
-RtDestroyThread
-RtSystemInfo
-RtThread
-RtVersion
-RtYield

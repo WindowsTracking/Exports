@@ -25,6 +25,7 @@ demWOWLFNEntry
 demWOWLFNGetSearchHandle
 demWOWLFNInit
 DispatchInterrupts
+DpmiSetIncrementalAlloc
 ExpLdt
 FlatAddress
 fSeparateWow

@@ -1,4 +1,3 @@
-AddDesktopCleanupTaskForCurrentUser
 DllInstall
 DllMain
 DllRegisterServer

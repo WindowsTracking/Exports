@@ -82,6 +82,8 @@ CcUnpinDataForThread
 CcUnpinRepinnedBcb
 CcWaitForCurrentLazyWriterActivity
 CcZeroData
+CmRegisterCallback
+CmUnRegisterCallback
 DbgBreakPoint
 DbgBreakPointWithStatus
 DbgLoadImageSymbols
@@ -230,7 +232,8 @@ FsRtlInitializeLargeMcb
 FsRtlInitializeMcb
 FsRtlInitializeOplock
 FsRtlInitializeTunnelCache
-FsRtlInsertFilterContext
+FsRtlInsertPerFileObjectContext
+FsRtlInsertPerStreamContext
 FsRtlIsDbcsInExpression
 FsRtlIsFatDbcsLegal
 FsRtlIsHpfsDbcsLegal
@@ -238,12 +241,13 @@ FsRtlIsNameInExpression
 FsRtlIsNtstatusExpected
 FsRtlIsTotalDeviceFailure
 FsRtlLegalAnsiCharacterArray
-FsRtlLookupFilterContextInternal
 FsRtlLookupLargeMcbEntry
 FsRtlLookupLastLargeMcbEntry
 FsRtlLookupLastLargeMcbEntryAndIndex
 FsRtlLookupLastMcbEntry
 FsRtlLookupMcbEntry
+FsRtlLookupPerFileObjectContext
+FsRtlLookupPerStreamContextInternal
 FsRtlMdlRead
 FsRtlMdlReadComplete
 FsRtlMdlReadCompleteDev
@@ -253,6 +257,8 @@ FsRtlMdlWriteCompleteDev
 FsRtlNormalizeNtstatus
 FsRtlNotifyChangeDirectory
 FsRtlNotifyCleanup
+FsRtlNotifyFilterChangeDirectory
+FsRtlNotifyFilterReportChange
 FsRtlNotifyFullChangeDirectory
 FsRtlNotifyFullReportChange
 FsRtlNotifyInitializeSync
@@ -272,13 +278,14 @@ FsRtlProcessFileLock
 FsRtlRegisterFileSystemFilterCallbacks
 FsRtlRegisterUncProvider
 FsRtlReleaseFile
-FsRtlRemoveFilterContext
 FsRtlRemoveLargeMcbEntry
 FsRtlRemoveMcbEntry
+FsRtlRemovePerFileObjectContext
+FsRtlRemovePerStreamContext
 FsRtlResetLargeMcb
 FsRtlSplitLargeMcb
 FsRtlSyncVolumes
-FsRtlTeardownFilterContexts
+FsRtlTeardownPerStreamContexts
 FsRtlTruncateLargeMcb
 FsRtlTruncateMcb
 FsRtlUninitializeFileLock
@@ -325,6 +332,7 @@ IoAssignResources
 IoAttachDevice
 IoAttachDeviceByPointer
 IoAttachDeviceToDeviceStack
+IoAttachDeviceToDeviceStackSafe
 IoBuildAsynchronousFsdRequest
 IoBuildDeviceIoControlRequest
 IoBuildPartialMdl
@@ -349,6 +357,7 @@ IoCreateFile
 IoCreateFileSpecifyDeviceObjectHint
 IoCreateNotificationEvent
 IoCreateStreamFileObject
+IoCreateStreamFileObjectEx
 IoCreateStreamFileObjectLite
 IoCreateSymbolicLink
 IoCreateSynchronizationEvent
@@ -374,6 +383,7 @@ IofCallDriver
 IofCompleteRequest
 IoFileObjectType
 IoForwardAndCatchIrp
+IoForwardIrpSynchronously
 IoFreeController
 IoFreeErrorLogEntry
 IoFreeIrp
@@ -408,6 +418,7 @@ IoInitializeRemoveLockEx
 IoInitializeTimer
 IoInvalidateDeviceRelations
 IoInvalidateDeviceState
+IoIsFileOriginRemote
 IoIsOperationSynchronous
 IoIsSystemThread
 IoIsValidNameGraftingBuffer
@@ -454,6 +465,7 @@ IoReuseIrp
 IoSetCompletionRoutineEx
 IoSetDeviceInterfaceState
 IoSetDeviceToVerify
+IoSetFileOrigin
 IoSetHardErrorOrVerifyDevice
 IoSetInformation
 IoSetIoCompletion
@@ -629,7 +641,6 @@ KeSetPriorityThread
 KeSetProfileIrql
 KeSetSystemAffinityThread
 KeSetTargetProcessorDpc
-KeSetThreadSelectNotifyRoutine
 KeSetTimeIncrement
 KeSetTimer
 KeSetTimerEx
@@ -676,7 +687,6 @@ memmove
 memset
 Mm64BitPhysicalAddress
 MmAddPhysicalMemory
-MmAddPhysicalMemoryEx
 MmAddVerifierThunks
 MmAdjustWorkingSetSize
 MmAdvanceMdl
@@ -689,7 +699,6 @@ MmBuildMdlForNonPagedPool
 MmCanFileBeTruncated
 MmCreateMdl
 MmCreateSection
-MmDeregisterCompressionDevice
 MmDisableModifiedWriteOfSection
 MmFlushImageSection
 MmForceSectionClosed
@@ -713,7 +722,6 @@ MmIsVerifierEnabled
 MmLockPagableDataSection
 MmLockPagableImageSection
 MmLockPagableSectionByHandle
-MmMakeCompressibleMemory
 MmMapIoSpace
 MmMapLockedPages
 MmMapLockedPagesSpecifyCache
@@ -733,9 +741,7 @@ MmProbeAndLockProcessPages
 MmProbeAndLockSelectedPages
 MmProtectMdlSystemAddress
 MmQuerySystemSize
-MmRegisterCompressionDevice
 MmRemovePhysicalMemory
-MmRemovePhysicalMemoryEx
 MmResetDriverPaging
 MmSectionObjectType
 MmSecureVirtualMemory
@@ -815,6 +821,7 @@ NtSetQuotaInformationFile
 NtSetSecurityObject
 NtSetVolumeInformationFile
 NtShutdownSystem
+NtTraceEvent
 NtUnlockFile
 NtVdmControl
 NtWaitForSingleObject
@@ -822,7 +829,9 @@ NtWriteFile
 ObAssignSecurity
 ObCheckCreateObjectAccess
 ObCheckObjectAccess
+ObCloseHandle
 ObCreateObject
+ObCreateObjectType
 ObDereferenceObject
 ObDereferenceSecurityDescriptor
 ObfDereferenceObject
@@ -841,6 +850,7 @@ ObReferenceObjectByName
 ObReferenceObjectByPointer
 ObReferenceSecurityDescriptor
 ObReleaseObjectSecurity
+ObSetHandleAttributes
 ObSetSecurityDescriptorInfo
 ObSetSecurityObjectByPointer
 PfxFindPrefix
@@ -870,6 +880,8 @@ PsChargeProcessPagedPoolQuota
 PsChargeProcessPoolQuota
 PsCreateSystemProcess
 PsCreateSystemThread
+PsDereferenceImpersonationToken
+PsDereferencePrimaryToken
 PsDisableImpersonation
 PsEstablishWin32Callouts
 PsGetCurrentProcess
@@ -921,6 +933,8 @@ PsLookupThreadByThreadId
 PsProcessType
 PsReferenceImpersonationToken
 PsReferencePrimaryToken
+PsRemoveCreateThreadNotifyRoutine
+PsRemoveLoadImageNotifyRoutine
 PsRestoreImpersonation
 PsReturnPoolQuota
 PsReturnProcessNonPagedPoolQuota
@@ -1064,6 +1078,7 @@ RtlGetNextRange
 RtlGetNtGlobalFlags
 RtlGetOwnerSecurityDescriptor
 RtlGetSaclSecurityDescriptor
+RtlGetSetBootStatusData
 RtlGetVersion
 RtlGUIDFromString
 RtlHashUnicodeString
@@ -1089,6 +1104,14 @@ RtlIntegerToChar
 RtlIntegerToUnicode
 RtlIntegerToUnicodeString
 RtlInvertRangeList
+RtlIpv4AddressToStringA
+RtlIpv4AddressToStringW
+RtlIpv4StringToAddressA
+RtlIpv4StringToAddressW
+RtlIpv6AddressToStringA
+RtlIpv6AddressToStringW
+RtlIpv6StringToAddressA
+RtlIpv6StringToAddressW
 RtlIsGenericTableEmpty
 RtlIsGenericTableEmptyAvl
 RtlIsNameLegalDOS8Dot3
@@ -1104,6 +1127,7 @@ RtlLargeIntegerSubtract
 RtlLengthRequiredSid
 RtlLengthSecurityDescriptor
 RtlLengthSid
+RtlLockBootStatusData
 RtlLookupAtomInAtomTable
 RtlLookupElementGenericTable
 RtlLookupElementGenericTableAvl
@@ -1127,6 +1151,7 @@ RtlOemStringToUnicodeSize
 RtlOemStringToUnicodeString
 RtlOemToUnicodeN
 RtlPinAtomInAtomTable
+RtlPrefetchMemoryNonTemporal
 RtlPrefixString
 RtlPrefixUnicodeString
 RtlQueryAtomInAtomTable
@@ -1184,6 +1209,7 @@ RtlUnicodeToCustomCPN
 RtlUnicodeToMultiByteN
 RtlUnicodeToMultiByteSize
 RtlUnicodeToOemN
+RtlUnlockBootStatusData
 RtlUnwind
 RtlUpcaseUnicodeChar
 RtlUpcaseUnicodeString
@@ -1253,6 +1279,7 @@ SeSystemDefaultDacl
 SeTokenImpersonationLevel
 SeTokenIsAdmin
 SeTokenIsRestricted
+SeTokenObjectType
 SeTokenType
 SeUnlockSubjectContext
 SeUnregisterLogonSessionTerminatedRoutine
@@ -1278,6 +1305,10 @@ towupper
 vDbgPrintEx
 vDbgPrintExWithPrefix
 VerSetConditionMask
+VfFailDeviceNode
+VfFailDriver
+VfFailSystemBIOS
+VfIsVerificationEnabled
 vsprintf
 wcscat
 wcschr

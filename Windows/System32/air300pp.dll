@@ -1,0 +1,5 @@
+AirCardDevicePropPage
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

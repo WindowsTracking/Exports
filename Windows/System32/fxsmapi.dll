@@ -1,7 +1,0 @@
-AddNewMapiProfile
-FaxMapiInitialize
-FXSMAPIFree
-GetMapiProfiles
-GetProfileName
-MailMapiMessage
-StoreMapiMessage

@@ -198,6 +198,7 @@ CM_Unregister_Device_Interface_ExA
 CM_Unregister_Device_Interface_ExW
 CM_Unregister_Device_InterfaceA
 CM_Unregister_Device_InterfaceW
+CMP_GetBlockedDriverInfo
 CMP_Init_Detection
 CMP_RegisterNotification
 CMP_Report_LogOn
@@ -236,6 +237,7 @@ pSetupGetFileTitle
 pSetupGetGlobalFlags
 pSetupGetInfSections
 pSetupGetQueueFlags
+pSetupGetRealSystemTime
 pSetupGetVersionInfoFromImage
 pSetupGuidFromString
 pSetupHandleFailedVerification
@@ -375,6 +377,8 @@ SetupDiGetClassImageListExA
 SetupDiGetClassImageListExW
 SetupDiGetClassInstallParamsA
 SetupDiGetClassInstallParamsW
+SetupDiGetClassRegistryPropertyA
+SetupDiGetClassRegistryPropertyW
 SetupDiGetCustomDevicePropertyA
 SetupDiGetCustomDevicePropertyW
 SetupDiGetDeviceInfoListClass
@@ -433,6 +437,8 @@ SetupDiSelectDevice
 SetupDiSelectOEMDrv
 SetupDiSetClassInstallParamsA
 SetupDiSetClassInstallParamsW
+SetupDiSetClassRegistryPropertyA
+SetupDiSetClassRegistryPropertyW
 SetupDiSetDeviceInstallParamsA
 SetupDiSetDeviceInstallParamsW
 SetupDiSetDeviceInterfaceDefault

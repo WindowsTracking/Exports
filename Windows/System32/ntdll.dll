@@ -237,8 +237,8 @@ LdrCreateOutOfProcessImage
 LdrDestroyOutOfProcessImage
 LdrDisableThreadCalloutsForDll
 LdrEnumResources
+LdrFindCreateProcessManifest
 LdrFindEntryForAddress
-LdrFindOutOfProcessResource
 LdrFindResource_U
 LdrFindResourceDirectory_U
 LdrFindResourceEx_U
@@ -247,15 +247,20 @@ LdrGetDllHandle
 LdrGetDllHandleEx
 LdrGetProcedureAddress
 LdrInitializeThunk
+LdrInitShimEngineDynamic
 LdrLoadAlternateResourceModule
 LdrLoadDll
+LdrLockLoaderLock
 LdrProcessRelocationBlock
 LdrQueryImageFileExecutionOptions
 LdrQueryProcessModuleInformation
+LdrSetAppCompatDllRedirectionCallback
+LdrSetDllManifestProber
 LdrShutdownProcess
 LdrShutdownThread
 LdrUnloadAlternateResourceModule
 LdrUnloadDll
+LdrUnlockLoaderLock
 LdrVerifyImageMatchesChecksum
 log
 mbstowcs
@@ -267,7 +272,6 @@ memset
 NlsAnsiCodePage
 NlsMbCodePageTag
 NlsMbOemCodePageTag
-NPXEMULATORTABLE
 NtAcceptConnectPort
 NtAccessCheck
 NtAccessCheckAndAuditAlarm
@@ -310,6 +314,7 @@ NtCreateIoCompletion
 NtCreateJobObject
 NtCreateJobSet
 NtCreateKey
+NtCreateKeyedEvent
 NtCreateMailslotFile
 NtCreateMutant
 NtCreateNamedPipeFile
@@ -389,6 +394,7 @@ NtOpenFile
 NtOpenIoCompletion
 NtOpenJobObject
 NtOpenKey
+NtOpenKeyedEvent
 NtOpenMutant
 NtOpenObjectAuditAlarm
 NtOpenProcess
@@ -435,6 +441,7 @@ NtQueryMutant
 NtQueryObject
 NtQueryOpenSubKeys
 NtQueryPerformanceCounter
+NtQueryPortInformationProcess
 NtQueryQuotaInformationFile
 NtQuerySection
 NtQuerySecurityObject
@@ -457,6 +464,7 @@ NtReadFileScatter
 NtReadRequestData
 NtReadVirtualMemory
 NtRegisterThreadTerminatePort
+NtReleaseKeyedEvent
 NtReleaseMutant
 NtReleaseSemaphore
 NtRemoveIoCompletion
@@ -529,6 +537,7 @@ NtTerminateJobObject
 NtTerminateProcess
 NtTerminateThread
 NtTestAlert
+NtTraceEvent
 NtTranslateFilePath
 NtUnloadDriver
 NtUnloadKey
@@ -538,6 +547,7 @@ NtUnlockVirtualMemory
 NtUnmapViewOfSection
 NtVdmControl
 NtWaitForDebugEvent
+NtWaitForKeyedEvent
 NtWaitForMultipleObjects
 NtWaitForSingleObject
 NtWaitHighEventPair
@@ -580,6 +590,7 @@ RtlAddCompoundAce
 RtlAddRange
 RtlAddRefActivationContext
 RtlAddRefMemoryStream
+RtlAddressInSectionTable
 RtlAddVectoredExceptionHandler
 RtlAdjustPrivilege
 RtlAllocateAndInitializeSid
@@ -593,6 +604,7 @@ RtlAppendPathElement
 RtlAppendStringToString
 RtlAppendUnicodeStringToString
 RtlAppendUnicodeToString
+RtlApplicationVerifierStop
 RtlApplyRXact
 RtlApplyRXactNoFlush
 RtlAreAllAccessesGranted
@@ -602,6 +614,7 @@ RtlAreBitsSet
 RtlAssert
 RtlAssert2
 RtlCancelTimer
+RtlCaptureContext
 RtlCaptureStackBackTrace
 RtlCaptureStackContext
 RtlCharToInteger
@@ -617,6 +630,8 @@ RtlCompareMemoryUlong
 RtlCompareString
 RtlCompareUnicodeString
 RtlCompressBuffer
+RtlComputeCrc32
+RtlComputeImportTableHash
 RtlComputePrivatizedDllName_U
 RtlConsoleMultiByteToUnicodeN
 RtlConvertExclusiveToShared
@@ -642,6 +657,7 @@ RtlCreateAcl
 RtlCreateActivationContext
 RtlCreateAndSetSD
 RtlCreateAtomTable
+RtlCreateBootStatusDataFile
 RtlCreateEnvironment
 RtlCreateHeap
 RtlCreateProcessParameters
@@ -745,6 +761,7 @@ RtlFindNextForwardRunClear
 RtlFindRange
 RtlFindSetBits
 RtlFindSetBitsAndClear
+RtlFirstEntrySList
 RtlFirstFreeAce
 RtlFlushSecureMemoryCache
 RtlFormatCurrentUserKeyPath
@@ -770,6 +787,7 @@ RtlGetDaclSecurityDescriptor
 RtlGetElementGenericTable
 RtlGetElementGenericTableAvl
 RtlGetFirstRange
+RtlGetFrame
 RtlGetFullPathName_U
 RtlGetGroupSecurityDescriptor
 RtlGetLastNtStatus
@@ -777,13 +795,16 @@ RtlGetLastWin32Error
 RtlGetLengthWithoutLastFullDosOrNtPathElement
 RtlGetLengthWithoutTrailingPathSeperators
 RtlGetLongestNtPathLength
+RtlGetNativeSystemInformation
 RtlGetNextRange
 RtlGetNtGlobalFlags
 RtlGetNtProductType
+RtlGetNtVersionInfo
 RtlGetOwnerSecurityDescriptor
 RtlGetProcessHeaps
 RtlGetSaclSecurityDescriptor
 RtlGetSecurityDescriptorRMControl
+RtlGetSetBootStatusData
 RtlGetUserInfoHeap
 RtlGetVersion
 RtlGUIDFromString
@@ -823,7 +844,16 @@ RtlIntegerToUnicodeString
 RtlInterlockedFlushSList
 RtlInterlockedPopEntrySList
 RtlInterlockedPushEntrySList
+RtlInterlockedPushListSList
 RtlInvertRangeList
+RtlIpv4AddressToStringA
+RtlIpv4AddressToStringW
+RtlIpv4StringToAddressA
+RtlIpv4StringToAddressW
+RtlIpv6AddressToStringA
+RtlIpv6AddressToStringW
+RtlIpv6StringToAddressA
+RtlIpv6StringToAddressW
 RtlIsActivationContextActive
 RtlIsDosDeviceName_U
 RtlIsGenericTableEmpty
@@ -846,8 +876,10 @@ RtlLengthRequiredSid
 RtlLengthSecurityDescriptor
 RtlLengthSid
 RtlLocalTimeToSystemTime
+RtlLockBootStatusData
 RtlLockHeap
 RtlLockMemoryStreamRegion
+RtlLogStackBackTrace
 RtlLookupAtomInAtomTable
 RtlLookupElementGenericTable
 RtlLookupElementGenericTableAvl
@@ -887,12 +919,15 @@ RtlpNtMakeTemporaryKey
 RtlpNtOpenKey
 RtlpNtQueryValueKey
 RtlpNtSetValueKey
+RtlPopFrame
 RtlPrefixString
 RtlPrefixUnicodeString
 RtlProtectHeap
 RtlpUnWaitCriticalSection
+RtlPushFrame
 RtlpWaitForCriticalSection
 RtlQueryAtomInAtomTable
+RtlQueryDepthSList
 RtlQueryEnvironmentVariable_U
 RtlQueryHeapInformation
 RtlQueryInformationAcl
@@ -953,12 +988,12 @@ RtlSetLastWin32Error
 RtlSetLastWin32ErrorAndNtStatusFromNtStatus
 RtlSetMemoryStreamSize
 RtlSetOwnerSecurityDescriptor
-RtlSetProcessBreakOnExit
+RtlSetProcessDebugOnExit
 RtlSetSaclSecurityDescriptor
 RtlSetSecurityDescriptorRMControl
 RtlSetSecurityObject
 RtlSetSecurityObjectEx
-RtlSetThreadBreakOnExit
+RtlSetThreadDebugOnExit
 RtlSetThreadPoolStartFunc
 RtlSetTimer
 RtlSetTimeZoneInformation
@@ -1004,6 +1039,7 @@ RtlUnicodeToMultiByteN
 RtlUnicodeToMultiByteSize
 RtlUnicodeToOemN
 RtlUniform
+RtlUnlockBootStatusData
 RtlUnlockHeap
 RtlUnlockMemoryStreamRegion
 RtlUnwind
@@ -1023,6 +1059,7 @@ RtlUshortByteSwap
 RtlValidAcl
 RtlValidateHeap
 RtlValidateProcessHeaps
+RtlValidateUnicodeString
 RtlValidRelativeSecurityDescriptor
 RtlValidSecurityDescriptor
 RtlValidSid
@@ -1126,6 +1163,7 @@ ZwCreateIoCompletion
 ZwCreateJobObject
 ZwCreateJobSet
 ZwCreateKey
+ZwCreateKeyedEvent
 ZwCreateMailslotFile
 ZwCreateMutant
 ZwCreateNamedPipeFile
@@ -1204,6 +1242,7 @@ ZwOpenFile
 ZwOpenIoCompletion
 ZwOpenJobObject
 ZwOpenKey
+ZwOpenKeyedEvent
 ZwOpenMutant
 ZwOpenObjectAuditAlarm
 ZwOpenProcess
@@ -1250,6 +1289,7 @@ ZwQueryMutant
 ZwQueryObject
 ZwQueryOpenSubKeys
 ZwQueryPerformanceCounter
+ZwQueryPortInformationProcess
 ZwQueryQuotaInformationFile
 ZwQuerySection
 ZwQuerySecurityObject
@@ -1272,6 +1312,7 @@ ZwReadFileScatter
 ZwReadRequestData
 ZwReadVirtualMemory
 ZwRegisterThreadTerminatePort
+ZwReleaseKeyedEvent
 ZwReleaseMutant
 ZwReleaseSemaphore
 ZwRemoveIoCompletion
@@ -1344,6 +1385,7 @@ ZwTerminateJobObject
 ZwTerminateProcess
 ZwTerminateThread
 ZwTestAlert
+ZwTraceEvent
 ZwTranslateFilePath
 ZwUnloadDriver
 ZwUnloadKey
@@ -1353,6 +1395,7 @@ ZwUnlockVirtualMemory
 ZwUnmapViewOfSection
 ZwVdmControl
 ZwWaitForDebugEvent
+ZwWaitForKeyedEvent
 ZwWaitForMultipleObjects
 ZwWaitForSingleObject
 ZwWaitHighEventPair

@@ -1,3 +1,6 @@
+CheckMailDBXs
+CreateMailBehavior
 CreateMailStoreBehaviorInstance
+GetHotmailUrl
 OnAddressBookImportCompleted
 PassivateMailDll

@@ -55,6 +55,7 @@ ToplScheduleDuration
 ToplScheduleExportReadonly
 ToplScheduleImport
 ToplScheduleIsEqual
+ToplScheduleMaxUnavailable
 ToplScheduleMerge
 ToplScheduleNumEntries
 ToplScheduleValid

@@ -24,6 +24,7 @@ ResUtilFreeParameterBlock
 ResUtilGetAllProperties
 ResUtilGetBinaryProperty
 ResUtilGetBinaryValue
+ResUtilGetCoreClusterResources
 ResUtilGetDwordProperty
 ResUtilGetDwordValue
 ResUtilGetEnvironmentWithNetName
@@ -38,6 +39,7 @@ ResUtilGetResourceDependency
 ResUtilGetResourceDependencyByClass
 ResUtilGetResourceDependencyByName
 ResUtilGetResourceDependentIPAddressProps
+ResUtilGetResourceName
 ResUtilGetResourceNameDependency
 ResUtilGetSzProperty
 ResUtilGetSzValue

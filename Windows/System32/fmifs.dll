@@ -9,6 +9,8 @@ FormatEx
 FormatEx2
 InitializeFmIfs
 QueryAvailableFileSystemFormat
+QueryDeviceInformation
+QueryDeviceInformationByHandle
 QueryFileSystemName
 QueryLatestFileSystemVersion
 QuerySupportedMedia

@@ -1,5 +1,7 @@
+CSCOptions_RunDLL
+CSCOptions_RunDLLA
+CSCOptions_RunDLLW
 CSCUIInitialize
-CSCUIIsTerminalServerCompatibleWithCSC
 CSCUIMsgProcess
 CSCUIOptionsPropertySheet
 CSCUIRemoveFolderFromCache

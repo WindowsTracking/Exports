@@ -5,7 +5,9 @@ _WinStationBeepOpen
 _WinStationBreakPoint
 _WinStationCallback
 _WinStationCheckForApplicationName
+_WinStationFUSCanRemoteUserDisconnect
 _WinStationGetApplicationInfo
+_WinStationNotifyDisconnectPipe
 _WinStationNotifyLogoff
 _WinStationNotifyLogon
 _WinStationNotifyNewSession
@@ -21,6 +23,7 @@ LogonIdFromWinStationNameA
 LogonIdFromWinStationNameW
 ServerGetInternetConnectorStatus
 ServerLicensingClose
+ServerLicensingDeactivateCurrentPolicy
 ServerLicensingFreePolicyInformation
 ServerLicensingGetAvailablePolicyIds
 ServerLicensingGetPolicy
@@ -36,8 +39,10 @@ ServerQueryInetConnectorInformationW
 ServerSetInternetConnectorStatus
 WinStationActivateLicense
 WinStationBroadcastSystemMessage
+WinStationCheckLoopBack
 WinStationCloseServer
 WinStationConnectA
+WinStationConnectCallback
 WinStationConnectW
 WinStationDisconnect
 WinStationEnumerate_IndexedA
@@ -67,7 +72,7 @@ WinStationQueryInformationW
 WinStationQueryLicense
 WinStationQueryLogonCredentialsW
 WinStationQueryUpdateRequired
-WinstationRegisterConsoleNotification
+WinStationRegisterConsoleNotification
 WinStationRemoveLicense
 WinStationRenameA
 WinStationRenameW
@@ -83,6 +88,6 @@ WinStationShadow
 WinStationShadowStop
 WinStationShutdownSystem
 WinStationTerminateProcess
-WinstationUnRegisterConsoleNotification
+WinStationUnRegisterConsoleNotification
 WinStationVirtualOpen
 WinStationWaitSystemEvent

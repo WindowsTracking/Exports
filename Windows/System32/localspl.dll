@@ -1,10 +1,12 @@
 ClosePrintProcessor
 ControlPrintProcessor
+DllMain
 EnumPrintProcessorDatatypesW
 GetPrintProcessorCapabilities
 InitializePrintMonitor
 InitializePrintProvidor
-LibMain
+LclIsSessionZero
+LclPromptUIPerSessionUser
 OpenPrintProcessor
 PrintDocumentOnPrintProcessor
 PrintProcLogEvent

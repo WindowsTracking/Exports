@@ -1,5 +1,11 @@
 DsAddSidHistoryA
 DsAddSidHistoryW
+DsaopBind
+DsaopBindWithCred
+DsaopBindWithSpn
+DsaopExecuteScript
+DsaopPrepareScript
+DsaopUnBind
 DsBindA
 DsBindW
 DsBindWithCredA
@@ -15,6 +21,8 @@ DsCrackSpn2W
 DsCrackSpn3W
 DsCrackSpnA
 DsCrackSpnW
+DsCrackUnquotedMangledRdnA
+DsCrackUnquotedMangledRdnW
 DsFreeDomainControllerInfoA
 DsFreeDomainControllerInfoW
 DsFreeNameResultA
@@ -31,6 +39,10 @@ DsGetSpnA
 DsGetSpnW
 DsInheritSecurityIdentityA
 DsInheritSecurityIdentityW
+DsIsMangledDnA
+DsIsMangledDnW
+DsIsMangledRdnValueA
+DsIsMangledRdnValueW
 DsListDomainsInSiteA
 DsListDomainsInSiteW
 DsListInfoForServerA
@@ -72,6 +84,8 @@ DsReplicaSyncAllW
 DsReplicaSyncW
 DsReplicaUpdateRefsA
 DsReplicaUpdateRefsW
+DsReplicaVerifyObjectsA
+DsReplicaVerifyObjectsW
 DsServerRegisterSpnA
 DsServerRegisterSpnW
 DsUnBindA

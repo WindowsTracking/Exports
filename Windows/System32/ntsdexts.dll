@@ -9,6 +9,7 @@ gle
 handle
 help
 hleak
+htrace
 locks
 runaway
 threadtoken

@@ -8,8 +8,16 @@
 #110
 #111
 #112
+#116
+#117
+#118
+#120
+#121
+#122
+#123
 CommitUrlCacheEntryA
 CommitUrlCacheEntryW
+CreateMD5SSOHash
 CreateUrlCacheContainerA
 CreateUrlCacheContainerW
 CreateUrlCacheEntryA
@@ -40,7 +48,7 @@ FindNextUrlCacheEntryExW
 FindNextUrlCacheEntryW
 FindNextUrlCacheGroup
 ForceNexusLookup
-ForceNexusLookupEx
+ForceNexusLookupExW
 FreeUrlCacheSpaceA
 FreeUrlCacheSpaceW
 FtpCommandA
@@ -111,6 +119,7 @@ InternetCanonicalizeUrlA
 InternetCanonicalizeUrlW
 InternetCheckConnectionA
 InternetCheckConnectionW
+InternetClearAllPerSiteCookieDecisions
 InternetCloseHandle
 InternetCombineUrlA
 InternetCombineUrlW
@@ -126,6 +135,8 @@ InternetCreateUrlW
 InternetDial
 InternetDialA
 InternetDialW
+InternetEnumPerSiteCookieDecisionA
+InternetEnumPerSiteCookieDecisionW
 InternetErrorDlg
 InternetFindNextFileA
 InternetFindNextFileW
@@ -137,9 +148,13 @@ InternetGetConnectedStateEx
 InternetGetConnectedStateExA
 InternetGetConnectedStateExW
 InternetGetCookieA
+InternetGetCookieExA
+InternetGetCookieExW
 InternetGetCookieW
 InternetGetLastResponseInfoA
 InternetGetLastResponseInfoW
+InternetGetPerSiteCookieDecisionA
+InternetGetPerSiteCookieDecisionW
 InternetGoOnline
 InternetGoOnlineA
 InternetGoOnlineW
@@ -171,6 +186,8 @@ InternetSetOptionA
 InternetSetOptionExA
 InternetSetOptionExW
 InternetSetOptionW
+InternetSetPerSiteCookieDecisionA
+InternetSetPerSiteCookieDecisionW
 InternetSetStatusCallback
 InternetSetStatusCallbackA
 InternetSetStatusCallbackW
@@ -192,6 +209,8 @@ IsUrlCacheEntryExpiredA
 IsUrlCacheEntryExpiredW
 LoadUrlCacheContent
 ParseX509EncodedCertificateForListBoxEntry
+PrivacyGetZonePreferenceW
+PrivacySetZonePreferenceW
 ReadUrlCacheEntryStream
 RegisterUrlCacheNotification
 ResumeSuspendedDownload

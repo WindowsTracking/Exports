@@ -56,7 +56,10 @@
 #256
 #257
 #258
+#259
+#260
 CAAccessCheck
+CAAccessCheckEx
 CAAddCACertificateType
 CACertTypeAccessCheck
 CACertTypeAccessCheckEx
@@ -76,6 +79,7 @@ CACreateLocalAutoEnrollmentObject
 CACreateNewCA
 CADeleteCA
 CADeleteCertType
+CADeleteLocalAutoEnrollmentObject
 CAEnumCertTypes
 CAEnumCertTypesEx
 CAEnumCertTypesForCA
@@ -97,6 +101,7 @@ CAGetCAProperty
 CAGetCASecurity
 CAGetCertTypeExpiration
 CAGetCertTypeExtensions
+CAGetCertTypeExtensionsEx
 CAGetCertTypeFlags
 CAGetCertTypeFlagsEx
 CAGetCertTypeKeySpec

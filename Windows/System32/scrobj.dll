@@ -3,6 +3,8 @@ DllGetClassObject
 DllInstall
 DllRegisterServer
 DllRegisterServerEx
+DllRegisterServerExA
+DllRegisterServerExW
 DllUnregisterServer
 DllUnregisterServerEx
 GenerateTypeLib

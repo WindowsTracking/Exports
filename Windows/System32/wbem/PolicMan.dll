@@ -1,3 +1,4 @@
+CreateADContainers
 DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer

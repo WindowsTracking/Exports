@@ -264,6 +264,7 @@ GdiDeleteLocalDC
 GdiDeleteSpoolFileHandle
 GdiDescribePixelFormat
 GdiDllInitialize
+GdiDrawStream
 GdiEndDocEMF
 GdiEndPageEMF
 GdiEntry1

@@ -1,10 +1,15 @@
 CPlApplet
+CreateLocalServerW
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
 HotPlugDeviceTree
+HotPlugDriverBlockedW
 HotPlugEjectDevice
 HotPlugEjectVetoedW
 HotPlugHibernateVetoedW
 HotPlugRemovalVetoedW
 HotPlugSafeRemovalNotificationW
 HotPlugStandbyVetoedW
-HotPlugSurpriseWarnW
 HotPlugWarmEjectVetoedW

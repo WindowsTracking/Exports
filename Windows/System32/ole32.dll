@@ -34,6 +34,7 @@ CoGetCallerTID
 CoGetCancelObject
 CoGetClassObject
 CoGetClassVersion
+CoGetComCatalog
 CoGetContextToken
 CoGetCurrentLogicalThreadId
 CoGetCurrentProcess
@@ -89,6 +90,8 @@ ComPs_NdrDllRegisterProxy
 ComPs_NdrDllUnregisterProxy
 ComPs_NdrStubCall2
 ComPs_NdrStubForwardingFunction
+CoPopServiceDomain
+CoPushServiceDomain
 CoQueryAuthenticationServices
 CoQueryClientBlanket
 CoQueryProxyBlanket

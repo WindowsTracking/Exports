@@ -13,6 +13,7 @@ AuthziFreeAuditQueue
 AuthziInitializeAuditEvent
 AuthziInitializeAuditEventType
 AuthziInitializeAuditParams
+AuthziInitializeAuditParamsFromArray
 AuthziInitializeAuditParamsWithRM
 AuthziInitializeAuditQueue
 AuthziLogAuditEvent

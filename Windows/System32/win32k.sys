@@ -48,6 +48,7 @@ EngDeleteSurface
 EngDeleteWnd
 EngDeviceIoControl
 EngDitherColor
+EngDxIoctl
 EngEnumForms
 EngEraseSurface
 EngFileIoControl
@@ -103,6 +104,7 @@ EngMovePointer
 EngMulDiv
 EngMultiByteToUnicodeN
 EngMultiByteToWideChar
+EngNineGrid
 EngPaint
 EngPlgBlt
 EngProbeForRead

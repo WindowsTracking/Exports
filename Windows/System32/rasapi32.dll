@@ -3,6 +3,7 @@ DwCloneEntry
 DwDeleteSubEntry
 DwEnumEntriesForAllUsers
 DwEnumEntryDetails
+DwRasUninitialize
 RasAutodialAddressToNetwork
 RasAutodialEntryToNetwork
 RasAutoDialSharedConnection

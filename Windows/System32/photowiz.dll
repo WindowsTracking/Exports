@@ -4,3 +4,4 @@ DllInstall
 DllMain
 DllRegisterServer
 DllUnregisterServer
+UsePPWForPrintTo

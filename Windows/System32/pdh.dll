@@ -64,8 +64,11 @@ PdhGetLogSetGUID
 PdhGetRawCounterArrayA
 PdhGetRawCounterArrayW
 PdhGetRawCounterValue
+PdhiPlaFormatBlanksA
+PdhiPlaFormatBlanksW
 PdhiPlaGetVersion
 PdhiPlaRunAs
+PdhiPlaSetRunAs
 PdhIsRealTimeQuery
 PdhListLogFileHeaderA
 PdhListLogFileHeaderW
@@ -101,6 +104,8 @@ PdhPlaGetInfoA
 PdhPlaGetInfoW
 PdhPlaGetLogFileNameA
 PdhPlaGetLogFileNameW
+PdhPlaGetScheduleA
+PdhPlaGetScheduleW
 PdhPlaRemoveAllItemsA
 PdhPlaRemoveAllItemsW
 PdhPlaScheduleA

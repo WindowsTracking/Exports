@@ -8,6 +8,8 @@ SxsInstallAssemblyW
 SxsOleAut32MapReferenceClsidToConfiguredClsid
 SxsOleAut32RedirectTypeLibrary
 SxspGenerateManifestPathOnAssemblyIdentity
+SxspGeneratePolicyPathOnAssemblyIdentity
+SxsProbeAssemblyInstallation
 SxsProtectionGatherEntriesW
 SxsProtectionNotifyW
 SxsProtectionPerformScanNow
@@ -15,5 +17,6 @@ SxsProtectionUserLogoffEvent
 SxsProtectionUserLogonEvent
 SxspRunDllDeleteDirectory
 SxspRunDllDeleteDirectoryW
+SxsQueryManifestInformation
 SxsRunDllInstallAssembly
 SxsRunDllInstallAssemblyW

@@ -1,6 +1,8 @@
 _USBD_CreateConfigurationRequestEx@8
 _USBD_ParseConfigurationDescriptorEx@28
 _USBD_ParseDescriptors@16
+DllInitialize
+DllUnload
 USBD_AllocateDeviceName
 USBD_CalculateUsbBandwidth
 USBD_CompleteRequest

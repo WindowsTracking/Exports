@@ -1,5 +1,4 @@
 DavClose
 DavInit
-DavTryPassportAuthentication
 ServiceMain
 SvchostPushServiceGlobals

@@ -1,0 +1,5 @@
+_DllMain@12
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

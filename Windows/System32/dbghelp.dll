@@ -1,3 +1,4 @@
+dbghelp
 DbgHelpCreateUserDump
 DbgHelpCreateUserDumpW
 dh
@@ -25,8 +26,8 @@ MapDebugInformation
 MiniDumpReadDumpStream
 MiniDumpWriteDump
 omap
-se
 SearchTreeForFile
+srcfiles
 StackWalk
 StackWalk64
 sym
@@ -37,6 +38,7 @@ SymEnumerateSymbols
 SymEnumerateSymbols64
 SymEnumerateSymbolsW
 SymEnumerateSymbolsW64
+SymEnumSourceFiles
 SymEnumSym
 SymEnumSymbols
 SymEnumTypes
@@ -58,15 +60,10 @@ SymGetModuleBase
 SymGetModuleBase64
 SymGetModuleInfo
 SymGetModuleInfo64
-SymGetModuleInfoEx
-SymGetModuleInfoEx64
 SymGetModuleInfoW
 SymGetModuleInfoW64
-SymGetNextEnumListMember
 SymGetOptions
 SymGetSearchPath
-SymGetSymbolInfo
-SymGetSymbolInfo64
 SymGetSymFromAddr
 SymGetSymFromAddr64
 SymGetSymFromName
@@ -80,7 +77,9 @@ SymGetTypeInfo
 SymInitialize
 SymLoadModule
 SymLoadModule64
+SymLoadModuleEx
 SymMatchFileName
+SymMatchString
 SymRegisterCallback
 SymRegisterCallback64
 SymRegisterFunctionEntryCallback
@@ -95,4 +94,5 @@ SymUnloadModule
 SymUnloadModule64
 UnDecorateSymbolName
 UnmapDebugInformation
+vc7fpo
 WinDbgExtensionDllInit

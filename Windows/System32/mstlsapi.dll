@@ -25,6 +25,7 @@ TLSGetLastError
 TLSGetLSPKCS10CertRequest
 TLSGetServerCertificate
 TLSGetServerName
+TLSGetServerNameEx
 TLSGetServerPID
 TLSGetServerScope
 TLSGetServerSPK
@@ -49,6 +50,7 @@ TLSKeyPackSetStatus
 TLSLicenseEnumBegin
 TLSLicenseEnumEnd
 TLSLicenseEnumNext
+TLSLicenseEnumNextEx
 TLSLookupServer
 TLSMarkLicense
 TLSRegisterLicenseKeyPack

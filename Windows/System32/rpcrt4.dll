@@ -45,7 +45,6 @@ I_RpcBindingIsClientLocal
 I_RpcBindingToStaticStringBindingW
 I_RpcClearMutex
 I_RpcConnectionInqSockBuffSize
-I_RpcConnectionInqSockBuffSize2
 I_RpcConnectionSetSockBuffSize
 I_RpcDeleteMutex
 I_RpcEnableWmiTrace
@@ -94,6 +93,7 @@ I_RpcTransDatagramFree
 I_RpcTransGetThreadEvent
 I_RpcTransIoCancelled
 I_RpcTransServerNewConnection
+I_RpcTurnOnEEInfoPropagation
 I_UuidCreate
 IUnknown_AddRef_Proxy
 IUnknown_QueryInterface_Proxy
@@ -323,7 +323,6 @@ NdrXmitOrRepAsFree
 NdrXmitOrRepAsMarshall
 NdrXmitOrRepAsMemorySize
 NdrXmitOrRepAsUnmarshall
-PerformRpcInitialization
 pfnFreeRoutines
 pfnMarshallRoutines
 pfnSizeRoutines
@@ -388,6 +387,8 @@ RpcIfIdVectorFree
 RpcIfInqId
 RpcImpersonateClient
 RpcInitializeAsyncHandle
+RpcInqClientSecurityContextAttributesA
+RpcInqClientSecurityContextAttributesW
 RpcMgmtEnableIdleCleanup
 RpcMgmtEpEltInqBegin
 RpcMgmtEpEltInqDone

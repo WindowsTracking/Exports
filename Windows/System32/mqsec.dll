@@ -7,11 +7,13 @@ GetSchannelCaCert
 GetSizes
 MQSealBuffer
 MQSec_AccessCheck
+MQSec_AccessCheckForSelf
 MQSec_AcquireCryptoProvider
 MQSec_CanGenerateAudit
 MQSec_ConvertSDToNT4Format
 MQSec_ConvertSDToNT5Format
 MQSec_CopySecurityDescriptor
+MQSec_GetAnonymousSid
 MQSec_GetCryptoProvProperty
 MQSec_GetDefaultSecDescriptor
 MQSec_GetImpersonationObject
@@ -26,10 +28,12 @@ MQSec_IsAnonymusSid
 MQSec_IsGuestSid
 MQSec_IsSystemSid
 MQSec_IsUnAuthenticatedUser
+MQSec_MakeAbsoluteSD
 MQSec_MakeSelfRelative
+MQSec_MergeSecurityDescriptors
 MQSec_PackPublicKey
 MQSec_SetPrivilegeInThread
-MQSec_SetUnknownUserToken
+MQSec_SetSecurityDescriptorDacl
 MQSec_StorePubKeys
 MQSec_StorePubKeysInDS
 MQSec_UnpackPublicKey

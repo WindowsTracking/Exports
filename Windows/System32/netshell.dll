@@ -5,8 +5,10 @@ DllUnregisterServer
 DoInitialCleanup
 HrCreateDesktopIcon
 HrGetAnswerFileParametersForNetCard
+HrGetIconFromMediaType
 HrGetInstanceGuidOfPreNT5NetCardInstance
 HrLaunchConnection
+HrLaunchConnectionEx
 HrLaunchNetworkOptionalComponents
 HrOemUpgrade
 HrRenameConnection
@@ -20,3 +22,5 @@ NetSetupInstallSoftware
 NetSetupPrepareSysPrep
 NetSetupRequestWizardPages
 NetSetupSetProgressCallback
+RepairConnection
+StartNCW

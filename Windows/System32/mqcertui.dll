@@ -2,9 +2,4 @@ CaConfig
 SelectPersonalCertificateForRegister
 SelectPersonalCertificateForRemoval
 ShowCertificate
-ShowEndDate
-ShowIssuer
 ShowPersonalCertificates
-ShowStartDate
-ShowSubject
-UnloadMqCertUI

@@ -1,4 +1,5 @@
 CPAcquireContext
+CPAcquireContextW
 CPCreateHash
 CPDecrypt
 CPDeriveKey

@@ -3,7 +3,5 @@ CoInstallClass
 CoInstallDevice
 CoInstallPortDevice
 DllMain
-DriverPageProc
 EnumPortPropPages
 EnumPropPages
-PortPageProc

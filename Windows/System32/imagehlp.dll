@@ -49,6 +49,7 @@ SymEnumerateSymbols
 SymEnumerateSymbols64
 SymEnumerateSymbolsW
 SymEnumerateSymbolsW64
+SymEnumSourceFiles
 SymEnumSym
 SymEnumSymbols
 SymEnumTypes
@@ -69,15 +70,10 @@ SymGetModuleBase
 SymGetModuleBase64
 SymGetModuleInfo
 SymGetModuleInfo64
-SymGetModuleInfoEx
-SymGetModuleInfoEx64
 SymGetModuleInfoW
 SymGetModuleInfoW64
-SymGetNextEnumListMember
 SymGetOptions
 SymGetSearchPath
-SymGetSymbolInfo
-SymGetSymbolInfo64
 SymGetSymFromAddr
 SymGetSymFromAddr64
 SymGetSymFromName
@@ -92,6 +88,7 @@ SymInitialize
 SymLoadModule
 SymLoadModule64
 SymMatchFileName
+SymMatchString
 SymRegisterCallback
 SymRegisterCallback64
 SymRegisterFunctionEntryCallback

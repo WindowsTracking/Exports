@@ -3,8 +3,6 @@ AddMIMEFileTypesPS
 AutodialHookCallback
 DllCanUnloadNow
 DllGetClassObject
-DummyEntryPoint
-DummyEntryPointA
 FileProtocolHandler
 FileProtocolHandlerA
 InetIsOffline

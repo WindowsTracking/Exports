@@ -1,3 +1,4 @@
+CanShareFolderW
 DllCanUnloadNow
 DllGetClassObject
 GetLocalPathFromNetResource
@@ -10,7 +11,8 @@ IsFolderPrivateForUser
 IsPathShared
 IsPathSharedA
 IsPathSharedW
-MakeFolderPrivateForUser
+SetFolderPermissionsForSharing
 SharingDialog
 SharingDialogA
 SharingDialogW
+ShowShareFolderUIW

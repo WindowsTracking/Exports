@@ -34,6 +34,7 @@ PcHandleDisableEventWithTable
 PcHandleEnableEventWithTable
 PcHandlePropertyWithTable
 PcInitializeAdapterDriver
+PcNewDmaChannel
 PcNewInterruptSync
 PcNewMiniport
 PcNewPort

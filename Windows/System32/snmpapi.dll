@@ -2,6 +2,7 @@ SnmpSvcAddrIsIpx
 SnmpSvcAddrToSocket
 SnmpSvcGetEnterpriseOID
 SnmpSvcGetUptime
+SnmpSvcGetUptimeFromTime
 SnmpSvcInitUptime
 SnmpSvcSetLogLevel
 SnmpSvcSetLogType

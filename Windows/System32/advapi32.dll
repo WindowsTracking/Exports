@@ -1,3 +1,6 @@
+A_SHAFinal
+A_SHAInit
+A_SHAUpdate
 AbortSystemShutdownA
 AbortSystemShutdownW
 AccessCheck
@@ -59,12 +62,6 @@ CloseEncryptedFileRaw
 CloseEventLog
 CloseServiceHandle
 CloseTrace
-CodeAuthzChangeRegistryScope
-CodeAuthzChangeRegistryScopeEx
-CodeAuthzCompareTokenLevels
-CodeAuthzRecordEventLogEntry
-CodeAuthzReplaceProcessThreadTokens
-CodeAuthzSearchMatchingHashRules
 CommandLineFromMsiDescriptor
 ComputeAccessTokenFromCodeAuthzLevel
 ControlService
@@ -109,7 +106,6 @@ CredDeleteW
 CredEnumerateA
 CredEnumerateW
 CredFree
-CredGetSessionType
 CredGetSessionTypes
 CredGetTargetInfoA
 CredGetTargetInfoW
@@ -241,9 +237,7 @@ GetExplicitEntriesFromAclA
 GetExplicitEntriesFromAclW
 GetFileSecurityA
 GetFileSecurityW
-GetInformationCodeAuthzLevelA
 GetInformationCodeAuthzLevelW
-GetInformationCodeAuthzPolicyA
 GetInformationCodeAuthzPolicyW
 GetInheritanceSourceA
 GetInheritanceSourceW
@@ -302,7 +296,6 @@ I_ScPnPGetServiceName
 I_ScSendTSMessage
 I_ScSetServiceBitsA
 I_ScSetServiceBitsW
-IdentifyCodeAuthzLevelA
 IdentifyCodeAuthzLevelW
 ImpersonateAnonymousToken
 ImpersonateLoggedOnUser
@@ -316,8 +309,6 @@ InitiateSystemShutdownExA
 InitiateSystemShutdownExW
 InitiateSystemShutdownW
 InstallApplication
-IsExecutableFileTypeA
-IsExecutableFileTypeW
 IsTextUnicode
 IsTokenRestricted
 IsTokenUntrusted
@@ -407,6 +398,12 @@ MakeAbsoluteSD
 MakeAbsoluteSD2
 MakeSelfRelativeSD
 MapGenericMask
+MD4Final
+MD4Init
+MD4Update
+MD5Final
+MD5Init
+MD5Update
 MSChapSrvChangePassword
 MSChapSrvChangePassword2
 NotifyBootConfigStatus
@@ -524,6 +521,22 @@ RemoveUsersFromEncryptedFile
 ReportEventA
 ReportEventW
 RevertToSelf
+SaferCloseLevel
+SaferComputeTokenFromLevel
+SaferCreateLevel
+SaferGetLevelInformation
+SaferGetPolicyInformation
+SaferiChangeRegistryScope
+SaferiCompareTokenLevels
+SaferIdentifyLevel
+SaferiIsExecutableFileType
+SaferiPopulateDefaultsInRegistry
+SaferiRecordEventLogEntry
+SaferiReplaceProcessThreadTokens
+SaferiSearchMatchingHashRules
+SaferRecordEventLogEntry
+SaferSetLevelInformation
+SaferSetPolicyInformation
 SetAclInformation
 SetEntriesInAccessListA
 SetEntriesInAccessListW
@@ -533,9 +546,7 @@ SetEntriesInAuditListA
 SetEntriesInAuditListW
 SetFileSecurityA
 SetFileSecurityW
-SetInformationCodeAuthzLevelA
 SetInformationCodeAuthzLevelW
-SetInformationCodeAuthzPolicyA
 SetInformationCodeAuthzPolicyW
 SetKernelObjectSecurity
 SetNamedSecurityInfoA
@@ -621,6 +632,7 @@ UnregisterIdleTask
 UnregisterTraceGuids
 UpdateTraceA
 UpdateTraceW
+WdmWmiServiceMain
 WmiCloseBlock
 WmiDevInstToInstanceNameA
 WmiDevInstToInstanceNameW
@@ -653,4 +665,5 @@ WmiSetSingleInstanceA
 WmiSetSingleInstanceW
 WmiSetSingleItemA
 WmiSetSingleItemW
+Wow64Win32ApiEntry
 WriteEncryptedFileRaw

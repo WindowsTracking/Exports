@@ -427,7 +427,6 @@
 #484
 #485
 #486
-#487
 #488
 #489
 #49
@@ -485,7 +484,14 @@
 #540
 #541
 #542
+#543
+#544
+#545
+#546
+#548
+#549
 #55
+#550
 #56
 #57
 #58
@@ -546,6 +552,7 @@ ChrCmpIW
 ColorAdjustLuma
 ColorHLSToRGB
 ColorRGBToHLS
+DelayLoadFailureHook
 DllGetVersion
 GetMenuPosFromID
 HashData
@@ -687,6 +694,7 @@ SHGetThreadRef
 SHGetValueA
 SHGetValueW
 SHIsLowMemoryMachine
+SHLoadIndirectString
 SHOpenRegStream2A
 SHOpenRegStream2W
 SHOpenRegStreamA
@@ -726,6 +734,7 @@ SHRegSetUSValueA
 SHRegSetUSValueW
 SHRegWriteUSValueA
 SHRegWriteUSValueW
+SHReleaseThreadRef
 SHSetThreadRef
 SHSetValueA
 SHSetValueW

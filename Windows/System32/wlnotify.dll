@@ -1,7 +1,10 @@
+RegisterTicketExpiredNotificationEvent
 SCardResumeCertProp
 SCardStartCertProp
 SCardStopCertProp
 SCardSuspendCertProp
+SchedEventLogOff
+SchedStartShell
 SensDisconnectEvent
 SensLockEvent
 SensLogoffEvent
@@ -14,6 +17,7 @@ SensStartShellEvent
 SensStartupEvent
 SensStopScreenSaverEvent
 SensUnlockEvent
+ShowNotificationBalloonW
 TermsrvCreateTempDir
 TSEventDisconnect
 TSEventLogoff
@@ -23,3 +27,4 @@ TSEventReconnect
 TSEventShutdown
 TSEventStartShell
 TSEventStartup
+UnregisterTicketExpiredNotificationEvent

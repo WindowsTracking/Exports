@@ -65,4 +65,4 @@ RegWinStationQueryW
 RegWinStationSetNumValueW
 RegWinStationSetSecurityA
 RegWinStationSetSecurityW
-WaitTSConnectionsPolicyAccepted
+WaitForTSConnectionsPolicyChanges

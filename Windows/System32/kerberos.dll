@@ -1,5 +1,7 @@
 KerbCreateTokenFromTicket
+KerbDomainChangeCallback
 KerbFree
+KerbIsInitialized
 KerbKdcCallBack
 KerbMakeKdcCall
 SpInitialize

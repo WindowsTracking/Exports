@@ -14,9 +14,11 @@ IsPwrSuspendAllowed
 LoadCurrentPwrScheme
 MergeLegacyPwrScheme
 ReadGlobalPwrPolicy
+ReadProcessorPwrScheme
 ReadPwrScheme
 SetActivePwrScheme
 SetSuspendState
 ValidatePowerPolicies
 WriteGlobalPwrPolicy
+WriteProcessorPwrScheme
 WritePwrScheme

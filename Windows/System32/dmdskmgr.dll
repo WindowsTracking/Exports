@@ -5,6 +5,7 @@
 ?ContainsBootIniPartition@CDMNodeObj@@QAEHXZ
 ?ContainsBootIniPartitionForWolfpack@CDMNodeObj@@QAEHXZ
 ?ContainsBootVolumesNumberChange@CDMNodeObj@@QAEH_JPAH@Z
+?ContainsESPPartition@CDMNodeObj@@QAEHXZ
 ?ContainsLogicalDrvBootPartition@CDMNodeObj@@QAEHXZ
 ?ContainsPageFile@CDMNodeObj@@QAEHXZ
 ?ContainsRealSystemPartition@CDMNodeObj@@QAEHXZ

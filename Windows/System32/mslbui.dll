@@ -1,0 +1,5 @@
+CTFGetLangBarAddIn
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

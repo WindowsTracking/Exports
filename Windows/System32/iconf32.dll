@@ -1,0 +1,10 @@
+CoDeviceInstall
+DecRefCount
+IConfDlgDoModal
+IConfDlgEnd
+IConfDlgInit
+IConfDlgWriteRegistryData
+iConfNTAdapterPropPageProvider
+IncRefCount
+SpidCfgFunc
+WANMiniportCoDeviceInstall

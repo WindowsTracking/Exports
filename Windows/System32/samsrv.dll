@@ -26,6 +26,7 @@ SamIFree_SAMPR_RETURNED_USTRING_ARRAY
 SamIFree_SAMPR_SR_SECURITY_DESCRIPTOR
 SamIFree_SAMPR_ULONG_ARRAY
 SamIFree_SAMPR_USER_INFO_BUFFER
+SamIFree_UserInternal6Information
 SamIFreeSidAndAttributesList
 SamIFreeSidArray
 SamIFreeVoid
@@ -40,12 +41,14 @@ SamIGetPrivateData
 SamIGetResourceGroupMembershipsTransitive
 SamIGetSerialNumberDomain
 SamIGetUserLogonInformation
+SamIGetUserLogonInformation2
 SamIGetUserLogonInformationEx
 SamIImpersonateNullSession
 SamIIncrementPerformanceCounter
 SamIInitialize
 SamIIsDownlevelDcUpgrade
 SamIIsExtendedSidMode
+SamIIsRebootAfterPromotion
 SamIIsSetupInProgress
 SamILoadDownlevelDatabase
 SamILoopbackConnect

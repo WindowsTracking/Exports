@@ -41,6 +41,7 @@ VideoPortGetDmaContext
 VideoPortGetMdl
 VideoPortGetRegistryParameters
 VideoPortGetRomImage
+VideoPortGetVersion
 VideoPortGetVgaStatus
 VideoPortInitialize
 VideoPortInt10

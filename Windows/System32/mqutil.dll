@@ -46,7 +46,6 @@
 ?CastToStruct@CColumns@@QAEPAUtagMQCOLUMNSET@@XZ
 ?CastToStruct@CRestriction@@QAEPAUtagMQRESTRICTION@@XZ
 ?CastToStruct@CSort@@QAEPAUtagMQSORTSET@@XZ
-?ChangeGuidToString@@YGXPAGPBU_GUID@@@Z
 ?ComposeLocalEndPoint@@YGXPBGPAPAG@Z
 ?CopyProperty@CDSBaseUpdate@@AAEJAAUtagPROPVARIANT@@PAU2@@Z
 ?Count@CColumns@@QBEIXZ
@@ -84,7 +83,6 @@
 ?GetVars@CDSBaseUpdate@@QAEPAUtagPROPVARIANT@@XZ
 ?Grow@CRestriction@@AAEXXZ
 ?HashMessageProperties@@YGJKPBEKK0KPBGKPBUQUEUE_FORMAT@@2@Z
-?HashMessageProperties@@YGJKPBUCMessageProperty@@PBUQUEUE_FORMAT@@1@Z
 ?HashProperties@@YGJKKPAKPAUtagPROPVARIANT@@@Z
 ?Init@CCancelRpc@@QAEXXZ
 ?Init@CDSBaseUpdate@@QAEJPBEPAKH@Z
@@ -93,6 +91,9 @@
 ?InitLogging@COutputReport@@AAEXW4enumLogComponents@@@Z
 ?InitProperty@CDSBaseUpdate@@AAEJPBEPAKKAAUtagPROPVARIANT@@@Z
 ?IsLocalSystemCluster@@YG_NXZ
+?KeepErrorHistory@COutputReport@@QAEXW4enumLogComponents@@PBGGJ@Z
+?KeepEventHistory@COutputReport@@QAEXK@Z
+?MQFreeCaConfig@@YGXPAVMQ_CA_CONFIG@@@Z
 ?MQGetCaConfig@@YGJPAKPAPAVMQ_CA_CONFIG@@@Z
 ?mqrpcBindQMService@@YGJPAGK0PAW4_tagMQRPC_AUTHENTICATION_LEVEL@@PAHPAPAXKP6GKPAXK@Z2K@Z
 ?mqrpcIsLocalCall@@YGHPAX@Z
@@ -104,7 +105,6 @@
 ?Remove@CColumns@@QAEXI@Z
 ?Remove@CSort@@QAEXI@Z
 ?Report@@3VCOutputReport@@A
-?ReportCompleteMsg@COutputReport@@QAAXGKKPAXGZZ
 ?ReportMsg@COutputReport@@QAEXKKPAXGPAPBGG@Z
 ?ReportStringMsg@COutputReport@@QAAXGKGZZ
 ?RestartLogging@COutputReport@@QAEXXZ
@@ -121,6 +121,7 @@
 ?XactGetDTC@@YGJPAPAUIUnknown@@PAKPAPAE@Z
 GetFalconKeyValue
 GetFalconSectionName
+MQGetResourceHandle
 MQUInitGlobalScurityVars
 MSMQGetOperatingSystem
 MSMQGetQMTypeString

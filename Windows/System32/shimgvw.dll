@@ -1,3 +1,4 @@
+ConvertDIBSECTIONToThumbnail
 DllCanUnloadNow
 DllGetClassObject
 DllInstall
@@ -9,3 +10,5 @@ ImageView_FullscreenA
 ImageView_FullscreenW
 imageview_fullscreenW
 ImageView_PrintTo
+ImageView_PrintToA
+ImageView_PrintToW

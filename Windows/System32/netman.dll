@@ -1,5 +1,6 @@
 DllRegisterServer
 DllUnregisterServer
+GetClientAdvises
 HrGetPnpDeviceStatus
 HrLanConnectionNameFromGuidOrPath
 HrPnpInstanceIdFromGuid

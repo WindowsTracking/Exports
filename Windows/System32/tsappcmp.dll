@@ -22,6 +22,7 @@ TermsrvLogInstallIniFile
 TermsrvLogInstallIniFileEx
 TermsrvOpenRegEntry
 TermsrvOpenUserClasses
+TermsrvRemoveClassesKey
 TermsrvRestoreKey
 TermsrvSetKeySecurity
 TermsrvSetValueKey

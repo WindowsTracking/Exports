@@ -84,6 +84,7 @@ SafeArraySetRecordInfo
 SafeArrayUnaccessData
 SafeArrayUnlock
 SetErrorInfo
+SetOaNoCache
 SetVarConversionLocaleSetting
 SysAllocString
 SysAllocStringByteLen

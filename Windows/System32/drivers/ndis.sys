@@ -175,12 +175,12 @@ NdisMFlushLog
 NdisMFreeMapRegisters
 NdisMFreeSharedMemory
 NdisMGetDeviceProperty
+NdisMGetDmaAlignment
 NdisMIndicateStatus
 NdisMIndicateStatusComplete
 NdisMInitializeScatterGatherDma
 NdisMInitializeTimer
 NdisMMapIoSpace
-NdisMNotifyPnPEvent
 NdisMPciAssignResources
 NdisMPromoteMiniport
 NdisMQueryAdapterInstanceName

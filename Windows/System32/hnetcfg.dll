@@ -1,8 +1,15 @@
+AlgUninstall
 DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+HNetDeleteRasConnection
 HNetFreeFirewallLoggingSettings
+HNetFreeSharingServicesPage
 HNetGetFirewallSettingsPage
 HNetGetShareAndBridgeSettings
+HNetGetSharingServicesPage
 HNetSetShareAndBridgeSettings
+HNetSharedAccessSettingsDlg
+HNetSharingAndFirewallSettingsDlg
+WinBomConfigureHomeNet

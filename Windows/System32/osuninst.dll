@@ -1,0 +1,9 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+ExecuteUninstall
+GetUninstallImageSize
+IsUninstallImageValid
+ProvideUiAlerts
+RemoveUninstallImage

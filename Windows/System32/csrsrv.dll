@@ -12,6 +12,7 @@ CsrDereferenceThread
 CsrDereferenceWait
 CsrDestroyProcess
 CsrDestroyThread
+CsrExecServerThread
 CsrGetProcessLuid
 CsrImpersonateClient
 CsrLockProcessByClientId

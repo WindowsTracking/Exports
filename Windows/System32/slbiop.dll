@@ -250,7 +250,7 @@
 ?Head@FilePath@iop@@QAE?AVFilePathComponent@2@XZ
 ?IncrementRefCount@CIOPLock@iop@@QAEXXZ
 ?Init@CIOPLock@iop@@QAEXPAVCSmartCard@2@@Z
-?InitIOPSecurityAttrs@CIOP@iop@@SGXPAU_SECURITY_ATTRIBUTES@@@Z
+?InitIOPSecurityAttrs@CIOP@iop@@SGXPAVCSecurityAttributes@@@Z
 ?Ins@Exception@CSmartCard@iop@@QBEEXZ
 ?insert@?$list@VFilePathComponent@iop@@V?$allocator@VFilePathComponent@iop@@@std@@@std@@QAE?AViterator@12@V312@ABVFilePathComponent@iop@@@Z
 ?insert@?$list@VFilePathComponent@iop@@V?$allocator@VFilePathComponent@iop@@@std@@@std@@QAEXViterator@12@IABVFilePathComponent@iop@@@Z

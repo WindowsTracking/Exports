@@ -11,7 +11,7 @@ PSetupDestroyPrinterDeviceInfoList
 PSetupDestroySelectedDriverInfo
 PSetupDriverInfoFromName
 PSetupEnumMonitor
-PSetupFindMapped9xDriver
+PSetupFindMappedDriver
 PSetupFreeDrvField
 PSetupFreeMem
 PSetupGetDriverInfForPrinter

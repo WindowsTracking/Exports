@@ -90,6 +90,7 @@
 #224
 #225
 #226
+#227
 AddUrlToFavorites
 DllCanUnloadNow
 DllGetClassObject
@@ -104,10 +105,12 @@ DoFileDownload
 DoFileDownloadEx
 DoOrganizeFavDlg
 DoOrganizeFavDlgW
+DoPrivacyDlg
 HlinkFindFrame
 HlinkFrameNavigate
 HlinkFrameNavigateNHL
 IEWriteErrorLog
+ImportPrivacySettings
 OpenURL
 SetQueryNetSessionCount
 SetShellOfflineState

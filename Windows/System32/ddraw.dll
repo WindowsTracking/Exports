@@ -1,4 +1,5 @@
 AcquireDDThreadLock
+CompleteCreateSysmemSurface
 D3DParseUnknownCommand
 DDGetAttachedSurfaceLcl
 DDInternalLock

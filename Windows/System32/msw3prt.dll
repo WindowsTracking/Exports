@@ -1,3 +1,2 @@
-DllMain
 GetExtensionVersion
 HttpExtensionProc

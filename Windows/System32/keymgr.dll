@@ -1,5 +1,8 @@
 CPlApplet
 DllMain
 KRShowKeyMgr
-PRShowRestoreWizard
-PRShowSaveWizard
+PRShowRestoreFromMsginaW
+PRShowRestoreWizardExW
+PRShowRestoreWizardW
+PRShowSaveFromMsginaW
+PRShowSaveWizardExW

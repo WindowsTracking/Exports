@@ -33,6 +33,7 @@ SamiLmChangePasswordUser
 SamiOemChangePasswordUser2
 SamiSetBootKeyInformation
 SamiSetDSRMPassword
+SamiSetDSRMPasswordOWF
 SamLookupDomainInSamServer
 SamLookupIdsInDomain
 SamLookupNamesInDomain

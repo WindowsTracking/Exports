@@ -5,5 +5,7 @@ YGetPrinterDriver2
 YGetPrinterDriverDirectory
 YReadPrinter
 YSeekPrinter
+YSetJob
+YSetPort
 YSplReadPrinter
 YWritePrinter

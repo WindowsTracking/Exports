@@ -1,10 +1,16 @@
 WdAllocateDeferredWatchdog
 WdAllocateWatchdog
+WdCompleteEvent
 WdDdiWatchdogDpcCallback
+WdDereferenceObject
 WdEnterMonitoredSection
 WdExitMonitoredSection
 WdFreeDeferredWatchdog
 WdFreeWatchdog
+WdGetDeviceObject
+WdGetLastEvent
+WdGetLowestDeviceObject
+WdReferenceObject
 WdResetDeferredWatch
 WdResetWatch
 WdResumeDeferredWatch

@@ -35,11 +35,13 @@ CryptUIWizExport
 CryptUIWizFreeCertRequestNoDS
 CryptUIWizFreeDigitalSignContext
 CryptUIWizImport
+CryptUIWizQueryCertRequestNoDS
 CryptUIWizSubmitCertRequestNoDS
 DllRegisterServer
 DllUnregisterServer
 EnrollmentCOMObjectFactory_getInstance
 I_CryptUIProtect
+I_CryptUIProtectFailure
 LocalEnroll
 LocalEnrollNoDS
 RetrievePKCS7FromCA

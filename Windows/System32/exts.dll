@@ -1,6 +1,8 @@
 acl
+analyzeexcep
 atom
-cpuid
+avrf
+cs
 cxr
 DebugExtensionInitialize
 DebugExtensionNotify
@@ -11,6 +13,7 @@ gflag
 heap
 help
 kuser
+list
 obja
 peb
 psr

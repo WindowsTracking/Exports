@@ -93,14 +93,14 @@
 ?_IsNodeCompact@CLKRLinearHashTable@@ABEHQAVCBucket@1@@Z
 ?_Lock@CSpinLock@@AAEXXZ
 ?_LockSpin@CReaderWriterLock2@@AAEX_N@Z
-?_LockSpin@CReaderWriterLock3@@AAEX_N@Z
+?_LockSpin@CReaderWriterLock3@@AAEXW4SPIN_TYPE@1@@Z
 ?_LockSpin@CReaderWriterLock@@AAEX_N@Z
 ?_LockSpin@CSmallSpinLock@@AAEXXZ
 ?_LockSpin@CSpinLock@@AAEXXZ
 ?_MergeRecordSets@CLKRLinearHashTable@@AAE?AW4LK_RETCODE@@PAVCBucket@1@PAVCNodeClump@1@1@Z
 ?_PredTrue@CLKRLinearHashTable@@CG?AW4LK_PREDICATE@@PBXPAX@Z
 ?_ReadLockSpin@CReaderWriterLock2@@AAEXXZ
-?_ReadLockSpin@CReaderWriterLock3@@AAEXXZ
+?_ReadLockSpin@CReaderWriterLock3@@AAEXW4SPIN_TYPE@1@@Z
 ?_ReadLockSpin@CReaderWriterLock@@AAEXXZ
 ?_ReadOrWriteLock@CLKRLinearHashTable@@ABE_NXZ
 ?_ReadOrWriteUnlock@CLKRLinearHashTable@@ABEX_N@Z
@@ -116,6 +116,7 @@
 ?_TryReadLock@CReaderWriterLock2@@AAE_NXZ
 ?_TryReadLock@CReaderWriterLock3@@AAE_NXZ
 ?_TryReadLock@CReaderWriterLock@@AAE_NXZ
+?_TryReadLockRecursive@CReaderWriterLock3@@AAE_NXZ
 ?_TryWriteLock2@CReaderWriterLock3@@AAE_NXZ
 ?_TryWriteLock@CReaderWriterLock2@@AAE_NJ@Z
 ?_TryWriteLock@CReaderWriterLock3@@AAE_NJ@Z
@@ -419,11 +420,13 @@
 ?WriteUnlock@CReaderWriterLock@@QAEXXZ
 ?WriteUnlock@CSmallSpinLock@@QAEXXZ
 ?WriteUnlock@CSpinLock@@QAEXXZ
+_DllMain@12
 _GetIUMS@4
 _IsValidAddress@12
 _IsValidString@8
 _LoadVersionedResourceEx@16
 _OnUnicodeSystem@0
+_SetIUMS@4
 CallWindowProcI
 CharNextI
 CharPrevI
@@ -446,7 +449,6 @@ DlgDirListComboBoxI
 DlgDirListI
 DlgDirSelectComboBoxExI
 DlgDirSelectExI
-DllMain
 DragQueryFileI
 ExpandEnvironmentStringsI
 FindFirstFileI
@@ -543,7 +545,6 @@ SendMessageI
 SendNotifyMessageI
 SetDlgItemTextI
 SetFileAttributesI
-SetIUMS
 SetMemHook
 SetWindowLongI
 SetWindowLongPtrI

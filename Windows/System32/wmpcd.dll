@@ -8,3 +8,5 @@ WMPCreateCDURL
 WMPFireCDMediaChange
 WMPGetCDDeviceList
 WMPParseCDURL
+WMPShutdown
+WMPStartup

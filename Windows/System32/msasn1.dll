@@ -3,6 +3,7 @@ ASN1_CloseEncoder
 ASN1_CloseEncoder2
 ASN1_CloseModule
 ASN1_CreateDecoder
+ASN1_CreateDecoderEx
 ASN1_CreateEncoder
 ASN1_CreateModule
 ASN1_Decode

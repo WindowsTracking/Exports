@@ -4,7 +4,9 @@ MQADDeleteObject
 MQADDeleteObjectGuid
 MQADEndDeleteNotification
 MQADEndQuery
+MQADGetADsPathInfo
 MQADGetComputerSites
+MQADGetComputerVersion
 MQADGetObjectProperties
 MQADGetObjectPropertiesGuid
 MQADGetObjectSecurity
@@ -19,6 +21,7 @@ MQADQueryConnectors
 MQADQueryForeignSites
 MQADQueryLinks
 MQADQueryMachineQueues
+MQADQueryNT4MQISServers
 MQADQueryQueues
 MQADQueryResults
 MQADQuerySiteServers

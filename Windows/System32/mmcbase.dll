@@ -29,6 +29,7 @@
 ?GetCode@SC@mmcerror@@QBEJXZ
 ?GetComObjectEventSource@@YGAAV?$CEventSource@VCComObjectObserver@@VCVoid@@V2@V2@V2@@@XZ
 ?GetErrorMessage@SC@mmcerror@@QBEXIPAG@Z
+?GetEventBuffer@@YGAAVCEventBuffer@@XZ
 ?GetFacility@SC@mmcerror@@ABE?AW4facility_type@12@XZ
 ?GetHelpFile@SC@mmcerror@@SGPBGXZ
 ?GetHelpID@SC@mmcerror@@QAEKXZ
