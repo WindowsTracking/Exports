@@ -12,7 +12,7 @@
 ??4CRandom@@QAEAAV0@ABV0@@Z
 ??_FCIniA@@QAEXXZ
 ??_FCIniW@@QAEXXZ
-?Banner@CmLogFile@@AAEXXZ
+?Banner@CmLogFile@@QAEXXZ
 ?CIni_SetFile@CIniA@@KGXPAPADPBD@Z
 ?CIni_SetFile@CIniW@@KGXPAPAGPBG@Z
 ?CIniA_DeleteEntryFromReg@CIniA@@IBEHPBD@Z
@@ -23,7 +23,7 @@
 ?CIniW_WriteEntryToReg@CIniW@@IBEHPBGPBEKK@Z
 ?Clear@CIniA@@QAEXXZ
 ?Clear@CIniW@@QAEXXZ
-?Clear@CmLogFile@@QAEJH@Z
+?Clear@CmLogFile@@QAEXH@Z
 ?CloseFile@CmLogFile@@AAEJXZ
 ?DeInit@CmLogFile@@QAEJXZ
 ?FormatWrite@CmLogFile@@AAEXW4_CMLOG_ITEM@@PAG@Z
@@ -32,6 +32,7 @@
 ?GetFile@CIniW@@QBEPBGXZ
 ?GetHInst@CIniA@@QBEPAUHINSTANCE__@@XZ
 ?GetHInst@CIniW@@QBEPAUHINSTANCE__@@XZ
+?GetLogFilePath@CmLogFile@@QAEPBGXZ
 ?GetPrimaryFile@CIniA@@QBEPBDXZ
 ?GetPrimaryFile@CIniW@@QBEPBGXZ
 ?GetPrimaryRegPath@CIniA@@QBEPBDXZ

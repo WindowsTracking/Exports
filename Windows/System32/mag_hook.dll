@@ -1,4 +1,5 @@
 _FakeCursorMove@8
 _GetCursorHack@0
+_GetPopupInfo@4
 _InstallEventHook@4
 _SetZoomRect@8

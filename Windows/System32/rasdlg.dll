@@ -1,7 +1,9 @@
 DwTerminalDlg
 GetRasDialOutProtocols
 RasAutodialDisableDlgA
+RasAutodialDisableDlgW
 RasAutodialQueryDlgA
+RasAutodialQueryDlgW
 RasDialDlgA
 RasDialDlgW
 RasEntryDlgA

@@ -45,6 +45,7 @@ RasGetHConnFromEntry
 RasGetHportFromConnection
 RasGetInfo
 RasGetInfoEx
+RasGetKey
 RasGetNdiswanDriverCaps
 RasGetNumPortOpen
 RasGetPortUserData
@@ -134,6 +135,7 @@ RasSecurityDialogSend
 RasSendNotification
 RasSendPppMessageToRasman
 RasServerPortClose
+RasSetAddressDisable
 RasSetBapPolicy
 RasSetCachedCredentials
 RasSetCalledIdInfo
@@ -146,6 +148,7 @@ RasSetDialParams
 RasSetEapLogonInfo
 RasSetEapUserInfo
 RasSetIoCompletionPort
+RasSetKey
 RasSetPortUserData
 RasSetRasdialInfo
 RasSetRouterUsage

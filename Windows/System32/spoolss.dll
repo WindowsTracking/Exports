@@ -138,9 +138,11 @@ SplDriverUnloadComplete
 SplGetSpoolFileInfo
 SplInitializeWinSpoolDrv
 SplIsUpgrade
+SplPowerEvent
 SplProcessPnPEvent
 SplReadPrinter
 SplRegisterForDeviceEvents
+SplShutDownRouter
 SplStartPhase2Init
 SplUnregisterForDeviceEvents
 SpoolerFindClosePrinterChangeNotification

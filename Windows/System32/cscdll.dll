@@ -38,9 +38,14 @@ CSCMergeShareA
 CSCMergeShareW
 CSCPinFileA
 CSCPinFileW
+CSCPurgeUnpinnedFiles
 CSCQueryDatabaseStatus
 CSCQueryFileStatusA
+CSCQueryFileStatusExA
+CSCQueryFileStatusExW
 CSCQueryFileStatusW
+CSCQueryShareStatusA
+CSCQueryShareStatusW
 CSCSetMaxSpace
 CSCTransitionServerOnlineA
 CSCTransitionServerOnlineW

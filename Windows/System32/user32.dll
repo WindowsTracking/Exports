@@ -18,6 +18,7 @@ BroadcastSystemMessageA
 BroadcastSystemMessageExA
 BroadcastSystemMessageExW
 BroadcastSystemMessageW
+BuildReasonArray
 CalcMenuBar
 CallMsgFilter
 CallMsgFilterA
@@ -91,10 +92,12 @@ CreateMDIWindowA
 CreateMDIWindowW
 CreateMenu
 CreatePopupMenu
+CreateSystemThreads
 CreateWindowExA
 CreateWindowExW
 CreateWindowStationA
 CreateWindowStationW
+CsrBroadcastSystemMessageExW
 CtxInitUser32
 DdeAbandonTransaction
 DdeAccessData
@@ -136,6 +139,7 @@ DefFrameProcA
 DefFrameProcW
 DefMDIChildProcA
 DefMDIChildProcW
+DefRawInputProc
 DefWindowProcA
 DefWindowProcW
 DeleteMenu
@@ -145,6 +149,7 @@ DestroyCaret
 DestroyCursor
 DestroyIcon
 DestroyMenu
+DestroyReasons
 DestroyWindow
 DeviceEventWorker
 DialogBoxIndirectParamA
@@ -326,6 +331,8 @@ GetRawInputBuffer
 GetRawInputData
 GetRawInputDeviceInfoA
 GetRawInputDeviceInfoW
+GetRawInputDeviceList
+GetReasonTitleFromReasonCode
 GetRegisteredRawInputDevices
 GetScrollBarInfo
 GetScrollInfo
@@ -414,6 +421,7 @@ IsMenu
 IsRectEmpty
 IsWindow
 IsWindowEnabled
+IsWindowInDestroy
 IsWindowUnicode
 IsWindowVisible
 IsWinEventHookInstalled
@@ -515,6 +523,8 @@ RealChildWindowFromPoint
 RealGetWindowClass
 RealGetWindowClassA
 RealGetWindowClassW
+ReasonCodeNeedsBugID
+ReasonCodeNeedsComment
 RecordShutdownReason
 RedrawWindow
 RegisterClassA
@@ -527,6 +537,7 @@ RegisterDeviceNotificationA
 RegisterDeviceNotificationW
 RegisterHotKey
 RegisterLogonProcess
+RegisterMessagePumpHook
 RegisterRawInputDevices
 RegisterServicesProcess
 RegisterShellHookWindow
@@ -677,6 +688,7 @@ UnregisterClassA
 UnregisterClassW
 UnregisterDeviceNotification
 UnregisterHotKey
+UnregisterMessagePumpHook
 UnregisterUserApiHook
 UpdateLayeredWindow
 UpdatePerUserSystemParameters

@@ -41,6 +41,7 @@ ClassReleaseRemoveLock
 ClassRemoveDevice
 ClassResetMediaChangeTimer
 ClassRetryRequest
+ClassScanForSpecial
 ClassSendDeviceIoControlSynchronous
 ClassSendIrpSynchronous
 ClassSendSrbAsynchronous

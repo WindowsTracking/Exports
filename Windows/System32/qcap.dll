@@ -1,3 +1,5 @@
+AudioGetCaptureDeviceInfo
+AudioReleaseCaptureDeviceInfo
 DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer

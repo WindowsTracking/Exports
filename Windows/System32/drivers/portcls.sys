@@ -5,6 +5,7 @@ KsoGetIrpTargetFromFileObject
 KsoGetIrpTargetFromIrp
 PcAcquireFormatResources
 PcAddAdapterDevice
+PcAddContentHandlers
 PcAddToEventTable
 PcAddToPropertyTable
 PcCaptureFormat
@@ -18,6 +19,7 @@ PcDestroyContent
 PcDispatchIrp
 PcDmaMasterDescription
 PcDmaSlaveDescription
+PcForwardContentToDeviceObject
 PcForwardContentToFileObject
 PcForwardContentToInterface
 PcForwardIrpSynchronous
@@ -32,10 +34,7 @@ PcHandleDisableEventWithTable
 PcHandleEnableEventWithTable
 PcHandlePropertyWithTable
 PcInitializeAdapterDriver
-PcNewDmaChannel
 PcNewInterruptSync
-PcNewIrpStreamPhysical
-PcNewIrpStreamVirtual
 PcNewMiniport
 PcNewPort
 PcNewRegistryKey

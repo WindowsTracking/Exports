@@ -16,6 +16,9 @@ IcaQueueWorkItemEx
 IcaRawInput
 IcaReturnHandle
 IcaSleep
+IcaStackAllocatePool
+IcaStackAllocatePoolWithTag
+IcaStackFreePool
 IcaStackTrace
 IcaStackTraceBuffer
 IcaSystemTrace

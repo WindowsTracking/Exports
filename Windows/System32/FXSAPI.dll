@@ -57,8 +57,7 @@ FaxGetJobExW
 FaxGetJobW
 FaxGetLoggingCategoriesA
 FaxGetLoggingCategoriesW
-FaxGetMapiProfilesA
-FaxGetMapiProfilesW
+FaxGetManualAnswerDevice
 FaxGetMessageA
 FaxGetMessageTiffA
 FaxGetMessageTiffW
@@ -83,6 +82,8 @@ FaxGetSenderInfoA
 FaxGetSenderInformation
 FaxGetSenderInfoW
 FaxGetServerActivity
+FaxGetServicePrintersA
+FaxGetServicePrintersW
 FaxGetVersion
 FaxInitializeEventQueue
 FaxOpenPort
@@ -122,6 +123,7 @@ FaxSetJobA
 FaxSetJobW
 FaxSetLoggingCategoriesA
 FaxSetLoggingCategoriesW
+FaxSetManualAnswerDevice
 FaxSetOutboundGroupA
 FaxSetOutboundGroupW
 FaxSetOutboundRuleA
@@ -148,3 +150,5 @@ FaxUnregisterRoutingExtensionA
 FaxUnregisterRoutingExtensionW
 FaxUnregisterServiceProviderExA
 FaxUnregisterServiceProviderExW
+FXSAPIFree
+FXSAPIInitialize

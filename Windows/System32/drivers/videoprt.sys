@@ -7,6 +7,7 @@ VideoPortAllocateContiguousMemory
 VideoPortAllocatePool
 VideoPortAssociateEventsWithDmaHandle
 VideoPortCheckForDeviceExistance
+VideoPortCheckForDeviceExistence
 VideoPortClearEvent
 VideoPortCompareMemory
 VideoPortCompleteDma
@@ -21,6 +22,7 @@ VideoPortDisableInterrupt
 VideoPortDoDma
 VideoPortEnableInterrupt
 VideoPortEnumerateChildren
+VideoPortFlushRegistry
 VideoPortFreeCommonBuffer
 VideoPortFreeDeviceBase
 VideoPortFreePool
@@ -53,6 +55,7 @@ VideoPortMapDmaMemory
 VideoPortMapMemory
 VideoPortMoveMemory
 VideoPortPutDmaAdapter
+VideoPortQueryPerformanceCounter
 VideoPortQueryServices
 VideoPortQuerySystemTime
 VideoPortQueueDpc

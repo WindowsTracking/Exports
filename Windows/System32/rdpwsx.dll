@@ -4,10 +4,12 @@ WsxConnect
 WsxCopyContext
 WsxDisconnect
 WsxDuplicateContext
+WsxEscape
 WsxIcaStackIoControl
 WsxInitialize
 WsxInitializeClientData
 WsxLogonNotify
+WsxSetErrorInfo
 WsxVirtualChannelSecurity
 WsxWinStationInitialize
 WsxWinStationReInitialize

@@ -29,8 +29,8 @@ ScriptStringOut
 ScriptStringValidate
 ScriptStringXtoCP
 ScriptTextOut
-ScriptTextOutRedirected
 ScriptXtoCP
 UspAllocCache
 UspAllocTemp
+UspDllControl
 UspFreeMem

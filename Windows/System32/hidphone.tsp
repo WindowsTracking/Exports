@@ -10,7 +10,6 @@ TSPI_phoneGetID
 TSPI_phoneGetLamp
 TSPI_phoneGetRing
 TSPI_phoneGetStatus
-TSPI_phoneNegotiateExtVersion
 TSPI_phoneNegotiateTSPIVersion
 TSPI_phoneOpen
 TSPI_phoneSelectExtVersion

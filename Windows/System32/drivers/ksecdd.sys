@@ -2,6 +2,7 @@ AcceptSecurityContext
 AcquireCredentialsHandleW
 AddCredentialsW
 ApplyControlToken
+CredMarshalTargetInfo
 DeleteSecurityContext
 EfsDecryptFek
 EfsGenerateKey
@@ -28,6 +29,8 @@ QuerySecurityContextToken
 QuerySecurityPackageInfoW
 RevertSecurityContext
 SealMessage
+SecLookupAccountName
+SecLookupAccountSid
 SecMakeSPN
 SecSetPagingMode
 UnsealMessage

@@ -3,14 +3,13 @@ AdjustPacketBuffer
 ChecksumPacket
 CopyNdisToFlat
 CreateNTE
-CreatePermanentNeighbor
 DestroyInterface
 EnumRegMultiSz
 GetPathMTUFromRCE
 GetRegMultiSZValue
 IPv6FreePacket
-IPv6Send0
 IPv6SendComplete
+IPv6SendND
 NeighborCacheInit
 NewFragmentId
 OpenRegKey

@@ -19,13 +19,11 @@ WNetCloseEnum
 WNetConnectionDialog
 WNetConnectionDialog1A
 WNetConnectionDialog1W
-WNetConnectionDialog2
 WNetDirectoryNotifyA
 WNetDirectoryNotifyW
 WNetDisconnectDialog
 WNetDisconnectDialog1A
 WNetDisconnectDialog1W
-WNetDisconnectDialog2
 WNetEnumResourceA
 WNetEnumResourceW
 WNetFMXEditPerm

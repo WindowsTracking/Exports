@@ -6,9 +6,11 @@ GetLocalPathFromNetResourceW
 GetNetResourceFromLocalPath
 GetNetResourceFromLocalPathA
 GetNetResourceFromLocalPathW
+IsFolderPrivateForUser
 IsPathShared
 IsPathSharedA
 IsPathSharedW
+MakeFolderPrivateForUser
 SharingDialog
 SharingDialogA
 SharingDialogW

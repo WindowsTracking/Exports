@@ -1,10 +1,7 @@
-__dwEnabledTraces
-_AsyncBinaryTrace@16
-_AsyncStringTrace@12
-_DebugAssert@12
-_DllEntryPoint@12
-_dwEnabledTraces
-_FlushAsyncTrace@0
-_InitAsyncTrace@0
-_SetAsyncTraceParams@16
-_TermAsyncTrace@0
+INTERNAL__AsyncBinaryTrace
+INTERNAL__AsyncStringTrace
+INTERNAL__DebugAssert
+INTERNAL__FlushAsyncTrace
+INTERNAL__InitAsyncTrace
+INTERNAL__SetAsyncTraceParams
+INTERNAL__TermAsyncTrace

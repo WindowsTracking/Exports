@@ -32,6 +32,7 @@ ResUtilGetPrivateProperties
 ResUtilGetProperties
 ResUtilGetPropertiesToParameterBlock
 ResUtilGetProperty
+ResUtilGetPropertyFormats
 ResUtilGetPropertySize
 ResUtilGetResourceDependency
 ResUtilGetResourceDependencyByClass

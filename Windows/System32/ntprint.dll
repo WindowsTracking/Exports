@@ -11,6 +11,7 @@ PSetupDestroyPrinterDeviceInfoList
 PSetupDestroySelectedDriverInfo
 PSetupDriverInfoFromName
 PSetupEnumMonitor
+PSetupFindMapped9xDriver
 PSetupFreeDrvField
 PSetupFreeMem
 PSetupGetDriverInfForPrinter
@@ -19,12 +20,12 @@ PSetupGetLocalDataField
 PSetupGetPathToSearch
 PSetupGetSelectedDriverInfo
 PSetupInstallICMProfiles
+PSetupInstallInboxDriverSilently
 PSetupInstallMonitor
 PSetupInstallPrinterDriver
 PSetupInstallPrinterDriverFromTheWeb
 PSetupIsCompatibleDriver
 PSetupIsDriverInstalled
-PSetupIsMonitorInstalled
 PSetupIsOemDriver
 PSetupIsTheDriverFoundInInfInstalled
 PSetupKillBadUserConnections
@@ -34,6 +35,7 @@ PSetupRefreshDriverList
 PSetupSelectDeviceButtons
 PSetupSelectDriver
 PSetupSetSelectDevTitleAndInstructions
+PSetupShowBlockedDriverUI
 PSetupThisPlatform
 PSetupUpgradeClusterDriversW
 ServerInstallW

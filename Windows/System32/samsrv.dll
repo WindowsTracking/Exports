@@ -1,7 +1,9 @@
 SamIAccountRestrictions
 SamIAddDSNameToAlias
 SamIAddDSNameToGroup
+SamIAmIGC
 SamIChangePasswordForeignUser
+SamIChangePasswordForeignUser2
 SamIConnect
 SamICreateAccountByRid
 SamIDemote
@@ -38,6 +40,7 @@ SamIGetPrivateData
 SamIGetResourceGroupMembershipsTransitive
 SamIGetSerialNumberDomain
 SamIGetUserLogonInformation
+SamIGetUserLogonInformationEx
 SamIImpersonateNullSession
 SamIIncrementPerformanceCounter
 SamIInitialize
@@ -48,6 +51,7 @@ SamILoadDownlevelDatabase
 SamILoopbackConnect
 SamIMixedDomain
 SamIMixedDomain2
+SamINetLogonPing
 SamINotifyDelta
 SamINotifyRoleChange
 SamINotifyServerDelta
@@ -68,11 +72,14 @@ SamISameSite
 SamISetAuditingInformation
 SamISetMixedDomainFlag
 SamISetPasswordForeignUser
+SamISetPasswordForeignUser2
 SamISetPasswordInfoOnPdc
 SamISetPrivateData
 SamISetSerialNumberDomain
 SamIStorePrimaryCredentials
 SamIUnLoadDownlevelDatabase
+SamIUpdateLogonStatistics
+SamIUPNFromUserHandle
 SampAbortSingleLoopbackTask
 SampAccountControlToFlags
 SampAcquireSamLockExclusive

@@ -56,6 +56,7 @@ CopyFileA
 CopyFileExA
 CopyFileExW
 CopyFileW
+CopyLZFile
 CreateActCtxA
 CreateActCtxW
 CreateConsoleScreenBuffer
@@ -238,6 +239,7 @@ GetCommModemStatus
 GetCommProperties
 GetCommState
 GetCommTimeouts
+GetComPlusPackageInstallStatus
 GetCompressedFileSizeA
 GetCompressedFileSizeW
 GetComputerNameA
@@ -274,6 +276,7 @@ GetConsoleKeyboardLayoutNameW
 GetConsoleMode
 GetConsoleNlsMode
 GetConsoleOutputCP
+GetConsoleProcessList
 GetConsoleScreenBufferInfo
 GetConsoleSelectionInfo
 GetConsoleTitleA
@@ -311,6 +314,8 @@ GetEnvironmentVariableA
 GetEnvironmentVariableW
 GetExitCodeProcess
 GetExitCodeThread
+GetExpandedNameA
+GetExpandedNameW
 GetFileAttributesA
 GetFileAttributesExA
 GetFileAttributesExW
@@ -347,6 +352,12 @@ GetNamedPipeHandleStateW
 GetNamedPipeInfo
 GetNextVDMCommand
 GetNlsSectionName
+GetNumaAvailableMemory
+GetNumaAvailableMemoryNode
+GetNumaHighestNodeNumber
+GetNumaNodeProcessorMask
+GetNumaProcessorMap
+GetNumaProcessorNode
 GetNumberFormatA
 GetNumberFormatW
 GetNumberOfConsoleFonts
@@ -475,8 +486,10 @@ HeapDestroy
 HeapExtend
 HeapFree
 HeapLock
+HeapQueryInformation
 HeapQueryTagW
 HeapReAlloc
+HeapSetInformation
 HeapSize
 HeapSummary
 HeapUnlock
@@ -512,6 +525,7 @@ IsSystemResumeAutomatic
 IsValidCodePage
 IsValidLanguageGroup
 IsValidLocale
+IsValidUILanguage
 LCMapStringA
 LCMapStringW
 LeaveCriticalSection
@@ -553,6 +567,17 @@ lstrcpyW
 lstrlen
 lstrlenA
 lstrlenW
+LZClose
+LZCloseFile
+LZCopy
+LZCreateFileW
+LZDone
+LZInit
+LZOpenFileA
+LZOpenFileW
+LZRead
+LZSeek
+LZStart
 MapUserPhysicalPages
 MapUserPhysicalPagesScatter
 MapViewOfFile
@@ -606,6 +631,7 @@ Process32NextW
 ProcessIdToSessionId
 PulseEvent
 PurgeComm
+QueryActCtxW
 QueryDosDeviceA
 QueryDosDeviceW
 QueryInformationJobObject
@@ -652,6 +678,7 @@ RequestDeviceWakeup
 RequestWakeupLatency
 ResetEvent
 ResetWriteWatch
+RestoreLastError
 ResumeThread
 RtlFillMemory
 RtlMoveMemory
@@ -669,6 +696,7 @@ SetCommConfig
 SetCommMask
 SetCommState
 SetCommTimeouts
+SetComPlusPackageInstallStatus
 SetComputerNameA
 SetComputerNameExA
 SetComputerNameExW
@@ -755,6 +783,7 @@ SetThreadIdealProcessor
 SetThreadLocale
 SetThreadPriority
 SetThreadPriorityBoost
+SetThreadUILanguage
 SetTimerQueueTimer
 SetTimeZoneInformation
 SetUnhandledExceptionFilter

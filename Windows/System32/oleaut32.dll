@@ -23,6 +23,7 @@ GetAltMonthNames
 GetErrorInfo
 GetRecordInfoFromGuids
 GetRecordInfoFromTypeInfo
+GetVarConversionLocaleSetting
 LHashValOfNameSys
 LHashValOfNameSysA
 LoadRegTypeLib
@@ -83,6 +84,7 @@ SafeArraySetRecordInfo
 SafeArrayUnaccessData
 SafeArrayUnlock
 SetErrorInfo
+SetVarConversionLocaleSetting
 SysAllocString
 SysAllocStringByteLen
 SysAllocStringLen

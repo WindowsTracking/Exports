@@ -1,4 +1,7 @@
 FaxLog
+FXSEVENTFree
+FXSEVENTInitialize
 GetEventsCounters
+GetLoggingCategories
 InitializeEventLog
 RefreshEventLog

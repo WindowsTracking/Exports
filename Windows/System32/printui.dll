@@ -9,12 +9,15 @@ ConstructPrinterFriendlyName
 DllCanUnloadNow
 DllGetClassObject
 DllMain
+DocumentPropertiesWrap
 PnPInterface
 PrinterPropPageProvider
 PrintNotifyTray_Exit
 PrintNotifyTray_Init
 PrintUIEntryW
 RegisterPrintNotify
+ShowErrorMessageHR
+ShowErrorMessageSC
 UnregisterPrintNotify
 vDocumentDefaults
 vPrinterPropPages

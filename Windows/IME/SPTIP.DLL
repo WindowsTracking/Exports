@@ -2,3 +2,4 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+TF_CreateLangProfileUtil

@@ -5,6 +5,7 @@ HidD_GetConfiguration
 HidD_GetFeature
 HidD_GetHidGuid
 HidD_GetIndexedString
+HidD_GetInputReport
 HidD_GetManufacturerString
 HidD_GetMsGenreDescriptor
 HidD_GetNumInputBuffers
@@ -16,6 +17,7 @@ HidD_Hello
 HidD_SetConfiguration
 HidD_SetFeature
 HidD_SetNumInputBuffers
+HidD_SetOutputReport
 HidP_GetButtonCaps
 HidP_GetCaps
 HidP_GetData

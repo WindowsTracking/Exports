@@ -231,7 +231,19 @@
 #726
 #727
 #73
+#730
+#731
+#732
 #74
+#740
+#741
+#742
+#743
+#744
+#745
+#746
+#747
+#748
 #75
 #76
 #77
@@ -258,6 +270,7 @@
 #97
 #98
 #99
+AppCompat_RunDLLW
 CheckEscapesA
 CheckEscapesW
 CommandLineToArgvW
@@ -302,7 +315,6 @@ FindExeDlgProc
 FreeIconList
 InternalExtractIconListA
 InternalExtractIconListW
-Link_RunWithShimW
 OpenAs_RunDLL
 OpenAs_RunDLLA
 OpenAs_RunDLLW
@@ -382,6 +394,8 @@ SHGetFileInfoA
 SHGetFileInfoW
 SHGetFolderLocation
 SHGetFolderPathA
+SHGetFolderPathAndSubDirA
+SHGetFolderPathAndSubDirW
 SHGetFolderPathW
 SHGetIconOverlayIndexA
 SHGetIconOverlayIndexW

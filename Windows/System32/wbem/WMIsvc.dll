@@ -1,0 +1,6 @@
+DllRegisterServer
+DllUnregisterServer
+DredgeRA
+MoveToAlone
+MoveToShared
+ServiceMain

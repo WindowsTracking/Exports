@@ -25,6 +25,7 @@ wiasDownSampleBuffer
 wiasFormatArgs
 wiasFreePropContext
 wiasGetChangedValueFloat
+wiasGetChangedValueGuid
 wiasGetChangedValueLong
 wiasGetChangedValueStr
 wiasGetChildrenContexts
@@ -35,6 +36,7 @@ wiasGetItemType
 wiasGetPropertyAttributes
 wiasGetRootItem
 wiasIsPropChanged
+wiasParseEndorserString
 wiasPrintDebugHResult
 wiasQueueEvent
 wiasReadMultiple
@@ -57,6 +59,7 @@ wiasSetValidRangeLong
 wiasUpdateScanRect
 wiasUpdateValidFormat
 wiasValidateItemProperties
+wiasWriteBufToFile
 wiasWriteMultiple
 wiasWritePageBufToFile
 wiasWritePropBin

@@ -6,7 +6,6 @@ CloseSslPerformanceData
 CollectSslPerformanceData
 CompleteAuthToken
 DeleteSecurityContext
-EnableCertMapping
 EnumerateSecurityPackagesA
 EnumerateSecurityPackagesW
 FreeContextBuffer

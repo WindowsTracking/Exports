@@ -14,6 +14,7 @@ CLIPOBJ_ppoGetPath
 EngAcquireSemaphore
 EngAllocMem
 EngAllocPrivateUserMem
+EngAllocSectionMem
 EngAllocUserMem
 EngAlphaBlend
 EngAssociateSurface
@@ -60,6 +61,7 @@ EngFntCacheLookUp
 EngFreeMem
 EngFreeModule
 EngFreePrivateUserMem
+EngFreeSectionMem
 EngFreeUserMem
 EngGetCurrentCodePage
 EngGetCurrentProcessId
@@ -77,6 +79,7 @@ EngGetProcessHandle
 EngGetTickCount
 EngGetType1FontList
 EngGradientFill
+EngHangNotification
 EngInitializeSafeSemaphore
 EngIsSemaphoreOwned
 EngIsSemaphoreOwnedByCurrentThread
@@ -93,6 +96,7 @@ EngMapFile
 EngMapFontFile
 EngMapFontFileFD
 EngMapModule
+EngMapSection
 EngMarkBandingSurface
 EngModifySurface
 EngMovePointer

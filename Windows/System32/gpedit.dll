@@ -6,3 +6,5 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+ExportRSoPData
+ImportRSoPData

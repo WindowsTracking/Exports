@@ -43,15 +43,6 @@
 ??4CSingleList@@QAEAAV0@ABV0@@Z
 ??4CSmallSpinLock@@QAEAAV0@ABV0@@Z
 ??4CSpinLock@@QAEAAV0@ABV0@@Z
-??_C@_08FDIF@CCritSec?$AA@
-??_C@_09CJBC@CSpinLock?$AA@
-??_C@_09MOKF@CFakeLock?$AA@
-??_C@_0BC@KBCP@CReaderWriterLock?$AA@
-??_C@_0BD@FKBP@CReaderWriterLock2?$AA@
-??_C@_0BD@PAII@CReaderWriterLock3?$AA@
-??_C@_0BE@GJAG@CLKRLinearHashTable?$AA@
-??_C@_0O@NPCL@CLKRHashTable?$AA@
-??_C@_0P@FELF@CSmallSpinLock?$AA@
 ?_AddRefRecord@CLKRLinearHashTable@@ABEXPBXH@Z
 ?_AllocateNodeClump@CLKRLinearHashTable@@CGQAVCNodeClump@1@XZ
 ?_AllocateSegment@CLKRLinearHashTable@@ABEQAVCSegment@1@XZ
@@ -344,7 +335,7 @@
 ?RemoveHead@CLockedDoubleList@@QAEQAVCListEntry@@XZ
 ?RemoveTail@CDoubleList@@QAEQAVCListEntry@@XZ
 ?RemoveTail@CLockedDoubleList@@QAEQAVCListEntry@@XZ
-?s_aBucketSizes@?1??BucketSizes@CLKRHashTableStats@@SGPBJXZ@4PBJB
+?s_aBucketSizes@?1??BucketSizes@CLKRHashTableStats@@SGPBJXZ@4QBJB
 ?SetBucketLockSpinCount@CLKRHashTable@@QAEXG@Z
 ?SetBucketLockSpinCount@CLKRLinearHashTable@@QAEXG@Z
 ?SetDefaultSpinAdjustmentFactor@CCritSec@@SGXN@Z
@@ -467,6 +458,7 @@ FXMemAttach
 FXMemDetach
 GetClassInfoExI
 GetComputerNameI
+GetDiskFreeSpaceExI
 GetDlgItemTextI
 GetEnvironmentVariableI
 GetFileSecurityI

@@ -13,6 +13,7 @@ _WinStationReadRegistry
 _WinStationReInitializeSecurity
 _WinStationShadowTarget
 _WinStationShadowTargetSetup
+_WinStationUpdateClientCachedCredentials
 _WinStationUpdateSettings
 _WinStationUpdateUserConfig
 _WinStationWaitForConnect
@@ -33,9 +34,6 @@ ServerLicensingUnloadPolicy
 ServerQueryInetConnectorInformationA
 ServerQueryInetConnectorInformationW
 ServerSetInternetConnectorStatus
-TSIsLogonUserHelpAssistant
-TSIsMachineInHelpMode
-TSIsUserHelpAssistant
 WinStationActivateLicense
 WinStationBroadcastSystemMessage
 WinStationCloseServer
@@ -54,9 +52,11 @@ WinStationGenerateLicense
 WinStationGetAllProcesses
 WinStationGetLanAdapterNameA
 WinStationGetLanAdapterNameW
+WinStationGetMachinePolicy
 WinStationGetProcessSid
 WinStationGetTermSrvCountersValue
 WinStationInstallLicense
+WinStationIsHelpAssistantSession
 WinStationNameFromLogonIdA
 WinStationNameFromLogonIdW
 WinStationNtsdDebug

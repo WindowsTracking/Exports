@@ -17,8 +17,10 @@ AddDevice
 ClassInstall
 CoinstallerEntry
 InstallWiaService
+MigrateDevice
 RemoveDevice
 WiaAddDevice
+WiaCreatePortList
 WiaCreateWizardMenu
-WiaEnumDeviceRegistry
+WiaDestroyPortList
 WiaRemoveDevice

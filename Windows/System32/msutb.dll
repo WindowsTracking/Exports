@@ -3,4 +3,5 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+GetLibTls
 GetPopupTipbar

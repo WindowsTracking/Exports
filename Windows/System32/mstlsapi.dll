@@ -28,6 +28,7 @@ TLSGetServerName
 TLSGetServerPID
 TLSGetServerScope
 TLSGetServerSPK
+TLSGetSupportFlags
 TLSGetTlsPrivateData
 TLSGetTSCertificate
 TLSGetVersion
@@ -38,6 +39,7 @@ TLSIsBetaNTServer
 TLSIsLicenseEnforceEnable
 TLSIssueNewLicense
 TLSIssueNewLicenseEx
+TLSIssueNewLicenseExEx
 TLSIssuePlatformChallenge
 TLSKeyPackAdd
 TLSKeyPackEnumBegin

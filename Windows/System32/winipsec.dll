@@ -13,7 +13,7 @@ DeleteMMPolicy
 DeleteQMPolicy
 DeleteTransportFilter
 DeleteTunnelFilter
-EnumIpsecInterfaces
+EnumIPSecInterfaces
 EnumMMAuthMethods
 EnumMMFilters
 EnumMMPolicies
@@ -30,9 +30,11 @@ GetQMPolicyByID
 GetTransportFilter
 GetTunnelFilter
 InitializeDll
+IPSecAddSAs
 IPSecCloseIKENegotiationHandle
 IPSecCloseNotifyHandle
 IPSecDeleteMMSAs
+IPSecDeleteQMSAs
 IPSecEnumMMSAs
 IPSecInitiateIKENegotiation
 IPSecQueryIKENegotiationStatus

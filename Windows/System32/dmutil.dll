@@ -1,6 +1,7 @@
 ?GetSymVolName@@YGHPAG0@Z
 ?GetSystemPartitionName@@YGHPAG@Z
 ?GetSystemRoot@@YGHPAG@Z
+CoDisableDynamicVolumes
 DisplayError
 DisplayErrorRgszw
 DllMain
@@ -8,6 +9,8 @@ FreeRgszw
 FTrace
 FTraceValist
 GetErrorData
+IsLaptop
+IsPersonalSKU
 lowDmCommonIsApSupported
 RgszwDupRgszw
 RgszwFromArgs

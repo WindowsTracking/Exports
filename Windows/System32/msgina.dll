@@ -10,6 +10,8 @@
 #18
 #19
 #2
+#20
+#21
 #3
 #4
 #5
@@ -17,7 +19,6 @@
 #7
 #8
 #9
-GetReasonTitleFromReasonCode
 ShellShutdownDialog
 WlxActivateUserShell
 WlxDisplayLockedNotice

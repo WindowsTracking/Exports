@@ -1,8 +1,0 @@
-WSHEnumProtocols
-WSHGetSockaddrType
-WSHGetSocketInformation
-WSHGetWildcardSockaddr
-WSHGetWinsockMapping
-WSHNotify
-WSHOpenSocket
-WSHSetSocketInformation

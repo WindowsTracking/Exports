@@ -3,5 +3,6 @@ DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
 HNetFreeFirewallLoggingSettings
+HNetGetFirewallSettingsPage
 HNetGetShareAndBridgeSettings
 HNetSetShareAndBridgeSettings

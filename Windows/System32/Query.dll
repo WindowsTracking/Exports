@@ -270,7 +270,6 @@
 ?CheckError@CLocalGlobalPropertyList@@QAEJAAKPAPAG@Z
 ?CheckError@CPropListFile@@QAEJAAKPAPAG@Z
 ?CheckHasIndexTable@CiStorage@@SGHPBG@Z
-?CheckVersion@CDynStream@@QAEHAAVPStorage@@K@Z
 ?ciDelete@@YGXPAX@Z
 ?CiGetPassword@@YGHPBG0PAG@Z
 ?ciIsValidPointer@@YGHPBX@Z
@@ -427,10 +426,12 @@
 ?GetStackTrace@@YGXPADK@Z
 ?GetStartupData@CGenericCiProxy@@QAEPBEAAU_GUID@@AAK@Z
 ?GetStorage@CPropStoreManager@@QAEAAVPStorage@@K@Z
+?GetStr@CKey@@QBEPAGXZ
+?GetStr@CKeyBuf@@QBEPAGXZ
 ?GetString@CMemDeSerStream@@UAEPADXZ
 ?GetString@CQMemDeSerStream@@UAEPADXZ
 ?GetStringDbRestriction@@YGPAVCDbRestriction@@PBGKPAUIColumnMapper@@K@Z
-?GetStringFromLCID@@YGPBGK@Z
+?GetStringFromLCID@@YGXKPAG@Z
 ?GetSZParam@CMachineAdmin@@QAEHPBGPAGK@Z
 ?GetTotalSizeInKB@CPropertyStore@@QAEKXZ
 ?GetTotalSizeInKB@CPropStoreManager@@QAEKXZ
@@ -735,6 +736,8 @@
 ?Stop@CCatalogAdmin@@QAEHXZ
 ?StopCI@CMachineAdmin@@QAEHXZ
 ?StopFiltering@CFilterDaemon@@QAEXXZ
+?StrLen@CKey@@QBEIXZ
+?StrLen@CKeyBuf@@QBEIXZ
 ?SystemExceptionTranslator@@YAXIPAU_EXCEPTION_POINTERS@@@Z
 ?TransferNode@CDbCmdTreeNode@@QAEXPAV1@@Z
 ?TreeCount@CRestriction@@QBEKXZ

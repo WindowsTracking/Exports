@@ -307,7 +307,6 @@
 ?IsZombie@CBaseObjZombie@@QAEHXZ
 ?LoadRCData@@YAKPAXIPAGK@Z
 ?LoadResourceDLL@@YAJPAG0PAXPAPAX@Z
-?LoadResourceDLLEx@@YAJPAG0PAXPAPAXK@Z
 ?LoadStringW@CWString@@QAEHPAXI@Z
 ?LockServer@CClassFactory@@UAGJH@Z
 ?MakeZombies@CBaseObjBoko@@QAEXXZ
@@ -403,7 +402,7 @@
 ?Skip@CEnumConnections@@UAGJK@Z
 ?SLSlotCapacity@CSlotListLong@@UAGKXZ
 ?SLSlotCapacity@CSlotListShort@@UAGKXZ
-?sm_rgPropStatusFromInternStatus@CUtlProps2@@0PBKB
+?sm_rgPropStatusFromInternStatus@CUtlProps2@@0QBKB
 ?Transfer@CExtBuffer@@QAEXPAV1@@Z
 ?Unadvise@CRowsetConnectionPoint@@UAGJK@Z
 ?UnRegisterServer@@YAJQAXKQBUtagREGENTRIES@@@Z

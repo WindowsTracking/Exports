@@ -28,6 +28,7 @@
 ??_FSnmpThreadObject@@QAEXXZ
 ?Acknowledge@SnmpAbstractTaskObject@@UAEXXZ
 ?AttachTaskToThread@SnmpAbstractTaskObject@@AAEXAAVSnmpThreadObject@@@Z
+?BeginThread@SnmpThreadObject@@QAEXXZ
 ?Clear@SnmpEventObject@@QAEXXZ
 ?Closedown@SnmpDebugLog@@SGXXZ
 ?Closedown@SnmpThreadObject@@SGXXZ
@@ -111,6 +112,6 @@
 ?WaitDispatch@SnmpAbstractTaskObject@@AAEHPAVSnmpThreadObject@@PAXAAH@Z
 ?WaitDispatch@SnmpThreadObject@@AAEHKAAH@Z
 ?WaitForStartup@SnmpThreadObject@@QAEXXZ
-?Write@SnmpDebugLog@@QAAXPBDKPBGZZ
 ?Write@SnmpDebugLog@@QAAXPBGZZ
+?WriteFileAndLine@SnmpDebugLog@@QAAXPBDKPBGZZ
 ?WriteOutput@SnmpDebugLog@@AAEXPBG@Z

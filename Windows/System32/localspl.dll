@@ -51,8 +51,10 @@ SplGetPrinterExtra
 SplGetPrinterExtraEx
 SplGetPrintProcessorDirectory
 SplLoadLibraryTheCopyFileModule
+SplLogEventExternal
 SplMonitorIsInstalled
 SplOpenPrinter
+SplPowerEvent
 SplReenumeratePorts
 SplResetPrinter
 SplSetForm

@@ -1,0 +1,11 @@
+DllRegisterServer
+WMCheckURLExtension
+WMCreateBackupRestorerPrivate
+WMCreateEditor
+WMCreateIndexer
+WMCreateProfileManager
+WMCreateReaderPriv
+WMCreateWriterFileSink
+WMCreateWriterNetworkSink
+WMCreateWriterPriv
+WMValidateData

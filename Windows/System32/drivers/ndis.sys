@@ -66,6 +66,7 @@ NdisCompleteUnbindAdapter
 NdisConvertStringToAtmAddress
 NdisCopyBuffer
 NdisCopyFromPacketToPacket
+NdisCopyFromPacketToPacketSafe
 NdisCoRequest
 NdisCoRequestComplete
 NdisCoSendPackets
@@ -100,6 +101,7 @@ NdisGetReceivedPacket
 NdisGetRoutineAddress
 NdisGetSharedDataAlignment
 NdisGetSystemUpTime
+NdisGetVersion
 NdisIMAssociateMiniport
 NdisIMCancelInitializeDeviceInstance
 NdisIMCopySendCompletePerPacketInfo
@@ -249,6 +251,7 @@ NdisSendPackets
 NdisSetEvent
 NdisSetPacketCancelId
 NdisSetPacketPoolProtocolId
+NdisSetPacketStatus
 NdisSetProtocolFilter
 NdisSetTimer
 NdisSetTimerEx

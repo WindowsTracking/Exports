@@ -60,6 +60,9 @@ CloseEventLog
 CloseServiceHandle
 CloseTrace
 CodeAuthzChangeRegistryScope
+CodeAuthzChangeRegistryScopeEx
+CodeAuthzCompareTokenLevels
+CodeAuthzRecordEventLogEntry
 CodeAuthzReplaceProcessThreadTokens
 CodeAuthzSearchMatchingHashRules
 CommandLineFromMsiDescriptor
@@ -79,6 +82,8 @@ ConvertSecurityDescriptorToStringSecurityDescriptorA
 ConvertSecurityDescriptorToStringSecurityDescriptorW
 ConvertSidToStringSidA
 ConvertSidToStringSidW
+ConvertStringSDToSDDomainA
+ConvertStringSDToSDDomainW
 ConvertStringSDToSDRootDomainA
 ConvertStringSDToSDRootDomainW
 ConvertStringSecurityDescriptorToSecurityDescriptorA
@@ -90,6 +95,7 @@ CopySid
 CreateCodeAuthzLevel
 CreatePrivateObjectSecurity
 CreatePrivateObjectSecurityEx
+CreatePrivateObjectSecurityWithMultipleInheritance
 CreateProcessAsUserA
 CreateProcessAsUserW
 CreateProcessWithLogonW
@@ -104,13 +110,17 @@ CredEnumerateA
 CredEnumerateW
 CredFree
 CredGetSessionType
+CredGetSessionTypes
 CredGetTargetInfoA
 CredGetTargetInfoW
 CredIsMarshaledCredentialA
 CredIsMarshaledCredentialW
 CredMarshalCredentialA
 CredMarshalCredentialW
+CredpConvertCredential
 CredpConvertTargetInfo
+CredpDecodeCredential
+CredpEncodeCredential
 CredProfileLoaded
 CredReadA
 CredReadDomainCredentialsA
@@ -192,6 +202,7 @@ ElfRegisterEventSourceW
 ElfReportEventA
 ElfReportEventW
 EnableTrace
+EncryptedFileKeyInfo
 EncryptFileA
 EncryptFileW
 EncryptionDisable
@@ -211,6 +222,7 @@ FileEncryptionStatusW
 FindFirstFreeAce
 FlushTraceA
 FlushTraceW
+FreeEncryptedFileKeyInfo
 FreeEncryptionCertificateHashList
 FreeInheritedFromArray
 FreeSid
@@ -237,9 +249,10 @@ GetInheritanceSourceA
 GetInheritanceSourceW
 GetKernelObjectSecurity
 GetLengthSid
+GetLocalManagedApplicationData
 GetLocalManagedApplications
+GetManagedApplicationCategories
 GetManagedApplications
-GetMangledSiteSid
 GetMultipleTrusteeA
 GetMultipleTrusteeOperationA
 GetMultipleTrusteeOperationW
@@ -270,11 +283,6 @@ GetSidIdentifierAuthority
 GetSidLengthRequired
 GetSidSubAuthority
 GetSidSubAuthorityCount
-GetSiteDirectoryA
-GetSiteDirectoryW
-GetSiteNameFromSid
-GetSiteSidFromToken
-GetSiteSidFromUrl
 GetTokenInformation
 GetTraceEnableFlags
 GetTraceEnableLevel
@@ -308,8 +316,8 @@ InitiateSystemShutdownExA
 InitiateSystemShutdownExW
 InitiateSystemShutdownW
 InstallApplication
-IsInSandbox
-IsProcessRestricted
+IsExecutableFileTypeA
+IsExecutableFileTypeW
 IsTextUnicode
 IsTokenRestricted
 IsTokenUntrusted
@@ -357,7 +365,9 @@ LsaGetRemoteUserName
 LsaGetSystemAccessAccount
 LsaGetUserName
 LsaICLookupNames
+LsaICLookupNamesWithCreds
 LsaICLookupSids
+LsaICLookupSidsWithCreds
 LsaLookupNames
 LsaLookupNames2
 LsaLookupPrivilegeDisplayName
@@ -367,6 +377,7 @@ LsaLookupSids
 LsaNtStatusToWinError
 LsaOpenAccount
 LsaOpenPolicy
+LsaOpenPolicySce
 LsaOpenSecret
 LsaOpenTrustedDomain
 LsaOpenTrustedDomainByName
@@ -425,6 +436,7 @@ OpenTraceW
 PrivilegeCheck
 PrivilegedServiceAuditAlarmA
 PrivilegedServiceAuditAlarmW
+ProcessIdleTasks
 ProcessTrace
 QueryAllTracesA
 QueryAllTracesW
@@ -467,6 +479,7 @@ RegFlushKey
 RegGetKeySecurity
 RegisterEventSourceA
 RegisterEventSourceW
+RegisterIdleTask
 RegisterServiceCtrlHandlerA
 RegisterServiceCtrlHandlerExA
 RegisterServiceCtrlHandlerExW
@@ -591,6 +604,9 @@ SystemFunction032
 SystemFunction033
 SystemFunction034
 SystemFunction035
+SystemFunction036
+SystemFunction040
+SystemFunction041
 TraceEvent
 TraceEventInstance
 TraceMessage
@@ -601,6 +617,7 @@ TrusteeAccessToObjectA
 TrusteeAccessToObjectW
 UninstallApplication
 UnlockServiceDatabase
+UnregisterIdleTask
 UnregisterTraceGuids
 UpdateTraceA
 UpdateTraceW

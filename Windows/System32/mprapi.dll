@@ -49,7 +49,9 @@ MprAdminRegisterConnectionNotification
 MprAdminSendUserMessage
 MprAdminServerConnect
 MprAdminServerDisconnect
+MprAdminServerGetCredentials
 MprAdminServerGetInfo
+MprAdminServerSetCredentials
 MprAdminTransportCreate
 MprAdminTransportGetInfo
 MprAdminTransportSetInfo

@@ -1,0 +1,11 @@
+MigDllAddDllToListW
+MigDllApplySystemSettingsW
+MigDllCloseW
+MigDllCreateList
+MigDllEnumFirstW
+MigDllEnumNextW
+MigDllFreeList
+MigDllInit
+MigDllInitializeDstW
+MigDllOpenW
+MigDllShutdown

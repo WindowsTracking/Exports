@@ -10,6 +10,9 @@ DsClientMakeSpnForTargetServerA
 DsClientMakeSpnForTargetServerW
 DsCrackNamesA
 DsCrackNamesW
+DsCrackSpn2A
+DsCrackSpn2W
+DsCrackSpn3W
 DsCrackSpnA
 DsCrackSpnW
 DsFreeDomainControllerInfoA

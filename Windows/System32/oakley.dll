@@ -1,3 +1,4 @@
+IKEAddSAs
 IKECloseIKENegotiationHandle
 IKECloseIKENotifyHandle
 IKEDeleteAssociation

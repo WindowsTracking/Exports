@@ -11,5 +11,7 @@ Clear
 CloseRASConnections
 DllRegisterServer
 DllUnregisterServer
+GenerateGroupPolicy
 InternetInitializeAutoProxyDll
 ProcessGroupPolicy
+ProcessGroupPolicyEx

@@ -2,9 +2,11 @@ AddNetPlaceRunDll
 ClearAutoLogon
 DllCanUnloadNow
 DllGetClassObject
+DllInstall
 DllMain
 DllRegisterServer
 DllUnregisterServer
 NetAccessWizard
 NetPlacesWizardDoModal
+SHDisconnectNetDrives
 UsersRunDll

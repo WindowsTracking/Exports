@@ -1,0 +1,4 @@
+DllMain
+DllRegisterServer
+DllUnregisterServer
+ServiceMain

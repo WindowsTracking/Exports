@@ -33,6 +33,7 @@ TSPI_lineReleaseUserUserInfo
 TSPI_lineRemoveFromConference
 TSPI_lineSendUserUserInfo
 TSPI_lineSetAppSpecific
+TSPI_lineSetCallData
 TSPI_lineSetDefaultMediaDetection
 TSPI_lineSetMediaMode
 TSPI_lineSetStatusMessages

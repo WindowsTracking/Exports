@@ -1,0 +1,7 @@
+BeginSelfUpdate
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+LoadIUEngine
+UnLoadIUEngine

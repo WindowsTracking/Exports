@@ -103,7 +103,6 @@ RasIsSharedConnection
 RasQueryRedialOnLinkFailure
 RasQuerySharedAutoDial
 RasQuerySharedConnection
-RasQuerySharedConnectionCredentials
 RasRenameEntryA
 RasRenameEntryW
 RasScriptExecute
@@ -131,7 +130,6 @@ RasSetEntryPropertiesA
 RasSetEntryPropertiesW
 RasSetOldPassword
 RasSetSharedAutoDial
-RasSetSharedConnectionCredentials
 RasSetSubEntryPropertiesA
 RasSetSubEntryPropertiesW
 RasValidateEntryNameA

@@ -1,1 +1,3 @@
 Direct3DCreate8
+ValidatePixelShader
+ValidateVertexShader

@@ -1,0 +1,12 @@
+?conf@@3VConfigType@@A
+?ReadSReg@SregConfig@@QAEEH@Z
+CallProgress_TaskExit
+CallProgress_TaskInit
+DB_GetSRegConf
+DllMain
+DTE_Get_DB_Ptr
+DTE_SetBy_DB
+DTE_TaskExit
+DTE_TaskInit
+GetSdpiHandle
+GetSvpiHandle

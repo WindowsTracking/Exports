@@ -10,6 +10,7 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+DXCopyMemory
 DXLockArray8
 DXUnlockArray8
 VB_AddDataToBuffer

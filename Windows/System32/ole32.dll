@@ -3,6 +3,7 @@ CLIPFORMAT_UserFree
 CLIPFORMAT_UserMarshal
 CLIPFORMAT_UserSize
 CLIPFORMAT_UserUnmarshal
+CLSIDFromOle1Class
 CLSIDFromProgID
 CLSIDFromProgIDEx
 CLSIDFromString
@@ -33,6 +34,7 @@ CoGetCallerTID
 CoGetCancelObject
 CoGetClassObject
 CoGetClassVersion
+CoGetContextToken
 CoGetCurrentLogicalThreadId
 CoGetCurrentProcess
 CoGetDefaultContext

@@ -1,6 +1,7 @@
 WmiAddObjectProp
 WmiCommitObject
 WmiCreateObject
+WmiCreateObjectFromBuffer
 WmiCreateObjectPropSubset
 WmiCreateObjectWithFormat
 WmiCreateObjectWithProps
@@ -9,6 +10,7 @@ WmiDestroyObject
 WmiDuplicateObject
 WmiEventSourceConnect
 WmiEventSourceDisconnect
+WmiGetObjectBuffer
 WmiGetObjectProp
 WmiIsObjectActive
 WmiLockObject

@@ -3,6 +3,7 @@ CryptUIDlgCertMgr
 CryptUIDlgFreeCAContext
 CryptUIDlgSelectCA
 CryptUIDlgSelectCertificateA
+CryptUIDlgSelectCertificateFromStore
 CryptUIDlgSelectCertificateW
 CryptUIDlgSelectStoreA
 CryptUIDlgSelectStoreW
@@ -10,6 +11,7 @@ CryptUIDlgViewCertificateA
 CryptUIDlgViewCertificatePropertiesA
 CryptUIDlgViewCertificatePropertiesW
 CryptUIDlgViewCertificateW
+CryptUIDlgViewContext
 CryptUIDlgViewCRLA
 CryptUIDlgViewCRLW
 CryptUIDlgViewCTLA
@@ -37,7 +39,6 @@ CryptUIWizSubmitCertRequestNoDS
 DllRegisterServer
 DllUnregisterServer
 EnrollmentCOMObjectFactory_getInstance
-I_CryptUIInstallRootListDialog
 I_CryptUIProtect
 LocalEnroll
 LocalEnrollNoDS

@@ -1,3 +1,4 @@
+ClassInstall32
 g_rgSCardRawPci
 g_rgSCardT0Pci
 g_rgSCardT1Pci
@@ -25,6 +26,7 @@ SCardGetCardTypeProviderNameA
 SCardGetCardTypeProviderNameW
 SCardGetProviderIdA
 SCardGetProviderIdW
+SCardGetStartedEvent
 SCardGetStatusChangeA
 SCardGetStatusChangeW
 SCardIntroduceCardTypeA

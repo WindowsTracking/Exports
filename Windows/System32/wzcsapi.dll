@@ -1,0 +1,9 @@
+MIDL_user_allocate
+MIDL_user_free
+WZCDeleteIntfObj
+WZCEnumInterfaces
+WZCQueryInterface
+WZCRefreshInterface
+WZCSetInterface
+WZCSvcMain
+WZCTestHash

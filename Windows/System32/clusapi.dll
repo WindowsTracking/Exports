@@ -56,6 +56,7 @@ DeleteClusterGroup
 DeleteClusterResource
 DeleteClusterResourceType
 EvictClusterNode
+EvictClusterNodeEx
 FailClusterResource
 GetClusterFromGroup
 GetClusterFromNetInterface

@@ -18,11 +18,13 @@ ImagehlpApiVersionEx
 ImageNtHeader
 ImageRvaToSection
 ImageRvaToVa
+lm
 lmi
 MakeSureDirectoryPathExists
 MapDebugInformation
 MiniDumpReadDumpStream
 MiniDumpWriteDump
+omap
 se
 SearchTreeForFile
 StackWalk
@@ -36,6 +38,9 @@ SymEnumerateSymbols64
 SymEnumerateSymbolsW
 SymEnumerateSymbolsW64
 SymEnumSym
+SymEnumSymbols
+SymEnumTypes
+SymFindFileInPath
 SymFromAddr
 SymFromName
 SymFunctionTableAccess
@@ -57,6 +62,7 @@ SymGetModuleInfoEx
 SymGetModuleInfoEx64
 SymGetModuleInfoW
 SymGetModuleInfoW64
+SymGetNextEnumListMember
 SymGetOptions
 SymGetSearchPath
 SymGetSymbolInfo
@@ -69,6 +75,8 @@ SymGetSymNext
 SymGetSymNext64
 SymGetSymPrev
 SymGetSymPrev64
+SymGetTypeFromName
+SymGetTypeInfo
 SymInitialize
 SymLoadModule
 SymLoadModule64

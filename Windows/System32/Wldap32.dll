@@ -84,6 +84,7 @@ ldap_delete_sW
 ldap_deleteA
 ldap_deleteW
 ldap_dn2ufn
+ldap_dn2ufnA
 ldap_dn2ufnW
 ldap_encode_sort_controlA
 ldap_encode_sort_controlW

@@ -1,8 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-FilterHandleFromPin
-PerformDataIntersection
-PinFactoryIDFromPin
-RedundantKsGetMultiplePinFactoryItems

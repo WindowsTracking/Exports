@@ -8,6 +8,4 @@ NPGetConnection
 NPGetResourceInformation
 NPGetResourceParent
 NPGetUniversalName
-NPLogonNotify
 NPOpenEnum
-NPPasswordChangeNotify

@@ -1,3 +1,4 @@
+DllInstall
 DllRegisterServer
 DllUnregisterServer
 fnW32TmRegisterServiceCtrlHandlerEx
@@ -7,6 +8,7 @@ SvchostPushServiceGlobals
 TimeProvClose
 TimeProvCommand
 TimeProvOpen
+W32TimeDcPromo
 W32TimeVerifyJoinConfig
 W32TimeVerifyUnjoinConfig
 W32TmServiceMain

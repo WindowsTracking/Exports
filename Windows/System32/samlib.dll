@@ -32,6 +32,7 @@ SamiGetBootKeyInformation
 SamiLmChangePasswordUser
 SamiOemChangePasswordUser2
 SamiSetBootKeyInformation
+SamiSetDSRMPassword
 SamLookupDomainInSamServer
 SamLookupIdsInDomain
 SamLookupNamesInDomain

@@ -24,6 +24,8 @@ cGetTTFFromFOT
 CheckColorsInGamut
 ChoosePixelFormat
 Chord
+ClearBitmapAttributes
+ClearBrushAttributes
 CLIPOBJ_bEnum
 CLIPOBJ_cEnumStart
 CLIPOBJ_ppoGetPath
@@ -328,11 +330,13 @@ GdiTransparentBlt
 GdiValidateHandle
 GetArcDirection
 GetAspectRatioFilterEx
+GetBitmapAttributes
 GetBitmapBits
 GetBitmapDimensionEx
 GetBkColor
 GetBkMode
 GetBoundsRect
+GetBrushAttributes
 GetBrushOrgEx
 GetCharABCWidthsA
 GetCharABCWidthsFloatA
@@ -520,11 +524,13 @@ SelectObject
 SelectPalette
 SetAbortProc
 SetArcDirection
+SetBitmapAttributes
 SetBitmapBits
 SetBitmapDimensionEx
 SetBkColor
 SetBkMode
 SetBoundsRect
+SetBrushAttributes
 SetBrushOrgEx
 SetColorAdjustment
 SetColorSpace

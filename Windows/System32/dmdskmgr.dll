@@ -27,6 +27,7 @@
 ?FindDriveLetter@CTaskData@@QAEX_JAAG@Z
 ?FindFileSystem@CTaskData@@QAEH_JAAUfilesysteminfo@@@Z
 ?FindRegionPtrFromRegionId@CTaskData@@QAEH_JPAPAVCDMNodeObj@@@Z
+?FreeArrayOfStrings@@YGXPAUarrayOfStrings@@@Z
 ?GetAssignedDriveLetter@CTaskData@@QAEHJAAG@Z
 ?GetBootPort@CTaskData@@QAEHXZ
 ?GetBottomViewStyle@CDMSnapin@@QAEHXZ
@@ -120,7 +121,7 @@
 ?IsNEC_98Disk@CDMNodeObj@@QAEHXZ
 ?IsNEC_98Server@CTaskData@@QAEHXZ
 ?IsNTServer@CTaskData@@QAEHXZ
-?IsOEMPartition@CDMNodeObj@@QAEHXZ
+?IsOemPartition@CDMNodeObj@@QAEHXZ
 ?IsRevertable@CDMNodeObj@@QAEHXZ
 ?IsSecureSystemPartition@CTaskData@@QAEHXZ
 ?IsUnknownPartition@CDMNodeObj@@QAEHXZ

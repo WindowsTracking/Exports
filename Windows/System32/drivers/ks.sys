@@ -145,8 +145,10 @@ KsPinDataIntersection
 KsPinGetAndGate
 KsPinGetAvailableByteCount
 KsPinGetConnectedFilterInterface
+KsPinGetConnectedPinDeviceObject
 KsPinGetConnectedPinFileObject
 KsPinGetConnectedPinInterface
+KsPinGetCopyRelationships
 KsPinGetFirstCloneStreamPointer
 KsPinGetLeadingEdgeStreamPointer
 KsPinGetNextSiblingPin
@@ -208,6 +210,7 @@ KsStreamPointerGetMdl
 KsStreamPointerGetNextClone
 KsStreamPointerLock
 KsStreamPointerScheduleTimeout
+KsStreamPointerSetStatusCode
 KsStreamPointerUnlock
 KsSynchronousIoControlDevice
 KsTerminateDevice

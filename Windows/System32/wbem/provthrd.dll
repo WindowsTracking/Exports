@@ -527,6 +527,7 @@
 ?Acknowledge@ProvAbstractTaskObject@@UAEXXZ
 ?Analyse@ProvAnalyser@@MAEHPAVProvLexicon@@AAKGPBG1HHH@Z
 ?AttachTaskToThread@ProvAbstractTaskObject@@AAEXAAVProvThreadObject@@@Z
+?BeginThread@ProvThreadObject@@QAEXXZ
 ?BitStringDef@ProvBitStringType@@AAEHXZ
 ?Check@ProvPositiveRangedType@@QAEHABK@Z
 ?Clear@ProvEventObject@@QAEXXZ
@@ -1025,12 +1026,12 @@
 ?WaitDispatch@ProvAbstractTaskObject@@AAEHPAVProvThreadObject@@PAXAAH@Z
 ?WaitDispatch@ProvThreadObject@@AAEHKAAH@Z
 ?WaitForStartup@ProvThreadObject@@QAEXXZ
-?Write@ProvDebugLog@@QAAXPBGK0ZZ
 ?Write@ProvDebugLog@@QAAXPBGZZ
-?WriteA@ProvDebugLog@@QAAXPBDK0ZZ
 ?WriteA@ProvDebugLog@@QAAXPBDZZ
+?WriteFileAndLine@ProvDebugLog@@QAAXPBGK0ZZ
+?WriteFileAndLineA@ProvDebugLog@@QAAXPBDK0ZZ
+?WriteFileAndLineW@ProvDebugLog@@QAAXPBGK0ZZ
 ?WriteOutput@ProvDebugLog@@AAEXPBG@Z
 ?WriteOutputA@ProvDebugLog@@AAEXPBD@Z
 ?WriteOutputW@ProvDebugLog@@AAEXPBG@Z
-?WriteW@ProvDebugLog@@QAAXPBGK0ZZ
 ?WriteW@ProvDebugLog@@QAAXPBGZZ

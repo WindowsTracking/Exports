@@ -61,6 +61,7 @@ mssip32DllUnregisterServer
 OfficeCleanupPolicy
 OfficeInitializePolicy
 OpenPersonalTrustDBDialog
+OpenPersonalTrustDBDialogEx
 SoftpubAuthenticode
 SoftpubCheckCert
 SoftpubCleanup
@@ -93,6 +94,7 @@ WTHelperCertIsSelfSigned
 WTHelperCheckCertUsage
 WTHelperGetAgencyInfo
 WTHelperGetFileHandle
+WTHelperGetFileHash
 WTHelperGetFileName
 WTHelperGetKnownUsages
 WTHelperGetProvCertFromChain
@@ -101,7 +103,6 @@ WTHelperGetProvSignerFromChain
 WTHelperIsInRootStore
 WTHelperOpenKnownStores
 WTHelperProvDataFromStateData
-WTHelperVerifyTrust
 WVTAsn1CatMemberInfoDecode
 WVTAsn1CatMemberInfoEncode
 WVTAsn1CatNameValueDecode

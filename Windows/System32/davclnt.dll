@@ -12,6 +12,7 @@ NPGetDirectoryType
 NPGetPropertyText
 NPGetResourceInformation
 NPGetResourceParent
+NPGetUniversalName
 NPGetUser
 NPOpenEnum
 NPPropertyDialog

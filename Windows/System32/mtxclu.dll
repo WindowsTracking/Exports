@@ -28,9 +28,9 @@ MtxCluGetDTCLogSizeA
 MtxCluGetDTCLogSizeW
 MtxCluGetDTCOwnerA
 MtxCluGetDTCOwnerW
-MtxCluGetDtcSecurityFlag
 MtxCluGetDTCStatusA
 MtxCluGetDTCStatusW
+MtxCluGetDtcUserInfo
 MtxCluGetDTCVirtualServerNameA
 MtxCluGetDTCVirtualServerNameW
 MtxCluGetJoinMasterA
@@ -42,10 +42,13 @@ MtxCluGetListOfSharedDisksW
 MtxCluGetListOfVirtualServersA
 MtxCluGetListOfVirtualServersW
 MtxCluGetNodeClusterStateW
+MtxCluGetSecurityRegValue
 MtxCluInitialize
 MtxCluIsClusterPresent
 MtxCluIsClusterPresentExA
 MtxCluIsClusterPresentExW
+MtxCluIsNetworkNameInLocalClusterW
+MtxCluIsSameClusterW
 MtxCluIsSameNodeA
 MtxCluIsSameNodeW
 MtxCluIsSharedDiskA
@@ -69,7 +72,9 @@ MtxCluSetDTCLogPathA
 MtxCluSetDTCLogPathW
 MtxCluSetDTCLogSizeA
 MtxCluSetDTCLogSizeW
-MtxCluSetDtcSecurityFlag
+MtxCluSetDtcUserInfo
+MtxCluSetSecurityRegValue
+MtxCluTakeOfflineDTC2W
 MtxCluTakeOfflineDTCA
 MtxCluTakeOfflineDTCW
 MtxCluUninitialize

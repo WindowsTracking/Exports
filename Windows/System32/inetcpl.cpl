@@ -5,6 +5,7 @@ DllInstall
 ImportExportPFX
 LaunchConnectionDialog
 LaunchInternetControlPanel
+LaunchPrivacyDialog
 LaunchSecurityDialog
 LaunchSecurityDialogEx
 LaunchSiteCertDialog

@@ -15,9 +15,11 @@ RegDefaultUserConfigQueryW
 RegDenyTSConnectionsPolicy
 RegFreeUtilityCommandList
 RegGetMachinePolicy
+RegGetMachinePolicyEx
 RegGetTServerVersion
 RegGetUserConfigFromUserParameters
 RegGetUserPolicy
+RegIsMachinePolicyAllowHelp
 RegIsTServer
 RegMergeUserConfigWithUserParameters
 RegOpenServerA
@@ -54,6 +56,7 @@ RegWinStationEnumerateA
 RegWinStationEnumerateW
 RegWinStationQueryA
 RegWinStationQueryDefaultSecurity
+RegWinStationQueryEx
 RegWinStationQueryNumValueW
 RegWinStationQuerySecurityA
 RegWinStationQuerySecurityW

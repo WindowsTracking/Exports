@@ -1,5 +1,6 @@
 ToplAddEdgeSetToGraph
 ToplAddEdgeToGraph
+ToplDeleteComponents
 ToplDeleteGraphState
 ToplDeleteSpanningTreeEdges
 ToplEdgeAssociate

@@ -24,8 +24,9 @@ ServiceMain
 sethostname
 SetServiceA
 SetServiceW
+StartWsdpService
+StopWsdpService
+SvchostPushServiceGlobals
 TransmitFile
 WSARecvEx
-WSPGetSockOpt
-WSPSetSockOpt
 WSPStartup

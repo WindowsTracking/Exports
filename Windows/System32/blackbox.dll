@@ -1,0 +1,10 @@
+??0IBlackBox@@IAE@ABV0@@Z
+??0IBlackBox@@IAE@XZ
+??1IBlackBox@@MAE@XZ
+??_7IBlackBox@@6B@
+DllMain
+DllRegisterServer
+DllUnregisterServer
+GetHWID
+IBlackBox_CreateInstance
+IBlackBox_CreateInstance2

@@ -2,8 +2,8 @@ ConvertTiffFileToValidFaxFormat
 ConvMmrPageHiResToMrLoRes
 ConvMmrPageToMh
 ConvMmrPageToMrSameRes
-FaxTiffInitialize
 FindNextEol
+FXSTIFFInitialize
 MergeTiffFiles
 MmrAddBranding
 PrintTiffFile
@@ -17,6 +17,8 @@ TiffExtractFirstPage
 TiffGetCurrentPageData
 TiffOpen
 TiffPostProcessFast
+TiffPrint
+TiffPrintDC
 TiffRead
 TiffRecoverGoodPages
 TiffSeekToPage

@@ -238,6 +238,9 @@
 ?GetCurrentDir@CSmartCard@iop@@QAEXPAD@Z
 ?GetCurrentFile@CSmartCard@iop@@QAEXPAD@Z
 ?GetResponse@CSmartCard@iop@@UAEXEEPAE@Z
+?GetSerial@CAccessCard@iop@@UAEXPAEAAI@Z
+?GetSerial@CCryptoCard@iop@@UAEXPAEAAI@Z
+?GetSerial@CSmartCard@iop@@UAEXPAEAAI@Z
 ?GetShortID@FilePathComponent@iop@@QAEGXZ
 ?GetState@CSmartCard@iop@@QAEXAAK0@Z
 ?GetStringID@FilePathComponent@iop@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ
@@ -381,5 +384,6 @@
 ?WritePublicKey@CAccessCard@iop@@UAEXVCPublicKeyBlob@2@E@Z
 ?WritePublicKey@CCryptoCard@iop@@UAEXVCPublicKeyBlob@2@E@Z
 ?WritePublicKey@CSmartCard@iop@@UAEXVCPublicKeyBlob@2@E@Z
+DllGetVersion
 DllRegisterServer
 DllUnregisterServer

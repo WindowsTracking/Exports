@@ -3,7 +3,11 @@ DllGetClassObject
 DllGetVersion
 DllRegisterServer
 DllUnregisterServer
+Migrate10CachedPackagesA
+Migrate10CachedPackagesW
 MsiAdvertiseProductA
+MsiAdvertiseProductExA
+MsiAdvertiseProductExW
 MsiAdvertiseProductW
 MsiAdvertiseScriptA
 MsiAdvertiseScriptW
@@ -44,6 +48,8 @@ MsiDatabaseOpenViewA
 MsiDatabaseOpenViewW
 MsiDecomposeDescriptorA
 MsiDecomposeDescriptorW
+MsiDeleteUserDataA
+MsiDeleteUserDataW
 MsiDoActionA
 MsiDoActionW
 MsiEnableLogA
@@ -133,9 +139,13 @@ MsiLocateComponentA
 MsiLocateComponentW
 MsiMessageBoxA
 MsiMessageBoxW
+MsiNotifySidChangeA
+MsiNotifySidChangeW
 MsiOpenDatabaseA
 MsiOpenDatabaseW
 MsiOpenPackageA
+MsiOpenPackageExA
+MsiOpenPackageExW
 MsiOpenPackageW
 MsiOpenProductA
 MsiOpenProductW

@@ -1,10 +1,11 @@
 DsrGetDcName
 DsrGetDcNameEx2
 I_DsGetDcCache
+I_NetLogonAddressToSiteName
 I_NetLogonAppendChangeLog
 I_NetLogonCloseChangeLog
 I_NetLogonFree
-I_NetLogonGetAuthData
+I_NetLogonGetAuthDataEx
 I_NetLogonGetDirectDomain
 I_NetLogonGetIpAddresses
 I_NetLogonGetSerialNumber

@@ -1,6 +1,7 @@
 NatAcquirePortReservation
 NatCancelDynamicRedirect
 NatCancelRedirect
+NatCreateDynamicFullRedirect
 NatCreateDynamicRedirect
 NatCreateDynamicRedirectEx
 NatCreateRedirect

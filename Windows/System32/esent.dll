@@ -1,3 +1,4 @@
+esent
 JetAddColumn
 JetAttachDatabase
 JetAttachDatabase2
@@ -29,7 +30,6 @@ JetCreateTableColumnIndex2
 JetDBUtilities
 JetDefragment
 JetDefragment2
-JetDefragment3
 JetDelete
 JetDeleteColumn
 JetDeleteColumn2
@@ -66,6 +66,7 @@ JetGetLogInfoInstance2
 JetGetLS
 JetGetObjectInfo
 JetGetRecordPosition
+JetGetSecondaryIndexBookmark
 JetGetSystemParameter
 JetGetTableColumnInfo
 JetGetTableIndexInfo
@@ -74,6 +75,7 @@ JetGetTruncateLogInfoInstance
 JetGetVersion
 JetGotoBookmark
 JetGotoPosition
+JetGotoSecondaryIndexBookmark
 JetGrowDatabase
 JetIdle
 JetIndexRecordCount

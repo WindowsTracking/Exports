@@ -25,8 +25,11 @@
 ?WaitForZero@CCounter@@QAEKXZ
 CheckPrivilegesForRestore
 DllMain
+InitializeChangeNotify
 InitiateRestore
+InvokeDiskCleanup
 IsSRFrozen
+PasswordChangeNotify
 PrepareRestore
 ResumeRestore
 SRGetCplPropPage

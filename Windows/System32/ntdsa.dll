@@ -16,6 +16,7 @@ DirModifyEntry
 DirNotifyRegister
 DirNotifyUnRegister
 DirOperationControl
+DirPrepareForImpersonate
 DirProtectEntry
 DirRead
 DirRemoveEntry
@@ -28,6 +29,7 @@ DirReplicaReferenceUpdate
 DirReplicaSetCredentials
 DirReplicaSynchronize
 DirSearch
+DirStopImpersonating
 DirTransactControl
 DirUnBind
 DoLogEvent
@@ -61,6 +63,7 @@ fNullUuid
 GCVerifyCacheLookup
 GetConfigDsName
 GetConfigParam
+GetConfigParamAllocW
 GetConfigParamW
 GetConfigurationName
 GetConfigurationNamesList
@@ -83,7 +86,6 @@ NamePrefix
 QuoteRDNValue
 SampAddLoopbackTask
 SampAmIGC
-SampClearErrors
 SampComputeGroupType
 SampDeriveMostBasicDsClass
 SampDoesDomainExist
@@ -108,6 +110,7 @@ SampIsSecureLdapConnection
 SampIsWriteLockHeldByDs
 SampMaybeBeginDsTransaction
 SampMaybeEndDsTransaction
+SampNetlogonPing
 SampSamAttrFromDsAttr
 SampSamObjectTypeFromDsClass
 SampSetDsa

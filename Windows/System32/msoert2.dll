@@ -133,6 +133,7 @@ ShellUtil_GetSpecialFolderPath
 StrChrExA
 StreamSubStringMatch
 StripCRLF
+StrTokEx
 StrToUintA
 StrToUintW
 strtrim

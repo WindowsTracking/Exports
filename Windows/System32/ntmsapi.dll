@@ -23,10 +23,7 @@ DeleteNtmsRequests
 DisableNtmsObject
 DismountNtmsDrive
 DismountNtmsMedia
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
+DoEjectFromSADriveW
 EjectDiskFromSADriveA
 EjectDiskFromSADriveW
 EjectNtmsCleaner
@@ -45,7 +42,6 @@ GetNtmsObjectSecurity
 GetNtmsRequestOrder
 GetNtmsUIOptionsA
 GetNtmsUIOptionsW
-GetProxyDllInfo
 GetVolumesFromDriveA
 GetVolumesFromDriveW
 IdentifyNtmsSlot

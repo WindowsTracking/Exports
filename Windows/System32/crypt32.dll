@@ -35,6 +35,7 @@ CertCreateCertificateContext
 CertCreateContext
 CertCreateCRLContext
 CertCreateCTLContext
+CertCreateCTLEntryFromCertificateContextProperties
 CertCreateSelfSignCertificate
 CertDeleteCertificateFromStore
 CertDeleteCRLFromStore
@@ -83,8 +84,6 @@ CertGetPublicKeyLength
 CertGetStoreProperty
 CertGetSubjectCertificateFromStore
 CertGetValidUsages
-CertInstallIntermediateCAs
-CertInstallSignedListOfTrustedCertificates
 CertIsRDNAttrsInCertificateName
 CertIsValidCRLForCertificate
 CertNameToStrA
@@ -104,6 +103,7 @@ CertSaveStore
 CertSerializeCertificateStoreElement
 CertSerializeCRLStoreElement
 CertSerializeCTLStoreElement
+CertSetCertificateContextPropertiesFromCTLEntry
 CertSetCertificateContextProperty
 CertSetCRLContextProperty
 CertSetCTLContextProperty

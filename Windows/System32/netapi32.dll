@@ -1,3 +1,4 @@
+CredpValidateTargetName
 DsAddressToSiteNamesA
 DsAddressToSiteNamesExA
 DsAddressToSiteNamesExW
@@ -6,16 +7,13 @@ DsDeregisterDnsHostRecordsA
 DsDeregisterDnsHostRecordsW
 DsEnumerateDomainTrustsA
 DsEnumerateDomainTrustsW
-DsGetDcClose
 DsGetDcCloseW
 DsGetDcNameA
 DsGetDcNameW
 DsGetDcNameWithAccountA
 DsGetDcNameWithAccountW
-DsGetDcNext
 DsGetDcNextA
 DsGetDcNextW
-DsGetDcOpen
 DsGetDcOpenA
 DsGetDcOpenW
 DsGetDcSiteCoverageA
@@ -79,6 +77,7 @@ I_NetlogonGetTrustRid
 I_NetLogonSamLogoff
 I_NetLogonSamLogon
 I_NetLogonSamLogonEx
+I_NetLogonSamLogonWithFlags
 I_NetLogonSendToSam
 I_NetLogonUasLogoff
 I_NetLogonUasLogon

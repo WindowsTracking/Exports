@@ -1,7 +1,8 @@
 CreateMinidumpA
 CreateMinidumpW
-ReportFaultA
-ReportFaultW
+ReportFault
+ReportFaultDWMW
 ReportHang
 ReportKernelFaultA
+ReportKernelFaultDWW
 ReportKernelFaultW

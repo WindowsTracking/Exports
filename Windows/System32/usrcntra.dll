@@ -1,0 +1,14 @@
+CheckBlacklistMgrContents
+CheckCountryTableUpdate
+CheckOffHookRestricted
+DllMain
+GetBlacklistMgrContents
+GetCountryHandle
+GetInfoToDisplay
+GetSupportedT35CountryList
+GetT35CountryCode
+LoadCountrySpecificTable
+SetCountryCode
+SetCountryTableByT35Code
+SetCountryTableVar
+UnLoadCountrySpecificTable

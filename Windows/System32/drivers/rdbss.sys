@@ -8,12 +8,14 @@ RxAcquireSharedFcbResourceInMRx
 RxAssert
 RxAssociateContextWithMid
 RxCancelTimerRequest
+RxCeAllocateIrpWithMDL
 RxCeBuildAddress
 RxCeBuildConnection
 RxCeBuildConnectionOverMultipleTransports
 RxCeBuildTransport
 RxCeBuildVC
 RxCeCancelConnectRequest
+RxCeFreeIrp
 RxCeInitiateVCDisconnect
 RxCeQueryAdapterStatus
 RxCeQueryInformation
@@ -48,6 +50,7 @@ RxFinalizeSrvCall
 RxFinalizeSrvOpen
 RxFinalizeVNetRoot
 RxFinishFcbInitialization
+RxForceFinalizeAllVNetRoots
 RxFsdDispatch
 RxFsdPostRequest
 RxGetFileSizeWithLock

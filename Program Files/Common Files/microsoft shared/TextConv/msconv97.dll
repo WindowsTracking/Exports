@@ -177,6 +177,7 @@ LpszUpperLpsz
 LpvAllocLcbCore
 LpvLockHq
 LpxchBltLpxsz
+LpxchBltLpxszCch
 LpxchFindLpxszNc
 LpxszFromLpsz
 MsoCpgFromChs

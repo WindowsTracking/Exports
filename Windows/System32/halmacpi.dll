@@ -46,10 +46,14 @@ HalStartProfileInterrupt
 HalStopProfileInterrupt
 HalSystemVectorDispatchEntry
 HalTranslateBusAddress
+IoAssignDriveLetters
 IoFlushAdapterBuffers
 IoFreeAdapterChannel
 IoFreeMapRegisters
 IoMapTransfer
+IoReadPartitionTable
+IoSetPartitionInformation
+IoWritePartitionTable
 KdComPortInUse
 KeAcquireInStackQueuedSpinLock
 KeAcquireInStackQueuedSpinLockRaiseToSynch

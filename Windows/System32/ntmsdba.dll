@@ -478,6 +478,7 @@
 ?FullState@NtmsDbIEPort@@QBE?BKXZ
 ?GenerateHash@NtmsDbGuid@@QAEFXZ
 ?Get@Map@NtmsDbList@@QBEJJAAPAVNtmsDbListItem@@@Z
+?GetAllocOption@NtmsDbPartition@@QAEKXZ
 ?GetApplicationA@NtmsDbLibWorkItem@@QAEXPADH@Z
 ?GetApplicationA@NtmsDbOpRequest@@QAEXPADH@Z
 ?GetApplicationW@NtmsDbLibWorkItem@@QAEXPAGH@Z
@@ -891,6 +892,7 @@
 ?SetAdminControlSecurity@NtmsDbObject@@QAEKXZ
 ?SetAllocateCount@NtmsDbPartition@@QAEKK@Z
 ?SetAllocationPolicy@NtmsDbMediaPool@@QAEKK@Z
+?SetAllocOption@NtmsDbPartition@@QAEKK@Z
 ?SetApplication@NtmsDbLibWorkItem@@QAEKPBG@Z
 ?SetApplication@NtmsDbOpRequest@@QAEKPBG@Z
 ?SetArg1@NtmsDbOpRequest@@QAEKABVNtmsDbGuid@@@Z

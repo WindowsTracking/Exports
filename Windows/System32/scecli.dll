@@ -12,11 +12,14 @@ SceCloseProfile
 SceCommitTransaction
 SceCompareNameList
 SceCompareSecurityDescriptors
+SceConfigureConvertedFileSecurity
 SceConfigureSystem
 SceCopyBaseProfile
 SceCreateDirectory
 SceDcPromoCreateGPOsInSysvol
+SceDcPromoCreateGPOsInSysvolEx
 SceDcPromoteSecurity
+SceDcPromoteSecurityEx
 SceEnforceSecurityPolicyPropagation
 SceEnumerateServices
 SceFreeMemory
@@ -35,6 +38,7 @@ SceGetTimeStamp
 SceIsSystemDatabase
 SceLookupPrivRightName
 SceNotifyPolicyDelta
+SceOpenPolicy
 SceOpenProfile
 SceProcessEFSRecoveryGPO
 SceProcessSecurityPolicyGPO

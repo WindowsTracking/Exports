@@ -3,11 +3,13 @@ DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
 TF_CreateCategoryMgr
+TF_CreateCicLoadMutex
 TF_CreateDisplayAttributeMgr
 TF_CreateInputProcessorProfiles
 TF_CreateLangBarItemMgr
 TF_CreateLangBarMgr
 TF_CreateThreadMgr
+TF_GetLangIcon
 TF_GetMlngHKL
 TF_GetMlngIconIndex
 TF_GetThreadFlags
@@ -15,6 +17,10 @@ TF_InatExtractIcon
 TF_InitMlngInfo
 TF_InitSystem
 TF_InvalidAssemblyListCache
+TF_InvalidAssemblyListCacheIfExist
+TF_IsFullScreenWindowAcitvated
+TF_IsInMarshaling
 TF_MlngInfoCount
 TF_PostAllThreadMsg
+TF_RunInputCPL
 TF_UninitSystem

@@ -8,6 +8,7 @@ SetInfoText
 SetProgress
 SetProgressText
 SetStep
+SetTimeEstimate
 ShowProgressGaugeWindow
 StartBillBoard
 StopBillBoard

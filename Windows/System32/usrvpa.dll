@@ -1,0 +1,4 @@
+DeInitialize
+DllMain
+Initialize
+vpGetVariable

@@ -1,9 +1,10 @@
 AcceptEula
+FInit
 GetDownloadStatus
+GetInstallStatus
 GetOption
 GetState
 GetUpdateList
-Init
 PauseDownload
 SaveSelections
 StartDownload

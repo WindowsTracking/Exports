@@ -39,6 +39,8 @@ FindNextUrlCacheEntryExA
 FindNextUrlCacheEntryExW
 FindNextUrlCacheEntryW
 FindNextUrlCacheGroup
+ForceNexusLookup
+ForceNexusLookupEx
 FreeUrlCacheSpaceA
 FreeUrlCacheSpaceW
 FtpCommandA
@@ -158,6 +160,8 @@ InternetReadFileExW
 InternetSecurityProtocolToStringA
 InternetSecurityProtocolToStringW
 InternetSetCookieA
+InternetSetCookieExA
+InternetSetCookieExW
 InternetSetCookieW
 InternetSetDialState
 InternetSetDialStateA

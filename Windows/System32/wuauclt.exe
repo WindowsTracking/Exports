@@ -2,8 +2,11 @@
 ?CreateAdminSecurityAttrib@@YGHPAU_SECURITY_ATTRIBUTES@@@Z
 ?DeleteRegStringValue@@YGJPBG@Z
 ?DelWUDirectory@@YGHXZ
-?DownloadURL@@YGJPBG0KPAGPAUIWUQueueManager@@PAK@Z
+?DownloadURL@@YGJPBG0KPAGPAK@Z
 ?EmptyDownloadDir@@YGXXZ
+?FEnsureValidEvent@@YGHPAPAXHHPBG@Z
+?FHiddenItemsExist@@YGHXZ
+?FServiceFinishedOrWait@@YGHPAXK@Z
 ?GetBaseURL@@YGXPAGK@Z
 ?getCatalog@@YGKXZ
 ?GetDownloadPath@@YGJPAGI@Z
@@ -14,15 +17,14 @@
 ?getRetCode@@YGKXZ
 ?getSysTime@@YG?AU_SYSTEMTIME@@XZ
 ?getTimeOut@@YGKXZ
-?getUIState@@YGKXZ
 ?GetWUDirectory@@YGHPAG@Z
-?GoGetTheFile@@YGJPBG0PAUIWUQueueManager@@PAK@Z
 ?IsAdministrator@@YGHXZ
 ?IsAuditMode@@YGHXZ
 ?IsAUPolicyDisabled@@YGHXZ
 ?IsAutoUpdateEnabled@@YGHXZ
 ?IsConnected@@YGHPAD@Z
 ?IsOnBatteryPower@@YGHXZ
+?IsSetupMode@@YGHXZ
 ?MakeTempDownloadDir@@YGJPAG@Z
 ?Need5hrTimeOut@@YGHK@Z
 ?NeedRetry@@YGHK@Z
@@ -35,7 +37,6 @@
 ?setRetCode@@YGXK@Z
 ?setSysTime@@YGXXZ
 ?setTimeOut@@YGXK@Z
-?setUIState@@YGXK@Z
 ?String2SystemTime@@YGJPBGPAU_SYSTEMTIME@@@Z
 ?SystemTime2String@@YGJU_SYSTEMTIME@@PAG@Z
 ?TimeAddSeconds@@YGJU_SYSTEMTIME@@HPAU1@@Z
