@@ -1,0 +1,9 @@
+AMGetErrorTextA
+AMGetErrorTextW
+AmpFactorToDB
+DBToAmpFactor
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetProxyDllInfo

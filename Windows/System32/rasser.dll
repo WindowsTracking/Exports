@@ -14,5 +14,6 @@ PortReceive
 PortReceiveComplete
 PortSend
 PortSetFraming
+PortSetINetCfg
 PortSetInfo
 PortTestSignalState

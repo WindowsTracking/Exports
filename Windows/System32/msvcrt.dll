@@ -33,6 +33,8 @@ $I10_OUTPUT
 ??_Gbad_cast@@UAEPAXI@Z
 ??_Gbad_typeid@@UAEPAXI@Z
 ??_Gexception@@UAEPAXI@Z
+??_U@YAPAXI@Z
+??_V@YAXPAX@Z
 ?_query_new_handler@@YAP6AHI@ZXZ
 ?_query_new_mode@@YAHXZ
 ?_set_new_handler@@YAP6AHI@ZP6AHI@Z@Z
@@ -64,6 +66,7 @@ __isascii
 __iscsym
 __iscsymf
 __lc_codepage
+__lc_collate_cp
 __lc_handle
 __lconv_init
 __mb_cur_max
@@ -82,6 +85,7 @@ __p__environ
 __p__fileinfo
 __p__fmode
 __p__iob
+__p__mbcasemap
 __p__mbctype
 __p__osver
 __p__pctype
@@ -108,6 +112,7 @@ __threadhandle
 __threadid
 __toascii
 __unDName
+__unDNameEx
 __unguarded_readlc_active
 __wargv
 __wgetmainargs
@@ -146,6 +151,7 @@ _cgets
 _chdir
 _chdrive
 _chgsign
+_chkesp
 _chmod
 _chsize
 _CIacos
@@ -175,6 +181,7 @@ _cprintf
 _cputs
 _creat
 _cscanf
+_ctime64
 _ctype
 _cwait
 _CxxThrowException
@@ -213,8 +220,10 @@ _filelengthi64
 _fileno
 _findclose
 _findfirst
+_findfirst64
 _findfirsti64
 _findnext
+_findnext64
 _findnexti64
 _finite
 _flsbuf
@@ -227,11 +236,14 @@ _fputchar
 _fputwchar
 _fsopen
 _fstat
+_fstat64
 _fstati64
 _ftime
+_ftime64
 _ftol
 _fullpath
 _futime
+_futime64
 _gcvt
 _get_osfhandle
 _get_sbh_threshold
@@ -253,6 +265,7 @@ _Gettnames
 _getw
 _getws
 _global_unwind2
+_gmtime64
 _heapadd
 _heapchk
 _heapmin
@@ -309,6 +322,7 @@ _kbhit
 _lfind
 _loaddll
 _local_unwind2
+_localtime64
 _lock
 _locking
 _logb
@@ -323,6 +337,7 @@ _ltow
 _makepath
 _mbbtombc
 _mbbtype
+_mbcasemap
 _mbccpy
 _mbcjistojms
 _mbcjmstojis
@@ -379,11 +394,13 @@ _memccpy
 _memicmp
 _mkdir
 _mktemp
+_mktime64
 _msize
 _nextafter
 _onexit
 _open
 _open_osfhandle
+_osplatform
 _osver
 _outp
 _outpd
@@ -434,6 +451,7 @@ _spawnvp
 _spawnvpe
 _splitpath
 _stat
+_stat64
 _stati64
 _statusfp
 _strcmpi
@@ -458,6 +476,7 @@ _sys_nerr
 _tell
 _telli64
 _tempnam
+_time64
 _timezone
 _tolower
 _toupper
@@ -473,6 +492,7 @@ _unlink
 _unloaddll
 _unlock
 _utime
+_utime64
 _vsnprintf
 _vsnwprintf
 _waccess
@@ -493,6 +513,7 @@ _wcsrev
 _wcsset
 _wcsupr
 _wctime
+_wctime64
 _wenviron
 _wexecl
 _wexecle
@@ -504,8 +525,10 @@ _wexecvp
 _wexecvpe
 _wfdopen
 _wfindfirst
+_wfindfirst64
 _wfindfirsti64
 _wfindnext
+_wfindnext64
 _wfindnexti64
 _wfopen
 _wfreopen
@@ -542,6 +565,7 @@ _wspawnvp
 _wspawnvpe
 _wsplitpath
 _wstat
+_wstat64
 _wstati64
 _wstrdate
 _wstrtime
@@ -553,6 +577,7 @@ _wtoi64
 _wtol
 _wunlink
 _wutime
+_wutime64
 _XcptFilter
 _y0
 _y1

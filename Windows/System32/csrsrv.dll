@@ -1,6 +1,5 @@
 CsrAddStaticServerThread
 CsrCallServerFromServer
-CsrComputePriorityClass
 CsrConnectToUser
 CsrCreateProcess
 CsrCreateRemoteThread
@@ -12,14 +11,14 @@ CsrDereferenceThread
 CsrDereferenceWait
 CsrDestroyProcess
 CsrDestroyThread
-CsrDestroyWait
 CsrGetApiPorts
 CsrGetProcessLuid
 CsrImpersonateClient
-CsrLocateThreadInProcess
 CsrLockProcessByClientId
 CsrLockThreadByClientId
+CsrMoveSatisfiedWait
 CsrNotifyWait
+CsrPopulateDosDevices
 CsrQueryApiPort
 CsrReferenceThread
 CsrRevertToSelf
@@ -31,3 +30,5 @@ CsrShutdownProcesses
 CsrUnhandledExceptionFilter
 CsrUnlockProcess
 CsrUnlockThread
+CsrValidateMessageBuffer
+CsrValidateMessageString

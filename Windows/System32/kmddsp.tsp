@@ -31,6 +31,7 @@ TSPI_lineSetDefaultMediaDetection
 TSPI_lineSetDevConfig
 TSPI_lineSetMediaMode
 TSPI_lineSetStatusMessages
+TSPI_providerCreateLineDevice
 TSPI_providerEnumDevices
 TSPI_providerInit
 TSPI_providerShutdown

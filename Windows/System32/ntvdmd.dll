@@ -1,0 +1,12 @@
+xxxDbgBPInt
+xxxDbgDispatch
+xxxDbgDosAppStart
+xxxDbgFault
+xxxDbgInit
+xxxDbgIsDebuggee
+xxxDbgNotifyDebugged
+xxxDbgNotifyNewTask
+xxxDbgNotifyRemoteThreadAddress
+xxxDbgSegmentNotice
+xxxDbgTraceEvent
+xxxDbgTraceInt

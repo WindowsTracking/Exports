@@ -1,8 +1,0 @@
-DllMain
-ForeignToRtf32
-GetReadNames
-GetWriteNames
-InitConverter32
-IsFormatCorrect32
-RegisterApp
-RtfToForeign32

@@ -1,0 +1,12 @@
+ComDBClaimNextFreePort
+ComDBClaimPort
+ComDBClose
+ComDBGetCurrentPortUsage
+ComDBOpen
+ComDBReleasePort
+ComDBResizeDatabase
+LibMain
+ParallelPortPropPageProvider
+PortsClassInstaller
+SerialDisplayAdvancedSettings
+SerialPortPropPageProvider

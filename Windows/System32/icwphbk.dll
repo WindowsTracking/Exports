@@ -1,0 +1,9 @@
+_PhbkGenericDlgProc@16
+GetSupportNumbers
+PHBKDllEntryPoint
+PhoneBookDisplaySignUpNumbers
+PhoneBookGetCanonical
+PhoneBookLoad
+PhoneBookMergeChanges
+PhoneBookSuggestNumbers
+PhoneBookUnload

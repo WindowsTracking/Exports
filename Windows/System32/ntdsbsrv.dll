@@ -1,0 +1,10 @@
+DllEntryPoint
+ErrGetBackupUsnFromDatabase
+ErrGetNewInvocationId
+ErrRecoverAfterRestoreA
+ErrRecoverAfterRestoreW
+ErrRestoreRegister
+ErrRestoreUnregister
+HrBackupRegister
+HrBackupUnregister
+SetNTDSOnlineStatus

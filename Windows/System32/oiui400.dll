@@ -7,6 +7,8 @@ AttrTextStampEditProc
 ChooseColorDlgProc
 ChooseFontDlgProc
 CustClrPalUserCtlProc
+LoadDefaultUiFilter
+OiUIAdjustFilterIndex
 OiUIAttribDlgBox
 OiUIFileGetNameCommDlg
 OiUIFileOpenDlgProc

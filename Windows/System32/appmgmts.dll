@@ -1,0 +1,14 @@
+CsCreateClassStore
+CsEnumApps
+CsGetAppCategories
+CsGetClassAccess
+CsGetClassStore
+CsGetClassStorePath
+CsRegisterAppCategory
+CsUnregisterAppCategory
+IID_IClassAdmin
+ProcessGroupPolicyObjects
+ReleaseAppCategoryInfoList
+ReleasePackageDetail
+ReleasePackageInfo
+ServiceEntry

@@ -1,0 +1,10 @@
+?native_Npwmsdrm_printToStdout@@YAXPAPBUJRIEnvInterface@@PAUNpwmsdrm@@PAUjava_lang_String@@@Z
+NP_GetEntryPoints
+NP_Initialize
+NP_Shutdown
+register_Npwmsdrm
+unregister_Npwmsdrm
+unuse_netscape_plugin_Plugin
+unuse_Npwmsdrm
+use_netscape_plugin_Plugin
+use_Npwmsdrm

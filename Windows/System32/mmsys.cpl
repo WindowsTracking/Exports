@@ -3,6 +3,7 @@ DllCanUnloadNow
 DllGetClassObject
 DllInitialize
 MediaClassInstaller
+MediaPropPageProvider
 mmseRunOnce
 mmseRunOnceA
 mmseRunOnceW
@@ -11,4 +12,5 @@ ShowAudioPropertySheet
 ShowDriverSettingsAfterFork
 ShowDriverSettingsAfterForkA
 ShowDriverSettingsAfterForkW
+ShowFullControlPanel
 ShowMMCPLPropertySheet

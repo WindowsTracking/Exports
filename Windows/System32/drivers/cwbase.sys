@@ -1,0 +1,5 @@
+DllUnload
+DriverEntry
+RegisterDriver
+RemoveDriver
+SendMessage

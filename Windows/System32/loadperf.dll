@@ -1,5 +1,14 @@
-DllEntryPoint
+BackupPerfRegistryToFileW
+InstallPerfDllA
+InstallPerfDllW
+LoadMofFromInstalledServiceA
+LoadMofFromInstalledServiceW
 LoadPerfCounterTextStringsA
 LoadPerfCounterTextStringsW
+RestorePerfRegistryFromFileW
+SetServiceAsTrustedA
+SetServiceAsTrustedW
 UnloadPerfCounterTextStringsA
 UnloadPerfCounterTextStringsW
+UpdatePerfNameFilesA
+UpdatePerfNameFilesW

@@ -1,9 +1,15 @@
 Chkdsk
+ChkdskEx
+ComputeFmMediaType
 DiskCopy
 EnableVolumeCompression
 Extend
 Format
 FormatEx
+FormatEx2
 InitializeFmIfs
+QueryAvailableFileSystemFormat
+QueryFileSystemName
+QueryLatestFileSystemVersion
 QuerySupportedMedia
 SetLabel

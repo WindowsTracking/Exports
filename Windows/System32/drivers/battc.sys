@@ -1,0 +1,4 @@
+BatteryClassInitializeDevice
+BatteryClassIoctl
+BatteryClassStatusNotify
+BatteryClassUnload

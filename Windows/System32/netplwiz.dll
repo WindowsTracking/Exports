@@ -1,0 +1,11 @@
+AddNetPlaceRunDll
+ClearAutoLogon
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
+NetAccessWizard
+NetAccWizRunDll
+NetPlacesWizardDoModal
+UsersRunDll

@@ -1,0 +1,8 @@
+?DisplayAVIBox@@YAHPAUHWND__@@PBG1PAPAU1@@Z
+?DisplayUserMessage@@YAHPAUHWND__@@PAUHINSTANCE__@@IIW4ERROR_SRC@@JI@Z
+?DisplayUserMessage@@YAHPAUHWND__@@PBG1W4ERROR_SRC@@JI@Z
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+ErrorStringEx

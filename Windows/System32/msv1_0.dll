@@ -1,9 +1,16 @@
 LsaApCallPackage
+LsaApCallPackagePassthrough
 LsaApCallPackageUntrusted
 LsaApInitializePackage
 LsaApLogonTerminated
-LsaApLogonUserEx
+LsaApLogonUserEx2
 LsaApMsInitialize
+Msv1_0ExportSubAuthenticationRoutine
+Msv1_0SubAuthenticationPresent
 MsvGetLogonAttemptCount
 MsvSamLogoff
 MsvSamValidate
+SpInitialize
+SpInstanceInit
+SpLsaModeInitialize
+SpUserModeInitialize

@@ -62,6 +62,7 @@
 ??0strstreambuf@@QAE@H@Z
 ??0strstreambuf@@QAE@P6APAXJ@ZP6AXPAX@Z@Z
 ??0strstreambuf@@QAE@PADH0@Z
+??0strstreambuf@@QAE@PAEH0@Z
 ??0strstreambuf@@QAE@XZ
 ??1exception@@UAE@XZ
 ??1filebuf@@UAE@XZ
@@ -201,7 +202,6 @@
 ??_Eifstream@@UAEPAXI@Z
 ??_Eios@@UAEPAXI@Z
 ??_Eiostream@@UAEPAXI@Z
-??_EIostream_init@@QAEPAXI@Z
 ??_Eistream@@UAEPAXI@Z
 ??_Eistream_withassign@@UAEPAXI@Z
 ??_Eistrstream@@UAEPAXI@Z
@@ -221,7 +221,6 @@
 ??_Gifstream@@UAEPAXI@Z
 ??_Gios@@UAEPAXI@Z
 ??_Giostream@@UAEPAXI@Z
-??_GIostream_init@@QAEPAXI@Z
 ??_Gistream@@UAEPAXI@Z
 ??_Gistream_withassign@@UAEPAXI@Z
 ??_Gistrstream@@UAEPAXI@Z

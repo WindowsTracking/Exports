@@ -1,6 +1,9 @@
+ShellShutdownDialog
 WlxActivateUserShell
 WlxDisplayLockedNotice
 WlxDisplaySASNotice
+WlxDisplayStatusMessage
+WlxGetStatusMessage
 WlxInitialize
 WlxIsLockOk
 WlxIsLogoffOk
@@ -8,6 +11,8 @@ WlxLoggedOnSAS
 WlxLoggedOutSAS
 WlxLogoff
 WlxNegotiate
+WlxNetworkProviderLoad
+WlxRemoveStatusMessage
 WlxScreenSaverNotify
 WlxShutdown
 WlxStartApplication

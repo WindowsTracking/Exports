@@ -1,0 +1,11 @@
+CdromDisableDigitalPlayback
+CdromEnableDigitalPlayback
+CdromIsDigitalPlaybackEnabled
+CdromKnownGoodDigitalPlayback
+DiskPropPageProvider
+DllMain
+DvdClassInstaller
+DvdLauncher
+DvdPropPageProvider
+IdePropPageProvider
+VolumePropPageProvider

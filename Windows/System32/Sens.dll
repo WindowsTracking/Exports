@@ -1,0 +1,4 @@
+SensNotifyNetconEvent
+SensNotifyRasEvent
+SensNotifyWinlogonEvent
+ServiceMain

@@ -1,6 +1,12 @@
 AppWizard
 ConfigStartMenu
 CPlApplet
+DllCanUnloadNow
+DllGetClassObject
+DllGetVersion
+DllInstall
+DllRegisterServer
+DllUnregisterServer
 NewLinkHere
 NewLinkHereA
 NewLinkHereW

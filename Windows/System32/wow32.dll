@@ -24,4 +24,5 @@ WOWGlobalUnlock16
 WOWGlobalUnlockFree16
 WOWHandle16
 WOWHandle32
+WOWUseMciavi16
 WOWYield16

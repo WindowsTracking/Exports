@@ -1,6 +1,7 @@
 AcquireCredentialsHandleA
 AcquireCredentialsHandleW
 ApplyControlToken
+CleanupCredentialCache
 CompleteAuthToken
 DeleteSecurityContext
 EnumerateSecurityPackagesA
@@ -18,5 +19,6 @@ QuerySecurityPackageInfoA
 QuerySecurityPackageInfoW
 SealMessage
 SetMSNAccountInfo
+SspcCreateSspiReg
 UnsealMessage
 VerifySignature

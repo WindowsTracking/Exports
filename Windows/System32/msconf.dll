@@ -1,0 +1,9 @@
+CallToProtocolHandler
+DllCanUnloadNow
+DllGetClassObject
+DllGetVersion
+DllRegisterServer
+DllUnregisterServer
+NewMediaPhone
+OpenConfLink
+VerifyUserInfo

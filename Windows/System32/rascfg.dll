@@ -1,7 +1,0 @@
-DllMain
-InitRasmanSecurityDescriptor
-InitRemoteSecurityDescriptor
-RasNotStrstr
-RasPortsConfig
-RenameIpxRouterToNwlnkRip
-RenameRasHubToNdisWan

@@ -1,0 +1,16 @@
+ds_abandon
+ds_add_entry
+ds_bind
+ds_compare
+ds_initialize
+ds_list
+ds_modify_dn
+ds_modify_entry
+ds_modify_rdn
+ds_read
+ds_receive_result
+ds_remove_entry
+ds_search
+ds_shutdown
+ds_unbind
+ds_version

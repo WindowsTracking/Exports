@@ -1,0 +1,17 @@
+AddScript
+CreateScriptList
+CreateScriptListOfStr
+DeleteScriptsRsopData
+DestroyScriptList
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GenerateScriptsGroupPolicy
+GetNamespace
+GPOIDFromPath
+LogScriptsRsopData
+ProcessIPSECPolicy
+ProcessScriptsGroupPolicy
+ProcessScriptsGroupPolicyEx
+UpdateScriptsRsopData

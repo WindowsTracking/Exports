@@ -1,9 +1,4 @@
-BrowseHookProc
-FDlgAddDriver
-FDlgAddUnlisted
-FDlgDriverList
 GetTapi16CallbackMsg
-InsertDiskDlg
 internalConfig
 internalNewLocationW
 internalPerformance
@@ -30,6 +25,10 @@ lineConfigDialogEditA
 lineConfigDialogEditW
 lineConfigDialogW
 lineConfigProvider
+lineCreateAgentA
+lineCreateAgentSessionA
+lineCreateAgentSessionW
+lineCreateAgentW
 lineDeallocateCall
 lineDevSpecific
 lineDevSpecificFeature
@@ -62,6 +61,9 @@ lineGetAgentCapsA
 lineGetAgentCapsW
 lineGetAgentGroupListA
 lineGetAgentGroupListW
+lineGetAgentInfo
+lineGetAgentSessionInfo
+lineGetAgentSessionList
 lineGetAgentStatusA
 lineGetAgentStatusW
 lineGetAppPriority
@@ -81,6 +83,8 @@ lineGetDevCapsW
 lineGetDevConfig
 lineGetDevConfigA
 lineGetDevConfigW
+lineGetGroupListA
+lineGetGroupListW
 lineGetIcon
 lineGetIconA
 lineGetIconW
@@ -96,6 +100,10 @@ lineGetNumRings
 lineGetProviderList
 lineGetProviderListA
 lineGetProviderListW
+lineGetProxyStatus
+lineGetQueueInfo
+lineGetQueueListA
+lineGetQueueListW
 lineGetRequest
 lineGetRequestA
 lineGetRequestW
@@ -143,7 +151,10 @@ lineSecureCall
 lineSendUserUserInfo
 lineSetAgentActivity
 lineSetAgentGroup
+lineSetAgentMeasurementPeriod
+lineSetAgentSessionState
 lineSetAgentState
+lineSetAgentStateEx
 lineSetAppPriority
 lineSetAppPriorityA
 lineSetAppPriorityW
@@ -161,6 +172,7 @@ lineSetLineDevStatus
 lineSetMediaControl
 lineSetMediaMode
 lineSetNumRings
+lineSetQueueMeasurementPeriod
 lineSetStatusMessages
 lineSetTerminal
 lineSetTollList
@@ -187,6 +199,22 @@ lineUnparkA
 lineUnparkW
 LocWizardDlgProc
 LOpenDialAsst
+MMCAddProvider
+MMCConfigProvider
+MMCGetAvailableProviders
+MMCGetLineInfo
+MMCGetLineStatus
+MMCGetPhoneInfo
+MMCGetPhoneStatus
+MMCGetProviderList
+MMCGetServerConfig
+MMCInitialize
+MMCRemoveProvider
+MMCSetLineInfo
+MMCSetPhoneInfo
+MMCSetServerConfig
+MMCShutdown
+NonAsyncEventThread
 phoneClose
 phoneConfigDialog
 phoneConfigDialogA
@@ -246,4 +274,3 @@ tapiRequestMediaCallA
 tapiRequestMediaCallW
 TAPIWndProc
 TUISPIDLLCallback
-wsExistDlg

@@ -1,0 +1,8 @@
+CSCUIInitialize
+CSCUIMsgProcess
+CSCUIRemoveFolderFromCache
+CSCUISetState
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,14 @@
+ConvertINetMultiByteToUnicode
+ConvertINetReset
+ConvertINetString
+ConvertINetUnicodeToMultiByte
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetGlobalFontLinkObject
+IsConvertINetStringAvailable
+LcidToRfc1766A
+LcidToRfc1766W
+Rfc1766ToLcidA
+Rfc1766ToLcidW

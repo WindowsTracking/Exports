@@ -4,5 +4,9 @@ drvGetDefaultCommConfigA
 drvGetDefaultCommConfigW
 drvSetDefaultCommConfigA
 drvSetDefaultCommConfigW
-Mdm_CommConfigDialog
+InvokeControlPanel
+ModemCplDlgProc
+ModemPropPagesProvider
+UnimodemDevConfigDialog
 UnimodemGetDefaultCommConfig
+UnimodemGetExtendedCaps

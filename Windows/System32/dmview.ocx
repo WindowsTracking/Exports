@@ -1,0 +1,15 @@
+?GetBottomViewStyle@CDMSnapin@@QAEHXZ
+?GetDiskScaling@CDMSnapin@@QAEHXZ
+?GetFilterToggle@CDMSnapin@@QAEHXZ
+?GetLdmObjectId@CDMNodeObj@@QAE_JXZ
+?GetListBehavior@CDMSnapin@@QAEHXZ
+?GetNumMembers@CDMNodeObj@@QAEKXZ
+?GetOcxFrameCWndPtr@CTaskData@@QAEPAVCWnd@@XZ
+?GetRegionColorStructPtr@CTaskData@@QAEXPAPAU_REGION_COLORS@@AAH@Z
+?GetRegionScaling@CDMSnapin@@QAEHXZ
+?GetTopViewStyle@CDMSnapin@@QAEHXZ
+?GetWaitCursor@CDMSnapin@@QAEHXZ
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

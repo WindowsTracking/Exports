@@ -1,0 +1,8 @@
+AboutDialogProc
+ConfigureDialogProc
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
+DriverProc

@@ -1,0 +1,6 @@
+ConvertDIBSECTIONToThumbnail
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+LibMain

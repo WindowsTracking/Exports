@@ -1,0 +1,4 @@
+DllInstall
+DllRegisterServer
+DllUnregisterServer
+FixIE

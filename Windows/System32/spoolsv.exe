@@ -1,0 +1,9 @@
+YDriverUnloadComplete
+YEndDocPrinter
+YFlushPrinter
+YGetPrinterDriver2
+YGetPrinterDriverDirectory
+YReadPrinter
+YSeekPrinter
+YSplReadPrinter
+YWritePrinter

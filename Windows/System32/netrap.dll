@@ -3,6 +3,7 @@ RapAsciiToDecimal
 RapAuxDataCount
 RapAuxDataCountOffset
 RapConvertSingleEntry
+RapConvertSingleEntryEx
 RapExamineDescriptor
 RapGetFieldSize
 RapIsValidDescriptorSmb

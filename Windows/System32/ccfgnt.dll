@@ -1,0 +1,15 @@
+IcfgGetLastInstallErrorText
+IcfgInstallInetComponents
+IcfgInstallModem
+IcfgIsFileSharingTurnedOn
+IcfgIsGlobalDNS
+IcfgNeedInetComponents
+IcfgNeedModem
+IcfgRemoveGlobalDNS
+IcfgSetInstallSourcePath
+IcfgStartServices
+IcfgTurnOffFileSharing
+InetGetAutodial
+InetGetSupportedPlatform
+InetSetAutodial
+InetSetAutodialAddress

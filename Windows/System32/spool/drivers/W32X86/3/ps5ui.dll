@@ -1,0 +1,12 @@
+DevQueryPrintEx
+DllInitialize
+DrvConvertDevMode
+DrvDeviceCapabilities
+DrvDevicePropertySheets
+DrvDocumentPropertySheets
+DrvDriverEvent
+DrvPrinterEvent
+DrvQueryColorProfile
+DrvQueryJobAttributes
+DrvSplDeviceCaps
+DrvUpgradePrinter

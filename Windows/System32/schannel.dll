@@ -4,8 +4,7 @@ AcquireCredentialsHandleW
 ApplyControlToken
 CompleteAuthToken
 DeleteSecurityContext
-DllRegisterServer
-DllUnregisterServer
+EnableCertMapping
 EnumerateSecurityPackagesA
 EnumerateSecurityPackagesW
 FreeContextBuffer
@@ -22,8 +21,8 @@ QuerySecurityPackageInfoA
 QuerySecurityPackageInfoW
 RevertSecurityContext
 SealMessage
-SecurityPackageControl
-SPReInit
+SpLsaModeInitialize
+SpUserModeInitialize
 SslCrackCertificate
 SslFreeCertificate
 SslGenerateKeyPair

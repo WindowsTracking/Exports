@@ -1,0 +1,11 @@
+DevQueryPrintEx
+DllEntryPoint
+DrvAdvancedDocumentProperties
+DrvConvertDevMode
+DrvDeviceCapabilities
+DrvDevicePropertySheets
+DrvDocumentEvent
+DrvDocumentProperties
+DrvDocumentPropertySheets
+DrvPrinterEvent
+PrinterProperties

@@ -1,0 +1,17 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+HrDiAddComponentToINetCfg
+LanaCfgFromCommandArgs
+ModemClassCoInstaller
+NetCfgDiagFromCommandArgs
+NetClassInstaller
+NetPropPageProvider
+RasAddBindings
+RasCountBindings
+RasRemoveBindings
+SvchostChangeSvchostGroup
+UpdateLanaConfigUsingAnswerfile
+WlbsInitParams
+WlbsSetNetworkAddress

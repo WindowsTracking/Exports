@@ -14,14 +14,17 @@ MCDDescribeLayerPlane
 MCDDescribeMcdLayerPlane
 MCDDescribeMcdPixelFormat
 MCDDescribePixelFormat
+MCDDestroyWindow
 MCDDrawPixels
 MCDFlushState
 MCDFree
 MCDGetBuffers
 MCDGetDriverInfo
+MCDGetTextureFormats
 MCDLock
 MCDPixelMap
 MCDProcessBatch
+MCDProcessBatch2
 MCDQueryMemStatus
 MCDReadPixels
 MCDReadSpan
@@ -29,6 +32,7 @@ MCDSetLayerPalette
 MCDSetScissorRect
 MCDSetViewport
 MCDSwap
+MCDSwapMultiple
 MCDSync
 MCDTextureKey
 MCDTextureStatus

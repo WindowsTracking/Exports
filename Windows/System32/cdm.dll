@@ -1,0 +1,7 @@
+CloseCDMContext
+DownloadGetUpdatedFiles
+DownloadIsInternetAvailable
+DownloadUpdatedFiles
+GetPackage
+OpenCDMContext
+RealDownloadGetUpdatedFiles

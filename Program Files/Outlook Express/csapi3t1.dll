@@ -1,0 +1,16 @@
+SpellerAddChangeUdr
+SpellerAddUdr
+SpellerBuiltinUdr
+SpellerCheck
+SpellerClearUdr
+SpellerCloseLex
+SpellerDelUdr
+SpellerGetListUdr
+SpellerGetOptions
+SpellerGetSizeUdr
+SpellerInit
+SpellerOpenLex
+SpellerSetDllName
+SpellerSetOptions
+SpellerTerminate
+SpellerVersion

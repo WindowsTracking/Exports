@@ -1,0 +1,8 @@
+transCharIn
+transCharOut
+transCreateHandle
+transDestroyHandle
+transDoDialog
+transInitHandle
+transLoadHandle
+transSaveHandle

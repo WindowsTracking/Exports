@@ -15,6 +15,7 @@ NewCompressor
 NewHiliter
 NewIndex
 NewSearcher
+OpenBiDiTabDialog
 OpenDialog
 OpenIndex
 OpenTabDialog

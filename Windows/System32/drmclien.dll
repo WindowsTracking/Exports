@@ -1,0 +1,15 @@
+??0CDRMLiteCrypto@@QAE@XZ
+??1CDRMLiteCrypto@@QAE@XZ
+?GetPublicKey@CDRMLiteCrypto@@QAEJPAUPKCERT@@@Z
+Bind
+BindEx
+CanDecrypt
+CanDecryptEx
+Decrypt
+DllMain
+DllRegisterServer
+DllUnregisterServer
+GetVersion
+KeyExchange
+ProcessResponse
+RequestLicense

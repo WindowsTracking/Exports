@@ -1,0 +1,7 @@
+?MySecurityDescriptor@@3VWin32SecurityDescriptor@@A
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetSDFromWin32SecurityDescriptor
+SetWin32SecurityDescriptorFromSD

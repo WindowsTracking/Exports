@@ -1,0 +1,9 @@
+CheckFor8390
+NetDetectAllocAdapterInfo
+NetDetectDeregister
+NetDetectFindAdapter
+NetDetectFreeAdapterInfo
+NetDetectGetFirstNextResource
+NetDetectInitializeResource
+NetDetectRegister
+Send8390Packet

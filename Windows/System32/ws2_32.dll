@@ -30,6 +30,7 @@ setsockopt
 shutdown
 socket
 WEP
+WPUCompleteOverlappedRequest
 WSAAccept
 WSAAddressToStringA
 WSAAddressToStringW
@@ -75,6 +76,7 @@ WSALookupServiceNextA
 WSALookupServiceNextW
 WSANtohl
 WSANtohs
+WSAProviderConfigChange
 WSApSetPostRoutine
 WSARecv
 WSARecvDisconnect
@@ -103,3 +105,5 @@ WSCGetProviderPath
 WSCInstallNameSpace
 WSCInstallProvider
 WSCUnInstallNameSpace
+WSCWriteNameSpaceOrder
+WSCWriteProviderOrder

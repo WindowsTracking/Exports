@@ -1,0 +1,3 @@
+DllRegisterServer
+DllUnregisterServer
+SvcEntry_Seclogon

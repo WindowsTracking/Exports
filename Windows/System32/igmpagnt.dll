@@ -1,0 +1,4 @@
+SnmpExtensionClose
+SnmpExtensionInit
+SnmpExtensionQuery
+SnmpExtensionTrap

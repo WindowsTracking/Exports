@@ -1,0 +1,16 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+IASAdler32
+IASAllocateUniqueID
+IASGetHostByName
+IASInitialize
+IASRadiusCrypt
+IASRegisterComponent
+IASReportEvent
+IASRequestThread
+IASSetMaxNumberOfThreads
+IASSetMaxThreadIdle
+IASUninitialize
+IASVariantChangeType

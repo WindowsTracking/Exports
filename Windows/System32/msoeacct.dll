@@ -1,0 +1,9 @@
+CreateAccountsFromFile
+CreateAccountsFromFileEx
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetDllMajorVersion
+HrCreateAccountManager
+ValidEmailAddress

@@ -1,0 +1,9 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+RasEapFreeMemory
+RasEapGetIdentity
+RasEapGetInfo
+RasEapInvokeConfigUI
+RasEapInvokeInteractiveUI

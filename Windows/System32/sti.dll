@@ -1,0 +1,8 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+StiCreateInstance
+StiCreateInstanceA
+StiCreateInstanceW
+StiPrivateGetDeviceInfoW

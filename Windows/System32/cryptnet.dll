@@ -1,0 +1,15 @@
+CertDllVerifyCTLUsage
+CertDllVerifyRevocation
+CryptCancelAsyncRetrieval
+CryptFlushTimeValidObject
+CryptGetObjectUrl
+CryptGetTimeValidObject
+CryptInstallCancelRetrieval
+CryptnetWlxLogoffEvent
+CryptRetrieveObjectByUrlA
+CryptRetrieveObjectByUrlW
+CryptUninstallCancelRetrieval
+DllRegisterServer
+DllUnregisterServer
+I_CryptNetGetUserDsStoreUrl
+LdapProvOpenStore

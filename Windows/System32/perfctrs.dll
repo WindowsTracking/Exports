@@ -1,13 +1,16 @@
+CloseDhcpPerformanceData
 CloseIPXPerformanceData
 CloseNbfPerformanceData
 CloseNWNBPerformanceData
 CloseSPXPerformanceData
 CloseTcpIpPerformanceData
+CollectDhcpPerformanceData
 CollectIPXPerformanceData
 CollectNbfPerformanceData
 CollectNWNBPerformanceData
 CollectSPXPerformanceData
 CollectTcpIpPerformanceData
+OpenDhcpPerformanceData
 OpenIPXPerformanceData
 OpenNbfPerformanceData
 OpenNWNBPerformanceData

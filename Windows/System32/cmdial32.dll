@@ -1,0 +1,12 @@
+_AutoDialFunc@16
+_InetDialHandler@16
+AutoDialFunc
+CmCustomDialDlg
+CmCustomHangUp
+CmReConnect
+InetDialHandler
+RasCustomDeleteEntryNotify
+RasCustomDial
+RasCustomDialDlg
+RasCustomEntryDlg
+RasCustomHangUp

@@ -18,7 +18,10 @@ LoadAlterBitmap
 PageSetupDlgA
 PageSetupDlgW
 PrintDlgA
+PrintDlgExA
+PrintDlgExW
 PrintDlgW
 ReplaceTextA
 ReplaceTextW
+Ssync_ANSI_UNICODE_Struct_For_WOW
 WantArrows

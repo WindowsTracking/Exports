@@ -1,0 +1,4 @@
+PciIdeXDebugPrint
+PciIdeXGetBusData
+PciIdeXInitialize
+PciIdeXSetBusData

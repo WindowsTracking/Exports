@@ -5,6 +5,8 @@ I_RpcNsSendReceive
 I_RpcReBindBuffer
 RpcIfIdVectorFree
 RpcNsBindingExportA
+RpcNsBindingExportPnPA
+RpcNsBindingExportPnPW
 RpcNsBindingExportW
 RpcNsBindingImportBeginA
 RpcNsBindingImportBeginW
@@ -16,6 +18,8 @@ RpcNsBindingLookupDone
 RpcNsBindingLookupNext
 RpcNsBindingSelect
 RpcNsBindingUnexportA
+RpcNsBindingUnexportPnPA
+RpcNsBindingUnexportPnPW
 RpcNsBindingUnexportW
 RpcNsEntryExpandNameA
 RpcNsEntryExpandNameW

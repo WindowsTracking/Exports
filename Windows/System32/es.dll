@@ -1,0 +1,10 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+LCEControlServer
+NotifyLogoffUser
+NotifyLogonUser
+RegisterTheFrigginEventServiceAfterSetup
+RegisterTheFrigginEventServiceDuringSetup
+ServiceMain

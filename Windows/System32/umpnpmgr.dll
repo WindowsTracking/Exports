@@ -1,6 +1,9 @@
 PNP_GetDeviceList
 PNP_GetDeviceListSize
+PNP_GetDeviceRegProp
 PNP_HwProfFlags
 PNP_ReportLogOn
 PNP_SetActiveService
+RegisterScmCallback
+RegisterServiceNotification
 ServiceEntry

@@ -1,0 +1,6 @@
+CORLockDownProvider
+CORPolicyProvider
+DllCanUnloadNow
+DllRegisterServer
+DllUnregisterServer
+GetUnsignedPermissions

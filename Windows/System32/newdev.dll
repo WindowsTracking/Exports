@@ -1,0 +1,13 @@
+DevInstallRebootPromptW
+DevInstallUiOnlyW
+DevInstallW
+DllInitialize
+InstallCDMDriver
+InstallDevInst
+InstallDevInstEx
+InstallNewDevice
+InstallSelectedDevice
+InstallSelectedDriver
+InstallWindowsUpdateDriver
+UpdateDriverForPlugAndPlayDevicesA
+UpdateDriverForPlugAndPlayDevicesW

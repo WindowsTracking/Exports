@@ -1,0 +1,7 @@
+LPM_AdmitRsvpMsg
+LPM_CommitResv
+LPM_Deinitialize
+LPM_DeleteState
+LPM_GetRsvpObjects
+LPM_Initialize
+LPM_IpAddressTable

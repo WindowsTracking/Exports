@@ -3,6 +3,7 @@ IMGDefScanOpts
 IMGEnaKeypanel
 IMGEnaPreFeed
 IMGGetCapability
+IMGGetScanCapability
 IMGGetScanDataInfo
 IMGGetScanImageInfo
 IMGGetScanInfoItem
@@ -20,5 +21,6 @@ IMGScanOpts
 IMGScanOpts_Enh
 IMGScanProp
 IMGSetDataOpts
+IMGSetScanCapability
 IMGTwainScanPages
 TwainWndProc

@@ -1,3 +1,4 @@
+AddPorts
 DeviceConnect
 DeviceDone
 DeviceEnum
@@ -7,6 +8,9 @@ DeviceListen
 DeviceSetDevConfig
 DeviceSetInfo
 DeviceWork
+EnableDeviceForDialIn
+GetConnectInfo
+GetZeroDeviceInfo
 InitRasTapi
 PortChangeCallback
 PortClearStatistics
@@ -26,4 +30,9 @@ PortReceiveComplete
 PortSend
 PortSetFraming
 PortSetInfo
+PortSetIoCompletionPort
 PortTestSignalState
+RastapiGetCalledID
+RastapiSetCalledID
+RemovePort
+UnloadRastapiDll

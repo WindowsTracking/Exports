@@ -1,2 +1,14 @@
 AddInternetPropertySheets
+AddInternetPropertySheetsEx
 CPlApplet
+DllInstall
+ImportExportPFX
+LaunchConnectionDialog
+LaunchInternetControlPanel
+LaunchSecurityDialog
+LaunchSecurityDialogEx
+LaunchSiteCertDialog
+OpenFontsDialog
+OpenFontsDialogEx
+OpenLanguageDialog
+SiteCert_RunFromCmdLine

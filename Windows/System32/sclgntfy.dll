@@ -1,0 +1,11 @@
+DllRegisterServer
+DllUnregisterServer
+WLEventLock
+WLEventLogoff
+WLEventLogon
+WLEventShutdown
+WLEventStartScreenSaver
+WLEventStartShell
+WLEventStartup
+WLEventStopScreenSaver
+WLEventUnlock

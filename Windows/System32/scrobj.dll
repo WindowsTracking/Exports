@@ -1,0 +1,9 @@
+DllCanUnloadNow
+DllGetClassObject
+DllInstall
+DllRegisterServer
+DllRegisterServerEx
+DllUnregisterServer
+DllUnregisterServerEx
+GenerateTypeLib
+GenerateTypeLibW

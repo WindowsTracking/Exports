@@ -1,0 +1,17 @@
+DllCanUnloadNow
+DllGetClassObject
+DllInstall
+DllMain
+DllRegisterServer
+DllUnregisterServer
+FindControlClose
+FindFirstControl
+FindNextControl
+GetControlDependentFile
+GetControlInfo
+IsModuleRemovable
+ReleaseControlHandle
+RemoveControlByHandle
+RemoveControlByName
+RemoveExpiredControls
+SweepControlsByLastAccessDate

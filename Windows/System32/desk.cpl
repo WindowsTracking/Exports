@@ -3,7 +3,17 @@ DeskSetCurrentScheme
 DeskSetCurrentSchemeA
 DeskSetCurrentSchemeW
 DisplayClassInstaller
+DisplayOcSetupProc
+DisplaySaveSettings
+DisplayTestSettingsW
+DllCanUnloadNow
+DllGetClassObject
 DllInitialize
+DllRegisterServer
+DllUnregisterServer
 InstallScreenSaver
 InstallScreenSaverA
 InstallScreenSaverW
+MonitorClassInstaller
+UpdateCharsetChanges
+UpdateUIfontsDueToDPIchange

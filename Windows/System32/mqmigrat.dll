@@ -1,0 +1,6 @@
+MQMig_CheckMSMQVersionOfServers
+MQMig_GetAllCounters
+MQMig_GetObjectsCount
+MQMig_MigrateFromMQIS
+MQMig_SetSiteIdOfPEC
+MQMig_UpdateRemoteMQIS

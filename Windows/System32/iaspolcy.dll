@@ -1,0 +1,10 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+IASAttributeAddRef
+IASAttributeAlloc
+IASAttributeAnsiAlloc
+IASAttributeCopy
+IASAttributeRelease
+IASAttributeUnicodeAlloc

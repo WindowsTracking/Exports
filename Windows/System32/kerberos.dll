@@ -1,0 +1,8 @@
+KerbCreateTokenFromTicket
+KerbFree
+KerbKdcCallBack
+KerbMakeKdcCall
+SpInitialize
+SpInstanceInit
+SpLsaModeInitialize
+SpUserModeInitialize

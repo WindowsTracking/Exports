@@ -1,0 +1,11 @@
+DllRegisterServer
+DllUnregisterServer
+HrGetPnpDeviceStatus
+HrLanConnectionNameFromGuidOrPath
+HrPnpInstanceIdFromGuid
+HrQueryLanMediaState
+HrRasConnectionNameFromGuid
+NetManDiagFromCommandArgs
+ProcessQueue
+RasEventNotify
+ServiceMain

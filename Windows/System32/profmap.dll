@@ -1,0 +1,6 @@
+DllMain
+InitializeProfileMappingApi
+RemapAndMoveUserA
+RemapAndMoveUserW
+RemapUserProfileA
+RemapUserProfileW

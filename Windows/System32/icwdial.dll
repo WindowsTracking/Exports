@@ -1,0 +1,7 @@
+AutoDialHandler
+AutoDialInit
+DialingDownloadDialog
+DialingErrorDialog
+DllEntryPoint
+ICWGetRasEntry
+RasSetEntryPropertiesScriptPatch

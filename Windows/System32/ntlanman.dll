@@ -1,8 +1,11 @@
 DllMain
 I_SystemFocusDialog
+IsDfsPathEx
 NPAddConnection
 NPAddConnection3
+NPAddConnection3ForCSCAgent
 NPCancelConnection
+NPCancelConnectionForCSCAgent
 NPCloseEnum
 NPDirectoryNotify
 NPEnumResource

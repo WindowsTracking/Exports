@@ -1,0 +1,4 @@
+DllMain
+InternetDeInitializeAutoProxyDll
+InternetGetProxyInfo
+InternetInitializeAutoProxyDll

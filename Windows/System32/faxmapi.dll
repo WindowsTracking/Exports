@@ -1,0 +1,6 @@
+AddNewMapiProfile
+FaxMapiInitialize
+GetMapiProfiles
+GetProfileName
+MailMapiMessage
+StoreMapiMessage

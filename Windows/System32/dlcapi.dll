@@ -1,3 +1,5 @@
 AcsLan
 DlcCallDriver
+GetAdapterNameFromNumber
+GetAdapterNumberFromName
 NtAcsLan

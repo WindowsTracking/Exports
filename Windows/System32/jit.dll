@@ -1,0 +1,9 @@
+compileMethod2native
+EnumerateGcRefs
+FilterException
+FixHandlerContext
+GetSecurityObject
+InitCallbacks
+IsMethodGcSafe
+IsMethodGcSafe2
+UnwindStackFrame

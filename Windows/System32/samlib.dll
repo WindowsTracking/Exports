@@ -5,6 +5,7 @@ SamChangePasswordUser
 SamChangePasswordUser2
 SamCloseHandle
 SamConnect
+SamConnectWithCreds
 SamCreateAliasInDomain
 SamCreateGroupInDomain
 SamCreateUser2InDomain
@@ -25,8 +26,10 @@ SamGetMembersInGroup
 SamiChangePasswordUser
 SamiChangePasswordUser2
 SamiEncryptPasswords
+SamiGetBootKeyInformation
 SamiLmChangePasswordUser
 SamiOemChangePasswordUser2
+SamiSetBootKeyInformation
 SamLookupDomainInSamServer
 SamLookupIdsInDomain
 SamLookupNamesInDomain

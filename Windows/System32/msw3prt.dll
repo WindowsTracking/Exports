@@ -1,0 +1,3 @@
+DllMain
+GetExtensionVersion
+HttpExtensionProc

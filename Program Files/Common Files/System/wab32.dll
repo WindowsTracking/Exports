@@ -1,0 +1,5 @@
+DllRegisterServer
+DllUnregisterServer
+WABCreateIProp
+WABOpen
+WABOpenEx
