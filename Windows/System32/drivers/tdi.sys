@@ -13,6 +13,9 @@ TdiBuildNetbiosAddress
 TdiBuildNetbiosAddressEa
 TdiCopyBufferToMdl
 TdiCopyMdlToBuffer
+TdiDefaultChainedRcvDatagramHandler
+TdiDefaultChainedRcvExpeditedHandler
+TdiDefaultChainedReceiveHandler
 TdiDefaultConnectHandler
 TdiDefaultDisconnectHandler
 TdiDefaultErrorHandler
@@ -20,7 +23,17 @@ TdiDefaultRcvDatagramHandler
 TdiDefaultRcvExpeditedHandler
 TdiDefaultReceiveHandler
 TdiDefaultSendPossibleHandler
+TdiDeregisterAddressChangeHandler
+TdiDeregisterDeviceObject
+TdiDeregisterNetAddress
+TdiDeregisterNotificationHandler
+TdiInitialize
 TdiMapBuffer
 TdiMapUserRequest
 TdiOpenNetbiosAddress
+TdiRegisterAddressChangeHandler
+TdiRegisterDeviceObject
+TdiRegisterNetAddress
+TdiRegisterNotificationHandler
+TdiReturnChainedReceives
 TdiUnmapBuffer

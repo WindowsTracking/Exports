@@ -1,11 +1,13 @@
 __WSAFDIsSet
 accept
+AcceptEx
 bind
 closesocket
 connect
 dn_expand
 EnumProtocolsA
 EnumProtocolsW
+GetAcceptExSockaddrs
 GetAddressByNameA
 GetAddressByNameW
 gethostbyaddr
@@ -32,6 +34,7 @@ inet_network
 inet_ntoa
 ioctlsocket
 listen
+MigrateWinsockConfiguration
 NPLoadNameSpaces
 ntohl
 ntohs

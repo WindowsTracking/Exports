@@ -1,0 +1,8 @@
+MAPIAdminProfiles
+MAPIAllocateBuffer
+MAPIAllocateMore
+MAPIFreeBuffer
+MAPIInitialize
+MAPILogon
+MAPILogonA
+MAPIUninitialize

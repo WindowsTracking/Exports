@@ -5,8 +5,10 @@ ShowReconnectDialog
 WNetBrowseDialog
 WNetBrowsePrinterDialog
 WNetClearConnections
+WNetConnectionDialog1A
+WNetConnectionDialog1W
 WNetConnectionDialog2
+WNetDisconnectDialog1A
+WNetDisconnectDialog1W
 WNetDisconnectDialog2
-WNetFormatNetworkNameA
-WNetFormatNetworkNameW
-WNetRestoreConnection
+WNetRestoreConnectionW

@@ -432,6 +432,8 @@
 ?vNext@RITER_DL@@UAEPAXXZ
 ?WriteToBuffer@STRLIST@@QAEHPAGH0@Z
 InitCompareParam
+NETUI_InitIsDBCS
+NETUI_IsDBCS
 NETUI_strcmp
 NETUI_stricmp
 NETUI_strncmp

@@ -20,4 +20,5 @@ NalStationQuery
 NalStopNetworkCapture
 NalTransmitComplete
 NalTransmitFrame
+NalTransmitSpecialFrame
 NalTriggerComplete

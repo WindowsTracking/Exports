@@ -10,7 +10,8 @@ BeginDeferWindowPos
 BeginPaint
 BringWindowToTop
 BroadcastSystemMessage
-CalcChildScroll
+BroadcastSystemMessageA
+BroadcastSystemMessageW
 CallMsgFilter
 CallMsgFilterA
 CallMsgFilterW
@@ -21,6 +22,8 @@ CascadeChildWindows
 CascadeWindows
 ChangeClipboardChain
 ChangeDisplaySettingsA
+ChangeDisplaySettingsExA
+ChangeDisplaySettingsExW
 ChangeDisplaySettingsW
 ChangeMenuA
 ChangeMenuW
@@ -48,7 +51,7 @@ CheckMenuRadioItem
 CheckRadioButton
 ChildWindowFromPoint
 ChildWindowFromPointEx
-ClientThreadConnect
+ClientThreadSetup
 ClientToScreen
 ClipCursor
 CloseClipboard
@@ -127,6 +130,7 @@ DefMDIChildProcW
 DefWindowProcA
 DefWindowProcW
 DeleteMenu
+DeregisterShellHookWindow
 DestroyAcceleratorTable
 DestroyCaret
 DestroyCursor
@@ -152,6 +156,8 @@ DragDetect
 DragObject
 DrawAnimatedRects
 DrawCaption
+DrawCaptionTempA
+DrawCaptionTempW
 DrawEdge
 DrawFocusRect
 DrawFrame
@@ -159,6 +165,7 @@ DrawFrameControl
 DrawIcon
 DrawIconEx
 DrawMenuBar
+DrawMenuBarTemp
 DrawStateA
 DrawStateW
 DrawTextA
@@ -203,6 +210,7 @@ FindWindowW
 FlashWindow
 FrameRect
 FreeDDElParam
+FullScreenControl
 GetActiveWindow
 GetAppCompatFlags
 GetAsyncKeyState
@@ -278,6 +286,7 @@ GetOpenClipboardWindow
 GetParent
 GetPriorityClipboardFormat
 GetProcessWindowStation
+GetProgmanWindow
 GetPropA
 GetPropW
 GetQueueStatus
@@ -292,6 +301,7 @@ GetSystemMenu
 GetSystemMetrics
 GetTabbedTextExtentA
 GetTabbedTextExtentW
+GetTaskmanWindow
 GetThreadDesktop
 GetTopWindow
 GetUpdateRect
@@ -343,6 +353,7 @@ IsDialogMessage
 IsDialogMessageA
 IsDialogMessageW
 IsDlgButtonChecked
+IsHungAppWindow
 IsIconic
 IsMenu
 IsRectEmpty
@@ -367,6 +378,7 @@ LoadIconW
 LoadImageA
 LoadImageW
 LoadKeyboardLayoutA
+LoadKeyboardLayoutEx
 LoadKeyboardLayoutW
 LoadLocalFonts
 LoadMenuA
@@ -386,6 +398,7 @@ MapVirtualKeyExA
 MapVirtualKeyExW
 MapVirtualKeyW
 MapWindowPoints
+MB_GetString
 MBToWCSEx
 MenuItemFromPoint
 MenuWindowProcA
@@ -402,6 +415,7 @@ ModifyMenuW
 mouse_event
 MoveWindow
 MsgWaitForMultipleObjects
+MsgWaitForMultipleObjectsEx
 OemKeyScan
 OemToCharA
 OemToCharBuffA
@@ -424,6 +438,11 @@ PostMessageW
 PostQuitMessage
 PostThreadMessageA
 PostThreadMessageW
+PrivateExtractIconExA
+PrivateExtractIconExW
+PrivateExtractIconsA
+PrivateExtractIconsW
+PrivateKDBreakPoint
 PtInRect
 QuerySendMessage
 RedrawWindow
@@ -436,6 +455,7 @@ RegisterClipboardFormatW
 RegisterHotKey
 RegisterLogonProcess
 RegisterServicesProcess
+RegisterShellHookWindow
 RegisterSystemThread
 RegisterTasklist
 RegisterWindowMessageA
@@ -462,7 +482,6 @@ SendMessageTimeoutW
 SendMessageW
 SendNotifyMessageA
 SendNotifyMessageW
-ServerSetFunctionPointers
 SetActiveWindow
 SetCapture
 SetCaretBlinkTime
@@ -472,6 +491,7 @@ SetClassLongW
 SetClassWord
 SetClipboardData
 SetClipboardViewer
+SetConsoleReserveKeys
 SetCursor
 SetCursorContents
 SetCursorPos
@@ -497,6 +517,7 @@ SetMessageExtraInfo
 SetMessageQueue
 SetParent
 SetProcessWindowStation
+SetProgmanWindow
 SetPropA
 SetPropW
 SetRect
@@ -505,17 +526,19 @@ SetScrollInfo
 SetScrollPos
 SetScrollRange
 SetShellWindow
+SetShellWindowEx
 SetSysColors
+SetSysColorsTemp
 SetSystemCursor
 SetSystemMenu
 SetSystemTimer
+SetTaskmanWindow
 SetThreadDesktop
 SetTimer
 SetUserObjectInformationA
 SetUserObjectInformationW
 SetUserObjectSecurity
 SetWindowContextHelpId
-SetWindowFullScreenState
 SetWindowLongA
 SetWindowLongW
 SetWindowPlacement
@@ -536,6 +559,7 @@ ShowScrollBar
 ShowStartGlass
 ShowWindow
 ShowWindowAsync
+SoftModalMessageBox
 SubtractRect
 SwapMouseButton
 SwitchDesktop
@@ -550,6 +574,7 @@ ToAscii
 ToAsciiEx
 ToUnicode
 ToUnicodeEx
+TrackMouseEvent
 TrackPopupMenu
 TrackPopupMenuEx
 TranslateAccelerator
@@ -557,6 +582,7 @@ TranslateAcceleratorA
 TranslateAcceleratorW
 TranslateMDISysAccel
 TranslateMessage
+TranslateMessageEx
 UnhookWindowsHook
 UnhookWindowsHookEx
 UnionRect
@@ -579,6 +605,7 @@ VkKeyScanExW
 VkKeyScanW
 WaitForInputIdle
 WaitMessage
+WCSToMBEx
 WindowFromDC
 WindowFromPoint
 WinHelpA

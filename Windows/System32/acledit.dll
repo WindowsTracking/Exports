@@ -1,5 +1,8 @@
+DllMain
+EditAuditInfo
+EditOwnerInfo
+EditPermissionInfo
 FMExtensionProcW
 SedDiscretionaryAclEditor
 SedSystemAclEditor
 SedTakeOwnership
-Win32LibMain

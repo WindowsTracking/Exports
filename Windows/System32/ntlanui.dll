@@ -1,3 +1,6 @@
+DllMain
+GetUIErrorString
+I_GetCredentials
 I_SystemFocusDialog
 NPGetPropertyText
 NPPropertyDialog
@@ -7,4 +10,3 @@ ShareCreate
 ShareManage
 ShareStop
 StopShareDialogA0
-Win32LibMain

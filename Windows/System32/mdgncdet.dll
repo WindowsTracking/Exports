@@ -1,0 +1,11 @@
+NcDetectCloseHandle
+NcDetectCreateHandle
+NcDetectFirstNext
+NcDetectIdentify
+NcDetectInitialInit
+NcDetectOpenHandle
+NcDetectParamRange
+NcDetectQueryCfg
+NcDetectQueryMask
+NcDetectQueryParameterName
+NcDetectVerifyCfg

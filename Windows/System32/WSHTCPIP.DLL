@@ -1,8 +1,16 @@
+WSHAddressToString
 WSHEnumProtocols
+WSHGetBroadcastSockaddr
+WSHGetProviderGuid
 WSHGetSockaddrType
 WSHGetSocketInformation
 WSHGetWildcardSockaddr
 WSHGetWinsockMapping
+WSHGetWSAProtocolInfo
+WSHIoctl
+WSHJoinLeaf
 WSHNotify
 WSHOpenSocket
+WSHOpenSocket2
 WSHSetSocketInformation
+WSHStringToAddress

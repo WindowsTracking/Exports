@@ -12,6 +12,7 @@ AddPortExW
 AddPortW
 AddPrinterA
 AddPrinterConnectionA
+AddPrinterConnectionUI
 AddPrinterConnectionW
 AddPrinterDriverA
 AddPrinterDriverW
@@ -28,6 +29,8 @@ ClosePrinter
 ConfigurePortA
 ConfigurePortW
 ConnectToPrinterDlg
+ConvertAnsiDevModeToUnicodeDevmode
+ConvertUnicodeDevModeToAnsiDevmode
 CreatePrinterIC
 DeleteFormA
 DeleteFormW
@@ -38,6 +41,8 @@ DeletePortW
 DeletePrinter
 DeletePrinterConnectionA
 DeletePrinterConnectionW
+DeletePrinterDataA
+DeletePrinterDataW
 DeletePrinterDriverA
 DeletePrinterDriverW
 DeletePrinterIC
@@ -51,10 +56,13 @@ DeviceCapabilitiesA
 DeviceCapabilitiesW
 DEVICEMODE
 DeviceMode
+DevicePropertySheets
 DevQueryPrint
+DevQueryPrintEx
 DocumentEvent
 DocumentPropertiesA
 DocumentPropertiesW
+DocumentPropertySheets
 EndDocPrinter
 EndPagePrinter
 EnumFormsA
@@ -65,6 +73,8 @@ EnumMonitorsA
 EnumMonitorsW
 EnumPortsA
 EnumPortsW
+EnumPrinterDataA
+EnumPrinterDataW
 EnumPrinterDriversA
 EnumPrinterDriversW
 EnumPrintersA
@@ -100,6 +110,8 @@ PlayGdiScriptOnPrinterIC
 PrinterMessageBoxA
 PrinterMessageBoxW
 PrinterProperties
+QueryRemoteFonts
+QuerySpoolMode
 ReadPrinter
 ResetPrinterA
 ResetPrinterW
@@ -109,12 +121,15 @@ SetFormA
 SetFormW
 SetJobA
 SetJobW
+SetPortA
+SetPortW
 SetPrinterA
 SetPrinterDataA
 SetPrinterDataW
 SetPrinterW
 SpoolerDevQueryPrintW
 SpoolerInit
+SpoolerPrinterEvent
 StartDocDlgA
 StartDocDlgW
 StartDocPrinterA

@@ -1,9 +1,11 @@
 VideoPortCompareMemory
+VideoPortDebugPrint
 VideoPortDisableInterrupt
 VideoPortEnableInterrupt
 VideoPortFreeDeviceBase
 VideoPortGetAccessRanges
 VideoPortGetBusData
+VideoPortGetCurrentIrql
 VideoPortGetDeviceBase
 VideoPortGetDeviceData
 VideoPortGetRegistryParameters

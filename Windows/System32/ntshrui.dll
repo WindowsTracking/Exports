@@ -1,0 +1,14 @@
+DllCanUnloadNow
+DllGetClassObject
+GetLocalPathFromNetResource
+GetLocalPathFromNetResourceA
+GetLocalPathFromNetResourceW
+GetNetResourceFromLocalPath
+GetNetResourceFromLocalPathA
+GetNetResourceFromLocalPathW
+IsPathShared
+IsPathSharedA
+IsPathSharedW
+SharingDialog
+SharingDialogA
+SharingDialogW

@@ -8,5 +8,7 @@ WlxLoggedOnSAS
 WlxLoggedOutSAS
 WlxLogoff
 WlxNegotiate
+WlxScreenSaverNotify
 WlxShutdown
+WlxStartApplication
 WlxWkstaLockedSAS

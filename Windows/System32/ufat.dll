@@ -28,6 +28,7 @@
 ?IsValidCreationTime@FAT_DIRENT@@QBEEXZ
 ?IsValidLastAccessTime@FAT_DIRENT@@QBEEXZ
 ?IsValidLastWriteTime@FAT_DIRENT@@QBEEXZ
+?QueryAllocatedClusters@FAT@@QBEGXZ
 ?QueryCensusAndRelocate@FAT_SA@@QAEEPAU_CENSUS_REPORT@@PAVINTSTACK@@PAE@Z
 ?QueryCreationTime@FAT_DIRENT@@QBEEPAT_LARGE_INTEGER@@@Z
 ?QueryEaSetClusterNumber@EA_HEADER@@QBEGG@Z

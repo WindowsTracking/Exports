@@ -29,6 +29,7 @@ fileno
 fork
 fpathconf
 fstat
+ftruncate
 getcwd
 getegid
 getenv
@@ -44,12 +45,14 @@ getppid
 GetProcessHeap
 getpwnam
 getpwuid
+getreg
 getuid
 HeapAlloc
 HeapFree
 HeapReAlloc
 HeapSize
 isatty
+isatty2
 kill
 link
 lseek

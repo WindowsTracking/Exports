@@ -1,5 +1,7 @@
+DllMain
 I_SystemFocusDialog
 NPAddConnection
+NPAddConnection3
 NPCancelConnection
 NPCloseEnum
 NPDirectoryNotify
@@ -7,8 +9,13 @@ NPEnumResource
 NPFormatNetworkName
 NPGetCaps
 NPGetConnection
+NPGetConnection3
+NPGetConnectionPerformance
 NPGetDirectoryType
 NPGetPropertyText
+NPGetReconnectFlags
+NPGetResourceInformation
+NPGetResourceParent
 NPGetUniversalName
 NPGetUser
 NPOpenEnum
@@ -19,4 +26,3 @@ ShareCreate
 ShareManage
 ShareStop
 StopShareDialogA0
-Win32LibMain

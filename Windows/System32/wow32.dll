@@ -1,3 +1,5 @@
+CopyDropFilesFrom16
+CopyDropFilesFrom32
 GetCommHandle
 GetCommShadowMSR
 W32Dispatch

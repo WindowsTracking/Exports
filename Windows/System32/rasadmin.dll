@@ -1,1 +1,5 @@
+GetHardwareCondition
+GetLineCondition
+GetLineSpeed
+GetSecondsSince1970
 StartAdminThread

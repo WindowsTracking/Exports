@@ -1,0 +1,8 @@
+DllCanUnloadNow
+DllGetClassObject
+InitInstance
+MessageLoop
+sessQuerySysFileHdl
+sessQueryTranslateHdl
+sfGetSessionItem
+sfPutSessionItem

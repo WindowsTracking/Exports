@@ -52,6 +52,7 @@ HalSetWatchDogPeriod
 HalStartNextProcessor
 HalStartProfileInterrupt
 HalStopProfileInterrupt
+HalSystemVectorDispatchEntry
 HalTranslateBusAddress
 IoAssignDriveLetters
 IoFlushAdapterBuffers
@@ -69,11 +70,14 @@ KdPortPutByte
 KdPortRestore
 KdPortSave
 KeAcquireSpinLock
+KeAcquireSpinLockRaiseToSynch
 KeFlushWriteBuffer
 KeGetCurrentIrql
 KeLowerIrql
 KeQueryPerformanceCounter
 KeRaiseIrql
+KeRaiseIrqlToDpcLevel
+KeRaiseIrqlToSynchLevel
 KeReleaseSpinLock
 KeStallExecutionProcessor
 KfAcquireSpinLock

@@ -1,3 +1,4 @@
+BlockWOWIdle
 call_ica_hw_interrupt
 cpu_createthread
 CurrentMonitorTeb
@@ -54,7 +55,6 @@ getSI
 getSP
 getSS
 GetWOWShortCutInfo
-GetWOWTaskId
 getZF
 host_com_close
 host_CreateThread

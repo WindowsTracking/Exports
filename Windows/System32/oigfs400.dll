@@ -1,0 +1,15 @@
+CopyStorage
+DllMain
+gfsclose
+gfscreat
+gfsdelpgs
+gfsgeti
+gfsgtdata
+gfsopen
+gfsopts
+gfsputi
+gfsread
+gfswrite
+gfsxtrct
+IsAWDFile
+IsStorage

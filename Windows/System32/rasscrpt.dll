@@ -1,0 +1,8 @@
+DLLMAIN
+RasScriptExecute
+RasScriptGetEventCode
+RasScriptGetIpAddress
+RasScriptInit
+RasScriptReceive
+RasScriptSend
+RasScriptTerm

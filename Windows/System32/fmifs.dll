@@ -1,6 +1,9 @@
 Chkdsk
 DiskCopy
+EnableVolumeCompression
+Extend
 Format
+FormatEx
 InitializeFmIfs
 QuerySupportedMedia
 SetLabel

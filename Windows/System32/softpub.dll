@@ -1,0 +1,6 @@
+AddPersonalTrustDBPages
+DllRegisterServer
+FindCertsByIssuer
+OpenPersonalTrustDBDialog
+WinTrustProviderClientInitialize
+WinVerifyTrust

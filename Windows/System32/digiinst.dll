@@ -1,5 +1,6 @@
 DigiEntry
 DLLInitPoint
+DoesControllerExist
 IsdnAddProc
 IsdnConfigProc
 LineOptionDlgProc

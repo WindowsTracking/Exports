@@ -1,8 +1,10 @@
 DeviceConnect
 DeviceDone
 DeviceEnum
+DeviceGetDevConfig
 DeviceGetInfo
 DeviceListen
+DeviceSetDevConfig
 DeviceSetInfo
 DeviceWork
 InitRasTapi
@@ -14,6 +16,7 @@ PortConnect
 PortDisconnect
 PortEnum
 PortGetInfo
+PortGetIOHandle
 PortGetPortState
 PortGetStatistics
 PortInit

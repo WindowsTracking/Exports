@@ -1,3 +1,9 @@
+DeleteEisaKey
+DeleteMcaKey
+GetEisaCompressedId
+GetEisaKey
+GetMcaKey
+GetMcaPosId
 NcDetectCloseHandle
 NcDetectCreateHandle
 NcDetectFirstNext

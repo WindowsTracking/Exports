@@ -1,6 +1,7 @@
 DetectCheckMemoryUsage
 DetectCheckPortUsage
 DetectClaimResource
+DetectFreeSpecificTemporaryResource
 DetectFreeTemporaryResources
 DetectInitialInit
 DetectQueryInterruptTrap

@@ -7,9 +7,13 @@ CPlGetIPAddress
 CPlSnmp
 CPlTcpip
 DelFiles
+DNSChangeHostName
+DNSValidateHostName
 FreeTcpipInfo
 LoadTcpipInfo
 SaveTcpipInfo
+TcpBootRelayCfgCheck
 TcpCfgCheck
-TcpipOptionDialog
+TcpCheckAdaptersForDHCP
+TcpEnableRipSilentMode
 UpgradeTcpip

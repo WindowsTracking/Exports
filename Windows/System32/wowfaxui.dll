@@ -1,8 +1,10 @@
-DevQueryPrint
+DevQueryPrintEx
 DllInitProc
 DrvAdvancedDocumentProperties
 DrvDeviceCapabilities
+DrvDevicePropertySheets
 DrvDocumentEvent
 DrvDocumentProperties
+DrvDocumentPropertySheets
 DrvUpgradePrinter
 PrinterProperties

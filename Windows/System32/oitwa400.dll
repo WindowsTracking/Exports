@@ -1,0 +1,16 @@
+IMGTwainCloseDS
+IMGTwainCloseDSM
+IMGTwainDisableDS
+IMGTwainEnableDS
+IMGTwainExecTriplet
+IMGTwainGetCap
+IMGTwainGetCaps
+IMGTwainGetDSNames
+IMGTwainLayout
+IMGTwainOpenDS
+IMGTwainOpenDSM
+IMGTwainProcessDCMessage
+IMGTwainSelectDS
+IMGTwainSetCap
+IMGTwainSetCaps
+IMGTwaintoOiControl

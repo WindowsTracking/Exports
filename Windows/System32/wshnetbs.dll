@@ -1,4 +1,5 @@
 WSHEnumProtocols
+WSHGetProviderGuid
 WSHGetSockaddrType
 WSHGetSocketInformation
 WSHGetWildcardSockaddr

@@ -1,8 +1,13 @@
 HelperActivateIP
+HelperActivateIPEx
 HelperAllocateIPAddress
 HelperDeallocateIPAddress
+HelperDeallocateIPAddressEx
+HelperQueryServerAddresses
 HelperResetDefaultInterfaceNet
+HelperResetDefaultInterfaceNetEx
 HelperSetDefaultInterfaceNet
+HelperSetDefaultInterfaceNetEx
 RasDhcpAcquireAddress
 RasDhcpInitialize
 RasDhcpReleaseAddress

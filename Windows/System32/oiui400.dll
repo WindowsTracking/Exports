@@ -1,0 +1,15 @@
+AttrImageStampEditProc
+AttrLineDlgProc
+AttrNoteDlgProc
+AttrRectDlgProc
+AttrStampDlgProc
+AttrTextStampEditProc
+ChooseColorDlgProc
+ChooseFontDlgProc
+CustClrPalUserCtlProc
+OiUIAttribDlgBox
+OiUIFileGetNameCommDlg
+OiUIFileOpenDlgProc
+OiUIFilePrintDlgProc
+OiUIFileSaveAsDlgProc
+OiUIStampAttribDlgBox

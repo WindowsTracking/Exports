@@ -1,8 +1,0 @@
-DevQueryPrint
-DllInitialize
-DrvAdvancedDocumentProperties
-DrvCleanup
-DrvDeviceCapabilities
-DrvDocumentProperties
-DrvUpgradePrinter
-PrinterProperties

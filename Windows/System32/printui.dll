@@ -1,0 +1,11 @@
+bFolderEnumPrinters
+bFolderGetPrinter
+bFolderRefresh
+bPrinterSetup
+DllMain
+hFolderRegister
+vDocumentDefaults
+vFolderUnregister
+vPrinterPropPages
+vQueueCreate
+vServerPropPages

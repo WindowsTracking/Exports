@@ -5,6 +5,7 @@ DeletePortW
 DllEntryPoint
 EndDocPort
 EnumPortsW
+EventHelp
 InitializeMonitor
 OpenPort
 ReadPort

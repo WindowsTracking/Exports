@@ -54,9 +54,16 @@
 #366
 #367
 #368
+#369
 #372
 #373
 #374
+#375
+#376
+#377
+#382
+#383
+#384
 #400
 #401
 #402
@@ -65,6 +72,7 @@
 #72
 #73
 #74
+_TrackMouseEvent
 CreateMappedBitmap
 CreatePropertySheetPage
 CreatePropertySheetPageA
@@ -76,6 +84,7 @@ CreateToolbar
 CreateToolbarEx
 CreateUpDownControl
 DestroyPropertySheetPage
+DllGetVersion
 DrawInsert
 DrawStatusText
 DrawStatusTextA
@@ -85,6 +94,7 @@ ImageList_Add
 ImageList_AddIcon
 ImageList_AddMasked
 ImageList_BeginDrag
+ImageList_Copy
 ImageList_Create
 ImageList_Destroy
 ImageList_DragEnter
@@ -111,10 +121,13 @@ ImageList_Replace
 ImageList_ReplaceIcon
 ImageList_SetBkColor
 ImageList_SetDragCursorImage
+ImageList_SetFilter
 ImageList_SetIconSize
+ImageList_SetImageCount
 ImageList_SetOverlayImage
 ImageList_Write
 InitCommonControls
+InitCommonControlsEx
 LBItemFromPt
 MakeDragList
 MenuHelp

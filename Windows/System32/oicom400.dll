@@ -1,0 +1,11 @@
+GetCmpDataWiis
+GetUncmpDataWiis
+IMGFreeTaskData
+IMGGetTaskData
+OICompress
+OICompressJpegCleanUp
+OICompressJpegInfo
+OIExpand
+OIExpandJpegCleanUp
+PutCmpDataWiis
+PutUncmpDataWiis

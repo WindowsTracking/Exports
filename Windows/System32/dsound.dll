@@ -1,0 +1,5 @@
+DirectSoundCreate
+DirectSoundEnumerateA
+DirectSoundEnumerateW
+DllCanUnloadNow
+DllGetClassObject

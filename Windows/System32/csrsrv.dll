@@ -1,6 +1,5 @@
 CsrAddStaticServerThread
 CsrCallServerFromServer
-CsrClientCallback
 CsrComputePriorityClass
 CsrConnectToUser
 CsrCreateProcess
@@ -8,7 +7,6 @@ CsrCreateRemoteThread
 CsrCreateThread
 CsrCreateWait
 CsrDebugProcess
-CsrDelayedThreadCleanup
 CsrDereferenceProcess
 CsrDereferenceThread
 CsrDereferenceWait
@@ -22,17 +20,14 @@ CsrLocateThreadInProcess
 CsrLockProcessByClientId
 CsrLockThreadByClientId
 CsrNotifyWait
-CsrpInitializeDlls
-CsrpProcessApiRequest
+CsrQueryApiPort
 CsrReferenceThread
-CsrRegisterCleanupEvent
 CsrRevertToSelf
 CsrServerInitialization
 CsrSetBackgroundPriority
 CsrSetCallingSpooler
 CsrSetForegroundPriority
-CsrSetLastQlpcError
-CsrSetQuickThreadCreateRoutine
 CsrShutdownProcesses
+CsrUnhandledExceptionFilter
 CsrUnlockProcess
 CsrUnlockThread

@@ -1,0 +1,14 @@
+CPlApplet
+DllCanUnloadNow
+DllGetClassObject
+DllInitialize
+MediaClassInstaller
+mmseRunOnce
+mmseRunOnceA
+mmseRunOnceW
+RunOnceSchemeInit
+ShowAudioPropertySheet
+ShowDriverSettingsAfterFork
+ShowDriverSettingsAfterForkA
+ShowDriverSettingsAfterForkW
+ShowMMCPLPropertySheet

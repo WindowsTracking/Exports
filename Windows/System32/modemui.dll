@@ -1,0 +1,8 @@
+drvCommConfigDialogA
+drvCommConfigDialogW
+drvGetDefaultCommConfigA
+drvGetDefaultCommConfigW
+drvSetDefaultCommConfigA
+drvSetDefaultCommConfigW
+Mdm_CommConfigDialog
+UnimodemGetDefaultCommConfig

@@ -32,3 +32,4 @@ StartCapturing
 StationQuery
 StopCapturing
 TransmitQueue
+TransmitSpecialFrame

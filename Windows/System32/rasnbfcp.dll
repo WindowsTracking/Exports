@@ -9,6 +9,5 @@ NbfCpMakeConfigRequest
 NbfCpMakeConfigResult
 NbfCpReset
 NbfCpThisLayerUp
-NbfCpTimeSinceLastActivity
 RasCpEnumProtocolIds
 RasCpGetInfo

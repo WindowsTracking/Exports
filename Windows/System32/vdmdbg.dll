@@ -2,6 +2,7 @@ VDMBreakThread
 VDMDetectWOW
 VDMEnumProcessWOW
 VDMEnumTaskWOW
+VDMEnumTaskWOWEx
 VDMGetModuleSelector
 VDMGetPointer
 VDMGetSelectorModule
@@ -14,3 +15,5 @@ VDMModuleFirst
 VDMModuleNext
 VDMProcessException
 VDMSetThreadContext
+VDMStartTaskInWOW
+VDMTerminateTaskWOW

@@ -1,0 +1,11 @@
+WahCloseApcHelper
+WahCloseThread
+WahCreateContextTable
+WahDestroyContextTable
+WahGetContext
+WahOpenApcHelper
+WahOpenCurrentThread
+WahQueueUserApc
+WahRemoveContext
+WahRemoveContextEx
+WahSetContext

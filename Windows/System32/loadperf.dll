@@ -1,0 +1,5 @@
+DllEntryPoint
+LoadPerfCounterTextStringsA
+LoadPerfCounterTextStringsW
+UnloadPerfCounterTextStringsA
+UnloadPerfCounterTextStringsW

@@ -86,6 +86,9 @@ midiStreamPosition
 midiStreamProperty
 midiStreamRestart
 midiStreamStop
+MigrateAllDrivers
+MigrateMidiUser
+MigrateSoundEvents
 mixerClose
 mixerGetControlDetailsA
 mixerGetControlDetailsW
