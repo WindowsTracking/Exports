@@ -8,6 +8,7 @@ CsrCreateRemoteThread
 CsrCreateThread
 CsrCreateWait
 CsrDebugProcess
+CsrDelayedThreadCleanup
 CsrDereferenceProcess
 CsrDereferenceThread
 CsrDereferenceWait
@@ -23,6 +24,7 @@ CsrNotifyWait
 CsrpInitializeDlls
 CsrpProcessApiRequest
 CsrReferenceThread
+CsrRegisterCleanupEvent
 CsrRevertToSelf
 CsrServerInitialization
 CsrSetBackgroundPriority

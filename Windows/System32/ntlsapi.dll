@@ -1,0 +1,7 @@
+NtLSEnumProviders
+NtLSFreeHandle
+NtLSGetMessage
+NtLSQuery
+NtLSRelease
+NtLSRequest
+NtLSUpdate

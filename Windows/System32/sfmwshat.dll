@@ -1,0 +1,6 @@
+WSHGetSockaddrType
+WSHGetSocketInformation
+WSHGetWinsockMapping
+WSHNotify
+WSHOpenSocket
+WSHSetSocketInformation

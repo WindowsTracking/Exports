@@ -2,6 +2,8 @@ VideoPortCompareMemory
 VideoPortDisableInterrupt
 VideoPortEnableInterrupt
 VideoPortFreeDeviceBase
+VideoPortGetAccessRanges
+VideoPortGetBusData
 VideoPortGetDeviceBase
 VideoPortGetDeviceData
 VideoPortGetRegistryParameters
@@ -23,9 +25,12 @@ VideoPortReadRegisterUchar
 VideoPortReadRegisterUlong
 VideoPortReadRegisterUshort
 VideoPortScanRom
+VideoPortSetBusData
 VideoPortSetRegistryParameters
 VideoPortSetTrappedEmulatorPorts
 VideoPortStallExecution
+VideoPortStartTimer
+VideoPortStopTimer
 VideoPortSynchronizeExecution
 VideoPortUnmapMemory
 VideoPortVerifyAccessRanges
@@ -41,4 +46,5 @@ VideoPortWriteRegisterBufferUshort
 VideoPortWriteRegisterUchar
 VideoPortWriteRegisterUlong
 VideoPortWriteRegisterUshort
+VideoPortZeroDeviceMemory
 VideoPortZeroMemory

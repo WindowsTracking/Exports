@@ -1,0 +1,9 @@
+AboutDlgProc
+DevQueryPrint
+DllInitialize
+DrvAdvancedDocumentProperties
+DrvDeviceCapabilities
+DrvDocumentProperties
+iFontCallback
+PrinterProperties
+PrtPropDlgProc

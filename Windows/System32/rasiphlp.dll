@@ -1,0 +1,8 @@
+HelperActivateIP
+HelperAllocateIPAddress
+HelperDeallocateIPAddress
+HelperResetDefaultInterfaceNet
+HelperSetDefaultInterfaceNet
+RasDhcpAcquireAddress
+RasDhcpInitialize
+RasDhcpReleaseAddress

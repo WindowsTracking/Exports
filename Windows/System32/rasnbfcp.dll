@@ -1,0 +1,14 @@
+NbfCpBegin
+NbfCpConfigAckReceived
+NbfCpConfigNakReceived
+NbfCpConfigRejReceived
+NbfCpEnd
+NbfCpGetNetworkAddress
+NbfCpGetResult
+NbfCpMakeConfigRequest
+NbfCpMakeConfigResult
+NbfCpReset
+NbfCpThisLayerUp
+NbfCpTimeSinceLastActivity
+RasCpEnumProtocolIds
+RasCpGetInfo

@@ -1,0 +1,11 @@
+RasPppCallback
+RasPppChangePassword
+RasPppContinue
+RasPppGetInfo
+RasPppRetry
+RasPppSrvCallbackDone
+RasPppSrvInit
+RasPppSrvStart
+RasPppSrvStop
+RasPppStart
+RasPppStop

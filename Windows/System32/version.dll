@@ -7,4 +7,6 @@ VerFindFileW
 VerInstallFileA
 VerInstallFileW
 VerQueryValueA
+VerQueryValueIndexA
+VerQueryValueIndexW
 VerQueryValueW

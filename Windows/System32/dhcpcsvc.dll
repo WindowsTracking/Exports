@@ -1,0 +1,8 @@
+DhcpAcquireParameters
+DhcpLeaseIpAddress
+DhcpNotifyConfigChange
+DhcpQueryHWInfo
+DhcpReleaseIpAddressLease
+DhcpReleaseParameters
+DhcpRenewIpAddressLease
+ServiceEntry

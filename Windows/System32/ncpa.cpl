@@ -5,14 +5,12 @@ CPlAddMonitor
 CPlApplet
 CPlBROWSER
 CPlDeleteMonitor
-CPlFtpd
-CPlFtpdConfirmInstall
-CPlGetIPAddress
 CPlNETBIOS
 CPlSetup
 CPlSetupLanaMap
-CPlSnmp
-CPlTcpip
 EqualToXnsRoute
+GetBusTypeDialog
 RemoveRouteFromNETBIOS
 SetEnumExport
+UpgradeCardNum
+UpgradeSNA

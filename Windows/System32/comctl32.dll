@@ -1,12 +1,20 @@
 CreateHeaderWindow
+CreateHeaderWindowA
+CreateHeaderWindowW
 CreateMappedBitmap
 CreateStatusWindow
+CreateStatusWindowA
+CreateStatusWindowW
 CreateToolbar
 CreateUpDownControl
 DrawInsert
 DrawStatusText
+DrawStatusTextA
+DrawStatusTextW
 GetEffectiveClientRect
 GetPrivateProfileStruct
+GetPrivateProfileStructA
+GetPrivateProfileStructW
 HeaderWndProc
 InitCommonControls
 LBItemFromPt
@@ -19,3 +27,5 @@ TrackBarWndProc
 UpDownWndProc
 WEP
 WritePrivateProfileStruct
+WritePrivateProfileStructA
+WritePrivateProfileStructW

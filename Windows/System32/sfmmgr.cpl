@@ -1,0 +1,9 @@
+CPlApplet
+FMExtensionProcW
+SMEGetExtendedErrorStringW
+SMEInitializeMenu
+SMELoadMenuW
+SMEMenuAction
+SMERefresh
+SMEUnloadMenu
+SMEValidateW

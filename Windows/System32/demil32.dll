@@ -104,9 +104,13 @@ FillStampsFromDtr
 FIsIdleExit
 FNetUse
 FormatString1
+FormatString1W
 FormatString2
+FormatString2W
 FormatString3
+FormatString3W
 FormatString4
+FormatString4W
 FPeekIdleRoutine
 FReallocHv
 FRecentKMEvent
@@ -159,4 +163,5 @@ SzFormatHex
 SzSetMbbMessageBoxOOM
 ToLowerSz
 ToUpperSz
+TranslateSysError
 WaitTicks

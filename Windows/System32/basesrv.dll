@@ -1,2 +1,3 @@
 BaseSetProcessCreateNotify
+BaseSrvDestroyGlobalAtomTable
 ServerDllInitialization

@@ -15,6 +15,7 @@ RasfileGetLineType
 RasfileGetSectionName
 RasfileInsertLine
 RasfileLoad
+RasfileLoadInfo
 RasfilePutKeyValueFields
 RasfilePutLineMark
 RasfilePutLineText

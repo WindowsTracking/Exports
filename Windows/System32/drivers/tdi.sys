@@ -1,3 +1,14 @@
+CTEAllocateString
+CTEBlock
+CTEInitEvent
+CTEInitialize
+CTEInitString
+CTEInitTimer
+CTELogEvent
+CTEScheduleEvent
+CTESignal
+CTEStartTimer
+CTESystemUpTime
 TdiBuildNetbiosAddress
 TdiBuildNetbiosAddressEa
 TdiCopyBufferToMdl

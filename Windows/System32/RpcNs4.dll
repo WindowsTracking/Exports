@@ -1,3 +1,4 @@
+I_GetDefaultEntrySyntax
 I_RpcNsGetBuffer
 I_RpcNsRaiseException
 I_RpcNsSendReceive

@@ -9,6 +9,7 @@ NPGetCaps
 NPGetConnection
 NPGetDirectoryType
 NPGetPropertyText
+NPGetUniversalName
 NPGetUser
 NPOpenEnum
 NPPropertyDialog

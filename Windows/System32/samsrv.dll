@@ -1,6 +1,7 @@
 SamIAccountRestrictions
 SamIConnect
 SamICreateAccountByRid
+SamIEnumerateAccountRids
 SamIFree_SAMPR_ALIAS_INFO_BUFFER
 SamIFree_SAMPR_DISPLAY_INFO_BUFFER
 SamIFree_SAMPR_DOMAIN_INFO_BUFFER

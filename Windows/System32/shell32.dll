@@ -1,5 +1,6 @@
 CheckEscapesA
 CheckEscapesW
+CommandLineToArgvW
 DoEnvironmentSubstA
 DoEnvironmentSubstW
 DragAcceptFiles
@@ -17,6 +18,7 @@ ExtractIconA
 ExtractIconResInfoA
 ExtractIconResInfoW
 ExtractIconW
+ExtractVersionResource16W
 FindExecutableA
 FindExecutableW
 FindExeDlgProc
@@ -24,6 +26,8 @@ FreeIconList
 InternalExtractIconListA
 InternalExtractIconListW
 RealShellExecuteA
+RealShellExecuteExA
+RealShellExecuteExW
 RealShellExecuteW
 RegenerateUserEnvironment
 RegisterShellHook

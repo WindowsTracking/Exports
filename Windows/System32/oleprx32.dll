@@ -1,0 +1,4 @@
+DllCanUnloadNow
+DllGetClassObject
+IPersist_GetClassID_Proxy
+IPersist_GetClassID_Stub

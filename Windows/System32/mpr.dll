@@ -1,6 +1,8 @@
 RestoreConnectionA0
 WNetAddConnection2A
 WNetAddConnection2W
+WNetAddConnection3A
+WNetAddConnection3W
 WNetAddConnectionA
 WNetAddConnectionW
 WNetCancelConnection2A
@@ -17,6 +19,9 @@ WNetDisconnectDialog
 WNetDisconnectDialog2
 WNetEnumResourceA
 WNetEnumResourceW
+WNetFMXEditPerm
+WNetFMXGetPermCaps
+WNetFMXGetPermHelp
 WNetGetConnection2A
 WNetGetConnection2W
 WNetGetConnectionA
@@ -29,6 +34,8 @@ WNetGetLastErrorW
 WNetGetPropertyTextA
 WNetGetPropertyTextW
 WNetGetSearchDialog
+WNetGetUniversalNameA
+WNetGetUniversalNameW
 WNetGetUserA
 WNetGetUserW
 WNetLogonNotify

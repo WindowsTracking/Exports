@@ -1,0 +1,12 @@
+AddPortW
+ClosePort
+ConfigurePortW
+DeletePortW
+DllEntryPoint
+EndDocPort
+EnumPortsW
+InitializeMonitor
+OpenPort
+ReadPort
+StartDocPort
+WritePort

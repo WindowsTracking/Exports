@@ -6,6 +6,8 @@ AddJobW
 AddMonitorA
 AddMonitorW
 AddPortA
+AddPortExA
+AddPortExW
 AddPortW
 AddPrinterA
 AddPrinterConnectionA
@@ -48,6 +50,7 @@ DeviceCapabilitiesA
 DeviceCapabilitiesW
 DEVICEMODE
 DeviceMode
+DevQueryPrint
 DocumentPropertiesA
 DocumentPropertiesW
 EndDocPrinter
@@ -70,6 +73,9 @@ EnumPrintProcessorsA
 EnumPrintProcessorsW
 EXTDEVICEMODE
 ExtDeviceMode
+FindClosePrinterChangeNotification
+FindFirstPrinterChangeNotification
+FindNextPrinterChangeNotification
 GetFormA
 GetFormW
 GetJobA
@@ -103,6 +109,10 @@ SetPrinterA
 SetPrinterDataA
 SetPrinterDataW
 SetPrinterW
+SpoolerDevQueryPrintW
+SpoolerInit
+StartDocDlgA
+StartDocDlgW
 StartDocPrinterA
 StartDocPrinterW
 StartPagePrinter

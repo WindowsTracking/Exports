@@ -1,0 +1,10 @@
+dbginit
+serverTrapThread
+SnmpMgrClose
+SnmpMgrGetTrap
+SnmpMgrMIB2Disk
+SnmpMgrOidToStr
+SnmpMgrOpen
+SnmpMgrRequest
+SnmpMgrStrToOid
+SnmpMgrTrapListen

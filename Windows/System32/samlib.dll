@@ -5,6 +5,7 @@ SamCloseHandle
 SamConnect
 SamCreateAliasInDomain
 SamCreateGroupInDomain
+SamCreateUser2InDomain
 SamCreateUserInDomain
 SamDeleteAlias
 SamDeleteGroup

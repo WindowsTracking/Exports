@@ -1,0 +1,9 @@
+RPDConnect
+RPDDeregister
+RPDDisconnect
+RPDEnumLanas
+RPDRegisterMaster
+RPDRegisterSlave
+RPDSendAsync
+RPDTimerProc
+RPDTransceive

@@ -32,6 +32,7 @@ ExpandSz
 FindFileInstances
 GenerateSortedIndexList
 GetCountry
+GetCrashDumpSize
 GetDevicemapValue
 GetDosPathVar
 GetEisaSlotInformation
@@ -50,6 +51,7 @@ GetLanguage
 GetLoadedEnvVar
 GetMemorySize
 GetMyBusType
+GetMyBusTypeList
 GetMyComputerName
 GetMyComputerType
 GetMyKeyboardType
@@ -77,9 +79,12 @@ GetWindowsNtSysDir
 GetWindowsNtVersion
 GetWindowsPath
 InstallNetDDE
+IsUniprocessorSystem
 MakeLastKnownGood
+MigratePerfmonData
 MiscSpoolerInit
 NetNameCheck
+NtPathToDosPath
 ProcessForUNC
 RenFile
 SaveHive
@@ -91,6 +96,7 @@ SetMyComputerName
 SetNVRAMVar
 SetupAddPrinter
 SetupAddPrinterDriver
+SetupAddPrinterMonitor
 SetupChangeServiceConfig
 SetupChangeServiceStart
 SetupCreateService
@@ -100,5 +106,8 @@ ShutdownSystem
 SignalLsaEvent
 SumListItems
 TestAdmin
+ToLower
+UpdateSoundDriverSettings
+UpgradeSamDatabase
 VdmFixup
 WhiteSpaceCheck

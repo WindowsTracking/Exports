@@ -17,6 +17,7 @@ LsaIFree_LSAPR_TRUSTED_ENUM_BUFFER
 LsaIFree_LSAPR_UNICODE_STRING
 LsaIGetPrivateData
 LsaIGetSerialNumberPolicy
+LsaIGetSerialNumberPolicy2
 LsaIInitializeWellKnownSids
 LsaIOpenPolicyTrusted
 LsaIQueryInformationPolicyTrusted
