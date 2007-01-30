@@ -1,0 +1,6 @@
+AutoplayComServerW
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+PhotoAndVideoAcquireW

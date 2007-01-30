@@ -1,0 +1,9 @@
+DrvEnableDriver
+GetCentralSemaphoreObjectAddress
+GetSemaphoreHookedFlags
+GfxDebugPrint
+NeedDrvAssertMode
+NeedDrvDisableSurface
+OsAllocMem
+OsDeviceIoControl
+OsFreeMem

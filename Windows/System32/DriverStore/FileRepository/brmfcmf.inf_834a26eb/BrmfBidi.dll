@@ -1,0 +1,15 @@
+CheckFmAutoSelStat
+CheckRsmgOrgMainAlive
+CheckRsmgOverMainAlive
+CloseBidiComm
+EnableBidiCommNotification
+FlushBidiComm
+GetBidiCommDeviceEvent
+GetBidiCommEventMask
+OpenBidiComm
+PostBRSMsgToOverMain
+ReadBidiComm
+ReSetBidiCommDeviceEvent
+SetBidiCommDeviceEvent
+SetBidiCommEventMask
+WriteBidiComm

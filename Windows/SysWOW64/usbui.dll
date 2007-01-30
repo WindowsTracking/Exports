@@ -1,0 +1,8 @@
+CPlApplet
+USBControllerBandwidthPage
+USBControllerPropPageProvider
+UsbControlPanelApplet
+USBDevicePropPageProvider
+USBErrorHandler
+USBHubPowerPage
+USBHubPropPageProvider

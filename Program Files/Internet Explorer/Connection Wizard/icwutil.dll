@@ -1,8 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-RegisterServer
-UnregisterServer
-URLAppendQueryPair
-URLEncode

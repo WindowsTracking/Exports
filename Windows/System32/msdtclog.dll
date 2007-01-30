@@ -1,0 +1,6 @@
+?CreateInstance@CLogMgr@@SAJPEAPEAV1@PEAUIUnknown@@@Z
+?DllGetDTCLOG@@YAHAEBU_GUID@@0PEAPEAX@Z
+DllGetClassObject
+DllGetDTCLOG2
+DllRegisterServer
+DllUnregisterServer

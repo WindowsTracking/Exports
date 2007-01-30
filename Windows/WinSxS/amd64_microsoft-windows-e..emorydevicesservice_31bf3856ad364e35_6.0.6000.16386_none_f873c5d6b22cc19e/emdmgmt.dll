@@ -1,0 +1,13 @@
+CloseEmdPerf
+CollectEmdPerf
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+EMDMgmtGetCacheStats
+EMDMgmtLaunchEMDUIW
+EMDMgmtLaunchPropertiesW
+EMDMgmtQueryIsEMDActive
+EMDMgmtServiceMain
+EMDMgmtSysPrep
+OpenEmdPerf

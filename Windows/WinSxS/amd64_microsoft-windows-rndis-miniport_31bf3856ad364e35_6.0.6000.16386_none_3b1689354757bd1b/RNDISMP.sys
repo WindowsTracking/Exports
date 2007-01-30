@@ -1,0 +1,5 @@
+DllInitialize
+DllUnload
+RndisMIndicateReceive
+RndisMInitializeWrapper
+RndisMSendComplete

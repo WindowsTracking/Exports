@@ -1,0 +1,10 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+FRValidateSettings
+IPSecValidateLink
+ScriptsValidatePaths
+SecurityValidateSettings
+SIProcessAllPackageObjects
+SIProcessPackageObject

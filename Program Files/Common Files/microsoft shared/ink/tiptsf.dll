@@ -1,0 +1,10 @@
+AdviseHook
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+EndCaretTracking
+ProcessCaretEvents
+ProcessCiceroCaretEvent
+StartCaretTracking
+UnadviseHook

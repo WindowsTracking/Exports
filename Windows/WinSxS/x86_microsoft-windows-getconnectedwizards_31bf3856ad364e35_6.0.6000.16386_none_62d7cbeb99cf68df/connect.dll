@@ -1,0 +1,13 @@
+AddConnectionOptionListEntries
+CreateVPNConnection
+DllCanUnloadNow
+DllGetClassObject
+GetInternetConnected
+GetNetworkConnected
+GetVPNConnected
+IsInternetConnected
+IsInternetConnectedGUID
+IsUniqueConnectionName
+RegisterPageWithPage
+UnregisterPage
+UnregisterPagesLink

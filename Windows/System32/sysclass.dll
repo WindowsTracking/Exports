@@ -1,0 +1,13 @@
+ComputerClassInstaller
+CriticalDeviceCoInstaller
+DiskPropPageProvider
+HdcClassInstaller
+KeyboardClassInstaller
+LegacyDriverPropPageProvider
+MouseClassInstaller
+PS2MousePropPageProvider
+ScsiClassInstaller
+StorageCoInstaller
+TapeClassInstaller
+TapePropPageProvider
+VolumeClassInstaller

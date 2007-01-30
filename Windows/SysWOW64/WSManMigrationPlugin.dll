@@ -1,0 +1,7 @@
+??4Simulation@@QAEAAV0@ABV0@@Z
+??4WSManMemory@@QAEAAV0@ABV0@@Z
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,17 @@
+??4Simulation@@QAEAAV0@ABV0@@Z
+??4WSManMemory@@QAEAAV0@ABV0@@Z
+WinrsProvCloseReceive
+WinrsProvCloseSend
+WinrsProvCloseShell
+WinrsProvCreateShell
+WinrsProvFreeCreateShellResult
+WinrsProvFreePullResult
+WinrsProvFreeRunCommandResult
+WinrsProvPull
+WinrsProvPush
+WinrsProvReceive
+WinrsProvRunCommand
+WinrsProvSend
+WinrsProvSignal
+WSManProvShutdown
+WSManProvStartup

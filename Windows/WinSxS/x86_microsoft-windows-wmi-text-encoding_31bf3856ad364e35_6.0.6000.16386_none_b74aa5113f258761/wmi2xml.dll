@@ -1,0 +1,8 @@
+CloseWbemTextSource
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+OpenWbemTextSource
+TextToWbemObject
+WbemObjectToText

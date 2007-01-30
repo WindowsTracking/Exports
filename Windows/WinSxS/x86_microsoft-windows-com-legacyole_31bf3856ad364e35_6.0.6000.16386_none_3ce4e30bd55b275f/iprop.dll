@@ -1,0 +1,8 @@
+FmtIdToPropStgName
+FreePropVariantArray
+PropStgNameToFmtId
+PropVariantClear
+PropVariantCopy
+StgCreatePropSetStg
+StgCreatePropStg
+StgOpenPropStg

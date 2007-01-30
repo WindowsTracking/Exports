@@ -1,0 +1,4 @@
+RdrSysprepSpecialize
+WdiDiagnosticModuleMain
+WdiGetDiagnosticModuleInterfaceVersion
+WdiHandleInstance

@@ -1,0 +1,5 @@
+NciDeviceInstall
+NciGetConnectionName
+NciSetConnectionName
+OnMachineUILanguageInit
+OnMachineUILanguageSwitch

@@ -1,0 +1,14 @@
+EapHostPeerBeginSession
+EapHostPeerClearConnection
+EapHostPeerEndSession
+EapHostPeerFreeEapError
+EapHostPeerGetAuthStatus
+EapHostPeerGetResponseAttributes
+EapHostPeerGetResult
+EapHostPeerGetSendPacket
+EapHostPeerGetUIContext
+EapHostPeerInitialize
+EapHostPeerProcessReceivedPacket
+EapHostPeerSetResponseAttributes
+EapHostPeerSetUIContext
+EapHostPeerUninitialize

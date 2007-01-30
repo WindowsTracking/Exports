@@ -1,0 +1,9 @@
+GetParallelStatus
+GetSetExtBidiStat
+InitializeParallelIf
+NotifyOpenClose
+ReadParallelIf
+ResetParallelIf
+SetPortManagerActive
+TerminateParallelIf
+WriteParallelIf

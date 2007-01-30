@@ -1,0 +1,8 @@
+SisCreateBackupStructure
+SisCreateRestoreStructure
+SisCSFilesToBackupForLink
+SisFreeAllocatedMemory
+SisFreeBackupStructure
+SisFreeRestoreStructure
+SisRestoredCommonStoreFile
+SisRestoredLink

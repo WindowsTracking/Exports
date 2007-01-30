@@ -1,0 +1,16 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+QuarCreateSession
+QuarDestroySession
+QuarFreeMemory
+QuarInitialize
+QuarSessionEvaluateClientMachineHealth
+QuarSessionGetFixupServerList
+QuarSessionGetId
+QuarSessionGetMachineInventory
+QuarSessionGetShvResultList
+QuarSessionGetSoHResponse
+QuarSessionSetNewQuarantineStatus
+QuarUninitialize

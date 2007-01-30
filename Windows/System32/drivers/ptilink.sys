@@ -1,9 +1,0 @@
-PtiCleanup
-PtiInitialize
-PtiIsReadPending
-PtiPortNameFromPortId
-PtiQueryDeviceStatus
-PtiQueryMaxReadSize
-PtiRead
-PtiRegisterCallbacks
-PtiWrite

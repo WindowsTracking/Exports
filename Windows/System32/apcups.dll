@@ -1,6 +1,0 @@
-UPSCancelWait
-UPSGetState
-UPSInit
-UPSStop
-UPSTurnOff
-UPSWaitForStateChange

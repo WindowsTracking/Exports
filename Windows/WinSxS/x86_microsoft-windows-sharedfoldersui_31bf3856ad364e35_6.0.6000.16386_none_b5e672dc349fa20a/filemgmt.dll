@@ -1,0 +1,5 @@
+CacheSettingsDlg
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

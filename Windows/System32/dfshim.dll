@@ -1,0 +1,17 @@
+CleanOnlineAppCache
+CreateActContext
+CreateCMSFromXml
+DllCanUnloadNow
+DllGetClassObject
+GetCurrentActContext
+GetDeploymentDataFromManifest
+GetUserStateManager
+GetUserStore
+KillService
+ParseManifest
+ShArpMaintain
+ShArpMaintainW
+ShOpenVerbApplication
+ShOpenVerbApplicationW
+ShOpenVerbShortcut
+ShOpenVerbShortcutW

@@ -1,0 +1,4 @@
+BaseSetProcessCreateNotify
+BaseSrvNlsLogon
+BaseSrvNlsUpdateRegistryCache
+ServerDllInitialization

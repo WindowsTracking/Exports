@@ -1,0 +1,5 @@
+CreateADContainers
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

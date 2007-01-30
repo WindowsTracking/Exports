@@ -1,5 +1,4 @@
-DtcGetWebApplicationServerRole
-DtcSetWebApplicationServerRole
-OcEntry
-RunDtcSetWebApplicationServerRoleW
-SetupPrintLog
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -1,0 +1,15 @@
+AE_FREE
+AE_NEW
+AETraceOutputDebugString
+CheckAudioRedirection
+CleanupDeviceAPI
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GenerateMediaEvent
+GetClassFromEndpointId
+GetLocalIdFromEndpointId
+GetSessionIdFromEndpointId
+RegisterForMediaCallback
+UnregisterMediaCallback

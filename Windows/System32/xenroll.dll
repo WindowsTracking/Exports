@@ -1,7 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-PIEnroll2GetNoCOM
-PIEnroll4GetNoCOM
-PIEnrollGetNoCOM

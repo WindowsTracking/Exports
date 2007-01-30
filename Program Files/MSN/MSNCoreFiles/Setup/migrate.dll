@@ -1,8 +1,0 @@
-DllMain
-Initialize9x
-InitializeNT
-MigrateSystem9x
-MigrateSystemNT
-MigrateUser9x
-MigrateUserNT
-QueryVersion

@@ -1,0 +1,10 @@
+PshedAttemptErrorRecovery
+PshedBugCheckSystem
+PshedClearErrorRecord
+PshedFinalizeErrorRecord
+PshedGetAllErrorSources
+PshedGetErrorSourceInfo
+PshedInitialize
+PshedRetrieveErrorInfo
+PshedRetrieveErrorRecord
+PshedSaveErrorRecord

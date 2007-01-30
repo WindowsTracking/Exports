@@ -1,0 +1,14 @@
+CancelJob
+CloseLPR
+EndJob
+GetLongQueue
+GetShortQueue
+InitiateConnection
+LPRHelpCleanup
+LPRHelpInit
+LPRPutMsg
+OpenLPR
+PrintWaitingJobs
+SetLPRTimeouts
+StartJob
+WriteJobData

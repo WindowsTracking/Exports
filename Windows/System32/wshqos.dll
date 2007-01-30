@@ -1,6 +1,5 @@
 WSHAddressToString
 WSHEnumProtocols
-WSHGetBroadcastSockaddr
 WSHGetProviderGuid
 WSHGetSockaddrType
 WSHGetSocketInformation

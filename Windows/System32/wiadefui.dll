@@ -2,8 +2,3 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
-WiaGetErrorMessageA
-WiaGetErrorMessageW
-WiaMessageBoxId
-WiaMessageBoxStringA
-WiaMessageBoxStringW

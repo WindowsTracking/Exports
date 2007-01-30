@@ -1,0 +1,8 @@
+DllCanUnloadNow
+DllCanUnloadNowInternal
+DllGetClassObject
+DllGetClassObjectInternal
+DllRegisterServer
+DllUnregisterServer
+Initialize
+InitializeAssemblyFolder

@@ -1,0 +1,7 @@
+DllCanUnloadNow
+DllGetClassObject
+ServiceMain
+SvchostPushServiceGlobals
+WerComGetAdminStores
+WerComGetUserStores
+WerComGetWdiResolutionFiles

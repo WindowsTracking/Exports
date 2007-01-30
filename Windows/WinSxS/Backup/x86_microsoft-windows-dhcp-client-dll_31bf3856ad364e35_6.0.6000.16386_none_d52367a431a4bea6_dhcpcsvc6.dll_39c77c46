@@ -1,0 +1,10 @@
+Dhcpv6AcquireParameters
+Dhcpv6FreeLeaseInfo
+Dhcpv6IsEnabled
+Dhcpv6Main
+Dhcpv6QueryLeaseInfo
+Dhcpv6ReleaseParameters
+Dhcpv6ReleasePrefix
+Dhcpv6RenewPrefix
+Dhcpv6RequestParams
+Dhcpv6RequestPrefix

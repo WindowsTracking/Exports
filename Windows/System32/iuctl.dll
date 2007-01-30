@@ -1,9 +1,0 @@
-BeginSelfUpdate
-CtlCancelEngineLoad
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-GetControlUpdateInfo
-LoadIUEngine
-UnLoadIUEngine

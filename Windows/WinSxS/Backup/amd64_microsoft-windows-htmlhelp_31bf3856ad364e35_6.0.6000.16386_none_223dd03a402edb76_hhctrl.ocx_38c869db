@@ -1,0 +1,10 @@
+AuthorMsg
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+doWinMain
+HhWindowThread
+HtmlHelpA
+HtmlHelpW
+LoadHHA

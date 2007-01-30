@@ -1,0 +1,10 @@
+DllCanUnloadNow
+DllGetClassObject
+ProcessXMLFileA
+ProcessXMLFileW
+ResetRegistrationA
+ResetRegistrationW
+RunWizardA
+RunWizardW
+XWExportXMLFile
+XWProcessXMLFile

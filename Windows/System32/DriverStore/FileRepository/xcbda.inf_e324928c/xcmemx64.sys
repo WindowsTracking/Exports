@@ -1,0 +1,3 @@
+DllInitialize
+DllUnload
+xc_mem_init

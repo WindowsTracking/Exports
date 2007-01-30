@@ -1,0 +1,16 @@
+Dot3CloseHandle
+Dot3DeleteProfile
+Dot3EnumInterfaces
+Dot3FreeMemory
+Dot3GetCurrentProfile
+Dot3GetInterfaceState
+Dot3GetProfile
+Dot3OpenHandle
+Dot3QueryUIRequest
+Dot3ReConnect
+Dot3RegisterNotification
+Dot3SetInterface
+Dot3SetProfile
+Dot3SetProfileEapUserData
+Dot3UIResponse
+QueryNetconStatus

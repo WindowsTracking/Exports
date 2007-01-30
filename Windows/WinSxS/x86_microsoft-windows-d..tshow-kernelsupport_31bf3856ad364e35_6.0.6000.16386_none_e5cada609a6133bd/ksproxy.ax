@@ -1,0 +1,10 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+KsGetMediaType
+KsGetMediaTypeCount
+KsGetMultiplePinFactoryItems
+KsOpenDefaultDevice
+KsResolveRequiredAttributes
+KsSynchronousDeviceControl

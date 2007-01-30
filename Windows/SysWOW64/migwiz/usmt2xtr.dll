@@ -1,0 +1,14 @@
+DllMain
+UsmtAbortObjectEnum
+UsmtAbortUserEnum
+UsmtAcquireObject
+UsmtAcquireObjectWithToken
+UsmtCloseStore
+UsmtEnumFirstObject
+UsmtEnumFirstUser
+UsmtEnumNextObject
+UsmtEnumNextUser
+UsmtGetAcquireToken
+UsmtIsValidStore
+UsmtOpenStore
+UsmtReleaseObject

@@ -1,7 +1,0 @@
-DestinationModule
-DllMain
-ModuleInitialize
-ModuleTerminate
-SourceModule
-TypeModule
-VirtualComputerModule

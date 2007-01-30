@@ -1,0 +1,8 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetCatalogManager
+GetContextManager
+GetPropStoreManager
+MSSrch_SysPrep_Cleanup

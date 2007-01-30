@@ -1,7 +1,0 @@
-INTERNAL__AsyncBinaryTrace
-INTERNAL__AsyncStringTrace
-INTERNAL__DebugAssert
-INTERNAL__FlushAsyncTrace
-INTERNAL__InitAsyncTrace
-INTERNAL__SetAsyncTraceParams
-INTERNAL__TermAsyncTrace

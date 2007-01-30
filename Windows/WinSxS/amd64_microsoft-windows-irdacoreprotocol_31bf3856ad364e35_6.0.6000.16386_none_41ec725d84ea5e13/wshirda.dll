@@ -1,0 +1,11 @@
+WSHEnumProtocols
+WSHGetProviderGuid
+WSHGetSockaddrType
+WSHGetSocketInformation
+WSHGetWildcardSockaddr
+WSHGetWinsockMapping
+WSHGetWSAProtocolInfo
+WSHIoctl
+WSHNotify
+WSHOpenSocket
+WSHSetSocketInformation

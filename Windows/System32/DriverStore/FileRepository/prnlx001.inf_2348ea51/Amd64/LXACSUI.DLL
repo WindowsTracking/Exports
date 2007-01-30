@@ -1,0 +1,11 @@
+DllCanUnloadNow
+DllGetClassObject
+GetColorDataDLLPath
+GetOEMPrefix
+OEMEjectPageCmd
+OEMGetNumAlignValues
+OEMStartVendorSetup
+PopupBannerDialog
+PopupManualDialog
+PreInstall
+StartPostInstall

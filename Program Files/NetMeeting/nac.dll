@@ -1,7 +1,0 @@
-CreateMediaCapability
-CreateQoS
-CreateStreamProvider
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer

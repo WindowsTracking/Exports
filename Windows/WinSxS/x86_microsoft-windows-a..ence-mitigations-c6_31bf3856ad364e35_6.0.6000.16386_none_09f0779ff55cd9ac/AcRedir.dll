@@ -1,0 +1,9 @@
+AcRedirGetProfile
+AcRedirNotified
+AcRedirNotify
+AcRedirNotifySetEnabled
+AcRedirProfileSetEnabled
+AcRedirSetEnabled
+AcRedirSetEnabledForCurrentThread
+GetHookAPIs
+NotifyShims

@@ -1,0 +1,15 @@
+??0THREAD_POOL@@AEAA@XZ
+??1THREAD_POOL@@AEAA@XZ
+?BindIoCompletionCallback@THREAD_POOL@@QEAAHPEAXP6AXKKPEAU_OVERLAPPED@@@ZK@Z
+?CreateThreadPool@THREAD_POOL@@SAHPEAPEAV1@PEAUTHREAD_POOL_CONFIG@@@Z
+?PostCompletion@THREAD_POOL@@QEAAHKP6AXKKPEAU_OVERLAPPED@@@Z0@Z
+?SetInfo@THREAD_POOL@@QEAA_KW4THREAD_POOL_INFO@@_K@Z
+?TerminateThreadPool@THREAD_POOL@@QEAAXXZ
+DllMain
+InitializeThreadPoolConfigWithDefaults
+OverrideThreadPoolConfigWithRegistry
+ThreadPoolBindIoCompletionCallback
+ThreadPoolInitialize
+ThreadPoolPostCompletion
+ThreadPoolSetInfo
+ThreadPoolTerminate

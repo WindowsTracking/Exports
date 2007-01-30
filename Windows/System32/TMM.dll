@@ -1,0 +1,7 @@
+?TMMCleanUp@@YAXPEAX@Z
+?TMMStart@@YAKPEAX@Z
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer

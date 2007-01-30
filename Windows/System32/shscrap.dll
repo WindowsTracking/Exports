@@ -1,8 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-OpenScrap_RunDLL
-OpenScrap_RunDLLA
-OpenScrap_RunDLLW
-Scrap_CreateFromDataObject

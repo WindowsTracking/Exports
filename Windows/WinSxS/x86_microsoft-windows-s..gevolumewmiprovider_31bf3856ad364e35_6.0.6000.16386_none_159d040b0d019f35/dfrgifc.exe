@@ -1,0 +1,17 @@
+??0CDbgCallTracer@@QAE@KPBD@Z
+??0CDfrgAsyncObject@@QAE@XZ
+??1CDbgCallTracer@@QAE@XZ
+??1CDfrgAsyncObject@@QAE@XZ
+?AllowCancel@CDfrgAsyncObject@@QAEXXZ
+?Cancel@CDfrgAsyncObject@@UAGJXZ
+?DisallowCancel@CDfrgAsyncObject@@QAEXXZ
+?GetDefragReport@CDfrgAsyncObject@@UAGJPAU_DEFRAG_REPORT@@@Z
+?Initialize@CDfrgAsyncObject@@SGKXZ
+?IsCancelRequested@CDfrgAsyncObject@@QAEHXZ
+?IsFinished@CDfrgAsyncObject@@QAEHXZ
+?QueryStatus@CDfrgAsyncObject@@UAGJPAJPAK@Z
+?SetCompletionStatus@CDfrgAsyncObject@@QAEXJK@Z
+?Signal@CDfrgAsyncObject@@QAEXXZ
+?Uninitialize@CDfrgAsyncObject@@SGXXZ
+?Wait@CDfrgAsyncObject@@UAGJPAJ@Z
+?WaitImpl@CDfrgAsyncObject@@QAEJPAJ@Z

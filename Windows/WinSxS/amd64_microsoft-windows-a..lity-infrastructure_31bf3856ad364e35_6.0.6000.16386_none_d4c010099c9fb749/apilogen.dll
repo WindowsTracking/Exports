@@ -1,0 +1,6 @@
+LeInitialize
+LeTraceFunctionCall
+LeUninitialize
+LeWriteExceptionData
+LeWriteManifestData
+LeWriteProcessData

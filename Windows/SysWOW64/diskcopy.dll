@@ -1,0 +1,5 @@
+#1
+DiskCopyRunDll
+DiskCopyRunDllW
+DllCanUnloadNow
+DllGetClassObject

@@ -1,0 +1,13 @@
+CloseDevice
+DeviceOpenClose
+EnableDeviceNotification
+FlushDevice
+GetDeviceEventStatus
+GetSetExtraStatus
+OpenDevice
+PortDiagnosis
+ReadDevice
+SetDeviceEventMask
+StartPortManager
+StopPortManager
+WriteDevice

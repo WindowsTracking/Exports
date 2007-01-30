@@ -1,0 +1,14 @@
+CountryRunOnce
+drvCommConfigDialogA
+drvCommConfigDialogW
+drvGetDefaultCommConfigA
+drvGetDefaultCommConfigW
+drvSetDefaultCommConfigA
+drvSetDefaultCommConfigW
+InvokeControlPanel
+ModemCplDlgProc
+ModemPropPagesProvider
+QueryModemForCountrySettings
+UnimodemDevConfigDialog
+UnimodemGetDefaultCommConfig
+UnimodemGetExtendedCaps

@@ -1,9 +1,0 @@
-_DRMCreateBoundLicense
-_DRMCreateEnablingBitsDecryptor
-_DRMCreateEnablingBitsEncryptor
-_DRMCreateLicenseStorageSession
-_DRMDecrypt
-_DRMEncrypt
-_DRMGetInfo
-_DRMInitEnvironment
-AvalonExecute

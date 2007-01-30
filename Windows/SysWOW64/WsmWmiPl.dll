@@ -1,0 +1,10 @@
+??4Simulation@@QAEAAV0@ABV0@@Z
+??4WSManMemory@@QAEAAV0@ABV0@@Z
+WSManProvEndEnumerate
+WSManProvEnumerate
+WSManProvGet
+WSManProvInvoke
+WSManProvPullEnumerate
+WSManProvPut
+WSManProvShutdown
+WSManProvStartup

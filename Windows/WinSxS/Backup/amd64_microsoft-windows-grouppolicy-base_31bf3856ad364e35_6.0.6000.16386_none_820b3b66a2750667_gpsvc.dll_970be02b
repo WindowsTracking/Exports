@@ -1,0 +1,12 @@
+#106
+DllCanUnloadNow
+DllGetClassObject
+GenerateRsopPolicy
+GroupPolicyClientServiceMain
+ProcessGroupPolicyCompletedExInternal
+ProcessGroupPolicyCompletedInternal
+RsopAccessCheckByTypeInternal
+RsopFileAccessCheckInternal
+RsopResetPolicySettingStatusInternal
+RsopSetPolicySettingStatusInternal
+SvchostPushServiceGlobals

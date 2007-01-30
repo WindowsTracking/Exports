@@ -1,0 +1,14 @@
+??0CConsumablesStatus@@QEAA@AEBV0@@Z
+??0CGeneralPrinterStatus@@QEAA@AEBV0@@Z
+??0CTrayStatus@@QEAA@AEBV0@@Z
+??4CConsumablesStatus@@QEAAAEAV0@AEBV0@@Z
+??4CGeneralPrinterStatus@@QEAAAEAV0@AEBV0@@Z
+??4CTrayStatus@@QEAAAEAV0@AEBV0@@Z
+??_7CConsumablesStatus@@6B@
+??_7CGeneralPrinterStatus@@6B@
+??_7CTrayStatus@@6B@
+DrawColorBmp
+DrawOutputBmp
+DrawPQBmp
+DrawPrinterBmp
+InitializeDeviceCapabilities

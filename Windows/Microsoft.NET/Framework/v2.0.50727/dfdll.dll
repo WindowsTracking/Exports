@@ -1,0 +1,10 @@
+ActivateDeploymentA
+ActivateDeploymentW
+CleanOnlineAppCache
+GetDeploymentDataFromManifest
+GetEntryPointPath
+GetIconFileNameA
+GetIconFileNameW
+KillService
+ShArpMaintain
+ShArpMaintainW

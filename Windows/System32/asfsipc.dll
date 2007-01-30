@@ -1,9 +1,0 @@
-DllMain
-DllRegisterServer
-DllUnregisterServer
-IsMyTypeOfFile
-MySIPCreateIndirectData
-MySIPGetSignedDataMsg
-MySIPPutSignedDataMsg
-MySIPRemoveSignedDataMsg
-MySIPVerifyIndirectData

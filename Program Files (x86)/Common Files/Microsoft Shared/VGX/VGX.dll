@@ -1,0 +1,8 @@
+$DllMain$_gdiplus
+_MsoFFeature@8
+_MsoFSetFeature@12
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+MsoAssertSzProcVar

@@ -1,0 +1,7 @@
+MpPluginDisableOnAccess
+MpPluginEnableOnAccess
+MpPluginInitialize
+MpPluginQueryOnAccessStatus
+MpPluginReportThreadStatus
+MpPluginSetEngine
+MpPluginShutdown

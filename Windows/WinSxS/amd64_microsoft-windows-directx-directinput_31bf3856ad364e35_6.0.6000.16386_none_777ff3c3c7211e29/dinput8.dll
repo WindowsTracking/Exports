@@ -1,0 +1,5 @@
+DirectInput8Create
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

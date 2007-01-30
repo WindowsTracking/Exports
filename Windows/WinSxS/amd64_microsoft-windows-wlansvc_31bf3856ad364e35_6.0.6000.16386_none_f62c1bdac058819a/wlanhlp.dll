@@ -1,0 +1,14 @@
+QueryNetconStatus
+WlanCancelPlap
+WlanDoPlap
+WlanGenerateProfileXmlBasicSettings
+WlanGetProfileKeyInfo
+WlanIsNetworkSuppressed
+WlanIsUIRequestPending
+WlanParseProfileXmlBasicSettings
+WlanQueryCreateAllUserProfileRestricted
+WlanQueryPlapCredentials
+WlanRemoveUIForwardingNetworkList
+WlanSendUIResponse
+WlanSetAllUserProfileRestricted
+WlanSetUIForwardingNetworkList

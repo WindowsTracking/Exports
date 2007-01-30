@@ -1,0 +1,10 @@
+DllMain
+ETP_Cancel
+ETP_Close
+ETP_Open
+ETP_Read
+ETP_SplClose
+ETP_SplOpen
+ETP_SplRead
+ETP_SplWrite
+ETP_Write

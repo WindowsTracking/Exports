@@ -1,0 +1,5 @@
+?CheckSnapshotPresence@@YGEPAU_SNAPSHOT_DATA@@@Z
+?CreateVolumeSnapshot@@YGEPAGPAPAU_SNAPSHOT_DATA@@@Z
+?InitializeCOM@@YGEPAE@Z
+?ReleaseVolumeSnapshot@@YGEPAU_SNAPSHOT_DATA@@@Z
+?UninitializeCOM@@YGXXZ

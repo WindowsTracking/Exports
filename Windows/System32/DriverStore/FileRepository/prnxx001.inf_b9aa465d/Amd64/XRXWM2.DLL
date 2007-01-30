@@ -1,0 +1,9 @@
+?WmEditorDlgProc@@YA_JPEAUHWND__@@I_K_J@Z
+?XfcDefaultDlgProc@@YA_JPEAUHWND__@@I_K_J@Z
+xWmDelete
+xWmDraw
+xWmEdit
+xWmFindWatermark
+xWmGetNumOfWatermarks
+xWmGetType
+xWmNew

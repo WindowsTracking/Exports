@@ -1,0 +1,14 @@
+NPAddConnection
+NPAddConnection3
+NPCancelConnection
+NPCloseEnum
+NPEnumResource
+NPFormatNetworkName
+NPGetCaps
+NPGetConnection
+NPGetResourceInformation
+NPGetResourceParent
+NPGetUniversalName
+NPLogonNotify
+NPOpenEnum
+NPPasswordChangeNotify

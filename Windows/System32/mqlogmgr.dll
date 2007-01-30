@@ -1,6 +1,0 @@
-?CreateInstance@CLogMgr@@SGJPAPAV1@PAUIUnknown@@@Z
-?DllGetDTCLOG@@YGHABU_GUID@@0PAPAX@Z
-DllGetClassObject
-DllGetDTCLOG2
-DllRegisterServer
-DllUnregisterServer

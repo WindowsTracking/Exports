@@ -1,0 +1,6 @@
+CORPolicyEE
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetPublisher

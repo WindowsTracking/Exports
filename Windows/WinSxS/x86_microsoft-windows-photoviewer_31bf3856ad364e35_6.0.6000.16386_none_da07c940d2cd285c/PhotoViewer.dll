@@ -1,0 +1,8 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+ImageView_COMServerW
+ImageView_EditW
+ImageView_FullscreenW
+imageview_fullscreenW

@@ -1,0 +1,4 @@
+?MountMgr_Cleanup@@YAKXZ
+?MountMgr_Specialize@@YAKXZ
+DllMain
+MountMgr_Generalize

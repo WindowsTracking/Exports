@@ -1,0 +1,4 @@
+DllCanUnloadNow
+DllGetClassObjectInternal
+DllRegisterServer
+DllUnregisterServer

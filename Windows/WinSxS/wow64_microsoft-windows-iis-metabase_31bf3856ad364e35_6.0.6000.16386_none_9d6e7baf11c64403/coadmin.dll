@@ -1,0 +1,5 @@
+DllCanUnloadNow
+DllRegisterServer
+DllUnregisterServer
+InitComAdmindata
+TerminateComAdmindata

@@ -1,0 +1,6 @@
+TxfGetThreadMiniVersionForCreate
+TxfReadMetadataInfo
+TxfReadReplicationRecords
+TxfReplicationCreateReadContext
+TxfReplicationDestroyReadContext
+TxfSetThreadMiniVersionForCreate

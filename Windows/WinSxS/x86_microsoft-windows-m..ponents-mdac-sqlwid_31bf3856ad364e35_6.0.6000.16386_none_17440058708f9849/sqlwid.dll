@@ -1,0 +1,10 @@
+_hwrite_
+_lcreat_
+_lopen_
+_lwrite_
+_ttof
+GetEnvironmentStrings_
+GetProcAddress_
+OpenFile_
+strerror_
+wstrlen

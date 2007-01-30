@@ -1,0 +1,8 @@
+ATIDMM_ControllerSetConfig
+ATIDMM_ExtEscape
+ATIDMM_GetSourceID
+ATIDMM_SetDriverConfiguration
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
