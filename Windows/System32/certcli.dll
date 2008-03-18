@@ -95,6 +95,7 @@
 CAAccessCheck
 CAAccessCheckEx
 CAAddCACertificateType
+CAAddCACertificateTypeEx
 CACertTypeAccessCheck
 CACertTypeAccessCheckEx
 CACertTypeGetSecurity
@@ -112,6 +113,7 @@ CACreateCertType
 CACreateLocalAutoEnrollmentObject
 CACreateNewCA
 CADeleteCA
+CADeleteCAEx
 CADeleteCertType
 CADeleteCertTypeEx
 CADeleteLocalAutoEnrollmentObject
@@ -162,6 +164,7 @@ CAOIDGetPropertyEx
 CAOIDSetProperty
 CAOIDSetPropertyEx
 CARemoveCACertificateType
+CARemoveCACertificateTypeEx
 CASetCACertificate
 CASetCAExpiration
 CASetCAFlags
@@ -175,6 +178,7 @@ CASetCertTypeKeySpec
 CASetCertTypeProperty
 CASetCertTypePropertyEx
 CAUpdateCA
+CAUpdateCAEx
 CAUpdateCertType
 CAUpdateCertTypeEx
 DllCanUnloadNow

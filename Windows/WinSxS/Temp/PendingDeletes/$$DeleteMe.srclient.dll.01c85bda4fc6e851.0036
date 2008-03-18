@@ -1,0 +1,10 @@
+DisableSR
+DisableSRInternal
+EnableSR
+EnableSREx
+EnableSRInternal
+SetSRStateAfterSetup
+SRRemoveRestorePoint
+SRSetRestorePointA
+SRSetRestorePointInternal
+SRSetRestorePointW

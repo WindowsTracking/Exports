@@ -24,6 +24,7 @@ FwChangeSourceInitialize
 FwChangeSourceShutdown
 FwChangeSourceSignal
 FwChangeSourceSignalStart
+FWChangeTransactionalState
 FWClosePolicyStore
 FwClosePolicyStore
 FWCopyAuthenticationSet
@@ -111,6 +112,7 @@ FWOpenPolicyStore
 FwOpenPolicyStore
 FwParseAddressToken
 FwPortsToBstr
+FwReduceSetsToVersion
 FWResetIndicatedPortInUse
 FWResolveGPONames
 FwResolveIndirectString
@@ -130,6 +132,7 @@ FwSetMemLeakPolicy
 FwSetResolveFlags
 FwSetRule
 FwSetSet
+FWStatusMessageFromStatusCode
 FwStringToAddresses
 FwUniteWFAddressesContents
 FWVerifyAuthenticationSet

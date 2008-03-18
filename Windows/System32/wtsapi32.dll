@@ -1,4 +1,6 @@
 WTSCloseServer
+WTSConnectSessionA
+WTSConnectSessionW
 WTSDisconnectSession
 WTSEnumerateProcessesA
 WTSEnumerateProcessesW
@@ -24,11 +26,15 @@ WTSSetSessionInformationW
 WTSSetUserConfigA
 WTSSetUserConfigW
 WTSShutdownSystem
+WTSStartRemoteControlSessionA
+WTSStartRemoteControlSessionW
+WTSStopRemoteControlSession
 WTSTerminateProcess
 WTSUnRegisterSessionNotification
 WTSUnRegisterSessionNotificationEx
 WTSVirtualChannelClose
 WTSVirtualChannelOpen
+WTSVirtualChannelOpenEx
 WTSVirtualChannelPurgeInput
 WTSVirtualChannelPurgeOutput
 WTSVirtualChannelQuery

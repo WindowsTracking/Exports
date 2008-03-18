@@ -8,3 +8,4 @@ ReportFault
 ReportHang
 UpdatePerUserLastCrossProcessCollectionTime
 WerpInitiateCrashReporting
+WerReportHang

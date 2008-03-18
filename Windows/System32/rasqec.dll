@@ -4,6 +4,7 @@ DllRegisterServer
 DllUnregisterServer
 RasQecGenericApi
 RasQecInitialize
+RasQecNotifyPPPDone
 RasQecProcessSoHResponseList
 RasQecRequestSoHList
 RasQecUninitialize

@@ -1,0 +1,3 @@
+Bus1394RegisterPortDriver
+DllInitialize
+DllUnload

@@ -22,6 +22,7 @@ RasSrvrAcquireAddress
 RasSrvrActivateIp
 RasSrvrInitialize
 RasSrvrIpv4Initialize
+RasSrvrIpv6Initialize
 RasSrvrQueryServerAddresses
 RasSrvrReleaseAddress
 RasSrvrStart

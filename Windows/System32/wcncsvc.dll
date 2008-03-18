@@ -2,3 +2,4 @@ DllCanUnloadNow
 DllGetClassObject
 ServiceMain
 SvchostPushServiceGlobals
+WcnAPDiscovered

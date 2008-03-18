@@ -23,6 +23,7 @@ OneXRestartReasonCodeToString
 OneXSetAuthParams
 OneXSetRuntimeState
 OneXShowUI
+OneXShowUIFromEAPCreds
 OneXStartAuthentication
 OneXStopAuthentication
 OneXUIResponse

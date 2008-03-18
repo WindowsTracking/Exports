@@ -51,8 +51,6 @@ WinStationConnectCallback
 WinStationConnectEx
 WinStationConnectW
 WinStationDisconnect
-WinStationDynVirtualChanRead
-WinStationDynVirtualChanWrite
 WinStationEnumerate_IndexedA
 WinStationEnumerate_IndexedW
 WinStationEnumerateA
@@ -62,11 +60,13 @@ WinStationEnumerateProcesses
 WinStationEnumerateW
 WinStationFreeGAPMemory
 WinStationFreeMemory
+WinStationFreePropertyValue
 WinStationFreeUserCertificates
 WinStationFreeUserCredentials
 WinStationGenerateLicense
 WinStationGetAllProcesses
 WinStationGetConnectionProperty
+WinStationGetDeviceId
 WinStationGetInitialApplication
 WinStationGetLanAdapterNameA
 WinStationGetLanAdapterNameW
@@ -123,6 +123,7 @@ WinStationTerminateProcess
 WinStationUnRegisterConsoleNotification
 WinStationUnRegisterNotificationEvent
 WinStationUserLoginAccessCheck
+WinStationVerify
 WinStationVirtualOpen
 WinStationVirtualOpenEx
 WinStationWaitSystemEvent

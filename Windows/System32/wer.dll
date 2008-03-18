@@ -18,7 +18,6 @@ WerpEnumerateStoreNext
 WerpEnumerateStoreStart
 WerpExtractReportFiles
 WerpGetBucketId
-WerpGetCustomerWatsonData
 WerpGetDynamicParameter
 WerpGetEventType
 WerpGetFileByIndex
@@ -53,7 +52,6 @@ WerpPromtUser
 WerpReportCancel
 WerpRestartApplication
 WerpSetCallBack
-WerpSetCustomerWatsonData
 WerpSetDynamicParameter
 WerpSetEventName
 WerpSetReportFlags

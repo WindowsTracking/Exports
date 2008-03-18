@@ -15,4 +15,6 @@ RasEapGetInfo
 RasEapInvokeConfigUI
 RasEapInvokeInteractiveUI
 RasEapQueryCredentialInputFields
+RasEapQueryInteractiveUIInputFields
+RasEapQueryUIBlobFromInteractiveUIInputFields
 RasEapQueryUserBlobFromCredentialInputFields

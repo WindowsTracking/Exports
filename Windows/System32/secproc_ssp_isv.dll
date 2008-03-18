@@ -23,6 +23,7 @@ SPGetLicenseAttributeCount
 SPGetLicenseObject
 SPGetLicenseObjectCount
 SPGetProcAddress
+SPIsActivated
 SPLoadLibrary
 SPRegisterRevocationList
 SPSign

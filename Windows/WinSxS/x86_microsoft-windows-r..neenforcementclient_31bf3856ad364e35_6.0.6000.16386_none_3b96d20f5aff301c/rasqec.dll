@@ -1,9 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-RasQecGenericApi
-RasQecInitialize
-RasQecProcessSoHResponseList
-RasQecRequestSoHList
-RasQecUninitialize

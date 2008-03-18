@@ -1,8 +1,10 @@
 QueryNetconStatus
 WlanCancelPlap
+WlanDeinitPlapParams
 WlanDoPlap
 WlanGenerateProfileXmlBasicSettings
 WlanGetProfileKeyInfo
+WlanInitPlapParams
 WlanIsNetworkSuppressed
 WlanIsUIRequestPending
 WlanParseProfileXmlBasicSettings

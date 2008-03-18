@@ -8,10 +8,13 @@ GetDeploymentDataFromManifest
 GetUserStateManager
 GetUserStore
 KillService
+LaunchApplication
 ParseManifest
 ShArpMaintain
 ShArpMaintainW
 ShOpenVerbApplication
 ShOpenVerbApplicationW
+ShOpenVerbExtension
+ShOpenVerbExtensionW
 ShOpenVerbShortcut
 ShOpenVerbShortcutW

@@ -1,4 +1,5 @@
 _GetCoCreateInstanceAsAdminHandle
+_RemoveShieldIcon
 _SetShieldButton
 _SetShieldIcon
 _ThrowErrorBox

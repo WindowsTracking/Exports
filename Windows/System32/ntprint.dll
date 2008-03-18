@@ -28,6 +28,7 @@ PSetupFindCompatibleDriverFromName
 PSetupFreeDrvField
 PSetupFreeMem
 PSetupGetActualInstallSection
+PSetupGetCatalogNameFromInfW
 PSetupGetDriverInfo3
 PSetupGetInfDriverStoreLocation
 PSetupGetLocalDataField
@@ -51,6 +52,5 @@ PSetupSetNonInteractiveMode
 PSetupSetSelectDevTitleAndInstructions
 PSetupShowBlockedDriverUI
 PSetupThisPlatform
-PSetupUpgradeClusterDriversW
 PSetupWebPnpGenerateDownLevelInfForInboxDriver
 ServerInstallW

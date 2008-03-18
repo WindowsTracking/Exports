@@ -149,6 +149,10 @@ DnsValidateName_A
 DnsValidateName_UTF8
 DnsValidateName_W
 DnsValidateNameOrIp_TempW
+DnsValidateServer_A
+DnsValidateServer_W
+DnsValidateServerArray_A
+DnsValidateServerArray_W
 DnsValidateUtf8Byte
 DnsWriteQuestionToBuffer_UTF8
 DnsWriteQuestionToBuffer_W

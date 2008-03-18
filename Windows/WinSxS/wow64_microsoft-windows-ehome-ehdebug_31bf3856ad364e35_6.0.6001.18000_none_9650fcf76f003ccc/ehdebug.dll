@@ -1,0 +1,11 @@
+DebugDisplayError
+DebugDisplayErrorStack
+DebugDumpStack
+DebugGetCategoryEnabled
+DebugIsValidAddress
+DebugSetCategoryEnabled
+DebugSetTimedWriteLines
+DebugSetWriteLinePrefix
+DebugWrite
+DebugWriteLine
+DllMain

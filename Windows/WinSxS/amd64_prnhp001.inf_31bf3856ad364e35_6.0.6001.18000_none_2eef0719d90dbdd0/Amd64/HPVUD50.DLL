@@ -1,0 +1,15 @@
+?DoWork@SCPIOMan@@UEAAJXZ
+DllCanUnloadNow
+DllGetClassObject
+HTCBGetHPRaster
+HTCBGetIndexColor
+HTCBGetInputRaster24
+HTCBGetInputRaster32
+HTCBGetInputRasterBGR24
+HTCBGetInputRasterChunkyRow
+HTCBGetInputRasterIndex8
+HTCBGetInputRasterKCMY
+HTCBRestoreData
+HTCBSaveData
+HTCBSendHPRaster
+HTCBSendRasterMayYield

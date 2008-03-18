@@ -34,3 +34,4 @@ HttpShutdownRequestQueue
 HttpTerminate
 HttpWaitForDemandStart
 HttpWaitForDisconnect
+HttpWaitForDisconnectEx

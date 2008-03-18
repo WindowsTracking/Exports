@@ -1,0 +1,4 @@
+ConvertDevmode
+ConvertTicket
+DllCanUnloadNow
+DllGetClassObject

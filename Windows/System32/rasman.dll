@@ -21,6 +21,7 @@ RasDeviceConnect
 RasDeviceEnum
 RasDeviceGetInfo
 RasDeviceSetInfo
+RasDeviceSetInfoSafe
 RasDoIke
 RasEnableIpSec
 RasEnumConnectionPorts
@@ -163,6 +164,7 @@ RasSetNetworkInfo
 RasSetPortUserData
 RasSetRasdialInfo
 RasSetRouterUsage
+RasSetupSstpServerConfig
 RasSignalNewConnection
 RasStartPPPRenegotiation
 RasStartRasAutoIfRequired

@@ -1,5 +1,6 @@
 WSDAllocateLinkedMemory
 WSDAttachLinkedMemory
+WSDCancelAddrChangeNotify
 WSDCreateDeviceHost
 WSDCreateDeviceHostAdvanced
 WSDCreateDeviceProxy
@@ -21,6 +22,7 @@ WSDGenerateFault
 WSDGenerateFaultEx
 WSDGenerateRandomDelay
 WSDGetConfigurationOption
+WSDNotifyAddrChange
 WSDProcessFault
 WSDSetConfigurationOption
 WSDXMLAddChild

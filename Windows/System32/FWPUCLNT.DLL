@@ -130,14 +130,7 @@ IPsecSaDbSetSecurityInfo0
 IPsecSaDestroyEnumHandle0
 IPsecSaEnum0
 IPsecSaInitiateAsync0
-WfpClearIpsecProposal
 wfpdiagW
-WfpFillIkeProposal
-WfpFillIpsecProposal
-WfpFilterListDestroy
-WfpFilterListIpsecTransportV4Create
-WfpFilterListIpsecTransportV6Create
-WfpGetV4TransportSaSelectors
 WSADeleteSocketPeerTargetName
 WSAImpersonateSocketPeer
 WSAQuerySocketSecurity

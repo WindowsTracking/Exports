@@ -1,0 +1,10 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+HrDiAddComponentToINetCfg
+LanaCfgFromCommandArgs
+NetCfgDiagFromCommandArgs
+NetCfgDiagRepairRegistryBindings
+NetClassInstaller
+NetPropPageProvider

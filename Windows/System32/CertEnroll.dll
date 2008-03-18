@@ -3,6 +3,7 @@
 #17
 #18
 #19
+#20
 DllCanUnloadNow
 DllGetClassObject
 DllMain

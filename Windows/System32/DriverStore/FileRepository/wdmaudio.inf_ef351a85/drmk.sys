@@ -1,0 +1,10 @@
+DllInitialize
+DllUnload
+DrmAddContentHandlers
+DrmCreateContentMixed
+DrmDestroyContent
+DrmForwardContentToDeviceObject
+DrmForwardContentToFileObject
+DrmForwardContentToInterface
+DrmGetContentRights
+DrmGetFilterDescriptor

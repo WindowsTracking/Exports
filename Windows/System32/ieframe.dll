@@ -60,6 +60,7 @@ IEGetWriteableHKCU
 IEIsProtectedModeProcess
 IEIsProtectedModeURL
 IELaunchURL
+IERefreshElevationPolicy
 IESaveFile
 IEShowSaveFileDialog
 ImportPrivacySettings

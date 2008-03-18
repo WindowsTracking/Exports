@@ -1,5 +1,10 @@
 __AddMachineCertToLicenseStore
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
 DRMAcquireAdvisories
+DRMAcquireIssuanceLicenseTemplate
 DRMAcquireLicense
 DRMActivate
 DRMAddLicense

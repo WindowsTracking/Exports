@@ -1,0 +1,9 @@
+DllRegisterServer
+DllUnregisterServer
+HrGetPnpDeviceStatus
+HrLanConnectionNameFromGuidOrPath
+HrPnpInstanceIdFromGuid
+HrQueryLanMediaState
+NetManDiagFromCommandArgs
+ProcessQueue
+ServiceMain

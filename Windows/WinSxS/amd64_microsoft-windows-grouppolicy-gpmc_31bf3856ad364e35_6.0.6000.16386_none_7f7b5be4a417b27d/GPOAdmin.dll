@@ -1,9 +1,0 @@
-AddToMigrationTableMRUList
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-GetMigrationTableEntryType
-GetSelectedBackupList
-GetSelectedGPOList
-LaunchObjectPicker

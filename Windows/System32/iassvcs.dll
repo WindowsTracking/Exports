@@ -15,6 +15,7 @@ IASRadiusCrypt
 IASRegisterComponent
 IASReportEvent
 IASReportLicenseViolation
+IASReportSecurityEvent
 IASRequestThread
 IASSetMaxNumberOfThreads
 IASSetMaxThreadIdle

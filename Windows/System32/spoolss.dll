@@ -99,6 +99,7 @@ GetShrinkedSize
 ImpersonatePrinterClient
 InitializeRouter
 IsNamedPipeRpcCall
+IsNameTheLocalMachineOrAClusterSpooler
 LoadDriver
 LoadDriverFiletoConvertDevmode
 LoadDriverWithVersion

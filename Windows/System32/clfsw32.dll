@@ -43,6 +43,7 @@ ReadLogRecord
 ReadLogRestartArea
 ReadNextLogRecord
 ReadPreviousLogRestartArea
+RegisterForLogWriteNotification
 RegisterManageableLogClient
 RemoveLogContainer
 RemoveLogContainerSet

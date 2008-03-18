@@ -15,6 +15,7 @@ gethostbyname
 gethostname
 GetNameByTypeA
 GetNameByTypeW
+getnetbyname
 getpeername
 getprotobyname
 getprotobynumber
@@ -29,6 +30,7 @@ GetTypeByNameW
 htonl
 htons
 inet_addr
+inet_network
 inet_ntoa
 ioctlsocket
 listen
@@ -36,12 +38,16 @@ MigrateWinsockConfiguration
 NPLoadNameSpaces
 ntohl
 ntohs
+rcmd
 recv
 recvfrom
+rexec
+rresvport
 s_perror
 select
 send
 sendto
+sethostname
 SetServiceA
 SetServiceW
 setsockopt

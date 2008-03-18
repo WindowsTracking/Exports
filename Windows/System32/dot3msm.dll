@@ -11,6 +11,8 @@ Dot3MsmInit
 Dot3MsmInitAdapter
 Dot3MsmQueryPendingUIRequest
 Dot3MsmQueryState
+Dot3MsmReAuthenticate
+Dot3MsmSetRuntimeState
 Dot3MsmUIResponse
 Dot3MsmValidateProfile
 Dot3ReasonCodeMsmToString

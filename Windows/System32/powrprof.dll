@@ -89,6 +89,7 @@ ReadProcessorPwrScheme
 ReadPwrScheme
 SetActivePwrScheme
 SetSuspendState
+Sysprep_Generalize_Power
 ValidatePowerPolicies
 WriteGlobalPwrPolicy
 WriteProcessorPwrScheme

@@ -1,6 +1,9 @@
 TxfGetThreadMiniVersionForCreate
+TxfLogCreateFileReadContext
+TxfLogCreateRangeReadContext
+TxfLogDestroyReadContext
+TxfLogReadRecords
+TxfLogRecordGetFileName
+TxfLogRecordGetGenericType
 TxfReadMetadataInfo
-TxfReadReplicationRecords
-TxfReplicationCreateReadContext
-TxfReplicationDestroyReadContext
 TxfSetThreadMiniVersionForCreate

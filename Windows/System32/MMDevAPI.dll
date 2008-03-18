@@ -11,5 +11,9 @@ GenerateMediaEvent
 GetClassFromEndpointId
 GetLocalIdFromEndpointId
 GetSessionIdFromEndpointId
+InitializeDeviceAPI
+MMDeviceGetDeviceEnumerator
+MMDeviceGetEndpointManager
+MMDeviceGetPolicyConfig
 RegisterForMediaCallback
 UnregisterMediaCallback

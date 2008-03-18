@@ -9,6 +9,7 @@ FreeConnections
 FreeCountedString
 FreeFixupInfo
 FreeIsolationInfo
+FreeIsolationInfoEx
 FreeNapComponentRegistrationInfoArray
 FreeNetworkSoH
 FreePrivateData

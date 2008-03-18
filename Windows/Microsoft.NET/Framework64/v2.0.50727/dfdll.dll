@@ -1,6 +1,9 @@
 ActivateDeploymentA
 ActivateDeploymentW
+ActivateFileAssociationA
+ActivateFileAssociationW
 CleanOnlineAppCache
+GetApplicationExtensionIcon
 GetDeploymentDataFromManifest
 GetEntryPointPath
 GetIconFileNameA

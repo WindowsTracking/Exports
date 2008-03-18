@@ -1,0 +1,15 @@
+ILDeinitWorld
+ILEndJob
+ILEndPage
+ILFlushRasters
+ILHalfToneBand
+ILInitWorld
+ILMemoryReq
+ILRestoreState
+ILSaveState
+ILSetConfiguration
+ILSetHTCB
+ILSkipWhiteSpace
+ILStartJob
+ILStartPage
+ILVersion

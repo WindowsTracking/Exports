@@ -1,0 +1,16 @@
+SNMP_startup
+SNMPCommandMulti
+SnmpDecode
+SnmpEncode
+SNMPExit
+SNMPGet
+SNMPGetConfig
+SNMPGetMulti
+SNMPGetNext
+SNMPGetNextMulti
+SNMPInit
+SNMPSet
+SNMPSetConfig
+SNMPSetMulti
+SOID2OID
+XPORTFillAddrPts

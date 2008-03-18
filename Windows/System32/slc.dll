@@ -4,6 +4,8 @@ SLConsumeWindowsRight
 SLDepositOfflineConfirmationId
 SLFireEvent
 SLGenerateOfflineInstallationId
+SLGetGenuineInformation
+SLGetInstalledProductKeyIds
 SLGetInstalledSAMLicenseApplications
 SLGetLicense
 SLGetLicenseFileId
@@ -34,6 +36,8 @@ SLpVLActivateProduct
 SLReArmWindows
 SLRegisterEvent
 SLRegisterWindowsEvent
+SLSetCurrentProductKey
+SLSetGenuineInformation
 SLUninstallLicense
 SLUninstallProofOfPurchase
 SLUninstallSAMLicense
