@@ -1,0 +1,6 @@
+DllCanUnloadNow
+DllGetClassObjectInternal
+DllRegisterServer
+DllUnregisterServer
+GetFileHash
+SpawnIEExec

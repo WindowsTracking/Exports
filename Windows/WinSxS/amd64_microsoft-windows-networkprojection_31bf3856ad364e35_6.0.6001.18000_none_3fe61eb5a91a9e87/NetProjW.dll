@@ -1,9 +1,0 @@
-CleanupResolutionQuery
-DllCanUnloadNow
-DllGetClassObject
-DllMain
-DllRegisterServer
-DllUnregisterServer
-IsResolutionSupportedOnProjector
-NetworkProjectionSelectProjector
-NetworkProjectionThreadMain

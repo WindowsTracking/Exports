@@ -1,0 +1,13 @@
+DsmCompleteRequest
+DsmGetAssociatedDevice
+DsmGetContextFromSrb
+DsmGetPDO
+DsmGetScsiAddress
+DsmGetVersion
+DsmNotification
+DsmReleaseQueue
+DsmSendDeviceIoControlSynchronous
+DsmSendPassThroughDirect
+DsmSendRequest
+DsmSendTUR
+DsmWriteEvent

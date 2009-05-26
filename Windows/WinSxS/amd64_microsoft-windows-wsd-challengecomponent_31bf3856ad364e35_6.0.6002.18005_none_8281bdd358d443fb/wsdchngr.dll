@@ -1,0 +1,4 @@
+WSDCHNGRChallengeDeviceClass
+WSDCHNGRInitialize
+WSDCHNGRRegisterDeviceToChallenge
+WSDCHNGRShutdown

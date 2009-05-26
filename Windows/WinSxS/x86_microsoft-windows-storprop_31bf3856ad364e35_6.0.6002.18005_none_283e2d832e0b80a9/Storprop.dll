@@ -1,0 +1,12 @@
+AtaPropPageProvider
+CdromDisableDigitalPlayback
+CdromEnableDigitalPlayback
+CdromIsDigitalPlaybackEnabled
+CdromKnownGoodDigitalPlayback
+DiskClassInstaller
+DvdClassInstaller
+DvdLauncher
+DvdPropPageProvider
+HdcCoInstaller
+IdePropPageProvider
+VolumePropPageProvider

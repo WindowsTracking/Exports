@@ -37,6 +37,7 @@ SamiOemChangePasswordUser2WithTransport
 SamiSetBootKeyInformation
 SamiSetDSRMPassword
 SamiSetDSRMPasswordOWF
+SamiSyncDSRMPasswordFromAccount
 SamLookupDomainInSamServer
 SamLookupIdsInDomain
 SamLookupNamesInDomain

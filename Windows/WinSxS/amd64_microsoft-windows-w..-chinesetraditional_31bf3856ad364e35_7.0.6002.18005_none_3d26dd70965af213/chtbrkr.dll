@@ -1,0 +1,10 @@
+CreateLexInstance
+CreateMyProperNounInstance
+CreateMyRuleLexInstance
+CreateSmartLexInstance
+CreateTermLearnInstance
+CreateWBInstance
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

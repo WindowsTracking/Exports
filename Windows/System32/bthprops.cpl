@@ -1,5 +1,7 @@
 #103
+BluetoothAddressToString
 BluetoothAuthenticateDevice
+BluetoothAuthenticateDeviceEx
 BluetoothAuthenticateMultipleDevices
 BluetoothAuthenticationAgent
 BluetoothDisconnectDevice
@@ -18,6 +20,7 @@ BluetoothFindFirstProtocolDescriptorStack
 BluetoothFindFirstProtocolEntry
 BluetoothFindFirstRadio
 BluetoothFindFirstService
+BluetoothFindFirstServiceEx
 BluetoothFindNextBrowseGroup
 BluetoothFindNextClassId
 BluetoothFindNextDevice
@@ -35,9 +38,11 @@ BluetoothGetDeviceInfo
 BluetoothGetRadioInfo
 BluetoothIsConnectable
 BluetoothIsDiscoverable
+BluetoothIsVersionAvailable
 BluetoothMapClassOfDeviceToImageIndex
 BluetoothMapClassOfDeviceToString
 BluetoothRegisterForAuthentication
+BluetoothRegisterForAuthenticationEx
 BluetoothRemoveDevice
 BluetoothSdpEnumAttributes
 BluetoothSdpGetAttributeValue
@@ -47,8 +52,12 @@ BluetoothSdpGetString
 BluetoothSelectDevices
 BluetoothSelectDevicesFree
 BluetoothSendAuthenticationResponse
+BluetoothSendAuthenticationResponseEx
 BluetoothSetLocalServiceInfo
 BluetoothSetServiceState
 BluetoothUnregisterAuthentication
 BluetoothUpdateDeviceRecord
+BthpEnableAllServices
+BthpFindPnpInfo
+BthpMapStatusToErr
 CPlApplet

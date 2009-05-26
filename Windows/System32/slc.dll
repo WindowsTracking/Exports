@@ -28,10 +28,13 @@ SLOpen
 SLpAuthenticateGenuineTicketResponse
 SLpBeginGenuineTicketTransaction
 SLpCheckProductKey
+SLpDepositTokenActivationResponse
+SLpGenerateTokenActivationChallenge
 SLpGetGenuineBlob
 SLpGetGenuineLocal
 SLpGetLicenseAcquisitionInfo
 SLpGetMachineUGUID
+SLpGetTokenActivationGrantInfo
 SLpVLActivateProduct
 SLReArmWindows
 SLRegisterEvent

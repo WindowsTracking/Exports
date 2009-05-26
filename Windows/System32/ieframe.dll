@@ -54,7 +54,9 @@ DoPrivacyDlg
 HlinkFindFrame
 HlinkFrameNavigate
 HlinkFrameNavigateNHL
+IEAssociateThreadWithTab
 IECancelSaveFile
+IEDisassociateThreadWithTab
 IEGetWriteableFolderPath
 IEGetWriteableHKCU
 IEIsProtectedModeProcess

@@ -15,6 +15,8 @@ MsiApplyMultiplePatchesA
 MsiApplyMultiplePatchesW
 MsiApplyPatchA
 MsiApplyPatchW
+MsiBeginTransactionA
+MsiBeginTransactionW
 MsiCloseAllHandles
 MsiCloseHandle
 MsiCollectUserInfoA
@@ -61,6 +63,7 @@ MsiDoActionW
 MsiEnableLogA
 MsiEnableLogW
 MsiEnableUIPreview
+MsiEndTransaction
 MsiEnumClientsA
 MsiEnumClientsW
 MsiEnumComponentCostsA
@@ -151,6 +154,7 @@ MsiInstallProductW
 MsiInvalidateFeatureCache
 MsiIsProductElevatedA
 MsiIsProductElevatedW
+MsiJoinTransaction
 MsiLoadStringA
 MsiLoadStringW
 MsiLocateComponentA

@@ -1,0 +1,11 @@
+DllRegisterServer
+DllUnregisterServer
+EapPeerConfigBlob2Xml
+EapPeerConfigXml2Blob
+EapPeerCredentialsXml2Blob
+EapPeerFreeErrorMemory
+EapPeerFreeMemory
+EapPeerGetInfo
+EapPeerInvokeConfigUI
+EapPeerInvokeIdentityUI
+EapPeerInvokeInteractiveUI

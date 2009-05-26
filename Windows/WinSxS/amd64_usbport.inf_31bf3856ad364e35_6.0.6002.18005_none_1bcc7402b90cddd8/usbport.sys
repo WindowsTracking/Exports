@@ -1,0 +1,4 @@
+DllInitialize
+DllUnload
+USBPORT_GetHciMn
+USBPORT_RegisterUSBPortDriver

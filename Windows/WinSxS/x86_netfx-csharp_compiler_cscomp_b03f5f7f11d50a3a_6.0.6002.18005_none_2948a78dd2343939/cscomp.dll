@@ -1,0 +1,4 @@
+CreateCompilerFactory
+DllMain
+GetMessageDll
+InMemoryCompile

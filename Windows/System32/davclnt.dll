@@ -3,6 +3,8 @@ DavFreeUsedDiskSpace
 DavGetDiskSpaceUsage
 DavGetTheLockOwnerOfTheFile
 DavInvalidateCache
+DavRegisterAuthCallback
+DavUnregisterAuthCallback
 DllCanUnloadNow
 DllGetClassObject
 DllMain

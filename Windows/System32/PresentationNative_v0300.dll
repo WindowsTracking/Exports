@@ -1,6 +1,5 @@
 CreateDocContext
 CreateInstalledObjectsInfo
-CreateWmpFactory
 DestroyDocContext
 DestroyInstalledObjectsInfo
 FsAddFigureObstacle

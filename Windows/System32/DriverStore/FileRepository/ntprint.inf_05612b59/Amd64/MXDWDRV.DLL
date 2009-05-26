@@ -1,0 +1,4 @@
+DllMain
+DrvDisableDriver
+DrvEnableDriver
+DrvQueryDriverInfo

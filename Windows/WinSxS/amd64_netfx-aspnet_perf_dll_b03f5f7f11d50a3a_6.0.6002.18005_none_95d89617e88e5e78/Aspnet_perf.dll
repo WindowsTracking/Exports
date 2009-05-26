@@ -1,0 +1,9 @@
+ClosePerfCommonData
+CloseStateServicePerfData
+CloseVersionedPerfData
+CollectPerfCommonData
+CollectStateServicePerfData
+CollectVersionedPerfData
+OpenPerfCommonData
+OpenStateServicePerfData
+OpenVersionedPerfData

@@ -1,0 +1,11 @@
+#15
+#16
+#17
+#18
+#19
+#20
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
