@@ -3,6 +3,7 @@ MtxCluCreateClusterProxyTmInstance
 MtxCluCreateClusterTmInstance
 MtxCluCreateTmInstanceForVirtualServer
 MtxCluEnumerateDtcResources
+MtxCluGetActiveClusterNode
 MtxCluGetClusterResourceIdFromName
 MtxCluGetComputerNameW
 MtxCluGetDefaultClusterResource
@@ -26,4 +27,5 @@ MtxCluIsSameNodeW
 MtxCluSetDefaultClusterResource
 MtxCluSetSecurityRegValue
 MtxCluTakeOfflineDTCW
+MtxCluVerifyLogPathInDependantDiskResource
 Startup

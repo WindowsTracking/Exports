@@ -41,7 +41,6 @@ SceLookupPrivRightName
 SceNotifyPolicyDelta
 SceOpenPolicy
 SceOpenProfile
-SceProcessEFSRecoveryGPO
 SceProcessSecurityPolicyGPO
 SceProcessSecurityPolicyGPOEx
 SceRegisterRegValues

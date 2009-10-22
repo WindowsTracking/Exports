@@ -1,3 +1,4 @@
+CM_Add_Driver_PackageW
 CM_Add_Empty_Log_Conf
 CM_Add_Empty_Log_Conf_Ex
 CM_Add_ID_ExA
@@ -23,6 +24,7 @@ CM_Delete_Device_Interface_KeyA
 CM_Delete_Device_Interface_KeyW
 CM_Delete_DevNode_Key
 CM_Delete_DevNode_Key_Ex
+CM_Delete_Driver_PackageW
 CM_Delete_PowerScheme
 CM_Delete_Range
 CM_Detect_Resource_Conflict
@@ -248,8 +250,6 @@ PnpIsFileAclIntact
 PnpIsFileContentIntact
 PnpIsFilePnpDriver
 PnpRepairWindowsProtectedDriver
-pServerAddDriverPackage
-pServerDeleteDriverPackage
 pSetupAccessRunOnceNodeList
 pSetupAddMiniIconToList
 pSetupAddTagToGroupOrderListEntry
@@ -283,6 +283,7 @@ pSetupGetRealSystemTime
 pSetupGuidFromString
 pSetupHandleFailedVerification
 pSetupInfGetDigitalSignatureInfo
+pSetupInfIsInbox
 pSetupInfSetDigitalSignatureInfo
 pSetupInstallCatalog
 pSetupIsBiDiLocalizedSystemEx
@@ -302,8 +303,8 @@ pSetupRealloc
 pSetupRegistryDelnode
 pSetupRetrieveServiceConfig
 pSetupSetArrayToMultiSzValue
+pSetupSetDriverPackageRestorePoint
 pSetupSetGlobalFlags
-pSetupSetNoDriverPrompts
 pSetupSetQueueFlags
 pSetupShouldDeviceBeExcluded
 pSetupStringFromGuid
@@ -322,12 +323,11 @@ pSetupStringTableStringFromId
 pSetupStringTableStringFromIdEx
 pSetupUnicodeToMultiByte
 pSetupUnmapAndCloseFile
+pSetupValidateDriverPackage
 pSetupVerifyCatalogFile
 pSetupVerifyQueuedCatalogs
 pSetupWriteLogEntry
 pSetupWriteLogError
-pSpAddInboxDriverPackage
-pSpDeleteInboxDriverPackage
 SetupAddInstallSectionToDiskSpaceListA
 SetupAddInstallSectionToDiskSpaceListW
 SetupAddSectionToDiskSpaceListA
@@ -490,6 +490,7 @@ SetupDiRegisterCoDeviceInstallers
 SetupDiRegisterDeviceInfo
 SetupDiRemoveDevice
 SetupDiRemoveDeviceInterface
+SetupDiReportAdditionalSoftwareRequested
 SetupDiReportDeviceInstallError
 SetupDiReportDriverNotFoundError
 SetupDiReportDriverPackageImportationError
@@ -676,5 +677,4 @@ SetupWriteTextLog
 SetupWriteTextLogError
 SetupWriteTextLogInfLine
 UnicodeToMultiByte
-UpdateAllDeviceIndirectStrings
 VerifyCatalogFile

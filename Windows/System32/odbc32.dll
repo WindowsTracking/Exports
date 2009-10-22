@@ -30,6 +30,7 @@ SQLBrowseConnectA
 SQLBrowseConnectW
 SQLBulkOperations
 SQLCancel
+SQLCancelHandle
 SQLCloseCursor
 SQLColAttribute
 SQLColAttributeA

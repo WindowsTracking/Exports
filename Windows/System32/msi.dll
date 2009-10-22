@@ -65,12 +65,16 @@ MsiEnableLogW
 MsiEnableUIPreview
 MsiEndTransaction
 MsiEnumClientsA
+MsiEnumClientsExA
+MsiEnumClientsExW
 MsiEnumClientsW
 MsiEnumComponentCostsA
 MsiEnumComponentCostsW
 MsiEnumComponentQualifiersA
 MsiEnumComponentQualifiersW
 MsiEnumComponentsA
+MsiEnumComponentsExA
+MsiEnumComponentsExW
 MsiEnumComponentsW
 MsiEnumFeaturesA
 MsiEnumFeaturesW
@@ -92,6 +96,8 @@ MsiFormatRecordA
 MsiFormatRecordW
 MsiGetActiveDatabase
 MsiGetComponentPathA
+MsiGetComponentPathExA
+MsiGetComponentPathExW
 MsiGetComponentPathW
 MsiGetComponentStateA
 MsiGetComponentStateW
@@ -235,6 +241,7 @@ MsiSetFeatureStateW
 MsiSetInstallLevel
 MsiSetInternalUI
 MsiSetMode
+MsiSetOfflineContextW
 MsiSetPropertyA
 MsiSetPropertyW
 MsiSetTargetPathA

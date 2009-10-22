@@ -22,3 +22,9 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+SspiGetCredUIContext
+SspiIsPromptingNeeded
+SspiPromptForCredentialsA
+SspiPromptForCredentialsW
+SspiUnmarshalCredUIContext
+SspiUpdateCredentials

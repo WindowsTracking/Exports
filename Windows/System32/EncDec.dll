@@ -2,4 +2,3 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
-InitializeDRM

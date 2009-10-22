@@ -1,0 +1,14 @@
+bNoOptionUnit
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+nColorType
+nDefaultScale
+nInterlanguageID
+nModelType
+nOffsetType
+nQualityPresetColorCount
+nQualityPresetMonoCount
+stQualityPresetColorTable
+stQualityPresetMonoTable
+stScaleInfo

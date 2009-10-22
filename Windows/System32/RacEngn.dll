@@ -1,5 +1,6 @@
-EtwProcessData
-ExecuteAnalysis
-ExecuteSqm
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
 RacSysprepGeneralize
 RacSysprepSpecialize

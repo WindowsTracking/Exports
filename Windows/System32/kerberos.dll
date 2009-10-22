@@ -1,3 +1,4 @@
+DllMain
 KerbCreateTokenFromTicket
 KerbDomainChangeCallback
 KerbIsInitialized

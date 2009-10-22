@@ -1,0 +1,6 @@
+DMrcExit
+DMrcGetProperties
+DMrcInit
+DMrcQueryClose
+DMrcQueryHardwareId
+DMrcQueryModelId

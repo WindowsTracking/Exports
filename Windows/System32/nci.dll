@@ -3,3 +3,4 @@ NciGetConnectionName
 NciSetConnectionName
 OnMachineUILanguageInit
 OnMachineUILanguageSwitch
+UpdateAdvancedParameter

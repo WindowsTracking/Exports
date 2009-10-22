@@ -41,3 +41,4 @@ AccSetEntriesInAList
 AccTreeResetNamedSecurityInfo
 EventGuidToName
 EventNameFree
+GetMartaExtensionInterface

@@ -8,6 +8,7 @@ RasDialDlgA
 RasDialDlgW
 RasEntryDlgA
 RasEntryDlgW
+RasHandleDiagnostics
 RasPhonebookDlgA
 RasPhonebookDlgW
 RasSrvAddPropPages
@@ -19,7 +20,6 @@ RasSrvInitializeService
 RasSrvIsConnectionConnected
 RasSrvIsICConfigured
 RasSrvIsServiceRunning
-RasSrvQueryShowIcon
 RasUserEnableManualDial
 RasUserGetManualDial
 RasUserPrefsDlg

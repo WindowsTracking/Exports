@@ -1,7 +1,0 @@
-InstallService
-MSIInstallService
-MSIUnInstallService
-RundllInstallA
-RundllUninstallA
-ServiceMain
-UninstallService

@@ -1,0 +1,9 @@
+ClosePrintProcessor
+ControlPrintProcessor
+EnumPrintProcessorDatatypesW
+GetPrintProcessorCapabilities
+OpenPrintProcessor
+PrintDocumentOnPrintProcessor
+PrintEMFJob
+PrintRawJob
+PrintTextJob

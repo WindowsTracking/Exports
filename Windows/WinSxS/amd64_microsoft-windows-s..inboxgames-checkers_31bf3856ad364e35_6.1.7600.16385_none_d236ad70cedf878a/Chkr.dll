@@ -1,0 +1,10 @@
+ZoneClientExit
+ZoneClientGameDelete
+ZoneClientGameHandleNudge
+ZoneClientGameInitialize
+ZoneClientGameNew
+ZoneClientGameProcessMessage
+ZoneClientMain
+ZoneClientName
+ZoneGameDllDelete
+ZoneGameDllInit

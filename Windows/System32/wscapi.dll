@@ -2,7 +2,6 @@ wscAntiSpywareGetStatus
 wscAntiVirusGetStatus
 wscAutoUpdatesEnableScheduledMode
 wscAutoUpdatesGetStatus
-wscEnableNotifications
 wscFirewallGetStatus
 wscGeneralSecurityGetStatus
 wscGetAlertStatus

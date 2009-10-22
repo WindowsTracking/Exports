@@ -2,15 +2,14 @@ AddGadgetMessageHandler
 AttachWndProcA
 AttachWndProcW
 AutoTrace
-BeginTransition
 BuildAnimation
 BuildDropTarget
 BuildInterpolation
 CreateAction
 CreateGadget
-CreateTransition
 DeleteHandle
 DetachWndProc
+DisableContainerHwnd
 DllMain
 DrawGadgetTree
 DUserBuildGadget
@@ -35,7 +34,6 @@ DUserRegisterSuper
 DUserSendEvent
 DUserSendMethod
 DUserStopAnimation
-EndTransition
 EnumGadgets
 FindGadgetFromPoint
 FindGadgetMessages
@@ -44,6 +42,7 @@ FireGadgetMessages
 ForwardGadgetMessage
 GetActionTimeslice
 GetDebug
+GetDUserModule
 GetGadget
 GetGadgetAnimation
 GetGadgetBufferInfo
@@ -69,7 +68,6 @@ GetStdColorName
 GetStdColorPenF
 GetStdColorPenI
 GetStdPalette
-GetTransitionInterface
 InitGadgetComponent
 InitGadgets
 InvalidateGadget
@@ -80,8 +78,6 @@ LookupGadgetTicket
 MapGadgetPoints
 PeekMessageExA
 PeekMessageExW
-PlayTransition
-PrintTransition
 RegisterGadgetMessage
 RegisterGadgetMessageString
 RegisterGadgetProperty
@@ -103,7 +99,6 @@ SetGadgetRootInfo
 SetGadgetRotation
 SetGadgetScale
 SetGadgetStyle
-UninitGadgetComponent
 UnregisterGadgetMessage
 UnregisterGadgetMessageString
 UnregisterGadgetProperty

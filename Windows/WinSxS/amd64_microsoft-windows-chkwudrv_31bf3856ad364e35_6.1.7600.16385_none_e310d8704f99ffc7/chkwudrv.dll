@@ -1,0 +1,9 @@
+CancelWUOperation
+IsWUAvailable
+OpenWUContext
+ReleaseWUContext
+RemoveWUDirectory
+WUDownloadUpdatedFiles
+WUExpandUpdateToPath
+WUFindMatchingDriver
+WUInstallBestUpdate

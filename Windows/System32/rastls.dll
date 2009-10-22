@@ -4,12 +4,14 @@ DllRegisterServer
 DllUnregisterServer
 RasEapCreateConnectionProperties
 RasEapCreateConnectionProperties2
+RasEapCreateConnectionPropertiesXml
 RasEapCreateUserProperties
 RasEapCreateUserProperties2
 RasEapFreeMemory
 RasEapGetCredentials
 RasEapGetIdentity
 RasEapGetInfo
+RasEapGetMethodProperties
 RasEapInvokeConfigUI
 RasEapInvokeInteractiveUI
 RasEapQueryCredentialInputFields

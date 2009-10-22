@@ -17,6 +17,7 @@ MFCreateVideoMixer
 MFCreateVideoMixerAndPresenter
 MFCreateVideoOTA
 MFCreateVideoPresenter
+MFCreateVideoPresenter2
 MFCreateVideoSampleAllocator
 MFCreateVideoSampleFromSurface
 MFGetPlaneSize

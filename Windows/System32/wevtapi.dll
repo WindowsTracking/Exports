@@ -16,6 +16,7 @@ EvtGetObjectArraySize
 EvtGetPublisherMetadataProperty
 EvtGetQueryInfo
 EvtIntAssertConfig
+EvtIntCreateBinXMLFromCustomXML
 EvtIntCreateLocalLogfile
 EvtIntGetClassicLogDisplayName
 EvtIntRenderResourceEventTemplate

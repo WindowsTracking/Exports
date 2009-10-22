@@ -1,3 +1,8 @@
+ClusterClearBackupStateForSharedVolume
+ClusterGetVolumeNameForVolumeMountPoint
+ClusterGetVolumePathName
+ClusterIsPathOnSharedVolume
+ClusterPrepareSharedVolumeForBackup
 ClusWorkerCheckTerminate
 ClusWorkerCreate
 ClusWorkerStart

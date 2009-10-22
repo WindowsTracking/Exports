@@ -158,6 +158,7 @@
 #691
 #7
 #70
+#700
 #702
 #703
 #704
@@ -200,6 +201,7 @@
 #763
 #764
 #766
+#767
 #777
 #778
 #78
@@ -210,6 +212,7 @@
 #789
 #79
 #790
+#791
 #8
 #810
 #811
@@ -253,6 +256,7 @@
 #848
 #849
 #850
+#851
 #852
 #854
 #856
@@ -276,6 +280,34 @@
 #872
 #873
 #874
+#875
+#876
+#877
+#878
+#880
+#881
+#882
+#883
+#884
+#885
+#886
+#887
+#888
+#889
+#890
+#891
+#892
+#893
+#894
+#895
+#896
+#897
+#898
+#899
+#900
+#901
+#902
+#903
 #91
 #93
 #94
@@ -286,7 +318,6 @@
 AppCompat_RunDLLW
 AssocCreateForClasses
 AssocGetDetailsOfPropKey
-CDefFolderMenu_Create
 CDefFolderMenu_Create2
 CheckEscapesW
 CIDLData_CreateFromIDArray
@@ -331,6 +362,7 @@ ExtractIconW
 FindExecutableA
 FindExecutableW
 FreeIconList
+GetCurrentProcessExplicitAppUserModelID
 GetFileNameFromBrowse
 ILAppendID
 ILClone
@@ -357,6 +389,7 @@ IsLFNDriveA
 IsLFNDriveW
 IsNetDrive
 IsUserAnAdmin
+LaunchMSHelp_RunDLLW
 OpenAs_RunDLL
 OpenAs_RunDLLA
 OpenAs_RunDLLW
@@ -391,12 +424,15 @@ RealShellExecuteW
 RegenerateUserEnvironment
 RestartDialog
 RestartDialogEx
+RunAsNewUser_RunDLLW
+SetCurrentProcessExplicitAppUserModelID
 SHAddDefaultPropertiesByExt
 SHAddFromPropSheetExtArray
 SHAddToRecentDocs
 SHAlloc
 SHAppBarMessage
 SHAssocEnumHandlers
+SHAssocEnumHandlersForProtocolByApplication
 SHBindToFolderIDListParent
 SHBindToFolderIDListParentEx
 SHBindToObject
@@ -454,6 +490,7 @@ Shell_GetImageLists
 Shell_MergeMenus
 Shell_NotifyIcon
 Shell_NotifyIconA
+Shell_NotifyIconGetRect
 Shell_NotifyIconW
 ShellAboutA
 ShellAboutW
@@ -506,7 +543,10 @@ SHGetIconOverlayIndexW
 SHGetIDListFromObject
 SHGetImageList
 SHGetInstanceExplorer
+SHGetItemFromDataObject
+SHGetItemFromObject
 SHGetKnownFolderIDList
+SHGetKnownFolderItem
 SHGetKnownFolderPath
 SHGetLocalizedName
 SHGetMalloc
@@ -518,6 +558,7 @@ SHGetPathFromIDList
 SHGetPathFromIDListA
 SHGetPathFromIDListEx
 SHGetPathFromIDListW
+SHGetPropertyStoreForWindow
 SHGetPropertyStoreFromIDList
 SHGetPropertyStoreFromParsingName
 SHGetRealIDL
@@ -558,6 +599,7 @@ SHQueryRecycleBinW
 SHQueryUserNotificationState
 SHRemoveLocalizedName
 SHReplaceFromPropSheetExtArray
+SHResolveLibrary
 SHRestricted
 SHSetDefaultProperties
 SHSetFolderPathA
@@ -568,6 +610,7 @@ SHSetLocalizedName
 SHSetTemporaryPropertyForItem
 SHSetUnreadMailCountW
 SHShellFolderView_Message
+SHShowManageLibraryUI
 SHSimpleIDListFromPath
 SHStartNetConnectionDialogW
 SHTestTokenMembership
@@ -576,6 +619,7 @@ SHUpdateImageW
 SHUpdateRecycleBinIcon
 SHValidateUNC
 SignalFileOpen
+StgMakeUniqueName
 StrChrA
 StrChrIA
 StrChrIW

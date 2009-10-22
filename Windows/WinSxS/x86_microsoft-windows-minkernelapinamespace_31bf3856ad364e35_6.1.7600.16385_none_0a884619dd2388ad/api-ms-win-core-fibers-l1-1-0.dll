@@ -1,0 +1,4 @@
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue

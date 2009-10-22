@@ -9,6 +9,7 @@ Dot3MsmFreeProfile
 Dot3MsmIndicateSessionChange
 Dot3MsmInit
 Dot3MsmInitAdapter
+Dot3MsmQueryMediaState
 Dot3MsmQueryPendingUIRequest
 Dot3MsmQueryState
 Dot3MsmReAuthenticate

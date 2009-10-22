@@ -1,0 +1,11 @@
+ConnectNamedPipe
+CreateNamedPipeW
+CreatePipe
+DisconnectNamedPipe
+GetNamedPipeAttribute
+GetNamedPipeClientComputerNameW
+ImpersonateNamedPipeClient
+PeekNamedPipe
+SetNamedPipeHandleState
+TransactNamedPipe
+WaitNamedPipeW

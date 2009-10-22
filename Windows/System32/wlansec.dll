@@ -13,13 +13,16 @@ MSMSecPerformCapabilityMatch
 MSMSecPerformPostAssociateSecurity
 MSMSecPerformPreAssociateSecurity
 MSMSecProcessSessionChange
+MSMSecQueryAPPeerPSKIndex
 MSMSecQueryIntfState
 MSMSecQueryPeerState
 MSMSecRecvIndication
 MSMSecRecvPacket
 MSMSecRedoSecurity
 MSMSecSendPktCompletion
+MSMSecSetAPSecondaryPSK
 MSMSecSetRuntimeState
+MSMSecSetWcnOneXEnable
 MSMSecStopPostAssociateSecurity
 MSMSecStopSecurity
 MSMSecUIResponse

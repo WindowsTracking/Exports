@@ -1,0 +1,17 @@
+SLAcquireGenuineTicket
+SLActivateProduct
+SLDepositTokenActivationResponse
+SLFreeTokenActivationCertificates
+SLFreeTokenActivationGrants
+SLGenerateTokenActivationChallenge
+SLGetPackageProductKey
+SLGetPackageProperties
+SLGetPackageToken
+SLGetReferralInformation
+SLGetServerStatus
+SLGetTokenActivationCertificates
+SLGetTokenActivationGrants
+SLInitialize
+SLInstallPackage
+SLSignTokenActivationChallenge
+SLUninstallPackage

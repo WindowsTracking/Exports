@@ -5,13 +5,13 @@ CDBuildVect
 CDFindCommonCSystem
 CDFindCommonCSystemWithKey
 CDGenerateRandomBits
+CDGetIntegrityVect
 CDLocateCheckSum
 CDLocateCSystem
 CDLocateRng
 CDRegisterCheckSum
 CDRegisterCSystem
 CDRegisterRng
-CDSetIntegrityVect
 HMACwithSHA
 MD5Final
 MD5Init

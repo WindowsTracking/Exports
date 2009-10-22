@@ -47,6 +47,7 @@ WdipLaunchRunDLLUserHost
 WdiQueueCurrentResolution
 WdiResolve
 WdiRevertToSelf
+WdiSetFeedback
 WdiSetProblemDetectionResult
 WdiSetProgress
 WdiSetResolution

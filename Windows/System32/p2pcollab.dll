@@ -20,7 +20,6 @@ CollabConvertPictureToBitmap
 CollabCreateXMLContactBlob
 CollabDeleteContact
 CollabDisableAutoStart
-CollabDisplayPrivacyWebpage
 CollabEnableAutoStart
 CollabEnumContacts
 CollabExportContact

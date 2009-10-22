@@ -1,0 +1,8 @@
+FveAuthWithKey
+FveAuthWithPasswordW
+FveCreateRestoreContext
+FveDecryptData
+FveDestroyRestoreContext
+FveGetMetadataFromRestoreContext
+FveSupplyInformationBlock
+FveSupplyKeyPackage

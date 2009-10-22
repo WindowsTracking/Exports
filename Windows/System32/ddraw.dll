@@ -19,3 +19,4 @@ GetOLEThunkData
 GetSurfaceFromDC
 RegisterSpecialCase
 ReleaseDDThreadLock
+SetAppCompatData

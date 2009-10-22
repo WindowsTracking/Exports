@@ -1,0 +1,4 @@
+SppPluginCanUnloadNow
+SppPluginCreateInstance
+SppPluginInitialize
+SppPluginShutdown

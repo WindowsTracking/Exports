@@ -60,6 +60,7 @@ DRMGetRightInfo
 DRMGetSecurityProvider
 DRMGetServiceLocation
 DRMGetSignedIssuanceLicense
+DRMGetSignedIssuanceLicenseEx
 DRMGetTime
 DRMGetUnboundLicenseAttribute
 DRMGetUnboundLicenseAttributeCount

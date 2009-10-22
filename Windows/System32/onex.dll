@@ -10,7 +10,6 @@ OneXDestroySupplicantPort
 OneXForceAuthenticatedState
 OneXFreeAuthParams
 OneXFreeMemory
-OneXGetUserFriendlyText
 OneXIndicatePacket
 OneXIndicateSessionChange
 OneXInitialize
@@ -22,8 +21,6 @@ OneXReasonCodeToString
 OneXRestartReasonCodeToString
 OneXSetAuthParams
 OneXSetRuntimeState
-OneXShowUI
-OneXShowUIFromEAPCreds
 OneXStartAuthentication
 OneXStopAuthentication
 OneXUIResponse

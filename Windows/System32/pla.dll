@@ -1,6 +1,5 @@
 DllCanUnloadNow
 DllGetClassObject
-PlaConvertLogEntries
 PlaDeleteReport
 PlaExpandTaskArguments
 PlaExtractCabinet

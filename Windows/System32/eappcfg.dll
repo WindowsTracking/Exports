@@ -3,6 +3,7 @@ EapHostPeerConfigXml2Blob
 EapHostPeerCredentialsXml2Blob
 EapHostPeerFreeErrorMemory
 EapHostPeerFreeMemory
+EapHostPeerGetMethodProperties
 EapHostPeerGetMethods
 EapHostPeerInvokeConfigUI
 EapHostPeerInvokeIdentityUI

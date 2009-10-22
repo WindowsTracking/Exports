@@ -4,6 +4,7 @@ EnableSR
 EnableSREx
 EnableSRInternal
 SetSRStateAfterSetup
+SRNewSystemId
 SRRemoveRestorePoint
 SRSetRestorePointA
 SRSetRestorePointInternal

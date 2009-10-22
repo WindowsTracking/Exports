@@ -4,6 +4,7 @@ DestroyPhysicalMonitor
 DestroyPhysicalMonitors
 DXVA2CreateDirect3DDeviceManager9
 DXVA2CreateVideoService
+DXVAHD_CreateDevice
 GetCapabilitiesStringLength
 GetMonitorBrightness
 GetMonitorCapabilities
@@ -34,4 +35,3 @@ SetMonitorDisplayAreaSize
 SetMonitorRedGreenOrBlueDrive
 SetMonitorRedGreenOrBlueGain
 SetVCPFeature
-UABGetCertificate

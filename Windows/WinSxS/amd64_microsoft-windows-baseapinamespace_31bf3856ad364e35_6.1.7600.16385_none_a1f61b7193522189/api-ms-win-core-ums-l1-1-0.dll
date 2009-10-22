@@ -1,0 +1,13 @@
+CreateUmsCompletionList
+CreateUmsThreadContext
+DeleteUmsCompletionList
+DeleteUmsThreadContext
+DequeueUmsCompletionListItems
+EnterUmsSchedulingMode
+ExecuteUmsThread
+GetCurrentUmsThread
+GetNextUmsListItem
+GetUmsCompletionListEvent
+QueryUmsThreadInformation
+SetUmsThreadInformation
+UmsThreadYield

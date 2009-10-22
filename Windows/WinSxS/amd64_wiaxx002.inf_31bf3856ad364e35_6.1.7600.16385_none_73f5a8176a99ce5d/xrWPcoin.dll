@@ -1,0 +1,12 @@
+??0CCabFileMpt@@QEAA@AEBV0@@Z
+??0CCabFileMpt@@QEAA@XZ
+??1CCabFileMpt@@UEAA@XZ
+??4CCabFileMpt@@QEAAAEAV0@AEBV0@@Z
+??_7CCabFileMpt@@6B@
+?ExtractCabFile@CCabFileMpt@@QEAAHPEAG00AEAH@Z
+?ExtractCabFile@CCabFileMpt@@QEAAHPEAG0AEAH@Z
+?MyCreateDirectory@CCabFileMpt@@SAHPEAG@Z
+CoDeviceInstall
+DoSetup
+DoUninstall
+RunTempMgr

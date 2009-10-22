@@ -1,4 +1,5 @@
 D3D10CoreCreateDevice
+D3D10CoreGetSupportedVersions
 D3D10CoreGetVersion
 D3D10CoreRegisterLayers
 D3DKMTCloseAdapter
@@ -36,3 +37,4 @@ D3DKMTUnlock
 D3DKMTWaitForSynchronizationObject
 D3DKMTWaitForVerticalBlankEvent
 OpenAdapter10
+OpenAdapter10_2

@@ -1,5 +1,0 @@
-DllInitialize
-DllUnload
-GetAndInitializePlatformObject
-WdfGetDriverManagerSidType
-WdfGetLpcInterface

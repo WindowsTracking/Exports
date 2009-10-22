@@ -1,8 +1,0 @@
-ClosePrintProcessor
-ControlPrintProcessor
-DllMain
-EnumPrintProcessorDatatypesW
-GetJobAttributes
-GetPrintProcessorCapabilities
-OpenPrintProcessor
-PrintDocumentOnPrintProcessor

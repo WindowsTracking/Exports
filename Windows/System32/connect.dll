@@ -5,6 +5,8 @@ DllGetClassObject
 GetInternetConnected
 GetNetworkConnected
 GetVPNConnected
+HrIsInternetConnected
+HrIsInternetConnectedGUID
 IsInternetConnected
 IsInternetConnectedGUID
 IsUniqueConnectionName

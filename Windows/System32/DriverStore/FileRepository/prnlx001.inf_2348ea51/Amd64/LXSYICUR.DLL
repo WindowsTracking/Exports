@@ -1,9 +1,0 @@
-IPCcreate_job
-IPCcreate_printer
-IPCdestroy_printer
-IPCend_cart_install
-IPCend_job
-IPCend_page
-IPCsend_rgb_image
-IPCstart_cart_install
-IPCstart_page

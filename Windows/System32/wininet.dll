@@ -16,6 +16,7 @@
 #122
 #123
 #346
+#401
 _GetFileExtensionFromUrl
 CommitUrlCacheEntryA
 CommitUrlCacheEntryW
@@ -32,6 +33,7 @@ DeleteUrlCacheEntry
 DeleteUrlCacheEntryA
 DeleteUrlCacheEntryW
 DeleteUrlCacheGroup
+DeleteWpadCacheForNetworks
 DetectAutoProxyUrl
 DispatchAPICall
 DllInstall
@@ -218,6 +220,7 @@ ParseX509EncodedCertificateForListBoxEntry
 PrivacyGetZonePreferenceW
 PrivacySetZonePreferenceW
 ReadUrlCacheEntryStream
+ReadUrlCacheEntryStreamEx
 RegisterUrlCacheNotification
 ResumeSuspendedDownload
 RetrieveUrlCacheEntryFileA

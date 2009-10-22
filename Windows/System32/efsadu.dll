@@ -2,10 +2,12 @@ AddUserToObjectW
 BackCurrentEfsCert
 EfsDetail
 EfsUIUtilCheckScardStatus
+EfsUIUtilCreateSelfSignedCertificate
 EfsUIUtilEncryptMyDocuments
 EfsUIUtilEnrollEfsCertificate
+EfsUIUtilEnrollEfsCertificateEx
 EfsUIUtilInstallDra
-EfsUIUtilpKeyBackup
+EfsUIUtilKeyBackup
 EfsUIUtilPromptForPin
 EfsUIUtilPromptForPinDialog
 EfsUIUtilSelectCard

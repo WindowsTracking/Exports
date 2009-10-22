@@ -1,4 +1,6 @@
+#110
+#111
+#134
 DllCanUnloadNow
 DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
+DllGetVersion

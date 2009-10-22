@@ -1,0 +1,10 @@
+DllMain
+Myfreeaddrinfo
+Mygetaddrinfo
+Mygetnameinfo
+MyRouterAllocBidiMem
+MyRouterAllocBidiResponseContainer
+MyRouterFreeBidiMem
+MyWTSGetActiveConsoleSessionId
+MyWTSQuerySessionInformation
+MyWTSQueryUserToken

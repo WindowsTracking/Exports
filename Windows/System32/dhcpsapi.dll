@@ -1,4 +1,6 @@
+DhcpAddFilterV4
 DhcpAddMScopeElement
+DhcpAddSecurityGroup
 DhcpAddServer
 DhcpAddSubnetElement
 DhcpAddSubnetElementV4
@@ -21,6 +23,7 @@ DhcpDeleteClass
 DhcpDeleteClassV6
 DhcpDeleteClientInfo
 DhcpDeleteClientInfoV6
+DhcpDeleteFilterV4
 DhcpDeleteMClientInfo
 DhcpDeleteMScope
 DhcpDeleteServer
@@ -32,6 +35,7 @@ DhcpDsClearHostServerEntries
 DhcpDsInit
 DhcpEnumClasses
 DhcpEnumClassesV6
+DhcpEnumFilterV4
 DhcpEnumMScopeClients
 DhcpEnumMScopeElements
 DhcpEnumMScopes
@@ -43,6 +47,7 @@ DhcpEnumOptionValuesV5
 DhcpEnumOptionValuesV6
 DhcpEnumServers
 DhcpEnumSubnetClients
+DhcpEnumSubnetClientsFilterStatusInfo
 DhcpEnumSubnetClientsV4
 DhcpEnumSubnetClientsV5
 DhcpEnumSubnetClientsV6
@@ -63,8 +68,10 @@ DhcpGetClientInfoV4
 DhcpGetClientInfoV6
 DhcpGetClientInfoVQ
 DhcpGetClientOptions
+DhcpGetFilterV4
 DhcpGetMCastMibInfo
 DhcpGetMibInfo
+DhcpGetMibInfoV5
 DhcpGetMibInfoV6
 DhcpGetMibInfoVQ
 DhcpGetMScopeInfo
@@ -77,6 +84,7 @@ DhcpGetOptionValueV6
 DhcpGetServerBindingInfo
 DhcpGetServerBindingInfoV6
 DhcpGetServerSpecificStrings
+DhcpGetSubnetDelayOffer
 DhcpGetSubnetInfo
 DhcpGetSubnetInfoV6
 DhcpGetSubnetInfoVQ
@@ -115,10 +123,12 @@ DhcpServerSetConfigV4
 DhcpServerSetConfigV6
 DhcpServerSetConfigVQ
 DhcpServerSetDnsRegCredentials
+DhcpServerSetDnsRegCredentialsV5
 DhcpSetClientInfo
 DhcpSetClientInfoV4
 DhcpSetClientInfoV6
 DhcpSetClientInfoVQ
+DhcpSetFilterV4
 DhcpSetMScopeInfo
 DhcpSetOptionInfo
 DhcpSetOptionInfoV5
@@ -130,6 +140,7 @@ DhcpSetOptionValueV5
 DhcpSetOptionValueV6
 DhcpSetServerBindingInfo
 DhcpSetServerBindingInfoV6
+DhcpSetSubnetDelayOffer
 DhcpSetSubnetInfo
 DhcpSetSubnetInfoV6
 DhcpSetSubnetInfoVQ

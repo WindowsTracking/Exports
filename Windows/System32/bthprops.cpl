@@ -9,6 +9,7 @@ BluetoothDisplayDeviceProperties
 BluetoothEnableDiscovery
 BluetoothEnableIncomingConnections
 BluetoothEnumerateInstalledServices
+BluetoothEnumerateInstalledServicesEx
 BluetoothFindBrowseGroupClose
 BluetoothFindClassIdClose
 BluetoothFindDeviceClose
@@ -61,3 +62,5 @@ BthpEnableAllServices
 BthpFindPnpInfo
 BthpMapStatusToErr
 CPlApplet
+DllCanUnloadNow
+DllGetClassObject

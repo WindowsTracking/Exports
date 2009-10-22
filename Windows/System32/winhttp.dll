@@ -1,7 +1,6 @@
 DllCanUnloadNow
 DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
+Private1
 SvchostPushServiceGlobals
 WinHttpAddRequestHeaders
 WinHttpAutoProxySvcMain

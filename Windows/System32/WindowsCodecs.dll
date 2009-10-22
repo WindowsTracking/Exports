@@ -103,6 +103,7 @@ IWICStream_InitializeFromIStream_Proxy
 IWICStream_InitializeFromMemory_Proxy
 WICConvertBitmapSource
 WICCreateBitmapFromSection
+WICCreateBitmapFromSectionEx
 WICCreateColorContext_Proxy
 WICCreateImagingFactory_Proxy
 WICGetMetadataContentSize

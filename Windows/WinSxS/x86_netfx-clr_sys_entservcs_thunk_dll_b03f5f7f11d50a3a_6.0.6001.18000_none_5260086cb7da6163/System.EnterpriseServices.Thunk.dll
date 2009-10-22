@@ -1,6 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-DllGetClassObjectInternal
-DllRegisterServer
-DllUnregisterServer
-GetProxyDllInfo

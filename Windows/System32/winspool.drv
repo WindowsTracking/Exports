@@ -33,6 +33,10 @@
 #250
 #251
 #252
+#253
+#254
+#255
+#256
 AbortPrinter
 AddFormA
 AddFormW
@@ -166,6 +170,7 @@ GetPrinterDriverPackagePathA
 GetPrinterDriverPackagePathW
 GetPrinterDriverW
 GetPrinterW
+GetPrintExecutionData
 GetPrintProcessorDirectoryA
 GetPrintProcessorDirectoryW
 GetSpoolFileHandle

@@ -1,0 +1,9 @@
+ConvertDevmode
+ConvertDevModeEx
+ConvertTicket
+ConvertTicketEx
+GetConvertAPIVersion
+GetConvertAPIVersionEx
+InitializeConvertAPI
+KillConvertAPI
+ReadTicket

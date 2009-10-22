@@ -1,0 +1,8 @@
+EvtDlgAsyncUIEntryPointJobStorage
+EvtDlgAsyncUIEntryPointJobUI
+EvtDlgAsyncUIEntryPointManualDuplexModal
+EvtDlgAsyncUIEntryPointManualDuplexModeless
+EvtDlgAsyncUIEntryPointPrintPreview
+IShowWarningDialog
+VDisplayDialog
+VJobStorageDialog

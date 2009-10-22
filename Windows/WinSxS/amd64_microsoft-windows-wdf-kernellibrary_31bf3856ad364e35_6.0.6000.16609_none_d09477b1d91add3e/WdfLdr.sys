@@ -1,8 +1,0 @@
-DllInitialize
-DllUnload
-WdfLdrDiagnosticsValueByNameAsULONG
-WdfLdrDiags
-WdfLdrQueryInterface
-WdfRegisterLibrary
-WdfVersionBind
-WdfVersionUnbind

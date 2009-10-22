@@ -1,7 +1,0 @@
-GHAL_CreateContext
-GHALGetFctTable
-GmmCreateContext
-GmmGetFctTable
-OpenGLEscape
-OpenGLEscapeCreateWnd
-OpenGLEscapePrivate

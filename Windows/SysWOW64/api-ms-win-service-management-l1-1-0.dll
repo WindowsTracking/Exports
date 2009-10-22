@@ -1,0 +1,7 @@
+CloseServiceHandle
+ControlServiceExW
+CreateServiceW
+DeleteService
+OpenSCManagerW
+OpenServiceW
+StartServiceW

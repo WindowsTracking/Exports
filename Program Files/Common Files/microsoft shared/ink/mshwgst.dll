@@ -5,8 +5,6 @@ CreateContext
 CreateRecognizer
 DestroyContext
 DestroyRecognizer
-DllRegisterServer
-DllUnregisterServer
 EndInkInput
 GetBestResultString
 GetContextPropertyList

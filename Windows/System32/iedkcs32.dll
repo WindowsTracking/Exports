@@ -3,6 +3,7 @@ BrandExternal
 BrandICW
 BrandICW2
 BrandIE4
+BrandIEActiveSetup
 BrandInternetExplorer
 BrandIntra
 BrandMe
@@ -15,4 +16,6 @@ GenerateGroupPolicy
 InternetInitializeAutoProxyDll
 ProcessGroupPolicy
 ProcessGroupPolicyEx
+ProcessGroupPolicyForActivities
+ProcessGroupPolicyForActivitiesEx
 ProcessGroupPolicyForZoneMap

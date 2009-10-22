@@ -1,9 +1,5 @@
 DllCanUnloadNow
 DllGetClassObject
-DllInstall
-DllMain
-DllRegisterServer
-DllUnregisterServer
 FindControlClose
 FindFirstControl
 FindNextControl
@@ -14,5 +10,6 @@ ReleaseControlHandle
 RemoveControlByHandle
 RemoveControlByHandle2
 RemoveControlByName
+RemoveControlByName2
 RemoveExpiredControls
 SweepControlsByLastAccessDate

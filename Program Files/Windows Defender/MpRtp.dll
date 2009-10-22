@@ -1,0 +1,8 @@
+MpPluginGetState
+MpPluginInitialize
+MpPluginReportThreadStatus
+MpPluginSetEngine
+MpPluginSetState
+MpPluginSetUserInformation
+MpPluginShutdown
+MpPluginStop

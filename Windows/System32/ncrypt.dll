@@ -8,6 +8,8 @@ BCryptCreateHash
 BCryptDecrypt
 BCryptDeleteContext
 BCryptDeriveKey
+BCryptDeriveKeyCapi
+BCryptDeriveKeyPBKDF2
 BCryptDestroyHash
 BCryptDestroyKey
 BCryptDestroySecret
@@ -82,6 +84,7 @@ SslChangeNotify
 SslComputeClientAuthHash
 SslComputeEapKeyBlock
 SslComputeFinishedHash
+SslCreateClientAuthHash
 SslCreateEphemeralKey
 SslCreateHandshakeHash
 SslDecrementProviderReferenceCount
@@ -94,13 +97,16 @@ SslFreeBuffer
 SslFreeObject
 SslGenerateMasterKey
 SslGenerateSessionKeys
+SslGetCipherSuitePRFHashAlgorithm
 SslGetKeyProperty
 SslGetProviderProperty
 SslHashHandshake
 SslImportKey
 SslImportMasterKey
 SslIncrementProviderReferenceCount
+SslLookupCipherLengths
 SslLookupCipherSuiteInfo
 SslOpenPrivateKey
 SslOpenProvider
 SslSignHash
+SslVerifySignature

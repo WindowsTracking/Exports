@@ -20,6 +20,7 @@ FreeReservedLog
 GetLogContainerName
 GetLogFileInformation
 GetLogIoStatistics
+GetLogReservationInfo
 GetNextLogArchiveExtent
 HandleLogFull
 InstallLogPolicy

@@ -1,9 +1,0 @@
-STWNDCloseConnection
-STWNDDeleteStateItem
-STWNDEndOfRequest
-STWNDGetLocalAddress
-STWNDGetLocalPort
-STWNDGetRemoteAddress
-STWNDGetRemotePort
-STWNDIsClientConnected
-STWNDSendResponse

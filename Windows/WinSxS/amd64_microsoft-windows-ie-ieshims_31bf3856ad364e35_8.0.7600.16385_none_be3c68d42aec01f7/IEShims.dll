@@ -1,0 +1,8 @@
+AcRedirNotify
+AcRedirNotifySetEnabled
+AcRedirSetEnabled
+IEShims_GetOriginatingThreadId
+IEShims_InDllMainContext
+IEShims_Initialize
+IEShims_SetRedirectRegistryForThread
+IEShims_Uninitialize

@@ -1,6 +1,0 @@
-BeginFileMapEnumeration
-CloseFileMapEnumeration
-GetNextFileMapContent
-SfcGetNextProtectedFile
-SfcIsFileProtected
-SfcIsKeyProtected

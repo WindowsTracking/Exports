@@ -1,0 +1,7 @@
+CancelIoEx
+CreateIoCompletionPort
+DeviceIoControl
+GetOverlappedResult
+GetQueuedCompletionStatus
+GetQueuedCompletionStatusEx
+PostQueuedCompletionStatus

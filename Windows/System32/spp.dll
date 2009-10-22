@@ -3,6 +3,7 @@ DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
 SppFreeClientPropArray
+SppFreeExternalGroupPropArray
 SppFreeGroupPropArray
 SppFreeMetadataProp
 SxTracerDebuggerBreak

@@ -1,0 +1,5 @@
+CreateUSD
+DeleteUSD
+DllCanUnloadNow
+DllGetClassObject
+DllMain

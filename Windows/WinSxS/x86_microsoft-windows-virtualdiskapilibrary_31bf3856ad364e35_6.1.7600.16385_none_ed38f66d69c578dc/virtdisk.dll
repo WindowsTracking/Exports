@@ -1,0 +1,12 @@
+AttachVirtualDisk
+CompactVirtualDisk
+CreateVirtualDisk
+DetachVirtualDisk
+ExpandVirtualDisk
+GetStorageDependencyInformation
+GetVirtualDiskInformation
+GetVirtualDiskOperationProgress
+GetVirtualDiskPhysicalPath
+MergeVirtualDisk
+OpenVirtualDisk
+SetVirtualDiskInformation

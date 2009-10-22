@@ -1,0 +1,8 @@
+VmbusPipeClientEnumeratePipes
+VmbusPipeClientOpenChannel
+VmbusPipeClientWaitChannel
+VmbusPipeGetPipeMode
+VmbusPipeServerConnectPipe
+VmbusPipeServerOfferChannel
+VmbusPipeServerPause
+VmbusPipeServerResume

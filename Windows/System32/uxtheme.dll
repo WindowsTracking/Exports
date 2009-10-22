@@ -51,10 +51,20 @@
 #75
 #76
 #77
+#78
+#79
 #8
+#80
+#81
+#82
+#83
+#84
+#85
+#86
 #9
 BeginBufferedAnimation
 BeginBufferedPaint
+BeginPanningFeedback
 BufferedPaintClear
 BufferedPaintInit
 BufferedPaintRenderAnimation
@@ -74,6 +84,7 @@ EnableThemeDialogTexture
 EnableTheming
 EndBufferedAnimation
 EndBufferedPaint
+EndPanningFeedback
 GetBufferedPaintBits
 GetBufferedPaintDC
 GetBufferedPaintTargetDC
@@ -124,3 +135,4 @@ SetThemeAppProperties
 SetWindowTheme
 SetWindowThemeAttribute
 ThemeInitApiHook
+UpdatePanningFeedback

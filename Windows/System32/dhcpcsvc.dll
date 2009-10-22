@@ -54,7 +54,8 @@ DhcpSetFallbackParams
 DhcpSetMSFTVendorSpecificOptions
 DhcpStaticRefreshParams
 DhcpUndoRequestParams
-GetModuleInfo
+Dhcpv4CheckServerAvailability
+Dhcpv4EnableDhcpEx
 McastApiCleanup
 McastApiStartup
 McastEnumerateScopes
@@ -62,5 +63,3 @@ McastGenUID
 McastReleaseAddress
 McastRenewAddress
 McastRequestAddress
-NotifyModule
-ServiceMain

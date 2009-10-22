@@ -1,3 +1,4 @@
+#1000
 A_SHAFinal
 A_SHAInit
 A_SHAUpdate
@@ -24,6 +25,7 @@ AddAce
 AddAuditAccessAce
 AddAuditAccessAceEx
 AddAuditAccessObjectAce
+AddConditionalAce
 AddMandatoryAce
 AddUsersToEncryptedFile
 AddUsersToEncryptedFileEx
@@ -45,9 +47,13 @@ AuditLookupCategoryNameA
 AuditLookupCategoryNameW
 AuditLookupSubCategoryNameA
 AuditLookupSubCategoryNameW
+AuditQueryGlobalSaclA
+AuditQueryGlobalSaclW
 AuditQueryPerUserPolicy
 AuditQuerySecurity
 AuditQuerySystemPolicy
+AuditSetGlobalSaclA
+AuditSetGlobalSaclW
 AuditSetPerUserPolicy
 AuditSetSecurity
 AuditSetSystemPolicy
@@ -74,7 +80,6 @@ ChangeServiceConfig2A
 ChangeServiceConfig2W
 ChangeServiceConfigA
 ChangeServiceConfigW
-CheckAppInitBlockedServiceIdentity
 CheckTokenMembership
 ClearEventLogA
 ClearEventLogW
@@ -241,6 +246,7 @@ ElfReportEventAndSourceW
 ElfReportEventW
 EnableTrace
 EnableTraceEx
+EnableTraceEx2
 EncryptedFileKeyInfo
 EncryptFileA
 EncryptFileW
@@ -267,6 +273,7 @@ EventRegister
 EventUnregister
 EventWrite
 EventWriteEndScenario
+EventWriteEx
 EventWriteStartScenario
 EventWriteString
 EventWriteTransfer
@@ -657,10 +664,10 @@ SaferGetPolicyInformation
 SaferiChangeRegistryScope
 SaferiCompareTokenLevels
 SaferIdentifyLevel
+SaferiIsDllAllowed
 SaferiIsExecutableFileType
 SaferiPopulateDefaultsInRegistry
 SaferiRecordEventLogEntry
-SaferiReplaceProcessThreadTokens
 SaferiSearchMatchingHashRules
 SaferRecordEventLogEntry
 SaferSetLevelInformation
@@ -752,6 +759,7 @@ TraceEvent
 TraceEventInstance
 TraceMessage
 TraceMessageVa
+TraceSetInformation
 TreeResetNamedSecurityInfoA
 TreeResetNamedSecurityInfoW
 TreeSetNamedSecurityInfoA
@@ -795,5 +803,4 @@ WmiSetSingleInstanceA
 WmiSetSingleInstanceW
 WmiSetSingleItemA
 WmiSetSingleItemW
-Wow64Win32ApiEntry
 WriteEncryptedFileRaw

@@ -1,0 +1,8 @@
+DllMain
+EXTDDIWrapBJDeviceMode
+EXTDDIWrapClose
+EXTDDIWrapGetID
+EXTDDIWrapOpen
+MntEXTDDIWrapBJMaintenance
+MntEXTDDIWrapClose
+MntEXTDDIWrapOpen

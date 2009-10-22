@@ -1,0 +1,12 @@
+CbsCoreEnsureNoStartupProcessing
+CbsCoreFinalize
+CbsCoreFinalizeShutdownProcessing
+CbsCoreInitialize
+CbsCoreInitializeDelayedPortion
+CbsCoreIsExecutionEngineIdle
+CbsCorePrepareShutdownProcessing
+CbsCoreServiceIdleProcessing
+CbsCoreSetState
+CbsCoreShutdownProcessing
+CbsCoreStartupProcessing
+CbsCoreUnregisterWinlogonNotification

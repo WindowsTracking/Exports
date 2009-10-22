@@ -16,6 +16,7 @@ SPEnablePublishingLicense
 SPEncrypt
 SPEncryptFinal
 SPEncryptUpdate
+SPGetBoundRightKey
 SPGetCurrentTime
 SPGetInfo
 SPGetLicenseAttribute

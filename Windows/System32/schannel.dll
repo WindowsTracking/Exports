@@ -26,6 +26,7 @@ SslCrackCertificate
 SslEmptyCacheA
 SslEmptyCacheW
 SslFreeCertificate
+SslFreeCustomBuffer
 SslGenerateRandomBits
 SslGetMaximumKeySize
 SslLoadCertificate

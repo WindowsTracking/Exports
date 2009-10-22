@@ -1,0 +1,14 @@
+DsRoleAbortDownlevelServerUpgrade
+DsRoleCancel
+DsRoleDcAsDc
+DsRoleDcAsReplica
+DsRoleDemoteDc
+DsRoleDnsNameToFlatName
+DsRoleFreeMemory
+DsRoleGetDatabaseFacts
+DsRoleGetDcOperationProgress
+DsRoleGetDcOperationResults
+DsRoleGetPrimaryDomainInformation
+DsRoleIfmHandleFree
+DsRoleServerSaveStateForUpgrade
+DsRoleUpgradeDownlevelServer

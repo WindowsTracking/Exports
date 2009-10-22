@@ -1,9 +1,0 @@
-ClosePopupTipbar
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-GetChildTipbar
-GetLibTls
-GetPopupTipbar
-SetRegisterLangBand

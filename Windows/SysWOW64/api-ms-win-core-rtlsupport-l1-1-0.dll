@@ -1,0 +1,4 @@
+RtlCaptureContext
+RtlCaptureStackBackTrace
+RtlFillMemory
+RtlUnwind

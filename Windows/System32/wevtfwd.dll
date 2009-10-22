@@ -1,5 +1,5 @@
+WSManPluginShutdown
+WSManPluginStartup
 WSManProvPullEvents
-WSManProvShutdown
-WSManProvStartup
 WSManProvSubscribe
 WSManProvUnsubscribe

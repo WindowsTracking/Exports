@@ -1,0 +1,9 @@
+DllCanUnloadNow
+DllGetClassObject
+DllInitiTvHostDisp
+DllRegisterServer
+DllUninitialize
+DllUnregisterServer
+GetITvHost
+SetDataSourceCookie
+SetIiTvHostManagedImpl

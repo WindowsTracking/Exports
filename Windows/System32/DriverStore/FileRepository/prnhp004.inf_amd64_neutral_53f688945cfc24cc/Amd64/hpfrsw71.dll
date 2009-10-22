@@ -1,0 +1,12 @@
+AllocatePackager
+DeallocatePackager
+DllMain
+ResMgrDownloadMediaSignatures
+ResMgrDownloadResources
+ResMgrDownloadSliders
+ResMgrGetMediaSignaturesPacket
+ResMgrGetMediaSignaturesPacketSize
+ResMgrGetResourcePacket
+ResMgrGetResourcePacketSize
+ResMgrGetSliderPacket
+ResMgrGetSliderPacketSize

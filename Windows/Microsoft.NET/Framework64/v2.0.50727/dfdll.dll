@@ -5,6 +5,7 @@ ActivateFileAssociationA
 ActivateFileAssociationW
 CleanOnlineAppCache
 GetApplicationExtensionIcon
+GetDefinitionAppIdKeyForm
 GetDeploymentDataFromManifest
 GetEntryPointPath
 GetIconFileNameA

@@ -1,12 +1,2 @@
-EfsApplyLastPolicy
-EfsDecryptFileRPCClientEx
-EfsInitPolicyLibrary
-EfsUtilCheckCurrentKeyCapabilities
-EfsUtilCreateSelfSignedCertificate
-EfsUtilGetCertContextFromCertHash
 EfsUtilGetCurrentKey
-EfsUtilGetProvider
-EfsUtilSetCurrentKey
-EfsUtilSmartcardCredsNeededError
-EfsUtilVerifyEfsStreamSignature
 FeClientInitialize

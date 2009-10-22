@@ -1,4 +1,6 @@
 DllRegisterServer
 DllUnregisterServer
+ProcessConnectivityPlatformPolicy
 ProcessEQoSPolicy
 ProcessPSCHEDPolicy
+ProcessTCPIPPolicy

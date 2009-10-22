@@ -1,8 +1,10 @@
+DeviceInternetSettingUiW
 DiInstallDevice
 DiInstallDriverA
 DiInstallDriverW
 DiRollbackDriver
 DiShowUpdateDevice
+DiUninstallDevice
 InstallNewDevice
 InstallSelectedDriver
 InstallWindowsUpdateDriver
@@ -11,6 +13,6 @@ pDiDeviceInstallNotificationW
 pDiDoDeviceInstallAsAdmin
 pDiDoFinishInstallAsAdmin
 pDiDoNullDriverInstall
+SetInternetPolicies
 UpdateDriverForPlugAndPlayDevicesA
 UpdateDriverForPlugAndPlayDevicesW
-WindowsUpdateDriverSearchingPolicyUi

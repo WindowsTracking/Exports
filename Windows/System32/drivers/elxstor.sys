@@ -1,0 +1,11 @@
+ElxBridgeExtAllocIocbContext
+ElxBridgeExtFreeIocbContext
+ElxBridgeExtFreeIocbContextInSynch
+ElxBridgeExtGetNodeByPathAndTarget
+ElxBridgeExtOpenChannel
+ElxBridgeSynchronizeAccess
+ElxDebugTrace
+FcPortCoreDeRegisterStateHandler
+FcPortCoreEnumerateNode
+FcPortCoreRegisterStateHandler
+FcPortEnumerateDiscovery

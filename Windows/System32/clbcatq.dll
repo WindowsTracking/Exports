@@ -1,13 +1,3 @@
-?ClearList@@YAXPEAVCStructArray@@@Z
-?CreateComponentLibraryTS@@YAJPEBGJPEAPEAUIComponentRecords@@@Z
-?DataConvert@@YAJGGKPEAKPEAX1KK0EEK@Z
-?DestroyStgDatabase@@YAXPEAVStgDatabase@@@Z
-?GetDataConversion@@YAJPEAPEAUIDataConvert@@@Z
-?GetDataConvertObject@@YAPEAVCGetDataConversion@@XZ
-?GetPropValue@@YAJGPEAJPEAXHPEAHAEAUtagDBPROP@@@Z
-?GetStgDatabase@@YAJPEAPEAVStgDatabase@@@Z
-?OpenComponentLibraryTS@@YAJPEBGJPEAPEAUIComponentRecords@@@Z
-?ShutDownDataConversion@@YAXXZ
 ActivatorUpdateForIsRouterChanges
 CheckMemoryGates
 CLSIDFromStringByBitness

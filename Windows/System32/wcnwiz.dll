@@ -1,6 +1,4 @@
-AddComputerOrDevice
 DllCanUnloadNow
 DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-SetupNetwork
+LaunchWriteToUSBWizard
+RunWcnWizardForDeviceW

@@ -1,0 +1,8 @@
+RtlCopyExtendedContext
+RtlGetEnabledExtendedFeatures
+RtlGetExtendedContextLength
+RtlGetExtendedFeaturesMask
+RtlInitializeExtendedContext
+RtlLocateExtendedFeature
+RtlLocateLegacyContext
+RtlSetExtendedFeaturesMask

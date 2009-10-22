@@ -1,6 +1,8 @@
 DDMAdminConnectionClearStats
 DDMAdminConnectionEnum
+DDMAdminConnectionEnumEx
 DDMAdminConnectionGetInfo
+DDMAdminConnectionGetInfoEx
 DDMAdminInterfaceConnect
 DDMAdminInterfaceDisconnect
 DDMAdminPortClearStats
@@ -10,7 +12,10 @@ DDMAdminPortGetInfo
 DDMAdminPortReset
 DDMAdminRemoveQuarantine
 DDMAdminServerGetInfo
+DDMAdminServerGetInfoEx
 DDMAdminServerSetInfo
+DDMAdminServerSetInfoEx
+DDMAdminUpdateConnection
 DDMConnectInterface
 DDMDisconnectInterface
 DDMGetIdentityAttributes

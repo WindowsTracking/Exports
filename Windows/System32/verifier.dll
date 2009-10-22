@@ -11,6 +11,7 @@ VerifierEnumerateResource
 VerifierForceNormalHeap
 VerifierGetInfoForException
 VerifierGetMemoryForDump
+VerifierGetProviderHelper
 VerifierIsCurrentThreadHoldingLocks
 VerifierIsDllEntryActive
 VerifierIsPerUserSettingsEnabled

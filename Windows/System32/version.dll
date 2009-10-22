@@ -1,4 +1,5 @@
 GetFileVersionInfoA
+GetFileVersionInfoByHandle
 GetFileVersionInfoExW
 GetFileVersionInfoSizeA
 GetFileVersionInfoSizeExW

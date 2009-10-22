@@ -8,6 +8,7 @@ AuthzFreeContext
 AuthzFreeHandle
 AuthzFreeResourceManager
 AuthzGetInformationFromContext
+AuthziAccessCheckEx
 AuthziAllocateAuditParams
 AuthziCheckContextMembership
 AuthziFreeAuditEventType
@@ -26,6 +27,7 @@ AuthziModifyAuditEvent
 AuthziModifyAuditEvent2
 AuthziModifyAuditEventType
 AuthziModifyAuditQueue
+AuthziModifySecurityAttributes
 AuthzInitializeContextFromAuthzContext
 AuthzInitializeContextFromSid
 AuthzInitializeContextFromToken
@@ -33,7 +35,9 @@ AuthzInitializeObjectAccessAuditEvent
 AuthzInitializeObjectAccessAuditEvent2
 AuthzInitializeResourceManager
 AuthzInstallSecurityEventSource
+AuthziQuerySecurityAttributes
 AuthziSourceAudit
+AuthzModifySecurityAttributes
 AuthzOpenObjectAudit
 AuthzRegisterSecurityEventSource
 AuthzReportSecurityEvent

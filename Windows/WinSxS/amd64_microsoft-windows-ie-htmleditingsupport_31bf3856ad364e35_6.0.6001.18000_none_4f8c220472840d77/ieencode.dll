@@ -1,9 +1,0 @@
-CceDetectInputCode
-CceGetAvailableEncodings
-CceIsAvailableEncoding
-CceStreamMultiByteToUnicode
-CceStreamUnicodeToMultiByte
-CceStringMultiByteToUnicode
-CceStringUnicodeToMultiByte
-DllMain
-FetchMsEncodeDllVersion

@@ -1,0 +1,12 @@
+FveCertCanCertificateBeAdded
+FveCertCreateCertInfo
+FveCertFilterForValidCertificates
+FveCertFindValidCertificates
+FveCertFreeCertInfo
+FveCertGetCertContextFromCert
+FveCertGetCertContextFromPfx
+FveCertGetCertHashFromCertContext
+FveCertGetPrivateKeyHandle
+FveCertGetPublicKeyHandle
+FveCertIsAlternateCert
+FveCertIsValidCertInfo

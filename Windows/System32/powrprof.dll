@@ -18,6 +18,7 @@ IsPwrShutdownAllowed
 IsPwrSuspendAllowed
 LoadCurrentPwrScheme
 MergeLegacyPwrScheme
+PowerApplyPowerRequestOverride
 PowerCanRestoreIndividualDefaultPowerScheme
 PowerCreatePossibleSetting
 PowerCreateSetting
@@ -34,13 +35,6 @@ PowerDuplicateScheme
 PowerEnumerate
 PowerGetActiveScheme
 PowerImportPowerScheme
-PowerInternalDeleteScheme
-PowerInternalDuplicateScheme
-PowerInternalImportPowerScheme
-PowerInternalRestoreDefaultPowerSchemes
-PowerInternalRestoreIndividualDefaultPowerScheme
-PowerInternalSetActiveScheme
-PowerInternalWriteToUserPowerKey
 PowerOpenSystemPowerKey
 PowerOpenUserPowerKey
 PowerPolicyToGUIDFormat
@@ -67,7 +61,10 @@ PowerReplaceDefaultPowerSchemes
 PowerRestoreDefaultPowerSchemes
 PowerRestoreIndividualDefaultPowerScheme
 PowerSetActiveScheme
+PowerSetAlsBrightnessOffset
 PowerSettingAccessCheck
+PowerSettingRegisterNotification
+PowerSettingUnregisterNotification
 PowerWriteACDefaultIndex
 PowerWriteACValueIndex
 PowerWriteDCDefaultIndex
@@ -89,7 +86,6 @@ ReadProcessorPwrScheme
 ReadPwrScheme
 SetActivePwrScheme
 SetSuspendState
-Sysprep_Generalize_Power
 ValidatePowerPolicies
 WriteGlobalPwrPolicy
 WriteProcessorPwrScheme

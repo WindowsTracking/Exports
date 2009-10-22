@@ -1,10 +1,8 @@
-??4Simulation@@QEAAAEAV0@AEBV0@@Z
-??4WSManMemory@@QEAAAEAV0@AEBV0@@Z
+WSManPluginShutdown
+WSManPluginStartup
 WSManProvEndEnumerate
 WSManProvEnumerate
 WSManProvGet
 WSManProvInvoke
 WSManProvPullEnumerate
 WSManProvPut
-WSManProvShutdown
-WSManProvStartup

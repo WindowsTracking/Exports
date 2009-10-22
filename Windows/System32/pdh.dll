@@ -4,6 +4,7 @@ PdhAddCounterA
 PdhAddCounterW
 PdhAddEnglishCounterA
 PdhAddEnglishCounterW
+PdhAddRelogCounter
 PdhBindInputDataSourceA
 PdhBindInputDataSourceW
 PdhBrowseCountersA
@@ -87,14 +88,15 @@ PdhParseCounterPathA
 PdhParseCounterPathW
 PdhParseInstanceNameA
 PdhParseInstanceNameW
-PdhpGetLoggerName
 PdhReadRawLogRecord
 PdhRelogA
 PdhRelogW
 PdhRemoveCounter
+PdhResetRelogCounterValues
 PdhSelectDataSourceA
 PdhSelectDataSourceW
 PdhSetCounterScaleFactor
+PdhSetCounterValue
 PdhSetDefaultRealTimeDataSource
 PdhSetLogSetRunID
 PdhSetQueryTimeRange
@@ -122,3 +124,4 @@ PdhVbOpenQuery
 PdhVbUpdateLog
 PdhVerifySQLDBA
 PdhVerifySQLDBW
+PdhWriteRelogSample

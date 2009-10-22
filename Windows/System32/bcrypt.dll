@@ -8,6 +8,8 @@ BCryptCreateHash
 BCryptDecrypt
 BCryptDeleteContext
 BCryptDeriveKey
+BCryptDeriveKeyCapi
+BCryptDeriveKeyPBKDF2
 BCryptDestroyHash
 BCryptDestroyKey
 BCryptDestroySecret
@@ -50,9 +52,3 @@ BCryptSignHash
 BCryptUnregisterConfigChangeNotify
 BCryptUnregisterProvider
 BCryptVerifySignature
-GetAsymmetricEncryptionInterface
-GetCipherInterface
-GetHashInterface
-GetRngInterface
-GetSecretAgreementInterface
-GetSignatureInterface

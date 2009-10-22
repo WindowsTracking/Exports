@@ -1,0 +1,5 @@
+CheckDriverUpdate
+DllCanUnloadNow
+DllGetClassObject
+ExecDownloadFunc
+ExecDownloadFunc2

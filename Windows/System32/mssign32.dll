@@ -1,7 +1,9 @@
 DllRegisterServer
 DllUnregisterServer
 FreeCryptProvFromCert
+FreeCryptProvFromCertEx
 GetCryptProvFromCert
+GetCryptProvFromCertEx
 PvkFreeCryptProv
 PvkGetCryptProv
 PvkPrivateKeyAcquireContext
@@ -27,4 +29,5 @@ SignerSign
 SignerSignEx
 SignerTimeStamp
 SignerTimeStampEx
+SignerTimeStampEx2
 SpcGetCertFromKey

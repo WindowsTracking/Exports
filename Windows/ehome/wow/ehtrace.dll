@@ -10,6 +10,10 @@ CETWProvider_TracePerfMarkerStart
 CETWProvider_TraceTextLevel
 CETWProvider_TraceVideoSize
 CETWProvider_Uninitialize
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
 ehAllocateEventBuffer
 ehFreeEventBuffer
 ehIsTraceEnabled

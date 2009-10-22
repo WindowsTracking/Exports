@@ -1,0 +1,12 @@
+DavAddConnection
+DavCheckAndConvertHttpUrlToUncName
+DavDeleteConnection
+DavFlushFile
+DavGetExtendedError
+DavGetHTTPFromUNCPath
+DavGetServerPortAndPhysicalName
+DavGetUNCFromHTTPPath
+DavRemoveDummyShareFromFileName
+DavRemoveDummyShareFromFileNameEx
+UtfUrlStrToWideStr
+WideStrToUtfUrlStr

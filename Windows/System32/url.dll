@@ -8,8 +8,6 @@ MailToProtocolHandler
 MailToProtocolHandlerA
 MIMEAssociationDialogA
 MIMEAssociationDialogW
-NewsProtocolHandler
-NewsProtocolHandlerA
 OpenURL
 OpenURLA
 TelnetProtocolHandler

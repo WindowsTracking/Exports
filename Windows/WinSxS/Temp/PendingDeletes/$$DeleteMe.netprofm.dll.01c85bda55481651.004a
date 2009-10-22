@@ -1,6 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-ServiceMain
-SvchostPushServiceGlobals

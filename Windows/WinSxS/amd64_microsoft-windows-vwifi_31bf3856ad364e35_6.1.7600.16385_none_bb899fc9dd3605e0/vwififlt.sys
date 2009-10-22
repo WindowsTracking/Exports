@@ -1,0 +1,13 @@
+DllInitialize
+DllUnload
+FExCancelDirectOidRequest
+FExCancelOidRequest
+FExCancelSendNetBufferLists
+FExDeregisterMp
+FExDirectOidRequest
+FExOidRequest
+FExRegisterMp
+FExReturnNetBufferLists
+FExSendNetBufferLists
+FExStartMp
+FExStopMp

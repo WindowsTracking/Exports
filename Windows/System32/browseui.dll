@@ -24,6 +24,4 @@
 #137
 #138
 #139
-DllCanUnloadNow
-DllGetClassObject
 DllGetVersion

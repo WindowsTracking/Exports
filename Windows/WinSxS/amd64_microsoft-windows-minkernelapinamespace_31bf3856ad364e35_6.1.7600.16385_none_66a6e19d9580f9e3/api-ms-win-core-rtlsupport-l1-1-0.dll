@@ -1,0 +1,15 @@
+RtlAddFunctionTable
+RtlCaptureContext
+RtlCaptureStackBackTrace
+RtlCompareMemory
+RtlCopyMemory
+RtlDeleteFunctionTable
+RtlFillMemory
+RtlInstallFunctionTableCallback
+RtlLookupFunctionEntry
+RtlPcToFileHeader
+RtlRaiseException
+RtlRestoreContext
+RtlUnwind
+RtlUnwindEx
+RtlVirtualUnwind

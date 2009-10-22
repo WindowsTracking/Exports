@@ -4,6 +4,8 @@
 CPlApplet
 EnumEnabledLayoutOrTip
 EnumLayoutOrTipForSetup
+GetDefaultLayout
+GetLayoutDescription
 InputDll_DownlevelEnumLayoutOrTipForSetup
 InputDll_DownlevelInitialize
 InputDll_DownlevelSetUILanguage

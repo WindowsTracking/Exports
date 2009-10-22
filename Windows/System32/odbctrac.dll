@@ -15,6 +15,7 @@ TraceSQLBrowseConnect
 TraceSQLBrowseConnectW
 TraceSQLBulkOperations
 TraceSQLCancel
+TraceSQLCancelHandle
 TraceSQLCloseCursor
 TraceSQLColAttribute
 TraceSQLColAttributes

@@ -1,0 +1,8 @@
+CloseBidiDevice
+GetBidiLastError
+GetBidiStatus
+LaunchResourceManager
+OpenBidiDevice
+ReadBidiDevice
+SetupBidiParameter
+WriteBidiDevice

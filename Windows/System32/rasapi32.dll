@@ -60,6 +60,7 @@ RasGetHport
 RasGetLinkStatistics
 RasGetNapStatus
 RasGetProjectionInfoA
+RasGetProjectionInfoEx
 RasGetProjectionInfoW
 RasGetSubEntryHandleA
 RasGetSubEntryHandleW
@@ -100,6 +101,7 @@ RasSetOldPassword
 RasSetSharedAutoDial
 RasSetSubEntryPropertiesA
 RasSetSubEntryPropertiesW
+RasUpdateConnection
 RasValidateEntryNameA
 RasValidateEntryNameW
 RasWriteSharedPbkOptions

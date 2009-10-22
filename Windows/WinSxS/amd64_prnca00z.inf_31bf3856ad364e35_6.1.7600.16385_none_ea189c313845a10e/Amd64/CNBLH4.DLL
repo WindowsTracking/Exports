@@ -1,0 +1,6 @@
+CloseWSDProxy
+CreateWSDProxy
+DeleteWSDProxy
+GetPrinterElements
+MyCreatePrintAsyncNotifyChannel
+OpenWSDProxy

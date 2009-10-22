@@ -20,9 +20,12 @@ ConnectionVer
 ConnectionWrite
 ConnectionWriteOOB
 GenClientContext
+GenClientContextEx
 GetNextEnumeration
 InitEnumServers
 InitSession
+InitSessionEx
 InitSSPIPackage
 TermSession
+TermSessionEx
 TermSSPIPackage

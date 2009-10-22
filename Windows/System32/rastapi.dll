@@ -36,6 +36,7 @@ PortTestSignalState
 RastapiGetCalledID
 RasTapiIsPulseDial
 RastapiSetCalledID
+RefreshDevices
 RemovePort
 SetCommSettings
 UnloadRastapiDll

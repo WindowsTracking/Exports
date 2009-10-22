@@ -1,0 +1,4 @@
+SssBindServicingStack
+SssGetServicingStackFilePath
+SssGetServicingStackFilePathLength
+SssReleaseServicingStack

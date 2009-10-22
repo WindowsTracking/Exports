@@ -1,0 +1,4 @@
+CreateExternalInterfaceInstance
+CreateSettingsInstance
+DllCanUnloadNow
+DllGetClassObject

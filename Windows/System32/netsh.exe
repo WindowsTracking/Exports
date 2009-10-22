@@ -13,8 +13,6 @@ MatchCmdLine
 MatchEnumTag
 MatchTagsInCmdLine
 MatchToken
-NsGetFriendlyNameFromIfName
-NsGetIfNameFromFriendlyName
 PreprocessCommand
 PrintError
 PrintMessage

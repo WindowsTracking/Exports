@@ -1,9 +1,0 @@
-KerbCreateTokenFromTicket
-KerbDomainChangeCallback
-KerbIsInitialized
-KerbKdcCallBack
-KerbMakeKdcCall
-SpInitialize
-SpInstanceInit
-SpLsaModeInitialize
-SpUserModeInitialize
