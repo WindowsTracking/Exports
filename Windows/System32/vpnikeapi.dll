@@ -4,8 +4,10 @@ CreateTunnel
 FreeConfigurationPayloadBuffer
 FreeEapAuthAttributes
 FreeEapAuthPacket
+FreeIDPayloadBuffer
 FreeTrafficSelectors
 GetConfigurationPayloadRequest
+GetIDPayload
 GetNewTunnelID
 GetServerEapAuthRequestPacket
 GetTrafficSelectorsRequest

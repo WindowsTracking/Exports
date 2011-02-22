@@ -1,3 +1,5 @@
+#142
+#24
 _CorDllMain
 _CorExeMain
 _CorExeMain2
@@ -5,6 +7,7 @@ _CorImageUnloading
 _CorValidateImage
 CallFunctionShim
 CloseCtrs
+CLRCreateInstance
 ClrCreateManagedInstance
 CoEEShutDownCOM
 CoInitializeCor
@@ -27,6 +30,7 @@ CoUninitializeCor
 CoUninitializeEE
 CreateConfigStream
 CreateDebuggingInterfaceFromVersion
+CreateInterface
 DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
@@ -35,6 +39,7 @@ EEDllGetClassObjectFromClass
 EEDllRegisterServer
 EEDllUnregisterServer
 GetAssemblyMDImport
+GetCLRMetaHost
 GetCompileInfo
 GetCORRequiredVersion
 GetCORRootDirectory

@@ -2134,6 +2134,7 @@ ZwRecoverResourceManager
 ZwRecoverTransactionManager
 ZwRemoveIoCompletion
 ZwRemoveIoCompletionEx
+ZwRenameKey
 ZwReplaceKey
 ZwRequestPort
 ZwRequestWaitReplyPort

@@ -21,5 +21,6 @@ Dot3SetAutoConfigParameter
 Dot3SetInterface
 Dot3SetProfile
 Dot3SetProfileEapUserData
+Dot3SetProfileEapXmlUserData
 Dot3UIResponse
 QueryNetconStatus

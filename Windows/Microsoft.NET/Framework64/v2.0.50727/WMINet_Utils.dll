@@ -1,7 +1,13 @@
 BeginEnumeration
 BeginMethodEnumeration
+BlessIWbemServices
+BlessIWbemServicesObject
 Clone
+CloneEnumWbemClassObject
 CompareTo
+ConnectServerWmi
+CreateClassEnumWmi
+CreateInstanceEnumWmi
 Delete
 DeleteMethod
 DllCanUnloadNow
@@ -10,8 +16,11 @@ DllRegisterServer
 DllUnregisterServer
 EndEnumeration
 EndMethodEnumeration
+ExecNotificationQueryWmi
+ExecQueryWmi
 Get
 GetCurrentApartmentType
+GetDemultiplexedStub
 GetMethod
 GetMethodOrigin
 GetMethodQualifierSet
@@ -27,6 +36,8 @@ Lock
 Next
 NextMethod
 Put
+PutClassWmi
+PutInstanceWmi
 PutMethod
 QualifierSet_BeginEnumeration
 QualifierSet_Delete
@@ -38,6 +49,8 @@ QualifierSet_Put
 ReadDWORD
 ReadPropertyValue
 ReadQWORD
+ResetSecurity
+SetSecurity
 SpawnDerivedClass
 SpawnInstance
 UFunc

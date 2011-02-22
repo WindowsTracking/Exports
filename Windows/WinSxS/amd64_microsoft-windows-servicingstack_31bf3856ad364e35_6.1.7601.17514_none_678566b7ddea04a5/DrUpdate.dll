@@ -1,0 +1,14 @@
+DiInstallAnUpdate
+DiOfflineInstallAnUpdate
+DiOfflineReinstallAllUpdates
+DiOfflineReinstallAnUpdate
+DiOfflineUninstallAnUpdate
+DiUninstallAnUpdate
+DriverUpdateCloseContext
+DriverUpdateEnableDeviceInstall
+DriverUpdateInstallUpdates
+DriverUpdateOpenContext
+DriverUpdateStageUpdates
+DriverUpdateUninstallUpdates
+DriverUpdateUnstageUpdates
+InstallDriversOffline

@@ -224,6 +224,7 @@ HlinkNavigateMoniker
 HlinkNavigateString
 HlinkSimpleNavigateToMoniker
 HlinkSimpleNavigateToString
+IEDllLoader
 IEInstallScope
 InstallFlash
 IntlPercentEncodeNormalize

@@ -10,11 +10,13 @@ GetBatteryInfo
 GetBatteryStatusText
 GetBatteryWorkingState
 IsBatteryBad
+IsBatteryHealthWarningEnabled
 IsBatteryLevelCritical
 IsBatteryLevelLow
 IsBatteryLevelReserve
 PowerCapabilities
 QueryBatteryData
+SetBatteryHealthWarningState
 SetBatteryLevel
 SetBatteryWorkingState
 SubscribeBatteryUpdateNotification
