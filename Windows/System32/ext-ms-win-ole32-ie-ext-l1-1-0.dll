@@ -1,0 +1,10 @@
+CreateDataCache
+CreateGenericComposite
+CreateILockBytesOnHGlobal
+GetClassFile
+MkParseDisplayName
+MonikerRelativePathTo
+OleLoadFromStream
+OleSaveToStream
+StgCreateDocfileOnILockBytes
+StgOpenStorage

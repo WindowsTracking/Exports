@@ -1,0 +1,11 @@
+RfxVmtCloseChannel
+RfxVmtCreateChannel
+RfxVmtDisableLibrary
+RfxVmtEnableLibrary
+RfxVmtGetChannelStatus
+RfxVmtGetDataAvailableEvent
+RfxVmtIsWriteDataConsumed
+RfxVmtReadChannel
+RfxVmtReadChannelAndCache
+RfxVmtVWriteChannel
+RfxVmtWriteChannel

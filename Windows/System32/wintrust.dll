@@ -1,8 +1,10 @@
 AddPersonalTrustDBPages
 CatalogCompactHashDatabase
 CryptCATAdminAcquireContext
+CryptCATAdminAcquireContext2
 CryptCATAdminAddCatalog
 CryptCATAdminCalcHashFromFileHandle
+CryptCATAdminCalcHashFromFileHandle2
 CryptCATAdminEnumCatalogFromHash
 CryptCATAdminPauseServiceForBackup
 CryptCATAdminReleaseCatalogContext
@@ -36,6 +38,7 @@ CryptCATPutMemberInfo
 CryptCATStoreFromHandle
 CryptCATVerifyMember
 CryptSIPCreateIndirectData
+CryptSIPGetCaps
 CryptSIPGetInfo
 CryptSIPGetRegWorkingFlags
 CryptSIPGetSignedDataMsg
@@ -91,6 +94,7 @@ WintrustSetDefaultIncludePEPageHashes
 WintrustSetRegPolicyFlags
 WinVerifyTrust
 WinVerifyTrustEx
+WTGetSignatureInfo
 WTHelperCertCheckValidSignature
 WTHelperCertFindIssuerCertificate
 WTHelperCertIsSelfSigned
@@ -103,9 +107,13 @@ WTHelperGetKnownUsages
 WTHelperGetProvCertFromChain
 WTHelperGetProvPrivateDataFromChain
 WTHelperGetProvSignerFromChain
+WTHelperIsChainedToMicrosoft
+WTHelperIsChainedToMicrosoftFromStateData
 WTHelperIsInRootStore
 WTHelperOpenKnownStores
 WTHelperProvDataFromStateData
+WVTAsn1CatMemberInfo2Decode
+WVTAsn1CatMemberInfo2Encode
 WVTAsn1CatMemberInfoDecode
 WVTAsn1CatMemberInfoEncode
 WVTAsn1CatNameValueDecode

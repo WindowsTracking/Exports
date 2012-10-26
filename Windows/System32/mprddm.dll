@@ -19,6 +19,7 @@ DDMAdminUpdateConnection
 DDMConnectInterface
 DDMDisconnectInterface
 DDMGetIdentityAttributes
+DDMPlumbPskIkev2Policy
 DDMPostCleanup
 DDMRegisterConnectionNotification
 DDMSendUserMessage
@@ -26,6 +27,7 @@ DDMServiceInitialize
 DDMServicePostListens
 DDMTransportCreate
 IfObjectFreePhonebookContext
+IfObjectFreeRemoteEndpoint
 IfObjectInitiatePersistentConnections
 IfObjectLoadPhonebookInfo
 IfObjectNotifyOfReachabilityChange

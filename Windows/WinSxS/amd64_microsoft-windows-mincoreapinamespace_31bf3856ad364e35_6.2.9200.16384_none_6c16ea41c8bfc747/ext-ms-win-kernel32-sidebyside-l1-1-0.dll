@@ -1,0 +1,11 @@
+ActivateActCtxWorker
+AddRefActCtxWorker
+CreateActCtxWWorker
+DeactivateActCtxWorker
+FindActCtxSectionGuidWorker
+FindActCtxSectionStringWWorker
+GetCurrentActCtxWorker
+QueryActCtxSettingsWWorker
+QueryActCtxWWorker
+ReleaseActCtxWorker
+ZombifyActCtxWorker

@@ -1,0 +1,6 @@
+WwanAuthChallenge
+WwanCloseHandle
+WwanFreeMemory
+WwanOpenHandle
+WwanQueryInterface
+WwanRegisterNotification

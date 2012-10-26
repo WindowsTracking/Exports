@@ -1,0 +1,12 @@
+CreateFontIndirectA
+CreateFontIndirectW
+EnumFontFamiliesA
+EnumFontFamiliesExA
+EnumFontFamiliesExW
+GetFontData
+GetFontFileData
+GetFontFileInfo
+GetFontRealizationInfo
+GetTextFaceA
+GetTextMetricsW
+TranslateCharsetInfo

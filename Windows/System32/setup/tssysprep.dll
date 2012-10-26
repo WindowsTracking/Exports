@@ -1,5 +1,10 @@
+AppsrvSysPrepGeneralize
+AppsrvSysPrepSpecialize
+CBrokerSysPrepGeneralize
+CBrokerSysPrepSpecialize
 LSMSysPrepBackup
 LSMSysPrepRestore
+RCMSysPrepGeneralize
 RCMSysPrepRestore
 RdpSysPrepGeneralize
 RdpSysPrepRestore

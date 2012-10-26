@@ -1,5 +1,6 @@
 GetCLRVersionForPSVersion
 WSManPluginCommand
+WSManPluginConnect
 WSManPluginReceive
 WSManPluginReleaseCommandContext
 WSManPluginReleaseShellContext

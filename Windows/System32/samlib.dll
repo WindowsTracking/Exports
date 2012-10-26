@@ -4,7 +4,6 @@ SamAddMemberToGroup
 SamAddMultipleMembersToAlias
 SamChangePasswordUser
 SamChangePasswordUser2
-SamChangePasswordUser3
 SamCloseHandle
 SamConnect
 SamConnectWithCreds
@@ -19,6 +18,7 @@ SamEnumerateAliasesInDomain
 SamEnumerateDomainsInSamServer
 SamEnumerateGroupsInDomain
 SamEnumerateUsersInDomain
+SamEnumerateUsersInDomain2
 SamFreeMemory
 SamGetAliasMembership
 SamGetCompatibilityMode
@@ -29,11 +29,8 @@ SamGetMembersInGroup
 SamiChangeKeys
 SamiChangePasswordUser
 SamiChangePasswordUser2
-SamiChangePasswordUser3
 SamiEncryptPasswords
 SamiLmChangePasswordUser
-SamiOemChangePasswordUser2
-SamiOemChangePasswordUser2WithTransport
 SamiSetBootKeyInformation
 SamiSetDSRMPassword
 SamiSetDSRMPasswordOWF
@@ -41,6 +38,7 @@ SamiSyncDSRMPasswordFromAccount
 SamLookupDomainInSamServer
 SamLookupIdsInDomain
 SamLookupNamesInDomain
+SamLookupNamesInDomain2
 SamOpenAlias
 SamOpenDomain
 SamOpenGroup

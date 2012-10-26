@@ -1,0 +1,10 @@
+GetApplicationRecoveryCallback
+GetApplicationRestartSettings
+WerpNotifyLoadStringResource
+WerpNotifyUseStringResource
+WerRegisterFile
+WerRegisterMemoryBlock
+WerRegisterRuntimeExceptionModule
+WerUnregisterFile
+WerUnregisterMemoryBlock
+WerUnregisterRuntimeExceptionModule

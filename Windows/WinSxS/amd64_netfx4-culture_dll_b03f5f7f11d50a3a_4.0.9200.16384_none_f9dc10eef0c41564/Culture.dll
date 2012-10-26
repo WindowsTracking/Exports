@@ -1,0 +1,9 @@
+EnumCalendarInfoExEx
+EnumDateFormatsExEx
+EnumSystemLocalesEx
+EnumTimeFormatsEx
+GetCalendarInfoEx
+GetLocaleInfoEx
+LCIDToLocaleName
+LocaleNameToLCID
+ResolveLocaleName

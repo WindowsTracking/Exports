@@ -3,5 +3,3 @@ DllGetClassObject
 DllMain
 DllRegisterServer
 DllUnregisterServer
-Dot11CleanupAdhocW
-Dot11CleanupOnLogonW

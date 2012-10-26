@@ -1,6 +1,0 @@
-CloseSerial
-GetSerialSendData
-OpenSerial
-SerOpenClose
-SetSerialRecvData
-SetSerialStatus

@@ -1,8 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-TaskUpdateWorkspaces
-TaskUpdateWorkspacesIfNeeded
-WorkspaceSilentSetupW
-WorkspaceStatusNotify

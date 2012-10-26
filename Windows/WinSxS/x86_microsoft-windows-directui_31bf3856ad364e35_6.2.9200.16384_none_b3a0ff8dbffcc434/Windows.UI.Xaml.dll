@@ -1,0 +1,11 @@
+CreateString
+CreateXamlUIPresenter
+DeleteString
+DllCanUnloadNow
+DllGetActivationFactory
+DllMain
+FreeBinaryGenericXaml
+GenerateBinaryGenericXaml
+GetDependencyObjectAddress
+GetStringLen
+GetStringRawBuffer

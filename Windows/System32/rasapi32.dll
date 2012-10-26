@@ -1,4 +1,5 @@
 DDMFreePhonebookContext
+DDMFreeRemoteEndpoint
 DDMGetPhonebookInfo
 DwCloneEntry
 DwEnumEntryDetails
@@ -92,7 +93,9 @@ RasSetCredentialsW
 RasSetCustomAuthDataA
 RasSetCustomAuthDataW
 RasSetEapUserDataA
+RasSetEapUserDataAEx
 RasSetEapUserDataW
+RasSetEapUserDataWEx
 RasSetEntryDialParamsA
 RasSetEntryDialParamsW
 RasSetEntryPropertiesA

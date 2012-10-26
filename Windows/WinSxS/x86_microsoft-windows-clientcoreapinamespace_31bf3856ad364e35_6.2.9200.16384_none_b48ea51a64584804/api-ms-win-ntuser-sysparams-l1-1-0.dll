@@ -1,0 +1,12 @@
+ChangeDisplaySettingsExW
+DisplayConfigGetDeviceInfo
+DisplayConfigSetDeviceInfo
+EnumDisplayDevicesW
+EnumDisplayMonitors
+EnumDisplaySettingsExW
+EnumDisplaySettingsW
+GetDisplayConfigBufferSizes
+GetMonitorInfoW
+GetSystemMetrics
+QueryDisplayConfig
+SystemParametersInfoW

@@ -1,5 +1,10 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
 EapHostPeerConfigBlob2Xml
 EapHostPeerConfigXml2Blob
+EapHostPeerCreateMethodConfiguration
 EapHostPeerCredentialsXml2Blob
 EapHostPeerFreeErrorMemory
 EapHostPeerFreeMemory

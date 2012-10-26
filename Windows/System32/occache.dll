@@ -2,7 +2,9 @@ DllCanUnloadNow
 DllGetClassObject
 FindControlClose
 FindFirstControl
+FindFirstControlArch
 FindNextControl
+FindNextControlArch
 GetControlDependentFile
 GetControlInfo
 IsModuleRemovable

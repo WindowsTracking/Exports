@@ -1,6 +1,0 @@
-CreateExecutivePlatform
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-GetAllocCounters

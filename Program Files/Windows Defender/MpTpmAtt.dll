@@ -1,0 +1,7 @@
+TpmAttCreateAttestationfromLog
+TpmAttGeneratePlatformAttestation
+TpmAttGetPlatformAttestationProperties
+TpmAttGetPlatformCounters
+TpmAttGetPlatformLogFromArchive
+TpmAttiGetTpmVersion
+TpmAttValidatePlatformAttestation

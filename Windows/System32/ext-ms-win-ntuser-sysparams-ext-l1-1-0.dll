@@ -1,0 +1,4 @@
+EnumDisplaySettingsW
+GetSystemMetrics
+SystemParametersInfoA
+SystemParametersInfoW

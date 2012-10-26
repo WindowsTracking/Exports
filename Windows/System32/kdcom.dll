@@ -6,3 +6,4 @@ KdReceivePacket
 KdRestore
 KdSave
 KdSendPacket
+KdSetHiberRange

@@ -1,0 +1,14 @@
+AppxSipCreateIndirectData
+AppxSipGetSignedDataMsg
+AppxSipIsFileSupportedName
+AppxSipPutSignedDataMsg
+AppxSipRemoveSignedDataMsg
+AppxSipVerifyIndirectData
+DllRegisterServer
+DllUnregisterServer
+P7xSipCreateIndirectData
+P7xSipGetSignedDataMsg
+P7xSipIsFileSupportedName
+P7xSipPutSignedDataMsg
+P7xSipRemoveSignedDataMsg
+P7xSipVerifyIndirectData

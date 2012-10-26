@@ -1,0 +1,8 @@
+VaultAddItem
+VaultCloseVault
+VaultCreateItemType
+VaultFree
+VaultGetItem
+VaultGetItemType
+VaultOpenVault
+VaultRemoveItem

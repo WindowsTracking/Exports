@@ -1,0 +1,14 @@
+CloseServiceHandle
+ConvertSidToStringSidW
+ConvertStringSecurityDescriptorToSecurityDescriptorW
+ConvertStringSidToSidW
+CredDeleteW
+CredEnumerateW
+CredFree
+CredReadDomainCredentialsW
+CredReadW
+CredWriteDomainCredentialsW
+CredWriteW
+OpenSCManagerW
+OpenServiceW
+QueryServiceConfigW

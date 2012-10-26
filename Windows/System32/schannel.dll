@@ -29,6 +29,7 @@ SslFreeCertificate
 SslFreeCustomBuffer
 SslGenerateRandomBits
 SslGetMaximumKeySize
+SslGetServerIdentity
 SslLoadCertificate
 UnsealMessage
 VerifySignature

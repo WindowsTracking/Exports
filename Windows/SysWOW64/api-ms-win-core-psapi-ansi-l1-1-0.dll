@@ -1,0 +1,6 @@
+K32EnumPageFilesA
+K32GetDeviceDriverBaseNameA
+K32GetDeviceDriverFileNameA
+K32GetMappedFileNameA
+K32GetProcessImageFileNameA
+QueryFullProcessImageNameA

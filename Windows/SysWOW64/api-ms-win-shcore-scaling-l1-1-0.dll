@@ -1,0 +1,3 @@
+GetScaleFactorForDevice
+RegisterScaleChangeNotifications
+RevokeScaleChangeNotifications

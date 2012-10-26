@@ -14,6 +14,7 @@ HttpDeleteServiceConfiguration
 HttpFlushResponseCache
 HttpGetCounters
 HttpInitialize
+HttpPrepareUrl
 HttpQueryRequestQueueProperty
 HttpQueryServerSessionProperty
 HttpQueryServiceConfiguration

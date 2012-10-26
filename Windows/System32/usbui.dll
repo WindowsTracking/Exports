@@ -1,4 +1,8 @@
 CPlApplet
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
 USBControllerBandwidthPage
 USBControllerPropPageProvider
 UsbControlPanelApplet

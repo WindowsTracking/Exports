@@ -1,12 +1,11 @@
-#101
-#102
 #103
 #104
+#106
+#107
 ClassInstall32
 PSetupAssociateICMProfiles
 PSetupBuildDriverList
 PSetupBuildDriversFromPath
-PSetupCalculatePnPId
 PSetupCheckForDriversInDriverStore
 PSetupCopyDriverPackageFiles
 PSetupCreateDrvSetupPage

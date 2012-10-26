@@ -1,0 +1,11 @@
+BtaMpmBuildIndirectStringFromMessageWithSingleUTF8Arg
+BtaMpmConnectionRequest
+BtaMpmGetStatus
+BtaMpmRegister
+BtaMpmSuspendRequest
+BtaMpmUnregister
+BtaMpmUpdateConnectionStatus
+BtaMpmUpdatePlayStatus
+BtaMpmUpdateSuspendStatus
+DllInitialize
+DllUnload

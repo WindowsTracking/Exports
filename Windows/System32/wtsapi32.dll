@@ -4,6 +4,7 @@ WTSConnectSessionW
 WTSCreateListenerA
 WTSCreateListenerW
 WTSDisconnectSession
+WTSEnableChildSessions
 WTSEnumerateListenersA
 WTSEnumerateListenersW
 WTSEnumerateProcessesA
@@ -19,8 +20,10 @@ WTSEnumerateSessionsW
 WTSFreeMemory
 WTSFreeMemoryExA
 WTSFreeMemoryExW
+WTSGetChildSessionId
 WTSGetListenerSecurityA
 WTSGetListenerSecurityW
+WTSIsChildSessionsEnabled
 WTSLogoffSession
 WTSOpenServerA
 WTSOpenServerExA
@@ -39,6 +42,7 @@ WTSSendMessageA
 WTSSendMessageW
 WTSSetListenerSecurityA
 WTSSetListenerSecurityW
+WTSSetRenderHint
 WTSSetSessionInformationA
 WTSSetSessionInformationW
 WTSSetUserConfigA

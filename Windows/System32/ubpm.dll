@@ -1,8 +1,10 @@
+UbpmAcquireBackgroundExecutionMode
 UbpmApiBufferFree
 UbpmCloseRootHandle
 UbpmCloseTriggerConsumerHandle
 UbpmCloseTriggerProviderHandle
 UbpmConfigureTriggerConsumer
+UbpmControl
 UbpmControlTriggerConsumer
 UbpmGenerateNotification
 UbpmGenerateTrigger
@@ -13,6 +15,7 @@ UbpmOpenTriggerProviderHandle
 UbpmQueryTriggerConsumerStatus
 UbpmRegisterTriggerConsumer
 UbpmRegisterTriggerProvider
+UbpmReleaseBackgroundExecutionMode
 UbpmTerminate
 UbpmUnregisterTriggerConsumer
 UbpmUnregisterTriggerProvider

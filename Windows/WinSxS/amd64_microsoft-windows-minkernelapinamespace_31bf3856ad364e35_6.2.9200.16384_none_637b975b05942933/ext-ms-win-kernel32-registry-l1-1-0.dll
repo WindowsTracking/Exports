@@ -1,0 +1,14 @@
+BasepNotifyLoadStringResource
+TermsrvConvertSysRootToUserDir
+TermsrvCreateRegEntry
+TermsrvDeleteKey
+TermsrvDeleteValue
+TermsrvGetPreSetValue
+TermsrvGetWindowsDirectoryA
+TermsrvGetWindowsDirectoryW
+TermsrvOpenRegEntry
+TermsrvOpenUserClasses
+TermsrvRestoreKey
+TermsrvSetKeySecurity
+TermsrvSetValueKey
+TermsrvSyncUserIniFileExt

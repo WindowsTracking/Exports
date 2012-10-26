@@ -1,0 +1,14 @@
+#1
+AppxDeletePackageFiles
+AppxGetPackageType
+AppxPackageRepositoryRecoverStagedPackages
+AppxPackageRepositoryRecoverUserInstalls
+AppxPreStageCleanupRunTask
+AppxRecoverUserInstallsForUpgrade
+AppxRequestRemovePackageForUser
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+GetApplicability
+IsPackageInstalled
+RDSRecoverRequests

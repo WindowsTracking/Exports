@@ -1,0 +1,14 @@
+SrmGetTracingContextPerThread
+SrmGetTracingModuleInfo
+SrmGetTracingSequenceNumber
+SrmIsKernelDebuggerAttached
+SrmIsTracingEnabled
+SrmIsTracingEnabledOnFunction
+SrmIsTracingEnabledOnModule
+SrmIsTracingEnabledPerThread
+SrmSetDebugReport
+SrmSetTracingContextPerThread
+SrmTraceBinary
+SrmTraceInitialize
+SrmTraceMessage
+SrmTraceUninitialize

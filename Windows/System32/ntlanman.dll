@@ -16,3 +16,4 @@ NPGetResourceParent
 NPGetUniversalName
 NPGetUser
 NPOpenEnum
+RegisterAppInstance

@@ -1,0 +1,8 @@
+BaseCheckAppcompatCache
+BaseCheckAppcompatCacheEx
+BaseCleanupAppcompatCacheSupport
+BaseDumpAppcompatCache
+BaseFlushAppcompatCache
+BaseInitAppcompatCacheSupport
+BaseIsAppcompatInfrastructureDisabled
+BaseUpdateAppcompatCache

@@ -1,3 +1,6 @@
+DllCanUnloadNow
+DllGetClassObject
+TdhCloseDecodingHandle
 TdhEnumerateProviderFieldInformation
 TdhEnumerateProviderFilters
 TdhEnumerateProviders
@@ -5,12 +8,18 @@ TdhEnumerateRemoteWBEMProviderFieldInformation
 TdhEnumerateRemoteWBEMProviders
 TdhFormatProperty
 TdhGetAllEventsInformation
+TdhGetDecodingParameter
 TdhGetEventInformation
 TdhGetEventMapInformation
 TdhGetProperty
 TdhGetPropertyOffsetAndSize
 TdhGetPropertySize
+TdhGetWppMessage
+TdhGetWppProperty
 TdhLoadManifest
+TdhLoadManifestFromBinary
+TdhOpenDecodingHandle
 TdhQueryProviderFieldInformation
 TdhQueryRemoteWBEMProviderFieldInformation
+TdhSetDecodingParameter
 TdhUnloadManifest

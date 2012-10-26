@@ -1,8 +1,0 @@
-CORLockDownProvider
-CORPolicyEE
-CORPolicyProvider
-DllCanUnloadNow
-DllRegisterServer
-DllUnregisterServer
-GetPublisher
-GetUnsignedPermissions

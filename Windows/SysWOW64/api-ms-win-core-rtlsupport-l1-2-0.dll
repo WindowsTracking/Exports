@@ -1,0 +1,6 @@
+RtlCaptureContext
+RtlCaptureStackBackTrace
+RtlCompareMemory
+RtlPcToFileHeader
+RtlRaiseException
+RtlUnwind

@@ -1,0 +1,11 @@
+DoBroadcastSystemMessage
+DoCommandLinePrompt
+DoPasswordDialog
+DoProfileErrorDialog
+ShowReconnectDialog
+ShowReconnectDialogEnd
+ShowReconnectDialogUI
+WNetConnectionDialog
+WNetConnectionDialog1W
+WNetDisconnectDialog
+WNetDisconnectDialog1W

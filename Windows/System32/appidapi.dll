@@ -1,5 +1,8 @@
+AppIDConstructAppxAttributes
 AppIDDecodeAttributeString
 AppIDEncodeAttributeString
 AppIDFreeAttributeString
+AppIDGetAppxFileAttributes
 AppIDGetFileAttributes
+AppIDReleaseAppxFileAttributes
 AppIDReleaseFileAttributes

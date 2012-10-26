@@ -1,0 +1,4 @@
+GetFileVersionInfoExA
+GetFileVersionInfoSizeExA
+VerFindFileA
+VerQueryValueA

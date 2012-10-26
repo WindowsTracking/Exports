@@ -1,8 +1,15 @@
+DoBroadcastSystemMessage
+DoCommandLinePrompt
+DoPasswordDialog
+DoProfileErrorDialog
 I_MprSaveConn
 MultinetGetConnectionPerformanceA
 MultinetGetConnectionPerformanceW
 MultinetGetErrorTextA
 MultinetGetErrorTextW
+ShowReconnectDialog
+ShowReconnectDialogEnd
+ShowReconnectDialogUI
 WNetAddConnection2A
 WNetAddConnection2W
 WNetAddConnection3A

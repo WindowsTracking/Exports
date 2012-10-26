@@ -59,6 +59,19 @@ AuditSetSecurity
 AuditSetSystemPolicy
 BackupEventLogA
 BackupEventLogW
+BaseRegCloseKey
+BaseRegCreateKey
+BaseRegDeleteKeyEx
+BaseRegDeleteValue
+BaseRegFlushKey
+BaseRegGetVersion
+BaseRegLoadKey
+BaseRegOpenKey
+BaseRegRestoreKey
+BaseRegSaveKeyEx
+BaseRegSetKeySecurity
+BaseRegSetValue
+BaseRegUnLoadKey
 BuildExplicitAccessWithNameA
 BuildExplicitAccessWithNameW
 BuildImpersonateExplicitAccessWithNameA
@@ -80,6 +93,7 @@ ChangeServiceConfig2A
 ChangeServiceConfig2W
 ChangeServiceConfigA
 ChangeServiceConfigW
+CheckForHiberboot
 CheckTokenMembership
 ClearEventLogA
 ClearEventLogW
@@ -98,6 +112,7 @@ ControlTraceA
 ControlTraceW
 ConvertAccessToSecurityDescriptorA
 ConvertAccessToSecurityDescriptorW
+ConvertSDToStringSDDomainW
 ConvertSDToStringSDRootDomainA
 ConvertSDToStringSDRootDomainW
 ConvertSecurityDescriptorToAccessA
@@ -156,6 +171,7 @@ CredpDecodeCredential
 CredpEncodeCredential
 CredpEncodeSecret
 CredProfileLoaded
+CredProfileLoadedEx
 CredProfileUnloaded
 CredProtectA
 CredProtectW
@@ -253,6 +269,7 @@ EncryptFileW
 EncryptionDisable
 EnumDependentServicesA
 EnumDependentServicesW
+EnumDynamicTimeZoneInformation
 EnumerateTraceGuids
 EnumerateTraceGuidsEx
 EnumServiceGroupW
@@ -263,6 +280,7 @@ EnumServicesStatusW
 EqualDomainSid
 EqualPrefixSid
 EqualSid
+EtwLogSysConfigExtension
 EventAccessControl
 EventAccessQuery
 EventAccessRemove
@@ -270,6 +288,7 @@ EventActivityIdControl
 EventEnabled
 EventProviderEnabled
 EventRegister
+EventSetInformation
 EventUnregister
 EventWrite
 EventWriteEndScenario
@@ -296,6 +315,7 @@ GetAuditedPermissionsFromAclA
 GetAuditedPermissionsFromAclW
 GetCurrentHwProfileA
 GetCurrentHwProfileW
+GetDynamicTimeZoneInformationEffectiveYears
 GetEffectiveRightsFromAclA
 GetEffectiveRightsFromAclW
 GetEncryptedFileMetadata
@@ -344,6 +364,7 @@ GetSidIdentifierAuthority
 GetSidLengthRequired
 GetSidSubAuthority
 GetSidSubAuthorityCount
+GetStringConditionFromBinary
 GetThreadWaitChain
 GetTokenInformation
 GetTraceEnableFlags
@@ -363,6 +384,7 @@ I_ScGetCurrentGroupStateW
 I_ScIsSecurityProcess
 I_ScPnPGetServiceName
 I_ScQueryServiceConfig
+I_ScRegisterPreshutdownRestart
 I_ScSendPnPMessage
 I_ScSendTSMessage
 I_ScSetServiceBitsA
@@ -427,6 +449,7 @@ LsaEnumeratePrivilegesOfAccount
 LsaEnumerateTrustedDomains
 LsaEnumerateTrustedDomainsEx
 LsaFreeMemory
+LsaGetAppliedCAPIDs
 LsaGetQuotasForAccount
 LsaGetRemoteUserName
 LsaGetSystemAccessAccount
@@ -441,6 +464,7 @@ LsaLookupPrivilegeDisplayName
 LsaLookupPrivilegeName
 LsaLookupPrivilegeValue
 LsaLookupSids
+LsaLookupSids2
 LsaManageSidNameMapping
 LsaNtStatusToWinError
 LsaOpenAccount
@@ -449,6 +473,7 @@ LsaOpenPolicySce
 LsaOpenSecret
 LsaOpenTrustedDomain
 LsaOpenTrustedDomainByName
+LsaQueryCAPs
 LsaQueryDomainInformationPolicy
 LsaQueryForestTrustInformation
 LsaQueryInformationPolicy
@@ -460,6 +485,7 @@ LsaQueryTrustedDomainInfoByName
 LsaRemoveAccountRights
 LsaRemovePrivilegesFromAccount
 LsaRetrievePrivateData
+LsaSetCAPs
 LsaSetDomainInformationPolicy
 LsaSetForestTrustInformation
 LsaSetInformationPolicy
@@ -481,6 +507,7 @@ MD4Update
 MD5Final
 MD5Init
 MD5Update
+MIDL_user_free_Ext
 MSChapSrvChangePassword
 MSChapSrvChangePassword2
 NotifyBootConfigStatus
@@ -511,6 +538,8 @@ OpenThreadToken
 OpenThreadWaitChainSession
 OpenTraceA
 OpenTraceW
+OperationEnd
+OperationStart
 PerfAddCounters
 PerfCloseQueryHandle
 PerfCreateInstance
@@ -527,6 +556,12 @@ PerfQueryCounterData
 PerfQueryCounterInfo
 PerfQueryCounterSetRegistrationInfo
 PerfQueryInstance
+PerfRegCloseKey
+PerfRegEnumKey
+PerfRegEnumValue
+PerfRegQueryInfoKey
+PerfRegQueryValue
+PerfRegSetValue
 PerfSetCounterRefValue
 PerfSetCounterSetInfo
 PerfSetULongCounterValue
@@ -540,6 +575,10 @@ PrivilegedServiceAuditAlarmW
 ProcessIdleTasks
 ProcessIdleTasksW
 ProcessTrace
+PsmActivateApplication
+PsmAdjustActivationToken
+PsmQueryBackgroundActivationType
+PsmRegisterApplicationProcess
 QueryAllTracesA
 QueryAllTracesW
 QueryRecoveryAgentsOnEncryptedFile
@@ -548,6 +587,7 @@ QueryServiceConfig2A
 QueryServiceConfig2W
 QueryServiceConfigA
 QueryServiceConfigW
+QueryServiceDynamicInformation
 QueryServiceLockStatusA
 QueryServiceLockStatusW
 QueryServiceObjectSecurity
@@ -651,11 +691,16 @@ RegSetValueExW
 RegSetValueW
 RegUnLoadKeyA
 RegUnLoadKeyW
+RemoteRegEnumKeyWrapper
+RemoteRegEnumValueWrapper
+RemoteRegQueryInfoKeyWrapper
+RemoteRegQueryValueWrapper
 RemoveTraceCallback
 RemoveUsersFromEncryptedFile
 ReportEventA
 ReportEventW
 RevertToSelf
+SafeBaseRegGetKeySecurity
 SaferCloseLevel
 SaferComputeTokenFromLevel
 SaferCreateLevel
@@ -759,6 +804,7 @@ TraceEvent
 TraceEventInstance
 TraceMessage
 TraceMessageVa
+TraceQueryInformation
 TraceSetInformation
 TreeResetNamedSecurityInfoA
 TreeResetNamedSecurityInfoW
@@ -774,6 +820,7 @@ UpdateTraceA
 UpdateTraceW
 UsePinForEncryptedFilesA
 UsePinForEncryptedFilesW
+WaitServiceState
 WmiCloseBlock
 WmiDevInstToInstanceNameA
 WmiDevInstToInstanceNameW

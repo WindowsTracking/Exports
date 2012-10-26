@@ -2,6 +2,7 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+SppFreeBadWritersArray
 SppFreeClientPropArray
 SppFreeExternalGroupPropArray
 SppFreeGroupPropArray

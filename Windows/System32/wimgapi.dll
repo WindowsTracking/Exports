@@ -6,10 +6,14 @@ WIMCloseHandle
 WIMCommitImageHandle
 WIMCopyFile
 WIMCreateFile
+WIMCreateImageFile
 WIMDeleteImage
 WIMDeleteImageMounts
+WIMEnumImageFiles
 WIMExportImage
 WIMExtractImagePath
+WIMFindFirstImageFile
+WIMFindNextImageFile
 WIMGetAttributes
 WIMGetImageCount
 WIMGetImageInformation
@@ -22,6 +26,7 @@ WIMInitFileIOCallbacks
 WIMLoadImage
 WIMMountImage
 WIMMountImageHandle
+WIMReadImageFile
 WIMRegisterLogFile
 WIMRegisterMessageCallback
 WIMRemountImage

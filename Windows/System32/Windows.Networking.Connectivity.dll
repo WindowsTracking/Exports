@@ -1,0 +1,10 @@
+CreateEndpointPairFromSockAddrs
+CreateHostNameFromSockAddr
+CreateHostNameFromString
+CreateNetworkAdapterFromGuid
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+SetHostNameMediaStreamingMode

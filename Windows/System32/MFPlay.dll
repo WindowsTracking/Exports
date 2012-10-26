@@ -3,3 +3,4 @@ DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
 MFPCreateMediaPlayer
+MFPCreateMediaPlayerEx

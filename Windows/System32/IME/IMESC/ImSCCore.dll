@@ -1,0 +1,5 @@
+CreateUDicProxy
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

@@ -3,5 +3,3 @@ DllGetClassObject
 DllMain
 DllRegisterServer
 DllUnregisterServer
-RequestPermissionsInternalA
-RequestPermissionsInternalW

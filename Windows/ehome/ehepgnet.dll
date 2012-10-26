@@ -1,8 +1,0 @@
-CheckRasEntryCredentialsForPassword
-CreateGlobalConnectoid
-EstablishRasConnection
-GetDefaultRasConnection
-GetProxy
-GetProxyForUrl
-GetRasConnections
-HangUpRasConnection

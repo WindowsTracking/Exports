@@ -1,8 +1,0 @@
-WSManPluginShutdown
-WSManPluginStartup
-WSManProvEndEnumerate
-WSManProvEnumerate
-WSManProvGet
-WSManProvInvoke
-WSManProvPullEnumerate
-WSManProvPut

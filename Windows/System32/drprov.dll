@@ -5,6 +5,7 @@ NPCloseEnum
 NPEnumResource
 NPGetCaps
 NPGetConnection
+NPGetConnectionPerformance
 NPGetResourceInformation
 NPGetResourceParent
 NPGetUniversalName

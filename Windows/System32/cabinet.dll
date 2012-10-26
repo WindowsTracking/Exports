@@ -1,3 +1,9 @@
+CloseCompressor
+CloseDecompressor
+Compress
+CreateCompressor
+CreateDecompressor
+Decompress
 DeleteExtractedFiles
 DllGetVersion
 Extract
@@ -12,3 +18,9 @@ FDIDestroy
 FDIIsCabinet
 FDITruncateCabinet
 GetDllVersion
+QueryCompressorInformation
+QueryDecompressorInformation
+ResetCompressor
+ResetDecompressor
+SetCompressorInformation
+SetDecompressorInformation

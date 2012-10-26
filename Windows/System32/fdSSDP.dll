@@ -4,3 +4,4 @@ DllRegisterServer
 DllUnregisterServer
 FdphostSessionChange
 FdphostSetComContext
+FdphostSetSharedService

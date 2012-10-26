@@ -1,8 +1,13 @@
+AddRefQueryBlobEx
 BreakRecordsIntoBlob
 CombineRecordsInBlob
+DelaySortDAServerlist
+DeRefQueryBlobEx
 Dns_AddRecordsToMessage
 Dns_AllocateMsgBuf
 Dns_BuildPacket
+Dns_CacheServiceCleanup
+Dns_CacheServiceInit
 Dns_CleanupWinsock
 Dns_CloseConnection
 Dns_CloseSocket
@@ -49,6 +54,7 @@ DnsApiSetDebugGlobals
 DnsAsyncRegisterHostAddrs
 DnsAsyncRegisterInit
 DnsAsyncRegisterTerm
+DnsCancelQuery
 DnsCopyStringEx
 DnsCreateReverseNameStringForIpAddress
 DnsCreateStandardDnsNameCopy
@@ -65,6 +71,7 @@ DnsDhcpSrvRegisterHostNameEx
 DnsDhcpSrvRegisterInit
 DnsDhcpSrvRegisterInitialize
 DnsDhcpSrvRegisterTerm
+DnsDisableIdnEncoding
 DnsDowncaseDnsNameLabel
 DnsExtractRecordsFromMessage_UTF8
 DnsExtractRecordsFromMessage_W
@@ -91,14 +98,10 @@ DnsGlobals
 DnsIpv6AddressToString
 DnsIpv6StringToAddress
 DnsIsAMailboxType
+DnsIsNSECType
 DnsIsStatusRcode
 DnsIsStringCountValidForTextType
 DnsLogEvent
-DnsLogIn
-DnsLogInit
-DnsLogIt
-DnsLogOut
-DnsLogTime
 DnsMapRcodeToStatus
 DnsModifyRecordsInSet_A
 DnsModifyRecordsInSet_UTF8
@@ -122,6 +125,7 @@ DnsQuery_W
 DnsQueryConfig
 DnsQueryConfigAllocEx
 DnsQueryConfigDword
+DnsQueryEx
 DnsQueryExA
 DnsQueryExUTF8
 DnsQueryExW
@@ -136,7 +140,6 @@ DnsRecordSetDetach
 DnsRecordStringForType
 DnsRecordStringForWritableType
 DnsRecordTypeForName
-DnsRegisterClusterAddress
 DnsReleaseContextHandle
 DnsRemoveRegistrations
 DnsReplaceRecordSetA
@@ -181,6 +184,7 @@ Local_GetRecordsForLocalNameEx
 NetInfo_Build
 NetInfo_Clean
 NetInfo_Copy
+NetInfo_CreatePerNetworkNetinfo
 NetInfo_Free
 NetInfo_GetAdapterByAddress
 NetInfo_GetAdapterByInterfaceIndex
@@ -188,7 +192,9 @@ NetInfo_GetAdapterByName
 NetInfo_IsAddrConfig
 NetInfo_IsForUpdate
 NetInfo_ResetServerPriorities
+NetInfo_UpdateNetworkProperties
 NetInfo_UpdateServerReachability
+Query_Cancel
 Query_Main
 QueryDirectEx
 Reg_FreeUpdateInfo

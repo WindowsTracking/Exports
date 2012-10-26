@@ -5,6 +5,8 @@ PdhAddCounterW
 PdhAddEnglishCounterA
 PdhAddEnglishCounterW
 PdhAddRelogCounter
+PdhAddV1Counter
+PdhAddV2Counter
 PdhBindInputDataSourceA
 PdhBindInputDataSourceW
 PdhBrowseCountersA

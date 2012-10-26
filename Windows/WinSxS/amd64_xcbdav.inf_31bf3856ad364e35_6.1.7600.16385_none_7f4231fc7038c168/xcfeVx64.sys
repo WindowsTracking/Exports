@@ -1,6 +1,0 @@
-DllInitialize
-DllUnload
-RegisterIrRxCallback
-UnregisterIrRxCallback
-XcFeLibEntry
-XcFeSetDebugLevel

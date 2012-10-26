@@ -155,9 +155,9 @@
 ??0?$SmartPtr@VObject@UnBCL@@@UnBCL@@QEAA@AEBV01@@Z
 ??0?$SmartPtr@VObject@UnBCL@@@UnBCL@@QEAA@PEAVObject@1@@Z
 ??0?$SmartPtr@VObject@UnBCL@@@UnBCL@@QEAA@XZ
-??0?$SmartPtr@VSerializationId@SerializationStream@UnBCL@@@UnBCL@@QEAA@AEBV01@@Z
-??0?$SmartPtr@VSerializationId@SerializationStream@UnBCL@@@UnBCL@@QEAA@PEAVSerializationId@SerializationStream@1@@Z
-??0?$SmartPtr@VSerializationId@SerializationStream@UnBCL@@@UnBCL@@QEAA@XZ
+??0?$SmartPtr@VSerializationId@UnBCL@@@UnBCL@@QEAA@AEBV01@@Z
+??0?$SmartPtr@VSerializationId@UnBCL@@@UnBCL@@QEAA@PEAVSerializationId@1@@Z
+??0?$SmartPtr@VSerializationId@UnBCL@@@UnBCL@@QEAA@XZ
 ??0?$SmartPtr@VSerializationStream@UnBCL@@@UnBCL@@QEAA@AEBV01@@Z
 ??0?$SmartPtr@VSerializationStream@UnBCL@@@UnBCL@@QEAA@PEAVSerializationStream@1@@Z
 ??0?$SmartPtr@VSerializationStream@UnBCL@@@UnBCL@@QEAA@XZ
@@ -329,8 +329,8 @@
 ??0RegHandle@UnBCL@@QEAA@XZ
 ??0Registry@UnBCL@@QEAA@AEBV01@@Z
 ??0Registry@UnBCL@@QEAA@XZ
-??0RegistryKey@UnBCL@@AEAA@PEAUHKEY__@@H@Z
 ??0RegistryKey@UnBCL@@QEAA@AEBV01@@Z
+??0RegistryKey@UnBCL@@QEAA@PEAUHKEY__@@H@Z
 ??0RegSubkeyEnumerator@UnBCL@@QEAA@AEAVRegHandle@1@@Z
 ??0RegSubkeyEnumerator@UnBCL@@QEAA@AEBV01@@Z
 ??0ScopedObjectLock@UnBCL@@QEAA@PEAVSyncObject@1@@Z
@@ -345,8 +345,8 @@
 ??0SerializationException@UnBCL@@QEAA@PEBG@Z
 ??0SerializationException@UnBCL@@QEAA@PEBVString@1@@Z
 ??0SerializationException@UnBCL@@QEAA@XZ
-??0SerializationId@SerializationStream@UnBCL@@QEAA@AEBV012@@Z
-??0SerializationId@SerializationStream@UnBCL@@QEAA@PEAVString@2@H@Z
+??0SerializationId@UnBCL@@QEAA@AEBV01@@Z
+??0SerializationId@UnBCL@@QEAA@PEAVString@1@H@Z
 ??0SerializationStream@UnBCL@@AEAA@AEBV01@@Z
 ??0SerializationStream@UnBCL@@QEAA@PEAVStream@1@W4Mode@01@PEAVObject@1@@Z
 ??0Stream@UnBCL@@QEAA@AEBV01@@Z
@@ -491,7 +491,7 @@
 ??1?$SmartPtr@VDecoder@UnBCL@@@UnBCL@@UEAA@XZ
 ??1?$SmartPtr@VEncoding@UnBCL@@@UnBCL@@UEAA@XZ
 ??1?$SmartPtr@VObject@UnBCL@@@UnBCL@@UEAA@XZ
-??1?$SmartPtr@VSerializationId@SerializationStream@UnBCL@@@UnBCL@@UEAA@XZ
+??1?$SmartPtr@VSerializationId@UnBCL@@@UnBCL@@UEAA@XZ
 ??1?$SmartPtr@VSerializationStream@UnBCL@@@UnBCL@@UEAA@XZ
 ??1?$SmartPtr@VStream@UnBCL@@@UnBCL@@UEAA@XZ
 ??1?$SmartPtr@VString@UnBCL@@@UnBCL@@UEAA@XZ
@@ -546,7 +546,7 @@
 ??1SecurityException@UnBCL@@UEAA@XZ
 ??1SEHException@UnBCL@@UEAA@XZ
 ??1SerializationException@UnBCL@@UEAA@XZ
-??1SerializationId@SerializationStream@UnBCL@@UEAA@XZ
+??1SerializationId@UnBCL@@UEAA@XZ
 ??1SerializationStream@UnBCL@@UEAA@XZ
 ??1Stream@UnBCL@@UEAA@XZ
 ??1StreamCounter@UnBCL@@QEAA@XZ
@@ -646,7 +646,7 @@
 ??4?$SmartPtr@VDecoder@UnBCL@@@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4?$SmartPtr@VEncoding@UnBCL@@@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4?$SmartPtr@VObject@UnBCL@@@UnBCL@@QEAAAEAV01@AEBV01@@Z
-??4?$SmartPtr@VSerializationId@SerializationStream@UnBCL@@@UnBCL@@QEAAAEAV01@AEBV01@@Z
+??4?$SmartPtr@VSerializationId@UnBCL@@@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4?$SmartPtr@VSerializationStream@UnBCL@@@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4?$SmartPtr@VStream@UnBCL@@@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4?$SmartPtr@VString@UnBCL@@@UnBCL@@QEAAAEAV01@AEBV01@@Z
@@ -712,7 +712,7 @@
 ??4SecurityException@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4SEHException@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4SerializationException@UnBCL@@QEAAAEAV01@AEBV01@@Z
-??4SerializationId@SerializationStream@UnBCL@@QEAAAEAV012@AEBV012@@Z
+??4SerializationId@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4SerializationStream@UnBCL@@AEAAXAEBV01@@Z
 ??4Stream@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4StreamCounter@UnBCL@@QEAAAEAV01@AEBV01@@Z
@@ -777,7 +777,7 @@
 ??7?$SmartPtr@VDecoder@UnBCL@@@UnBCL@@QEBA_NXZ
 ??7?$SmartPtr@VEncoding@UnBCL@@@UnBCL@@QEBA_NXZ
 ??7?$SmartPtr@VObject@UnBCL@@@UnBCL@@QEBA_NXZ
-??7?$SmartPtr@VSerializationId@SerializationStream@UnBCL@@@UnBCL@@QEBA_NXZ
+??7?$SmartPtr@VSerializationId@UnBCL@@@UnBCL@@QEBA_NXZ
 ??7?$SmartPtr@VSerializationStream@UnBCL@@@UnBCL@@QEBA_NXZ
 ??7?$SmartPtr@VStream@UnBCL@@@UnBCL@@QEBA_NXZ
 ??7?$SmartPtr@VString@UnBCL@@@UnBCL@@QEBA_NXZ
@@ -924,7 +924,7 @@
 ??_7?$SmartPtr@VDecoder@UnBCL@@@UnBCL@@6B@
 ??_7?$SmartPtr@VEncoding@UnBCL@@@UnBCL@@6B@
 ??_7?$SmartPtr@VObject@UnBCL@@@UnBCL@@6B@
-??_7?$SmartPtr@VSerializationId@SerializationStream@UnBCL@@@UnBCL@@6B@
+??_7?$SmartPtr@VSerializationId@UnBCL@@@UnBCL@@6B@
 ??_7?$SmartPtr@VSerializationStream@UnBCL@@@UnBCL@@6B@
 ??_7?$SmartPtr@VStream@UnBCL@@@UnBCL@@6B@
 ??_7?$SmartPtr@VString@UnBCL@@@UnBCL@@6B@
@@ -1005,7 +1005,7 @@
 ??_7SecurityException@UnBCL@@6B@
 ??_7SEHException@UnBCL@@6B@
 ??_7SerializationException@UnBCL@@6B@
-??_7SerializationId@SerializationStream@UnBCL@@6B@
+??_7SerializationId@UnBCL@@6B@
 ??_7SerializationStream@UnBCL@@6B@
 ??_7Stream@UnBCL@@6B01@@
 ??_7Stream@UnBCL@@6BIDisposable@1@@
@@ -1317,7 +1317,7 @@
 ??B?$SmartPtr@VDecoder@UnBCL@@@UnBCL@@QEBAPEAVNullTest@01@XZ
 ??B?$SmartPtr@VEncoding@UnBCL@@@UnBCL@@QEBAPEAVNullTest@01@XZ
 ??B?$SmartPtr@VObject@UnBCL@@@UnBCL@@QEBAPEAVNullTest@01@XZ
-??B?$SmartPtr@VSerializationId@SerializationStream@UnBCL@@@UnBCL@@QEBAPEAVNullTest@01@XZ
+??B?$SmartPtr@VSerializationId@UnBCL@@@UnBCL@@QEBAPEAVNullTest@01@XZ
 ??B?$SmartPtr@VSerializationStream@UnBCL@@@UnBCL@@QEBAPEAVNullTest@01@XZ
 ??B?$SmartPtr@VStream@UnBCL@@@UnBCL@@QEBAPEAVNullTest@01@XZ
 ??B?$SmartPtr@VString@UnBCL@@@UnBCL@@QEBAPEAVNullTest@01@XZ
@@ -1332,7 +1332,7 @@
 ??C?$SmartPtr@VDecoder@UnBCL@@@UnBCL@@QEBAPEAVDecoder@1@XZ
 ??C?$SmartPtr@VEncoding@UnBCL@@@UnBCL@@QEBAPEAVEncoding@1@XZ
 ??C?$SmartPtr@VObject@UnBCL@@@UnBCL@@QEBAPEAVObject@1@XZ
-??C?$SmartPtr@VSerializationId@SerializationStream@UnBCL@@@UnBCL@@QEBAPEAVSerializationId@SerializationStream@1@XZ
+??C?$SmartPtr@VSerializationId@UnBCL@@@UnBCL@@QEBAPEAVSerializationId@1@XZ
 ??C?$SmartPtr@VSerializationStream@UnBCL@@@UnBCL@@QEBAPEAVSerializationStream@1@XZ
 ??C?$SmartPtr@VStream@UnBCL@@@UnBCL@@QEBAPEAVStream@1@XZ
 ??C?$SmartPtr@VString@UnBCL@@@UnBCL@@QEBAPEAVString@1@XZ
@@ -1343,7 +1343,7 @@
 ??D?$SmartPtr@VDecoder@UnBCL@@@UnBCL@@QEBAAEAVDecoder@1@XZ
 ??D?$SmartPtr@VEncoding@UnBCL@@@UnBCL@@QEBAAEAVEncoding@1@XZ
 ??D?$SmartPtr@VObject@UnBCL@@@UnBCL@@QEBAAEAVObject@1@XZ
-??D?$SmartPtr@VSerializationId@SerializationStream@UnBCL@@@UnBCL@@QEBAAEAVSerializationId@SerializationStream@1@XZ
+??D?$SmartPtr@VSerializationId@UnBCL@@@UnBCL@@QEBAAEAVSerializationId@1@XZ
 ??D?$SmartPtr@VSerializationStream@UnBCL@@@UnBCL@@QEBAAEAVSerializationStream@1@XZ
 ??D?$SmartPtr@VStream@UnBCL@@@UnBCL@@QEBAAEAVStream@1@XZ
 ??D?$SmartPtr@VString@UnBCL@@@UnBCL@@QEBAAEAVString@1@XZ
@@ -1445,8 +1445,8 @@
 ?Assign@?$SmartPtr@VEncoding@UnBCL@@@UnBCL@@AEAAXPEAVEncoding@2@@Z
 ?Assign@?$SmartPtr@VObject@UnBCL@@@UnBCL@@AEAAXAEBV12@@Z
 ?Assign@?$SmartPtr@VObject@UnBCL@@@UnBCL@@AEAAXPEAVObject@2@@Z
-?Assign@?$SmartPtr@VSerializationId@SerializationStream@UnBCL@@@UnBCL@@AEAAXAEBV12@@Z
-?Assign@?$SmartPtr@VSerializationId@SerializationStream@UnBCL@@@UnBCL@@AEAAXPEAVSerializationId@SerializationStream@2@@Z
+?Assign@?$SmartPtr@VSerializationId@UnBCL@@@UnBCL@@AEAAXAEBV12@@Z
+?Assign@?$SmartPtr@VSerializationId@UnBCL@@@UnBCL@@AEAAXPEAVSerializationId@2@@Z
 ?Assign@?$SmartPtr@VSerializationStream@UnBCL@@@UnBCL@@AEAAXAEBV12@@Z
 ?Assign@?$SmartPtr@VSerializationStream@UnBCL@@@UnBCL@@AEAAXPEAVSerializationStream@2@@Z
 ?Assign@?$SmartPtr@VStream@UnBCL@@@UnBCL@@AEAAXAEBV12@@Z
@@ -1594,7 +1594,7 @@
 ?DeAssign@?$SmartPtr@VDecoder@UnBCL@@@UnBCL@@AEAAXXZ
 ?DeAssign@?$SmartPtr@VEncoding@UnBCL@@@UnBCL@@AEAAXXZ
 ?DeAssign@?$SmartPtr@VObject@UnBCL@@@UnBCL@@AEAAXXZ
-?DeAssign@?$SmartPtr@VSerializationId@SerializationStream@UnBCL@@@UnBCL@@AEAAXXZ
+?DeAssign@?$SmartPtr@VSerializationId@UnBCL@@@UnBCL@@AEAAXXZ
 ?DeAssign@?$SmartPtr@VSerializationStream@UnBCL@@@UnBCL@@AEAAXXZ
 ?DeAssign@?$SmartPtr@VStream@UnBCL@@@UnBCL@@AEAAXXZ
 ?DeAssign@?$SmartPtr@VString@UnBCL@@@UnBCL@@AEAAXXZ
@@ -1645,7 +1645,7 @@
 ?Equals@DateTime@UnBCL@@UEBAHPEBVObject@2@@Z
 ?Equals@Object@UnBCL@@SAHPEBV12@0@Z
 ?Equals@Object@UnBCL@@UEBAHPEBV12@@Z
-?Equals@SerializationId@SerializationStream@UnBCL@@UEBAHPEBVObject@3@@Z
+?Equals@SerializationId@UnBCL@@UEBAHPEBVObject@2@@Z
 ?Equals@String@UnBCL@@UEBAHPEBVObject@2@@Z
 ?Equals@TimeSpan@UnBCL@@UEBAHPEBVObject@2@@Z
 ?Equals@Version@UnBCL@@UEBAHPEBVObject@2@@Z
@@ -1817,7 +1817,7 @@
 ?get_NewLine@TextWriter@UnBCL@@UEBAPEBVString@2@XZ
 ?get_NextSibling@XmlNode@UnBCL@@QEAAPEAV12@XZ
 ?get_NodeType@XmlNode@UnBCL@@QEAA?AW4XmlNodeType@2@XZ
-?get_ObjectID@SerializationStream@UnBCL@@QEBAPEBVSerializationId@12@XZ
+?get_ObjectID@SerializationStream@UnBCL@@QEBAPEBVSerializationId@2@XZ
 ?get_OSVersion@OperatingSystem@UnBCL@@QEBAPEBVVersion@2@XZ
 ?get_OuterXml@XmlNode@UnBCL@@QEAAPEAVString@2@XZ
 ?get_OwnerDocument@XmlNode@UnBCL@@QEAAPEAVXmlDocument@2@XZ
@@ -1827,7 +1827,7 @@
 ?get_P@?$SmartPtr@VDecoder@UnBCL@@@UnBCL@@QEBAPEAVDecoder@2@XZ
 ?get_P@?$SmartPtr@VEncoding@UnBCL@@@UnBCL@@QEBAPEAVEncoding@2@XZ
 ?get_P@?$SmartPtr@VObject@UnBCL@@@UnBCL@@QEBAPEAVObject@2@XZ
-?get_P@?$SmartPtr@VSerializationId@SerializationStream@UnBCL@@@UnBCL@@QEBAPEAVSerializationId@SerializationStream@2@XZ
+?get_P@?$SmartPtr@VSerializationId@UnBCL@@@UnBCL@@QEBAPEAVSerializationId@2@XZ
 ?get_P@?$SmartPtr@VSerializationStream@UnBCL@@@UnBCL@@QEBAPEAVSerializationStream@2@XZ
 ?get_P@?$SmartPtr@VStream@UnBCL@@@UnBCL@@QEBAPEAVStream@2@XZ
 ?get_P@?$SmartPtr@VString@UnBCL@@@UnBCL@@QEBAPEAVString@2@XZ
@@ -1858,11 +1858,12 @@
 ?get_TotalMilliseconds@TimeSpan@UnBCL@@QEBANXZ
 ?get_TotalMinutes@TimeSpan@UnBCL@@QEBANXZ
 ?get_TotalSeconds@TimeSpan@UnBCL@@QEBANXZ
-?get_TypeName@SerializationId@SerializationStream@UnBCL@@QEBAPEBGXZ
+?get_TypeName@SerializationId@UnBCL@@QEBAPEBGXZ
 ?get_UseShellExecute@ProcessStartInfo@UnBCL@@QEBAHXZ
 ?get_Value@XmlNode@UnBCL@@QEAAPEAVString@2@XZ
+?get_ValueCount@RegistryKey@UnBCL@@QEBAHXZ
 ?get_Values@?$Hashtable@PEAVString@UnBCL@@PEAV12@@UnBCL@@UEBAPEAU?$ICollection@PEAVString@UnBCL@@@2@XZ
-?get_Version@SerializationId@SerializationStream@UnBCL@@QEBAHXZ
+?get_Version@SerializationId@UnBCL@@QEBAHXZ
 ?get_Win32ErrorCode@Win32Exception@UnBCL@@QEBAKXZ
 ?get_XMLDOMNode@XmlNode@UnBCL@@QEAAPEAUIXMLDOMNode@@XZ
 ?get_Year@DateTime@UnBCL@@QEBAHXZ
@@ -1873,6 +1874,7 @@
 ?GetAt@?$CSimpleStringT@G$0A@@ATL@@QEBAGH@Z
 ?GetBaseException@Exception@UnBCL@@UEBAPEBV12@XZ
 ?GetBaseKey@RegistryKey@UnBCL@@KAPEAV12@PEAUHKEY__@@@Z
+?GetBinaryValue@RegistryKey@UnBCL@@QEAAPEAV?$Array@E@2@PEBVString@2@@Z
 ?GetBuffer@?$Array@E@UnBCL@@UEAAPEAEH@Z
 ?GetBuffer@?$Array@E@UnBCL@@UEBAPEBEH@Z
 ?GetBuffer@?$Array@G@UnBCL@@UEAAPEAGH@Z
@@ -1940,13 +1942,14 @@
 ?GetHandler@Logging@UnBCL@@SAPEAUILogHandler@@XZ
 ?GetHashCode@DateTime@UnBCL@@UEBAHXZ
 ?GetHashCode@Object@UnBCL@@UEBAHXZ
-?GetHashCode@SerializationId@SerializationStream@UnBCL@@UEBAHXZ
+?GetHashCode@SerializationId@UnBCL@@UEBAHXZ
 ?GetHashCode@String@UnBCL@@UEBAHXZ
 ?GetHashCode@TimeSpan@UnBCL@@UEBAHXZ
 ?GetHashCode@Version@UnBCL@@UEBAHXZ
 ?GetInvalidPathChars@Path@UnBCL@@SAPEBVString@2@XZ
 ?GetIsEmpty@String@UnBCL@@SAHPEBG@Z
 ?GetLength@?$CSimpleStringT@G$0A@@ATL@@QEBAHXZ
+?GetLoadedModuleDir@Directory@UnBCL@@SAPEAVString@2@PEBV32@@Z
 ?GetLocalMachine@Registry@UnBCL@@SAPEAVRegistryKey@2@XZ
 ?GetLogicalDriveNames@Environment@UnBCL@@SAPEAV?$Array@PEAVString@UnBCL@@@2@XZ
 ?GetLongName@Path@UnBCL@@SAPEAVString@2@PEBV32@@Z
@@ -1975,6 +1978,7 @@
 ?GetString@Encoding@UnBCL@@UEBAPEAVString@2@PEBV?$Array@E@2@HH@Z
 ?GetStringInternal@RegHandle@UnBCL@@AEAAHPEBGAEAPEAVString@2@KKK@Z
 ?GetStringValue@RegHandle@UnBCL@@QEAAHPEBGAEAPEAVString@2@@Z
+?GetStringValue@RegistryKey@UnBCL@@QEAAPEAVString@2@PEBV32@H@Z
 ?GetSubKeyNames@RegistryKey@UnBCL@@QEAAPEAV?$Array@PEAVString@UnBCL@@@2@XZ
 ?GetSystemDir@Directory@UnBCL@@SAPEAVString@2@XZ
 ?GetTempBuffer@SerializationStream@UnBCL@@QEAAAEAV?$ArrayList@E@2@H@Z
@@ -2000,6 +2004,8 @@
 ?GetValue@?$Array@PEAVObject@UnBCL@@@UnBCL@@UEBAPEAVObject@2@H@Z
 ?GetValue@?$Array@PEAVString@UnBCL@@@UnBCL@@UEBAPEAVString@2@H@Z
 ?GetValue@RegistryKey@UnBCL@@QEAAKPEBVString@2@@Z
+?GetValueKind@RegistryKey@UnBCL@@QEAA?AW4RegistryValueKind@2@PEBVString@2@@Z
+?GetValueNames@RegistryKey@UnBCL@@QEAAPEAV?$Array@PEAVString@UnBCL@@@2@XZ
 ?GetVersionId@?$SerializableBase@V?$Array@E@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?NewLarvalArray@?$StaticArrayOps@E@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@UEBAHXZ
 ?GetVersionId@?$SerializableBase@V?$Array@G@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?NewLarvalArray@?$StaticArrayOps@G@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@UEBAHXZ
 ?GetVersionId@?$SerializableBase@V?$Array@H@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?NewLarvalArray@?$StaticArrayOps@H@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@UEBAHXZ
@@ -2127,6 +2133,7 @@
 ?MakeLower@?$CStringT@GV?$StrTraitATL@GV?$ChTraitsCRT@G@ATL@@@ATL@@@ATL@@QEAAAEAV12@XZ
 ?MakeLower@MutableString@UnBCL@@QEAAXXZ
 ?MakeReverse@?$CStringT@GV?$StrTraitATL@GV?$ChTraitsCRT@G@ATL@@@ATL@@@ATL@@QEAAAEAV12@XZ
+?MakeSureDirectoryExists@Directory@UnBCL@@SAKPEBGPEAH@Z
 ?MakeTrim@MutableString@UnBCL@@QEAAXPEBG@Z
 ?MakeUpper@?$CStringT@GV?$StrTraitATL@GV?$ChTraitsCRT@G@ATL@@@ATL@@@ATL@@QEAAAEAV12@XZ
 ?Match@String@UnBCL@@SAHPEBG0@Z
@@ -2156,7 +2163,7 @@
 ?Nullify@?$SmartPtr@VDecoder@UnBCL@@@UnBCL@@QEAAAEAV12@XZ
 ?Nullify@?$SmartPtr@VEncoding@UnBCL@@@UnBCL@@QEAAAEAV12@XZ
 ?Nullify@?$SmartPtr@VObject@UnBCL@@@UnBCL@@QEAAAEAV12@XZ
-?Nullify@?$SmartPtr@VSerializationId@SerializationStream@UnBCL@@@UnBCL@@QEAAAEAV12@XZ
+?Nullify@?$SmartPtr@VSerializationId@UnBCL@@@UnBCL@@QEAAAEAV12@XZ
 ?Nullify@?$SmartPtr@VSerializationStream@UnBCL@@@UnBCL@@QEAAAEAV12@XZ
 ?Nullify@?$SmartPtr@VStream@UnBCL@@@UnBCL@@QEAAAEAV12@XZ
 ?Nullify@?$SmartPtr@VString@UnBCL@@@UnBCL@@QEAAAEAV12@XZ
@@ -2241,6 +2248,7 @@
 ?Replace@?$CStringT@GV?$StrTraitATL@GV?$ChTraitsCRT@G@ATL@@@ATL@@@ATL@@QEAAHGG@Z
 ?Replace@?$CStringT@GV?$StrTraitATL@GV?$ChTraitsCRT@G@ATL@@@ATL@@@ATL@@QEAAHPEBG0@Z
 ?Replace@String@UnBCL@@QEBAPEAV12@GG@Z
+?Replace@String@UnBCL@@QEBAPEAV12@PEAV12@0H@Z
 ?Replace@String@UnBCL@@QEBAPEAV12@PEBG0W4StringCasing@12@@Z
 ?Reset@FileSystemEnumerator@UnBCL@@UEAAXXZ
 ?Reset@RegSubkeyEnumerator@UnBCL@@UEAAXXZ
@@ -2260,7 +2268,7 @@
 ?s_Manager@Allocator@UnBCL@@0PAPEAUIHeapMemory@@A
 ?s_OOMHandler@Allocator@UnBCL@@0PEAUIOutOfMemoryHandler@@EA
 ?s_PoolLock@String@UnBCL@@1VObject@2@A
-?s_Registered@SerializationStream@UnBCL@@0PEAV?$Hashtable@PEAVSerializationId@SerializationStream@UnBCL@@PEAVTypeFactoryList@23@@2@EA
+?s_Registered@SerializationStream@UnBCL@@0PEAV?$Hashtable@PEAVSerializationId@UnBCL@@PEAVTypeFactoryList@SerializationStream@2@@2@EA
 ?s_Registration@?$SerializableBase@V?$Array@E@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?NewLarvalArray@?$StaticArrayOps@E@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@0UStaticTypeRegistration@12@A
 ?s_Registration@?$SerializableBase@V?$Array@G@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?NewLarvalArray@?$StaticArrayOps@G@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@0UStaticTypeRegistration@12@A
 ?s_Registration@?$SerializableBase@V?$Array@H@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?NewLarvalArray@?$StaticArrayOps@H@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@0UStaticTypeRegistration@12@A
@@ -2340,7 +2348,7 @@
 ?SetValue@?$Array@H@UnBCL@@UEAAXHH@Z
 ?SetValue@?$Array@PEAVObject@UnBCL@@@UnBCL@@UEAAXPEAVObject@2@H@Z
 ?SetValue@?$Array@PEAVString@UnBCL@@@UnBCL@@UEAAXPEAVString@2@H@Z
-?SetValue@RegistryKey@UnBCL@@QEAAXPEBVString@2@0@Z
+?SetValue@RegistryKey@UnBCL@@QEAAXPEBVString@2@0H@Z
 ?SetValue@RegistryKey@UnBCL@@QEAAXPEBVString@2@H@Z
 ?SetValue@RegistryKey@UnBCL@@QEAAXPEBVString@2@PEBV?$Array@E@2@@Z
 ?SetValue@RegistryKey@UnBCL@@QEAAXPEBVString@2@PEBV?$Array@PEAVString@UnBCL@@@2@@Z
@@ -2372,7 +2380,7 @@
 ?Steal@?$SmartPtr@VDecoder@UnBCL@@@UnBCL@@QEAAPEAVDecoder@2@XZ
 ?Steal@?$SmartPtr@VEncoding@UnBCL@@@UnBCL@@QEAAPEAVEncoding@2@XZ
 ?Steal@?$SmartPtr@VObject@UnBCL@@@UnBCL@@QEAAPEAVObject@2@XZ
-?Steal@?$SmartPtr@VSerializationId@SerializationStream@UnBCL@@@UnBCL@@QEAAPEAVSerializationId@SerializationStream@2@XZ
+?Steal@?$SmartPtr@VSerializationId@UnBCL@@@UnBCL@@QEAAPEAVSerializationId@2@XZ
 ?Steal@?$SmartPtr@VSerializationStream@UnBCL@@@UnBCL@@QEAAPEAVSerializationStream@2@XZ
 ?Steal@?$SmartPtr@VStream@UnBCL@@@UnBCL@@QEAAPEAVStream@2@XZ
 ?Steal@?$SmartPtr@VString@UnBCL@@@UnBCL@@QEAAPEAVString@2@XZ

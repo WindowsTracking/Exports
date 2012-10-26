@@ -3,4 +3,3 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
-GetAllocCounters

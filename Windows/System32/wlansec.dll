@@ -19,7 +19,9 @@ MSMSecQueryPeerState
 MSMSecRecvIndication
 MSMSecRecvPacket
 MSMSecRedoSecurity
+MSMSecRemoveAPPeerKey
 MSMSecSendPktCompletion
+MSMSecSetAPPeerKey
 MSMSecSetAPSecondaryPSK
 MSMSecSetRuntimeState
 MSMSecSetWcnOneXEnable

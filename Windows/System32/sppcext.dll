@@ -1,9 +1,13 @@
+DllCanUnloadNow
+DllGetClassObject
 SLAcquireGenuineTicket
+SLAcquireGenuineTicketForAppId
 SLActivateProduct
 SLDepositTokenActivationResponse
 SLFreeTokenActivationCertificates
 SLFreeTokenActivationGrants
 SLGenerateTokenActivationChallenge
+SLGetGenuineInformationEx
 SLGetPackageProductKey
 SLGetPackageProperties
 SLGetPackageToken

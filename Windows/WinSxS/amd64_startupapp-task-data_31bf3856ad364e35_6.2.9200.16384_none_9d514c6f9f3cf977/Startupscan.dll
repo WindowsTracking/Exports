@@ -1,0 +1,4 @@
+DllMain
+SusResetNotification
+SusRunOEMTask
+SusRunTask

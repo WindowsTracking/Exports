@@ -27,3 +27,4 @@ D3D10StateBlockMaskEnableCapture
 D3D10StateBlockMaskGetSetting
 D3D10StateBlockMaskIntersect
 D3D10StateBlockMaskUnion
+RevertToOldImplementation

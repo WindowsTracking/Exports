@@ -1,5 +1,4 @@
 DisplayApphelpDialog
-PcaDisplayUserInterfaceForScenario
 PcaLaunchApplicationWithConsent
-PcaLogUnsignedDriverEvent
 PcaPersistSettingsAndLaunchApplication
+PcaShowDialog

@@ -1,0 +1,13 @@
+_lclose
+_lcreat
+_llseek
+_lopen
+_lread
+_lwrite
+BaseSetLastNTError
+CheckElevationEnabled
+DosPathToSessionPathW
+EnumerateLocalComputerNamesW
+RegisterWaitForInputIdle
+RemoveLocalAlternateComputerNameW
+SetLocalPrimaryComputerNameW

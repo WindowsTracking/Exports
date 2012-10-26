@@ -1,8 +1,15 @@
 _BioLogonIdentifiedUser
 WinBioAcquireFocus
+WinBioAsyncEnumBiometricUnits
+WinBioAsyncEnumDatabases
+WinBioAsyncEnumServiceProviders
+WinBioAsyncMonitorFrameworkChanges
+WinBioAsyncOpenFramework
+WinBioAsyncOpenSession
 WinBioCancel
 WinBioCaptureSample
 WinBioCaptureSampleWithCallback
+WinBioCloseFramework
 WinBioCloseSession
 WinBioControlUnit
 WinBioControlUnitPrivileged
@@ -28,6 +35,7 @@ WinBioLocateSensor
 WinBioLocateSensorWithCallback
 WinBioLockUnit
 WinBioLogonIdentifiedUser
+WinBioNotifyPasswordChange
 WinBioOpenSession
 WinBioRegisterEventMonitor
 WinBioRegisterServiceMonitor

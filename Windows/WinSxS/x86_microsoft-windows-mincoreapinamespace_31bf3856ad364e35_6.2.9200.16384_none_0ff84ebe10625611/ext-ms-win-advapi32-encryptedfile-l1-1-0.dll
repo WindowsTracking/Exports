@@ -1,0 +1,4 @@
+CloseEncryptedFileRaw
+OpenEncryptedFileRawW
+ReadEncryptedFileRaw
+WriteEncryptedFileRaw

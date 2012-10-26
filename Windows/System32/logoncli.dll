@@ -1,3 +1,11 @@
+AuthzrExtAccessCheck
+AuthzrExtFreeContext
+AuthzrExtFreeResourceManager
+AuthzrExtGetInformationFromContext
+AuthzrExtInitializeCompoundContext
+AuthzrExtInitializeContextFromSid
+AuthzrExtInitializeRemoteResourceManager
+AuthzrExtModifyClaims
 DsAddressToSiteNamesA
 DsAddressToSiteNamesExA
 DsAddressToSiteNamesExW
@@ -35,7 +43,9 @@ I_NetDatabaseSync2
 I_NetGetDCList
 I_NetGetForestTrustInformation
 I_NetlogonComputeClientDigest
+I_NetlogonComputeClientSignature
 I_NetlogonComputeServerDigest
+I_NetlogonComputeServerSignature
 I_NetLogonControl
 I_NetLogonControl2
 I_NetLogonGetCapabilities
@@ -71,3 +81,4 @@ NetRemoveServiceAccount
 NlBindingAddServerToCache
 NlBindingRemoveServerFromCache
 NlBindingSetAuthInfo
+NlSetDsIsCloningPDC

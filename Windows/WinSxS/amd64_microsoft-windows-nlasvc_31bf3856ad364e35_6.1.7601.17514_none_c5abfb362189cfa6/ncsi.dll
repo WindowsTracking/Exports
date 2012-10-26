@@ -1,8 +1,0 @@
-NcsiAllocateAndGetConnectivityStatusSet
-NcsiDeregisterConnectivityStatusChange
-NcsiFreeConnectivityStatusSet
-NcsiIdentifyUserSpecificProxies
-NcsiNotifySessionChange
-NcsiPerformRefresh
-NcsiRegisterConnectivityStatusChange
-NcsiUpdateClientPresence

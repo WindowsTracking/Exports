@@ -1,0 +1,10 @@
+SetupDiCallClassInstaller
+SetupDiDestroyDeviceInfoList
+SetupDiEnumDeviceInfo
+SetupDiGetClassDevsW
+SetupDiGetDeviceInstallParamsA
+SetupDiGetDeviceInstallParamsW
+SetupDiGetDeviceInstanceIdW
+SetupDiGetDevicePropertyW
+SetupDiSetClassInstallParamsA
+SetupDiSetClassInstallParamsW

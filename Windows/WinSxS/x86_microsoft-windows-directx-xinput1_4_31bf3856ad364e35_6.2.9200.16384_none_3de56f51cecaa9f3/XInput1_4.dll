@@ -1,0 +1,14 @@
+#100
+#101
+#102
+#103
+#104
+#108
+DllMain
+XInputEnable
+XInputGetAudioDeviceIds
+XInputGetBatteryInformation
+XInputGetCapabilities
+XInputGetKeystroke
+XInputGetState
+XInputSetState

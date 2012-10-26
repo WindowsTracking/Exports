@@ -1,0 +1,4 @@
+AuditComputeEffectivePolicyBySid
+AuditFree
+AuditQuerySystemPolicy
+AuditSetSystemPolicy

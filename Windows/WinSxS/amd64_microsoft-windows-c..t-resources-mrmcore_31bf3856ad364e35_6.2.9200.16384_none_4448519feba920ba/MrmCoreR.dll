@@ -1,0 +1,9 @@
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+DllInstall
+DllRegisterServer
+DllUnregisterServer
+ResourceManagerQueueGetString
+ResourceManagerQueueGetStringDirect
+ResourceManagerQueueIsResourceReference

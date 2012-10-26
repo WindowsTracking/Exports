@@ -6,5 +6,6 @@ DllUnregisterServer
 EndCaretTracking
 ProcessCaretEvents
 ProcessCiceroCaretEvent
+RestrictedModeMsgWndProc
 StartCaretTracking
 UnadviseHook

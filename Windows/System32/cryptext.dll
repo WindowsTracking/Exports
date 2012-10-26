@@ -1,4 +1,5 @@
 CryptExtAddCER
+CryptExtAddCERMachineOnlyAndHwndW
 CryptExtAddCERW
 CryptExtAddCRL
 CryptExtAddCRLW
@@ -7,6 +8,7 @@ CryptExtAddCTLW
 CryptExtAddP7R
 CryptExtAddP7RW
 CryptExtAddPFX
+CryptExtAddPFXMachineOnlyAndHwndW
 CryptExtAddPFXW
 CryptExtAddSPC
 CryptExtAddSPCW

@@ -4,4 +4,9 @@ BrandingLoadCursor
 BrandingLoadIcon
 BrandingLoadImage
 BrandingLoadString
+EulaFreeBuffer
+GetEULAFile
+GetEULAInCurrentUILanguage
 GetHinstanceByNameSpace
+GetInstalledEULAPath
+InstallEULA

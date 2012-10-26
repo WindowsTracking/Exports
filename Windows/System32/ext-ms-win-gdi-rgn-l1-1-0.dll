@@ -1,0 +1,8 @@
+CreateRectRgn
+FillRgn
+GetRegionData
+GetRgnBox
+IntersectClipRect
+SelectClipRgn
+SetMetaRgn
+SetPolyFillMode

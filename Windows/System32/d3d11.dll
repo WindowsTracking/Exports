@@ -38,5 +38,10 @@ D3DKMTSignalSynchronizationObject
 D3DKMTUnlock
 D3DKMTWaitForSynchronizationObject
 D3DKMTWaitForVerticalBlankEvent
+D3DPerformance_BeginEvent
+D3DPerformance_EndEvent
+D3DPerformance_GetStatus
+D3DPerformance_SetMarker
+EnableFeatureLevelUpgrade
 OpenAdapter10
 OpenAdapter10_2

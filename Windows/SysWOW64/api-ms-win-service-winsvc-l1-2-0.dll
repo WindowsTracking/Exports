@@ -1,0 +1,16 @@
+ChangeServiceConfig2A
+ChangeServiceConfigA
+ControlService
+ControlServiceExA
+CreateServiceA
+NotifyServiceStatusChangeA
+OpenSCManagerA
+OpenServiceA
+QueryServiceConfig2A
+QueryServiceConfigA
+QueryServiceStatus
+RegisterServiceCtrlHandlerA
+RegisterServiceCtrlHandlerExA
+RegisterServiceCtrlHandlerW
+StartServiceA
+StartServiceCtrlDispatcherA

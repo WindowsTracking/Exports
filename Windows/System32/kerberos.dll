@@ -1,6 +1,7 @@
 DllMain
 KerbCreateTokenFromTicket
 KerbDomainChangeCallback
+Kerberos
 KerbIsInitialized
 KerbKdcCallBack
 KerbMakeKdcCall

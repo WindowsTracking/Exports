@@ -1,0 +1,5 @@
+IUnknown_AtomicRelease
+IUnknown_GetSite
+IUnknown_QueryService
+IUnknown_Set
+IUnknown_SetSite

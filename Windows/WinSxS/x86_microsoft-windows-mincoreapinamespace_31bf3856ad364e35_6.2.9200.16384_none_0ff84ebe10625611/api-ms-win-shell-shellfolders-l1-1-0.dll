@@ -1,0 +1,14 @@
+PathCleanupSpec
+PathIsExe
+SHCreateDirectoryExW
+SHGetDesktopFolder
+SHGetFileInfoW
+SHGetFolderLocation
+SHGetFolderPathA
+SHGetFolderPathAndSubDirW
+SHGetFolderPathW
+SHGetInstanceExplorer
+SHGetKnownFolderPath
+SHGetSpecialFolderPathA
+SHGetSpecialFolderPathW
+SHSetKnownFolderPath

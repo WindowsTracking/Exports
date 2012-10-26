@@ -18,6 +18,7 @@ RasConnectionEnum
 RasConnectionGetStatistics
 RasCreateConnection
 RasDeAllocateRoute
+RasDeleteIkev2PskPolicy
 RasDestroyConnection
 RasDeviceConnect
 RasDeviceEnum
@@ -67,6 +68,7 @@ RasIsPulseDial
 RasIsTrustedCustomDll
 RasLinkGetStatistics
 RasmanUninitialize
+RasPlumbIkev2PskPolicy
 RasPortBundle
 RasPortCancelReceive
 RasPortClearStatistics
@@ -157,6 +159,7 @@ RasSetDialParams
 RasSetEapInfo
 RasSetEapUIData
 RasSetEapUserInfo
+RasSetEncPassword
 RasSetKey
 RasSetNetworkInfo
 RasSetPortUserData

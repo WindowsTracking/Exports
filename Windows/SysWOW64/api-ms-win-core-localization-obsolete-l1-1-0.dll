@@ -1,0 +1,11 @@
+CompareStringA
+EnumLanguageGroupLocalesW
+EnumSystemLanguageGroupsW
+EnumSystemLocalesEx
+EnumUILanguagesW
+GetNumberFormatW
+GetStringTypeA
+GetSystemDefaultLocaleName
+GetSystemDefaultUILanguage
+GetUserDefaultUILanguage
+LCIDToLocaleName

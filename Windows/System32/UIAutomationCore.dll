@@ -53,6 +53,8 @@ TransformPattern_Resize
 TransformPattern_Rotate
 UiaAddEvent
 UiaClientsAreListening
+UiaDisconnectAllProviders
+UiaDisconnectProvider
 UiaEventAddWindow
 UiaEventRemoveWindow
 UiaFind
@@ -69,6 +71,7 @@ UiaHostProviderFromHwnd
 UiaHPatternObjectFromVariant
 UiaHTextRangeFromVariant
 UiaHUiaNodeFromVariant
+UiaIAccessibleFromProvider
 UiaLookupId
 UiaNavigate
 UiaNodeFromFocus
@@ -77,6 +80,8 @@ UiaNodeFromPoint
 UiaNodeFromProvider
 UiaNodeRelease
 UiaPatternRelease
+UiaProviderForNonClient
+UiaProviderFromIAccessible
 UiaRaiseAsyncContentLoadedEvent
 UiaRaiseAutomationEvent
 UiaRaiseAutomationPropertyChangedEvent

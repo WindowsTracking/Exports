@@ -1,4 +1,5 @@
 DevObjBuildClassInfoList
+DevObjChangeState
 DevObjClassGuidsFromName
 DevObjClassNameFromGuid
 DevObjCreateDeviceInfo
@@ -46,3 +47,4 @@ DevObjSetDeviceInterfaceDefault
 DevObjSetDeviceInterfaceProperty
 DevObjSetDeviceProperty
 DevObjSetDeviceRegistryProperty
+DevObjUninstallDevice

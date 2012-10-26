@@ -127,6 +127,7 @@ MAPIResolveName
 MAPISaveMail
 MAPISendDocuments
 MAPISendMail
+MAPISendMailW
 MAPIUninitialize
 MAPIUninitialize@0
 MapStorageSCode@4

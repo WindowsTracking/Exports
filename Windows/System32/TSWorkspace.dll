@@ -2,7 +2,10 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+RADCProcessGroupPolicyEx
 TaskUpdateWorkspaces
+TaskUpdateWorkspaces2
 TaskUpdateWorkspacesIfNeeded
 WorkspaceSilentSetupW
 WorkspaceStatusNotify
+WorkspaceStatusNotify2

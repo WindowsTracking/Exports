@@ -1,0 +1,4 @@
+BuildImpersonateTrusteeW
+BuildSecurityDescriptorW
+BuildTrusteeWithObjectsAndSidW
+BuildTrusteeWithSidW

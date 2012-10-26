@@ -1,0 +1,8 @@
+AuthzrExtAccessCheck
+AuthzrExtFreeContext
+AuthzrExtFreeResourceManager
+AuthzrExtGetInformationFromContext
+AuthzrExtInitializeCompoundContext
+AuthzrExtInitializeContextFromSid
+AuthzrExtInitializeRemoteResourceManager
+AuthzrExtModifyClaims

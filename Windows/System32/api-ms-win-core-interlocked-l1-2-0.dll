@@ -1,0 +1,6 @@
+InitializeSListHead
+InterlockedFlushSList
+InterlockedPopEntrySList
+InterlockedPushEntrySList
+InterlockedPushListSListEx
+QueryDepthSList

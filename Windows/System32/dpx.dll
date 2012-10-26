@@ -1,3 +1,5 @@
 DpxFreeMemory
 DpxNewJob
+DpxNewJobEx
 DpxRestoreJob
+DpxRestoreJobEx

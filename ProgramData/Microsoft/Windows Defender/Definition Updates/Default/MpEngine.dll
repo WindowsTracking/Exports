@@ -1,0 +1,17 @@
+__rsignal
+FreeSigFiles
+GetSigFiles
+MatchHostname
+MpContainerAnalyze
+MpContainerClose
+MpContainerCloseObject
+MpContainerCommit
+MpContainerDelete
+MpContainerFreeObjectInfo
+MpContainerGetNext
+MpContainerOpen
+MpContainerOpenObject
+MpContainerRead
+MpContainerSetSize
+MpContainerWrite
+rsignal

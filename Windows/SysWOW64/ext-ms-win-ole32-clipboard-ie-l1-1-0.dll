@@ -1,0 +1,4 @@
+OleFlushClipboard
+OleGetClipboard
+OleIsCurrentClipboard
+OleSetClipboard

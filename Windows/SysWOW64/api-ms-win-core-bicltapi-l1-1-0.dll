@@ -1,0 +1,17 @@
+BiActivateWorkItem
+BiAssociateActivationProxy
+BiAssociateApplicationExtensionClass
+BiCreateEventForPackageName
+BiDeleteEvent
+BiDisassociateWorkItem
+BiDiscardPendingActivations
+BiEnumerateBrokeredEvents
+BiEnumerateUserSessions
+BiEnumerateWorkItemsForPackageName
+BiFreeMemory
+BiQueryBrokeredEvent
+BiQuerySystemStateBroadcastChannels
+BiQueryUserSession
+BiQueryWorkItem
+BiSignalEvent
+BiSignalMultipleEvents

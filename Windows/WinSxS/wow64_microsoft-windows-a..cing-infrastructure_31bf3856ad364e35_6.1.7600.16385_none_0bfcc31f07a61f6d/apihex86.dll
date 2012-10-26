@@ -1,8 +1,0 @@
-GetHookAPIs
-HeFreeLoadedManifestInfo
-HeGetGenericStubletFunctionAddress
-HeGetLoadedManifestInfo
-HeGetOriginalAddressForFunctionName
-HeIsFunctionExcluded
-HeIsModuleExcludedFromPatching
-NotifyShims

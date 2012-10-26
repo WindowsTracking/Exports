@@ -1,4 +1,6 @@
 HelperTraceEvent
+HelperTraceInitialize
+HelperTraceUninitialize
 WdiDiagnosticModuleMain
 WdiGetDiagnosticModuleInterfaceVersion
 WdiHandleInstance

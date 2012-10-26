@@ -1,3 +1,4 @@
+AVrfAPILookupCallback
 VerifierAddFreeMemoryCallback
 VerifierCheckPageHeapAllocation
 VerifierCreateRpcPageHeap
@@ -11,7 +12,9 @@ VerifierEnumerateResource
 VerifierForceNormalHeap
 VerifierGetInfoForException
 VerifierGetMemoryForDump
+VerifierGetPropertyValueByName
 VerifierGetProviderHelper
+VerifierIsAddressInAnyPageHeap
 VerifierIsCurrentThreadHoldingLocks
 VerifierIsDllEntryActive
 VerifierIsPerUserSettingsEnabled

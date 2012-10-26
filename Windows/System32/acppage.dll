@@ -1,5 +1,3 @@
 DllCanUnloadNow
 DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
 GetExeFromLnk

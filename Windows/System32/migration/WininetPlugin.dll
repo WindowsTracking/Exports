@@ -3,3 +3,8 @@ DllGetClassObject
 DllMain
 DllRegisterServer
 DllUnregisterServer
+EnumerateCacheEntriesFromIndexDatFile
+EnumerateNewCacheForCurrentUser
+EnumerateOldCacheForCurrentUser
+MigrateCacheForCurrentUser
+MigrateCacheForUser

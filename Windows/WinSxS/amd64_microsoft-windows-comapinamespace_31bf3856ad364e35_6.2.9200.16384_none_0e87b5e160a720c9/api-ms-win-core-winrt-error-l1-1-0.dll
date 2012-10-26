@@ -1,0 +1,11 @@
+GetRestrictedErrorInfo
+RoCaptureErrorContext
+RoFailFastWithErrorContext
+RoGetErrorReportingFlags
+RoOriginateError
+RoOriginateErrorW
+RoResolveRestrictedErrorInfoReference
+RoSetErrorReportingFlags
+RoTransformError
+RoTransformErrorW
+SetRestrictedErrorInfo

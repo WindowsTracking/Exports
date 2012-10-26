@@ -1,0 +1,10 @@
+InitPlugin
+ShutdownPlugin
+WSManPluginCommand
+WSManPluginConnect
+WSManPluginReceive
+WSManPluginReleaseCommandContext
+WSManPluginReleaseShellContext
+WSManPluginSend
+WSManPluginShell
+WSManPluginSignal

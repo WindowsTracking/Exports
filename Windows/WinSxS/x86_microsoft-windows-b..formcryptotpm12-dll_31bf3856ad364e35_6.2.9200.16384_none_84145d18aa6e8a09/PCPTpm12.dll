@@ -1,0 +1,4 @@
+DllInstall
+DllUnregisterServer
+GetAsymmetricEncryptionInterface
+GetRngInterface

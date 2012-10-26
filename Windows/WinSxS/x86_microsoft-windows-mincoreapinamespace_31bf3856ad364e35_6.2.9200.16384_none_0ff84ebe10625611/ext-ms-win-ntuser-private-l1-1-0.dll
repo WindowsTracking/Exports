@@ -1,0 +1,10 @@
+IsQueueAttached
+IsThreadMessageQueueAttached
+LoadLocalFonts
+LoadRemoteFonts
+RecordShutdownReason
+RegisterLogonProcess
+SetThreadInputBlocked
+SetWindowStationUser
+SwitchDesktopWithFade
+UpdatePerUserSystemParameters

@@ -1,7 +1,4 @@
 #100
-#101
-#102
-#103
 #205
 #206
 #207
@@ -37,6 +34,12 @@
 #254
 #255
 #256
+#257
+#258
+#259
+#260
+#261
+#338
 AbortPrinter
 AddFormA
 AddFormW
@@ -80,6 +83,7 @@ CreatePrintAsyncNotifyChannel
 CreatePrinterIC
 DeleteFormA
 DeleteFormW
+DeleteJobNamedProperty
 DeleteMonitorA
 DeleteMonitorW
 DeletePortA
@@ -121,6 +125,7 @@ EndDocPrinter
 EndPagePrinter
 EnumFormsA
 EnumFormsW
+EnumJobNamedProperties
 EnumJobsA
 EnumJobsW
 EnumMonitorsA
@@ -148,6 +153,8 @@ FindFirstPrinterChangeNotification
 FindNextPrinterChangeNotification
 FlushPrinter
 FreePrinterNotifyInfo
+FreePrintNamedPropertyArray
+FreePrintPropertyValue
 GetCorePrinterDriversA
 GetCorePrinterDriversW
 GetDefaultPrinterA
@@ -155,6 +162,7 @@ GetDefaultPrinterW
 GetFormA
 GetFormW
 GetJobA
+GetJobNamedPropertyValue
 GetJobW
 GetPrinterA
 GetPrinterDataA
@@ -171,6 +179,7 @@ GetPrinterDriverPackagePathW
 GetPrinterDriverW
 GetPrinterW
 GetPrintExecutionData
+GetPrintOutputInfo
 GetPrintProcessorDirectoryA
 GetPrintProcessorDirectoryW
 GetSpoolFileHandle
@@ -204,6 +213,7 @@ SetDefaultPrinterW
 SetFormA
 SetFormW
 SetJobA
+SetJobNamedProperty
 SetJobW
 SetPortA
 SetPortW

@@ -1,0 +1,6 @@
+PsmIsProcessInApplication
+PsmQueryApplicationInformation
+PsmQueryApplicationList
+PsmQueryProcessList
+PsmRegisterApplicationNotification
+PsmSetApplicationState

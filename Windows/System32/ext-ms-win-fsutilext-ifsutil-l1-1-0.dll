@@ -1,0 +1,9 @@
+CheckSonyMSWorker
+DeviceInstIsRemovableWorker
+GetDeviceIDDiskFromDeviceIDVolumeWorker
+GetDeviceInstanceWorker
+GetRemovableDeviceInstRecursWorker
+GetWidgetWorker
+InvalidateFveWorker
+SendWithSenseParseWorker
+WaitForUnitAndReportProgressWorker

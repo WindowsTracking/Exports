@@ -1,5 +1,11 @@
 #3
 #5
+#7
+#9
+DllCanUnloadNow
+DllGetClassObject
 DllMain
+DllRegisterServer
+DllUnregisterServer
 StartXpsPrintJob
 StartXpsPrintJob1

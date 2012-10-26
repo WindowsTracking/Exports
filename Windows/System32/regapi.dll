@@ -1,3 +1,4 @@
+CheckStringForAsciiConversion
 GetDomainName
 QueryUserProperty
 RegBuildNumberQuery
@@ -31,6 +32,7 @@ RegIsMachinePolicyAllowHelp
 RegIsSrcAcceptingConnections
 RegIsTimeZoneRedirectionEnabled
 RegIsTServer
+RegMergeMachinePolicy
 RegMergeUserConfigWithUserParameters
 RegOpenServerA
 RegOpenServerW
@@ -42,7 +44,6 @@ RegPdEnumerateA
 RegPdEnumerateW
 RegPdQueryA
 RegPdQueryW
-RegQueryAllowDWM
 RegQueryConnectionSettings
 RegQueryListenerStart
 RegQueryMonitorSettings
@@ -52,7 +53,6 @@ RegQueryUtilityCommandList
 RegSAMUserConfig
 RegSetLicensePolicyID
 RegSetSrcAcceptConnections
-RegSetWinStationAllowDWM
 RegUserConfigDelete
 RegUserConfigQuery
 RegUserConfigRename
@@ -77,6 +77,7 @@ RegWinStationQueryDefaultSecurity
 RegWinStationQueryEx
 RegWinStationQueryExNew
 RegWinStationQueryExtendedSettingsW
+RegWinStationQueryExW
 RegWinStationQueryNumValueW
 RegWinStationQuerySecurityA
 RegWinstationQuerySecurityConfig_Machine
@@ -84,6 +85,7 @@ RegWinstationQuerySecurityConfig_Merged
 RegWinStationQuerySecurityW
 RegWinStationQueryValueW
 RegWinStationQueryW
+RegWinStationSetDefaultSecurity
 RegWinStationSetExtendedSettingsW
 RegWinStationSetNumValueW
 RegWinStationSetSecurityA

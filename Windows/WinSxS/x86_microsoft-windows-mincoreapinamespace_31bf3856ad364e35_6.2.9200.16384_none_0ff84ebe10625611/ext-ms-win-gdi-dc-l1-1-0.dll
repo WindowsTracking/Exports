@@ -1,0 +1,15 @@
+CreatePalette
+DeleteObject
+GetClipBox
+GetCurrentObject
+GetDCOrgEx
+GetObjectA
+GetObjectType
+GetObjectW
+GetPaletteEntries
+GetStockObject
+GetSystemPaletteEntries
+RestoreDC
+SaveDC
+SelectObject
+SetDCBrushColor

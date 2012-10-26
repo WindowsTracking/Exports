@@ -1,0 +1,11 @@
+_AddMUIStringToCache
+_GetMUIStringFromCache
+_OpenMuiStringCache
+GetCPFileNameFromRegistry
+LoadStringByReference
+NlsCheckPolicy
+NlsEventDataDescCreate
+NlsGetCacheUpdateCount
+NlsUpdateLocale
+NlsUpdateSystemLocale
+NlsWriteEtwEvent

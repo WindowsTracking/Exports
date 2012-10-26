@@ -1,5 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-FlashConfigCreateNetworkW
-FlashConfigGetWLanXmlProfileW
-ImportFlashProfileW

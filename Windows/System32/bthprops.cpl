@@ -1,5 +1,4 @@
 #103
-BluetoothAddressToString
 BluetoothAuthenticateDevice
 BluetoothAuthenticateDeviceEx
 BluetoothAuthenticateMultipleDevices
@@ -9,7 +8,6 @@ BluetoothDisplayDeviceProperties
 BluetoothEnableDiscovery
 BluetoothEnableIncomingConnections
 BluetoothEnumerateInstalledServices
-BluetoothEnumerateInstalledServicesEx
 BluetoothFindBrowseGroupClose
 BluetoothFindClassIdClose
 BluetoothFindDeviceClose
@@ -40,7 +38,7 @@ BluetoothGetRadioInfo
 BluetoothIsConnectable
 BluetoothIsDiscoverable
 BluetoothIsVersionAvailable
-BluetoothMapClassOfDeviceToImageIndex
+BluetoothMapClassOfDeviceToIconPath
 BluetoothMapClassOfDeviceToString
 BluetoothRegisterForAuthentication
 BluetoothRegisterForAuthenticationEx
@@ -58,9 +56,6 @@ BluetoothSetLocalServiceInfo
 BluetoothSetServiceState
 BluetoothUnregisterAuthentication
 BluetoothUpdateDeviceRecord
-BthpEnableAllServices
-BthpFindPnpInfo
-BthpMapStatusToErr
 CPlApplet
 DllCanUnloadNow
 DllGetClassObject

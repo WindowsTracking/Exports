@@ -1,0 +1,14 @@
+BiPtActivateWorkItem
+BiPtAssociateActivationProxy
+BiPtAssociateApplicationExtensionClass
+BiPtCreateEventForPackageName
+BiPtDeleteEvent
+BiPtDisassociateWorkItem
+BiPtEnumerateBrokeredEvents
+BiPtEnumerateWorkItemsForPackageName
+BiPtFreeMemory
+BiPtQueryBrokeredEvent
+BiPtQuerySystemStateBroadcastChannels
+BiPtQueryWorkItem
+BiPtSignalEvent
+BiPtSignalMultipleEvents

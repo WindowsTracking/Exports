@@ -11,6 +11,7 @@ CryptUninstallCancelRetrieval
 DllRegisterServer
 DllUnregisterServer
 I_CryptConvertIriToAsciiOrUnicode
+I_CryptConvertIriToAsciiOrUnicodeWithFlags
 I_CryptNetEnumUrlCacheEntry
 I_CryptNetGetConnectivity
 I_CryptNetGetHostNameFromUrl

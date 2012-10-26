@@ -1,0 +1,10 @@
+WebPalCancelTwTimer
+WebPalCanScavengeDnsCache
+WebPalCreateDnsCacheCtx
+WebPalCreateSocketCtx
+WebPalFreeDnsCacheCtx
+WebPalFreeSocketCtx
+WebPalInitializeTwTimer
+WebPalIsImplemented
+WebPalSetTwTimer
+WebPalTerminateTwTimer

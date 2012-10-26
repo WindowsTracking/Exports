@@ -1,0 +1,7 @@
+PsmBlockAppStateChangeCompletion
+PsmQueryCurrentAppState
+PsmRegisterAppStateChangeNotification
+PsmShutdownApplication
+PsmUnblockAppStateChangeCompletion
+PsmUnregisterAppStateChangeNotification
+PsmWaitForAppResume

@@ -1,5 +1,0 @@
-DllRegisterServer
-DllUnregisterServer
-InitIMAPI
-MyDllGetClassObject
-QuitIMAPI

@@ -1,0 +1,8 @@
+DafCloseAssociationContext
+DafCreateAssociationContext
+DafCreateAssociationContextFromOobBlob
+DafMemFree
+DafSelectCeremony
+DafStartEnumCeremonies
+DafStartFinalize
+DafStartRemoveAssociation

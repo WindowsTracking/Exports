@@ -1,0 +1,17 @@
+AppContainerDeriveSidFromMoniker
+AppContainerFreeMemory
+AppContainerLookupDisplayNameMrtReference
+AppContainerLookupMoniker
+AppContainerRegisterSid
+AppContainerUnregisterSid
+AppXFreeMemory
+AppXGetApplicationData
+AppXGetDevelopmentMode
+AppXGetOSMaxVersionTested
+AppXGetOSMinVersion
+AppXGetPackageCapabilities
+AppXGetPackageSid
+AppXGetPackageState
+AppXLookupDisplayName
+AppXLookupMoniker
+AppXSetPackageState

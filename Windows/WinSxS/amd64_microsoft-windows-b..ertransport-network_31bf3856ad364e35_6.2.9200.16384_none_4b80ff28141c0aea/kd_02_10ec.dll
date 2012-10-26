@@ -1,0 +1,9 @@
+KdGetPacketAddress
+KdGetPacketLength
+KdGetRxPacket
+KdGetTxPacket
+KdInitializeController
+KdInitializeLibrary
+KdReleaseRxPacket
+KdSendTxPacket
+KdShutdownController

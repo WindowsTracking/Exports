@@ -1,7 +1,0 @@
-GetExtensionVersion
-HttpExtensionProc
-InstallStateService
-RegisterISAPI
-RegisterISAPIEx
-TerminateExtension
-UnregisterISAPI

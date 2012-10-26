@@ -1,5 +1,4 @@
 BrandCleanInstallStubs
-BrandExternal
 BrandICW
 BrandICW2
 BrandIE4
@@ -7,15 +6,9 @@ BrandIEActiveSetup
 BrandInternetExplorer
 BrandIntra
 BrandMe
-CallInternetInitializeAutoProxyDll
 Clear
 CloseRASConnections
-DllRegisterServer
-DllUnregisterServer
-GenerateGroupPolicy
 InternetInitializeAutoProxyDll
-ProcessGroupPolicy
-ProcessGroupPolicyEx
 ProcessGroupPolicyForActivities
 ProcessGroupPolicyForActivitiesEx
 ProcessGroupPolicyForZoneMap

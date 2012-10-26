@@ -1,0 +1,14 @@
+BeginPaint
+EndPaint
+GetUpdateRect
+GetUpdateRgn
+GetWindowDC
+GetWindowRgnBox
+GetWindowRgnEx
+InvalidateRect
+InvalidateRgn
+RedrawWindow
+SetWindowRgn
+UpdateWindow
+ValidateRect
+ValidateRgn

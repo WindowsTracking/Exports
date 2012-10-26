@@ -2,6 +2,10 @@ AccessibleChildren
 AccessibleObjectFromEvent
 AccessibleObjectFromPoint
 AccessibleObjectFromWindow
+AccessibleObjectFromWindowTimeout
+AccGetRunningUtilityState
+AccNotifyTouchInteraction
+AccSetRunningUtilityState
 CreateStdAccessibleObject
 CreateStdAccessibleProxyA
 CreateStdAccessibleProxyW

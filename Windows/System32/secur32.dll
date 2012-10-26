@@ -12,7 +12,6 @@ CloseLsaPerformanceData
 CollectLsaPerformanceData
 CompleteAuthToken
 CredMarshalTargetInfo
-CredParseUserNameWithType
 CredUnmarshalTargetInfo
 DecryptMessage
 DeleteSecurityContext

@@ -1,0 +1,12 @@
+CloseDesktop
+CloseWindowStation
+CreateDesktopW
+CreateWindowStationW
+EnumDesktopWindows
+GetProcessWindowStation
+GetThreadDesktop
+GetUserObjectInformationW
+OpenWindowStationW
+SetProcessWindowStation
+SetThreadDesktop
+SwitchDesktop

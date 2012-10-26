@@ -1,0 +1,16 @@
+EnumerateIdentityProviders
+GetDefaultIdentityProvider
+GetIdentityProviderInfoByGUID
+GetIdentityProviderInfoByName
+LookupAccountNameLocalA
+LookupAccountNameLocalW
+LookupAccountSidLocalA
+LookupAccountSidLocalW
+LsaLookupClose
+LsaLookupFreeMemory
+LsaLookupGetDomainInfo
+LsaLookupManageSidNameMapping
+LsaLookupOpenLocalPolicy
+LsaLookupTranslateNames
+LsaLookupTranslateSids
+ReleaseIdentityProviderEnumContext

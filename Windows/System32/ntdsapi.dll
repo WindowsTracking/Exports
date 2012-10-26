@@ -1,3 +1,4 @@
+DsAddCloneDCW
 DsAddSidHistoryA
 DsAddSidHistoryW
 DsaopBind
@@ -18,11 +19,13 @@ DsBindWithCredW
 DsBindWithSpnA
 DsBindWithSpnExA
 DsBindWithSpnExW
+DsBindWithSpnExWWorker
 DsBindWithSpnW
 DsClientMakeSpnForTargetServerA
 DsClientMakeSpnForTargetServerW
 DsCrackNamesA
 DsCrackNamesW
+DsCrackNamesWWorker
 DsCrackSpn2A
 DsCrackSpn2W
 DsCrackSpn3W
@@ -32,11 +35,15 @@ DsCrackSpnW
 DsCrackUnquotedMangledRdnA
 DsCrackUnquotedMangledRdnW
 DsFinishDemotionW
+DsFreeCloneDcResult
 DsFreeDomainControllerInfoA
 DsFreeDomainControllerInfoW
+DsFreeDomainControllerInfoWWorker
 DsFreeNameResultA
 DsFreeNameResultW
+DsFreeNameResultWWorker
 DsFreePasswordCredentials
+DsFreePasswordCredentialsWorker
 DsFreeSchemaGuidMapA
 DsFreeSchemaGuidMapW
 DsFreeSpnArrayA
@@ -46,6 +53,7 @@ DsGetBindAnnotW
 DsGetBindInstGuid
 DsGetDomainControllerInfoA
 DsGetDomainControllerInfoW
+DsGetDomainControllerInfoWWorker
 DsGetRdnW
 DsGetSpnA
 DsGetSpnW
@@ -71,6 +79,7 @@ DsListSitesW
 DsLogEntry
 DsMakePasswordCredentialsA
 DsMakePasswordCredentialsW
+DsMakePasswordCredentialsWWorker
 DsMakeSpnA
 DsMakeSpnW
 DsMapSchemaGuidsA
@@ -107,6 +116,7 @@ DsServerRegisterSpnA
 DsServerRegisterSpnW
 DsUnBindA
 DsUnBindW
+DsUnBindWWorker
 DsUnquoteRdnValueA
 DsUnquoteRdnValueW
 DsWriteAccountSpnA

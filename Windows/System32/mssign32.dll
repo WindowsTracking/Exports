@@ -27,7 +27,9 @@ SignerFreeSignerContext
 SignError
 SignerSign
 SignerSignEx
+SignerSignEx2
 SignerTimeStamp
 SignerTimeStampEx
 SignerTimeStampEx2
+SignerTimeStampEx3
 SpcGetCertFromKey

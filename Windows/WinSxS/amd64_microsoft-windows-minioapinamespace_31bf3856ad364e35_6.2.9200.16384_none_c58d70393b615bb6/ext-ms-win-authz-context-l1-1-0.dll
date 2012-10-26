@@ -1,0 +1,12 @@
+AuthzFreeAuditEvent
+AuthzFreeContext
+AuthzFreeResourceManager
+AuthziFreeAuditEventType
+AuthziInitializeAuditEvent
+AuthziInitializeAuditEventType
+AuthziInitializeAuditParams
+AuthziLogAuditEvent
+AuthzInitializeContextFromAuthzContext
+AuthzInitializeContextFromSid
+AuthzInitializeContextFromToken
+AuthzInitializeResourceManager

@@ -1,9 +1,0 @@
-ZoneClientExit
-ZoneClientGameDelete
-ZoneClientGameHandleNudge
-ZoneClientGameInitialize
-ZoneClientGameNew
-ZoneClientGameProcessMessage
-ZoneClientMain
-ZoneGameDllDelete
-ZoneGameDllInit

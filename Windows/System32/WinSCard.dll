@@ -6,6 +6,7 @@ SCardAccessNewReaderEvent
 SCardAccessStartedEvent
 SCardAddReaderToGroupA
 SCardAddReaderToGroupW
+SCardAudit
 SCardBeginTransaction
 SCardCancel
 SCardConnectA
@@ -24,8 +25,14 @@ SCardFreeMemory
 SCardGetAttrib
 SCardGetCardTypeProviderNameA
 SCardGetCardTypeProviderNameW
+SCardGetDeviceTypeIdA
+SCardGetDeviceTypeIdW
 SCardGetProviderIdA
 SCardGetProviderIdW
+SCardGetReaderDeviceInstanceIdA
+SCardGetReaderDeviceInstanceIdW
+SCardGetReaderIconA
+SCardGetReaderIconW
 SCardGetStatusChangeA
 SCardGetStatusChangeW
 SCardGetTransmitCount
@@ -44,6 +51,8 @@ SCardListReaderGroupsA
 SCardListReaderGroupsW
 SCardListReadersA
 SCardListReadersW
+SCardListReadersWithDeviceInstanceIdA
+SCardListReadersWithDeviceInstanceIdW
 SCardLocateCardsA
 SCardLocateCardsByATRA
 SCardLocateCardsByATRW

@@ -44,6 +44,7 @@ SQLColumnPrivilegesW
 SQLColumns
 SQLColumnsA
 SQLColumnsW
+SQLCompleteAsync
 SQLConnect
 SQLConnectA
 SQLConnectW

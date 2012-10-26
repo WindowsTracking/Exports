@@ -1,0 +1,17 @@
+AllocateVirtualMachineDomainSid
+AllocateVirtualMachineGroupSid
+AllocateVirtualMachineSid
+CreateVirtualMachineDomainSid
+CreateVirtualMachineGroupSid
+CreateVirtualMachineSid
+CreateVmWorkerProcessMoniker
+CreateVmWorkerProcessToken
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+EnumVmWorkerProcessMonikers
+GetVirtualMachineIdFromSid
+GetVmWorkerProcess
+IsVmWorkerProcessRunning
+StartVmWorkerProcess

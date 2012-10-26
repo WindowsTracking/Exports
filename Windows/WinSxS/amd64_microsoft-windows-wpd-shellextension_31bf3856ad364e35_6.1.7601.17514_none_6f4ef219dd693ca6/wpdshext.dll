@@ -1,7 +1,0 @@
-CDefFolderMenu_MergeMenu
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-SHBindToFolderIDListParent
-SHBindToFolderIDListParentEx

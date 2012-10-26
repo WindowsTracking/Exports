@@ -11,6 +11,7 @@ DrtGetSearchPath
 DrtGetSearchPathSize
 DrtGetSearchResult
 DrtGetSearchResultSize
+DrtHandlePowerEvent
 DrtOpen
 DrtPingPeer
 DrtRegisterKey

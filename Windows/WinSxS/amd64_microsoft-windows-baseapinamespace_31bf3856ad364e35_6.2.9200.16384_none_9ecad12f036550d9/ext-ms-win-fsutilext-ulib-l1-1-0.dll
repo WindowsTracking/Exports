@@ -1,0 +1,5 @@
+FindFirstVolumeMountPointWStub
+FindNextVolumeMountPointWStub
+FindVolumeMountPointCloseStub
+SetThreadUILanguageStub
+SystemParametersInfoWStub

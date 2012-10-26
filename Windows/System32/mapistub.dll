@@ -114,6 +114,7 @@ MAPIResolveName
 MAPISaveMail
 MAPISendDocuments
 MAPISendMail
+MAPISendMailW
 MAPIUninitialize
 MapStorageSCode
 MNLS_CompareStringW

@@ -1,0 +1,5 @@
+LsaAddPrivilegesToAccount
+LsaCreateAccount
+LsaGetUserName
+LsaOpenAccount
+LsaSetSystemAccessAccount

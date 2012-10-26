@@ -1,0 +1,13 @@
+DafChallengeDevicePresence
+DafCloseAssociationContext
+DafCloseChallengeContext
+DafCreateAssociationContext
+DafCreateAssociationContextFromOobBlob
+DafCreateChallengeContext
+DafMemFree
+DafSelectCeremony
+DafStartEnumCeremonies
+DafStartFinalize
+DafStartReadCeremonyData
+DafStartRemoveAssociation
+DafStartWriteCeremonyData

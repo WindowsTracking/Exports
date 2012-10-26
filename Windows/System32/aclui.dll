@@ -1,4 +1,7 @@
 CreateSecurityPage
+EditResourceCondition
 EditSecurity
 EditSecurityAdvanced
+GetLocalizedStringForCondition
+GetTlsIndexForClaimDictionary
 IID_ISecurityInformation

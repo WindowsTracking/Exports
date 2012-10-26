@@ -1,0 +1,6 @@
+PcaIsPcaDisabled
+PcaLinkChildProcessToParent
+PcaMonitorProcess
+PcaNotifyMsiInstall
+PcaNotifyStatusIcon
+PcaSendToService

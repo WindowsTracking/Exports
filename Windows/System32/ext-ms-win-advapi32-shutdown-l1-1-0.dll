@@ -1,0 +1,4 @@
+AbortSystemShutdownW
+CheckForHiberboot
+InitiateShutdownW
+InitiateSystemShutdownExW

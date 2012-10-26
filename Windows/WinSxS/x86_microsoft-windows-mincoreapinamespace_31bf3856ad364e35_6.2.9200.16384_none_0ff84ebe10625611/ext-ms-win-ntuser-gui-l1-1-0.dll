@@ -1,0 +1,16 @@
+ClientToScreen
+DestroyCursor
+DestroyIcon
+DrawIconEx
+FillRect
+GetCursor
+GetCursorInfo
+GetIconInfo
+LoadCursorW
+LoadIconA
+LoadIconW
+LoadImageA
+LoadImageW
+MapWindowPoints
+ScreenToClient
+SetCursor

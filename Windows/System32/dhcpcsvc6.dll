@@ -1,11 +1,16 @@
 Dhcpv6AcquireParameters
 Dhcpv6CancelOperation
+Dhcpv6CApiCleanup
+Dhcpv6CApiInitialize
+Dhcpv6EnableDhcp
 Dhcpv6EnableTracing
 Dhcpv6FreeLeaseInfo
+Dhcpv6FreeLeaseInfoArray
 Dhcpv6GetTraceArray
 Dhcpv6GetUserClasses
 Dhcpv6IsEnabled
 Dhcpv6QueryLeaseInfo
+Dhcpv6QueryLeaseInfoArray
 Dhcpv6ReleaseParameters
 Dhcpv6ReleasePrefix
 Dhcpv6ReleasePrefixEx

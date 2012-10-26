@@ -1,0 +1,10 @@
+ConnectToSynth3dVideoResourcePool
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetProxyDllInfo
+GetVmErrInfo
+IsErrorReported
+SetVmErrInfo
+VmlpSetFreeTpdCallbackForExe

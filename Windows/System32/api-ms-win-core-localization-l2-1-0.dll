@@ -1,0 +1,12 @@
+EnumCalendarInfoExEx
+EnumCalendarInfoExW
+EnumCalendarInfoW
+EnumDateFormatsExEx
+EnumDateFormatsExW
+EnumDateFormatsW
+EnumSystemCodePagesW
+EnumTimeFormatsEx
+EnumTimeFormatsW
+GetCurrencyFormatEx
+GetCurrencyFormatW
+GetNumberFormatEx

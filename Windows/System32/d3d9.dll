@@ -7,6 +7,7 @@ D3DPERF_SetOptions
 D3DPERF_SetRegion
 DebugSetLevel
 DebugSetMute
+Direct3D9EnableMaximizedWindowedModeShim
 Direct3DCreate9
 Direct3DCreate9Ex
 Direct3DShaderValidatorCreate9

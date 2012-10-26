@@ -1,6 +1,0 @@
-CompileFileViaDLL
-CreateBMOFViaDLL
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer

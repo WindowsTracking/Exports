@@ -1,0 +1,5 @@
+WerReportAddDump
+WerReportCloseHandle
+WerReportCreate
+WerReportSetParameter
+WerReportSubmit

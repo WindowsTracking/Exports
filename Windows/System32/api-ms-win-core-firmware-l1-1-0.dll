@@ -1,0 +1,4 @@
+GetFirmwareEnvironmentVariableExW
+GetFirmwareEnvironmentVariableW
+SetFirmwareEnvironmentVariableExW
+SetFirmwareEnvironmentVariableW

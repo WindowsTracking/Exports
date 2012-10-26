@@ -1,9 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-ShutdownContinuation
-SrFreeRestoreStatus
-SrFreeRpPropArray
-SysprepCleanup
-SysprepGeneralize

@@ -1,0 +1,5 @@
+GetCapture
+GetDoubleClickTime
+ReleaseCapture
+SetCapture
+TrackMouseEvent

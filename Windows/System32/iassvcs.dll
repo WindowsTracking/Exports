@@ -19,5 +19,6 @@ IASReportSecurityEvent
 IASRequestThread
 IASSetMaxNumberOfThreads
 IASSetMaxThreadIdle
+IASShutdown
 IASUninitialize
 IASVariantChangeType

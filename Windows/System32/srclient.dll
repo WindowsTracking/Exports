@@ -9,3 +9,5 @@ SRRemoveRestorePoint
 SRSetRestorePointA
 SRSetRestorePointInternal
 SRSetRestorePointW
+SysprepCleanup
+SysprepGeneralize

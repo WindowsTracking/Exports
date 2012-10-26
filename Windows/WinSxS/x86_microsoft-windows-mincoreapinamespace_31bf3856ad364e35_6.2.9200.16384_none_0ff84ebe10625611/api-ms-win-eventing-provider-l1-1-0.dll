@@ -1,0 +1,10 @@
+EventActivityIdControl
+EventEnabled
+EventProviderEnabled
+EventRegister
+EventSetInformation
+EventUnregister
+EventWrite
+EventWriteEx
+EventWriteString
+EventWriteTransfer

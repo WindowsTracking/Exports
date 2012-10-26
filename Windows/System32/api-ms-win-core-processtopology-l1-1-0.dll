@@ -1,0 +1,4 @@
+GetProcessGroupAffinity
+GetThreadGroupAffinity
+SetProcessGroupAffinity
+SetThreadGroupAffinity

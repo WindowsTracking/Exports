@@ -1,0 +1,10 @@
+CloseClipboard
+CountClipboardFormats
+EmptyClipboard
+GetClipboardFormatNameA
+GetClipboardFormatNameW
+IsClipboardFormatAvailable
+OpenClipboard
+RegisterClipboardFormatA
+RegisterClipboardFormatW
+SetClipboardData

@@ -1,0 +1,8 @@
+DriverUpdateCloseContext
+DriverUpdateEnableDeviceInstall
+DriverUpdateInstallUpdates
+DriverUpdateOpenContext
+DriverUpdateStageUpdates
+DriverUpdateUninstallUpdates
+DriverUpdateUnstageUpdates
+InstallDriversOffline

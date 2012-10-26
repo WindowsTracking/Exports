@@ -1,0 +1,7 @@
+AmdQueryPowerXpressDeviceInfo
+AmdQueryPowerXpressDeviceInfoEx
+DllMain
+GetKtProcAddress
+OpenAdapter
+OpenAdapter10
+OpenAdapter10_2

@@ -19,5 +19,6 @@ I_NetNotifyNtdsDsaDeletion
 I_NetNotifyRole
 I_NetNotifyTrustedDomain
 InitSecurityInterfaceW
+NetIGetEncTypes
 NetILogonSamLogon
 NlNetlogonMain

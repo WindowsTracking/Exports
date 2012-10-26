@@ -1,8 +1,11 @@
-#101
 #102
 #103
+#115
+#116
+ActivateInputProfile
 CPlApplet
 EnumEnabledLayoutOrTip
+EnumEnabledLayoutOrTipPrivate
 EnumLayoutOrTipForSetup
 GetDefaultLayout
 GetLayoutDescription
@@ -11,6 +14,7 @@ InputDll_DownlevelInitialize
 InputDll_DownlevelSetUILanguage
 InputDll_DownlevelUninitialize
 InstallLayoutOrTip
+InstallLayoutOrTipPrivate
 InstallLayoutOrTipUserReg
 QueryLayoutOrTipString
 QueryLayoutOrTipStringUserReg

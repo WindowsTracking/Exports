@@ -1,11 +1,15 @@
 #999
+BatMeterIconAnimationReset
+BatMeterIconThemeReset
 BatMeterOnDeviceChange
 CleanupBatteryData
 CreateBatteryData
 GetBatMeterIconAnimationState
 GetBatMeterIconAnimationTimeDelay
 GetBatMeterIconAnimationUpdate
+GetBatteryCapacityInfo
 GetBatteryDetails
+GetBatteryImmersiveIcon
 GetBatteryInfo
 GetBatteryStatusText
 GetBatteryWorkingState

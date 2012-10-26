@@ -27,20 +27,8 @@ DsGetForestTrustInformationW
 DsGetSiteNameA
 DsGetSiteNameW
 DsMergeForestTrustInformationW
-DsRoleAbortDownlevelServerUpgrade
-DsRoleCancel
-DsRoleDcAsDc
-DsRoleDcAsReplica
-DsRoleDemoteDc
-DsRoleDnsNameToFlatName
 DsRoleFreeMemory
-DsRoleGetDatabaseFacts
-DsRoleGetDcOperationProgress
-DsRoleGetDcOperationResults
 DsRoleGetPrimaryDomainInformation
-DsRoleIfmHandleFree
-DsRoleServerSaveStateForUpgrade
-DsRoleUpgradeDownlevelServer
 DsValidateSubnetNameA
 DsValidateSubnetNameW
 I_BrowserDebugCall
@@ -112,6 +100,7 @@ NetConfigGet
 NetConfigGetAll
 NetConfigSet
 NetConnectionEnum
+NetCreateProvisioningPackage
 NetDfsAdd
 NetDfsAddFtRoot
 NetDfsAddRootTarget
@@ -235,6 +224,7 @@ NetReplImportDirLock
 NetReplImportDirUnlock
 NetReplSetInfo
 NetRequestOfflineDomainJoin
+NetRequestProvisioningPackageInstall
 NetScheduleJobAdd
 NetScheduleJobDel
 NetScheduleJobEnum

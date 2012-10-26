@@ -1,4 +1,5 @@
 PshedAllocateMemory
+PshedArePluginsPresent
 PshedAttemptErrorRecovery
 PshedBugCheckSystem
 PshedClearErrorRecord
@@ -13,6 +14,7 @@ PshedGetInjectionCapabilities
 PshedInitialize
 PshedInjectError
 PshedIsSystemWheaEnabled
+PshedMarkHiberPhase
 PshedReadErrorRecord
 PshedRegisterPlugin
 PshedRetrieveErrorInfo

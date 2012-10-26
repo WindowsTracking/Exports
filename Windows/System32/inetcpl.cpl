@@ -20,4 +20,6 @@ OpenLanguageDialog
 ResetIEtoDefaults
 ShowDeleteBrowsingHistoryDialog
 ShowFeedOptionsDialog
+ShowHelpPageW
 ShowLanguageDialog
+ShowWebsiteDataSettings

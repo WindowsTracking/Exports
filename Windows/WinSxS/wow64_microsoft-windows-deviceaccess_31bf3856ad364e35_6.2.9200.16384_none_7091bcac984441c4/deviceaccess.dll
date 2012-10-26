@@ -1,0 +1,4 @@
+CreateDeviceAccessInstance
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

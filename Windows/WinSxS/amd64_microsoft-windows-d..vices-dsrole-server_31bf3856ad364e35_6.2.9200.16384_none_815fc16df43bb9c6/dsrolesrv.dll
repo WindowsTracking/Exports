@@ -1,0 +1,10 @@
+DsRoleGetCustomAllowListPathRank
+DsRoleIGetPrimaryDomainInformationOpState
+DsRoleIsPassedAllowedList
+DsRolepCheckExistingCloneConfigFile
+DsRolepCleanupDFSRDBFolder
+DsRolepEnablePrivilege
+DsRolepFixClone
+DsRolepRunSysprepProvidersForCloning
+DsRolepSetDSRMBootMode
+DsRoleServiceMain

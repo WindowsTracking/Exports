@@ -1,0 +1,7 @@
+CdeGetEntireProfileList
+CdeGetProfileList
+CdeGetProfileListForInterface
+CdeQueryParameter
+CdeSetParameter
+SvchostPushServiceGlobals
+WcmSvcMain

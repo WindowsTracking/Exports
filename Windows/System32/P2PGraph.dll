@@ -10,6 +10,7 @@ PeerGraphEnumConnections
 PeerGraphEnumNodes
 PeerGraphEnumRecords
 PeerGraphExportDatabase
+PeerGraphForceStopPresencePrivate
 PeerGraphFreeData
 PeerGraphGetEventData
 PeerGraphGetItemCount
@@ -31,6 +32,7 @@ PeerGraphSetPresence
 PeerGraphSetProperties
 PeerGraphShutdown
 PeerGraphStartup
+PeerGraphSuspendTimers
 PeerGraphUniversalTimeToPeerTime
 PeerGraphUnregisterEvent
 PeerGraphUpdateRecord

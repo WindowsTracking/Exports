@@ -1,0 +1,14 @@
+GetPrivateProfileIntA
+GetPrivateProfileIntW
+GetPrivateProfileSectionW
+GetPrivateProfileStringA
+GetPrivateProfileStringW
+GetProfileIntA
+GetProfileIntW
+GetProfileSectionA
+GetProfileSectionW
+GetProfileStringA
+GetProfileStringW
+WritePrivateProfileSectionA
+WritePrivateProfileStringA
+WritePrivateProfileStringW

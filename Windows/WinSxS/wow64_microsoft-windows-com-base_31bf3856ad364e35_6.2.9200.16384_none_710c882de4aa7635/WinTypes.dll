@@ -1,0 +1,8 @@
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+RoCreateNonAgilePropertySet
+RoGetBufferMarshaler
+RoGetMetaDataFile
+RoParseTypeName
+RoResolveNamespace

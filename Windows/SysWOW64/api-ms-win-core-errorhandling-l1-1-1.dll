@@ -1,0 +1,12 @@
+AddVectoredContinueHandler
+AddVectoredExceptionHandler
+GetErrorMode
+GetLastError
+RaiseException
+RemoveVectoredContinueHandler
+RemoveVectoredExceptionHandler
+RestoreLastError
+SetErrorMode
+SetLastError
+SetUnhandledExceptionFilter
+UnhandledExceptionFilter

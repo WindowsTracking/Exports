@@ -4,12 +4,14 @@ CtfImmDispatchDefImeMessage
 CtfImmEnterCoInitCountSkipMode
 CtfImmGenerateMessage
 CtfImmGetCompatibleKeyboardLayout
+CtfImmGetGlobalIMEStatus
 CtfImmGetGuidAtom
 CtfImmGetIMEFileName
 CtfImmGetTMAEFlags
 CtfImmHideToolbarWnd
 CtfImmIsCiceroEnabled
 CtfImmIsCiceroStartedInThread
+CtfImmIsComStartedInThread
 CtfImmIsGuidMapEnable
 CtfImmIsTextFrameServiceDisabled
 CtfImmLastEnabledWndDestroy
@@ -35,6 +37,7 @@ ImmDestroyIMCC
 ImmDestroySoftKeyboard
 ImmDisableIME
 ImmDisableIme
+ImmDisableLegacyIME
 ImmDisableTextFrameService
 ImmEnumInputContext
 ImmEnumRegisterWordA

@@ -1,8 +1,0 @@
-DllMain
-EditAuditInfo
-EditOwnerInfo
-EditPermissionInfo
-FMExtensionProcW
-SedDiscretionaryAclEditor
-SedSystemAclEditor
-SedTakeOwnership

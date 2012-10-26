@@ -34,6 +34,7 @@ BCryptGetProperty
 BCryptHashData
 BCryptImportKey
 BCryptImportKeyPair
+BCryptKeyDerivation
 BCryptOpenAlgorithmProvider
 BCryptQueryContextConfiguration
 BCryptQueryContextFunctionConfiguration

@@ -77,9 +77,11 @@ SetCredentialsAttributesW
 SspiCompareAuthIdentities
 SspiCopyAuthIdentity
 SspiDecryptAuthIdentity
+SspiDecryptAuthIdentityEx
 SspiEncodeAuthIdentityAsStrings
 SspiEncodeStringsAsAuthIdentity
 SspiEncryptAuthIdentity
+SspiEncryptAuthIdentityEx
 SspiExcludePackage
 SspiFreeAuthIdentity
 SspiGetComputerNameForSPN

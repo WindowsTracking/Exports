@@ -1,0 +1,10 @@
+joyConfigChanged
+joyGetDevCapsA
+joyGetDevCapsW
+joyGetNumDevs
+joyGetPos
+joyGetPosEx
+joyGetThreshold
+joyReleaseCapture
+joySetCapture
+joySetThreshold

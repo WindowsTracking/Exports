@@ -1,4 +1,3 @@
-FireVSDebugEvent
 TraceCloseLogFile
 TraceOpenLogFile
 TraceReturn
@@ -25,6 +24,8 @@ TraceSQLColumnPrivileges
 TraceSQLColumnPrivilegesW
 TraceSQLColumns
 TraceSQLColumnsW
+TraceSQLCompleteAsync
+TraceSQLCompleteAsyncW
 TraceSQLConnect
 TraceSQLConnectW
 TraceSQLCopyDesc

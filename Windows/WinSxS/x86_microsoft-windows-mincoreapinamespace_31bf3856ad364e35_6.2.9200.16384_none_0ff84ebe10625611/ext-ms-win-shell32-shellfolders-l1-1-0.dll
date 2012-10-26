@@ -1,0 +1,14 @@
+PathCleanupSpecWorker
+PathIsExeWorker
+SHCreateDirectoryExWWorker
+SHGetDesktopFolderWorker
+SHGetFileInfoWWorker
+SHGetFolderLocationWorker
+SHGetFolderPathAndSubDirWWorker
+SHGetFolderPathAWorker
+SHGetFolderPathWWorker
+SHGetInstanceExplorerWorker
+SHGetKnownFolderPathWorker
+SHGetSpecialFolderPathAWorker
+SHGetSpecialFolderPathWWorker
+SHSetKnownFolderPathWorker

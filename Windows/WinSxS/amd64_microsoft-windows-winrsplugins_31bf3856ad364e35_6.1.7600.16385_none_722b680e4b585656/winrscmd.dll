@@ -1,9 +1,0 @@
-WSManPluginCommand
-WSManPluginReceive
-WSManPluginReleaseCommandContext
-WSManPluginReleaseShellContext
-WSManPluginSend
-WSManPluginShell
-WSManPluginShutdown
-WSManPluginSignal
-WSManPluginStartup

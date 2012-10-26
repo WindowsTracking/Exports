@@ -6,7 +6,6 @@
 ??1CPrvEnumObject@@QEAA@XZ
 ??1CRtlSharedLock@@QEAA@XZ
 ??1CVdsCriticalSection@@QEAA@XZ
-??1CVdsDebugLog@@QEAA@XZ
 ??1CVdsPnPNotificationBase@@QEAA@XZ
 ??1CVdsUnlockIt@@QEAA@XZ
 ??_FCRtlList@@QEAAXXZ
@@ -19,8 +18,8 @@
 ?Downgrade@CRtlSharedLock@@AEAAXXZ
 ?GetOutputType@CVdsAsyncObjectBase@@QEAA?AW4_VDS_ASYNC_OUTPUT_TYPE@@XZ
 ?IsCancelRequested@CVdsAsyncObjectBase@@QEAAHXZ
-?m_NoDebuggerLogging@CVdsDebugLog@@QEAAHXZ
-?m_TracingLogEnabled@CVdsDebugLog@@QEAAHXZ
+?m_ExtraLogging@CVdsTraceSettings@@QEAAHXZ
+?m_NoDebuggerLogging@CVdsTraceSettings@@QEAAHXZ
 ?Release@CRtlSharedLock@@AEAAXXZ
 ?SetOutput@CVdsAsyncObjectBase@@QEAAXU_VDS_ASYNC_OUTPUT@@@Z
 ?SetOutputType@CVdsAsyncObjectBase@@QEAAXW4_VDS_ASYNC_OUTPUT_TYPE@@@Z

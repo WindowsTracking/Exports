@@ -1,0 +1,8 @@
+DllRegisterServer
+DllUnregisterServer
+HeartbeatServiceMain
+KvpexchangeServiceMain
+RdvServiceMain
+ShutdownServiceMain
+TimesyncServiceMain
+VssServiceMain
