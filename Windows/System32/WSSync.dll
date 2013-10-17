@@ -1,12 +1,18 @@
 g_bPrint
 WSAcquireLicense
+WSAcquireWindowsUpgradeLicense
 WSCallActivateAppxLOBSKU
 WSCreateAcquireLicenseChallenge
 WSEvaluatePackageRemediationState
+WSFulfillProduct
 WSGetAddonKeyInstalledFlag
+WSGetBase64EncodedActiveLicenseData
 WSGetDebuggingHeader
 WSGetLastSyncTime
 WSGetLOBEnabledSKUFlag
+WSGetLocalHardwareId
+WSGetWindowsUpgradeToken
+WSIsWindowsUpgradeLicensed
 WSLicenseFree
 WSLicenseGetDeviceList
 WSLicenseGetMachineID
@@ -18,3 +24,4 @@ WSLicenseRemoveDevice
 WSParseLicenseResponse
 WSSetDebuggingHeader
 WSSyncLicenses
+WSSyncMachineLicenses

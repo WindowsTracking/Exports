@@ -1,0 +1,5 @@
+AddVectoredContinueHandler
+AddVectoredExceptionHandler
+RemoveVectoredContinueHandler
+RemoveVectoredExceptionHandler
+RestoreLastError

@@ -1,6 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-DllGetTscCtlVer
-DllRegisterServer
-DllUnregisterServer
-RegisterTransportExtDll

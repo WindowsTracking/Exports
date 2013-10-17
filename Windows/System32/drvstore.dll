@@ -1,6 +1,7 @@
 DriverPackageClose
 DriverPackageEnumClassesW
 DriverPackageEnumConfigurationsW
+DriverPackageEnumDevicesW
 DriverPackageEnumDriversW
 DriverPackageEnumFilesW
 DriverPackageEnumInterfacesW
@@ -11,6 +12,7 @@ DriverPackageGetVersionInfoW
 DriverPackageOpenW
 DriverStoreClose
 DriverStoreConfigureW
+DriverStoreCopyW
 DriverStoreDeleteW
 DriverStoreDriverPackageResolveCallbackW
 DriverStoreEnumObjectsW

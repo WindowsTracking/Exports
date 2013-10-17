@@ -1,9 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-GetFileName
-GetFolderPath
-GetSaveAsFileName
-RegisterServer
-UnregisterServer

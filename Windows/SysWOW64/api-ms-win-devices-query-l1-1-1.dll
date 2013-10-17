@@ -1,0 +1,15 @@
+DevCloseObjectQuery
+DevCreateObjectQuery
+DevCreateObjectQueryEx
+DevCreateObjectQueryFromId
+DevCreateObjectQueryFromIdEx
+DevCreateObjectQueryFromIds
+DevCreateObjectQueryFromIdsEx
+DevFindProperty
+DevFreeObjectProperties
+DevFreeObjects
+DevGetObjectProperties
+DevGetObjectPropertiesEx
+DevGetObjects
+DevGetObjectsEx
+DevSetObjectProperties

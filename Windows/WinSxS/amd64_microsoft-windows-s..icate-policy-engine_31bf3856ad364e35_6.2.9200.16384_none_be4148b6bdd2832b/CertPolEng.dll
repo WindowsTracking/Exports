@@ -1,6 +1,0 @@
-PstAcquirePrivateKey
-PstGetCertificates
-PstGetTrustAnchors
-PstGetUserNameForCertificate
-PstMapCertificate
-PstValidate

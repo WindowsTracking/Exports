@@ -1,6 +1,0 @@
-BaseGetProcessCrtlRoutine
-BaseSetProcessCreateNotify
-BaseSrvNlsLogon
-BaseSrvNlsUpdateRegistryCache
-BaseSrvRegisterSxS
-ServerDllInitialization

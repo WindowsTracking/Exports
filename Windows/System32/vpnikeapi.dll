@@ -20,4 +20,5 @@ ProcessTrafficSelectorsReply
 ProcessTrafficSelectorsRequest
 QueryEapAuthAttributes
 RemoveTrafficSelectors
+TunnelAuthDone
 UpdateTunnel

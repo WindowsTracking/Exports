@@ -1,5 +1,1 @@
-DirectPlayNATHelpCreate
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
+DllMain

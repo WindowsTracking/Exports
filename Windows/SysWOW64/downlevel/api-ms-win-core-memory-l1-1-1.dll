@@ -1,0 +1,16 @@
+CreateFileMappingFromApp
+CreateFileMappingNumaW
+CreateMemoryResourceNotification
+GetLargePageMinimum
+GetProcessWorkingSetSizeEx
+GetSystemFileCacheSize
+GetWriteWatch
+MapViewOfFileFromApp
+PrefetchVirtualMemory
+QueryMemoryResourceNotification
+ResetWriteWatch
+SetProcessWorkingSetSizeEx
+SetSystemFileCacheSize
+UnmapViewOfFileEx
+VirtualLock
+VirtualUnlock

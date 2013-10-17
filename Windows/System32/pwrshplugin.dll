@@ -1,4 +1,5 @@
 GetCLRVersionForPSVersion
+PerformWSManPluginReportCompletion
 WSManPluginCommand
 WSManPluginConnect
 WSManPluginReceive

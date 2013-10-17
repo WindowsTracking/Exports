@@ -24,6 +24,7 @@ wscProductInfoFree
 WscQueryAntiMalwareUri
 wscRegisterChangeNotification
 WscRegisterForChanges
+WscRegisterForUserNotifications
 wscRegisterSecurityProduct
 wscShowAMSCN
 wscUnRegisterChangeNotification

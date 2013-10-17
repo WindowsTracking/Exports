@@ -15,6 +15,7 @@ WwanAllocateMemory
 WwanAuthChallenge
 WwanCloseHandle
 WwanConnect
+WwanConnectAdditionalPdpContext
 WwanConnectByActivityId
 WwanConvertToInterfaceObject
 WwanDeleteProfile

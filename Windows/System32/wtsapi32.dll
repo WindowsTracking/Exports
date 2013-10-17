@@ -1,3 +1,6 @@
+QueryActiveSession
+QueryUserToken
+RegisterUsertokenForNoWinlogon
 WTSCloseServer
 WTSConnectSessionA
 WTSConnectSessionW

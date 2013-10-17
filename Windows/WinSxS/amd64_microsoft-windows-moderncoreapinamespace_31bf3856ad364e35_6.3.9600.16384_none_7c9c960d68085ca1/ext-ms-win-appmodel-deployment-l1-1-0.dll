@@ -1,0 +1,11 @@
+ApplyStrongProtection
+CreateAppxDataProfile
+CreateAppxInstallProfile
+DeleteAppxDataProfile
+DeleteAppxInstallProfile
+DeprovisionMarketplaceApplication
+GetUserTempPath
+GetWPCapabilities
+GetWPCapabilitiesCount
+IsProvisioningAllowed
+ProvisionMarketplaceApplication

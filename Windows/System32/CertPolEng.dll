@@ -1,6 +1,8 @@
 PstAcquirePrivateKey
+PstGetCertificateChain
 PstGetCertificates
 PstGetTrustAnchors
+PstGetTrustAnchorsEx
 PstGetUserNameForCertificate
 PstMapCertificate
 PstValidate

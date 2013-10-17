@@ -35,6 +35,7 @@ FwChangeSourceShutdown
 FwChangeSourceSignal
 FwChangeSourceSignalStart
 FWChangeTransactionalState
+FwChkBuildSidAndAttributesFree
 FWClosePolicyStore
 FwClosePolicyStore
 FwConvertIPv6SubNetToRange
@@ -48,6 +49,7 @@ FwCopyCryptoSet
 FwCopyCSRule
 FWCopyFirewallRule
 FwCopyICMPTypeCode
+FwCopyInterfaceLuids
 FwCopyLUID
 FwCopyMainModeRule
 FwCopyMMRule
@@ -166,6 +168,7 @@ FWQueryAuthenticationSets
 FWQueryConnectionSecurityRules
 FWQueryCryptoSets
 FWQueryFirewallRules
+FWQueryIsolationType
 FWQueryMainModeRules
 FwReduceObjectsToVersion
 FWRegisterProduct
@@ -179,6 +182,7 @@ FWRestoreGPODefaults
 FWRevertTransaction
 FwRuleResolveFlags
 FwSddlStringVerify
+FWSelectConSecRule
 FWSetAuthenticationSet
 FWSetConfig
 FwSetConfig
@@ -194,6 +198,7 @@ FwSetMemLeakPolicy
 FwSetResolveFlags
 FwSetRule
 FwSetSet
+FwSidAndAttributesCopy
 FwSidAndAttributesFree
 FwSidCopy
 FwSidsToString

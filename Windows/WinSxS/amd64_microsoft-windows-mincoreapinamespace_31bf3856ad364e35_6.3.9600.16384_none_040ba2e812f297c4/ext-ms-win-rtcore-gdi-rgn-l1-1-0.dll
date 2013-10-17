@@ -1,0 +1,16 @@
+CombineRgn
+CreatePolygonRgn
+CreateRectRgn
+CreateRectRgnIndirect
+EqualRgn
+ExtCreateRegion
+FillRgn
+GetRegionData
+GetRgnBox
+IntersectClipRect
+OffsetRgn
+RectInRegion
+SelectClipRgn
+SetMetaRgn
+SetPolyFillMode
+SetRectRgn

@@ -1,0 +1,9 @@
+CreateDCompositionHwndTarget
+CreateWindowInBand
+DestroyDCompositionHwndTarget
+GetTaskmanWindow
+GetWindowBand
+IsWindowInDestroy
+RegisterSessionPort
+SetTaskmanWindow
+UnregisterSessionPort

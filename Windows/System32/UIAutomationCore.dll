@@ -86,6 +86,7 @@ UiaRaiseAsyncContentLoadedEvent
 UiaRaiseAutomationEvent
 UiaRaiseAutomationPropertyChangedEvent
 UiaRaiseStructureChangedEvent
+UiaRaiseTextEditTextChangedEvent
 UiaRegisterProviderCallback
 UiaRemoveEvent
 UiaReturnRawElementProvider

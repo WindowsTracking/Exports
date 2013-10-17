@@ -1,4 +1,5 @@
 AddPorts
+CheckRasmanDependency
 DeviceConnect
 DeviceDone
 DeviceEnum
@@ -12,6 +13,7 @@ DeviceWork
 EnableDeviceForDialIn
 GetConnectInfo
 GetZeroDeviceInfo
+InitializeDriverIoControl
 PortChangeCallback
 PortClearStatistics
 PortClose
@@ -40,3 +42,4 @@ RefreshDevices
 RemovePort
 SetCommSettings
 UnloadRastapiDll
+UpdateTapiService

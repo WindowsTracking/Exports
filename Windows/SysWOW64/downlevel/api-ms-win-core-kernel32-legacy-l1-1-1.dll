@@ -1,0 +1,15 @@
+FindFirstVolumeMountPointW
+FindNextVolumeMountPointW
+FindVolumeMountPointClose
+GetFileAttributesTransactedW
+GetFirmwareType
+GetNumaAvailableMemoryNodeEx
+GetNumaNodeProcessorMask
+GetNumaProcessorNodeEx
+PowerClearRequest
+PowerCreateRequest
+PowerSetRequest
+SetDllDirectoryW
+SetThreadIdealProcessor
+SetVolumeMountPointW
+VerifyVersionInfoW

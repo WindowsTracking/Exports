@@ -1,0 +1,9 @@
+FileTimeToSystemTime
+GetDynamicTimeZoneInformation
+GetTimeZoneInformation
+GetTimeZoneInformationForYear
+SetDynamicTimeZoneInformation
+SetTimeZoneInformation
+SystemTimeToFileTime
+SystemTimeToTzSpecificLocalTime
+TzSpecificLocalTimeToSystemTime

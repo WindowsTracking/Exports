@@ -1,0 +1,6 @@
+CreatePhoneAppBarProxy
+CreateWinTextBoxProxy
+GetThemeServices
+XamlBehaviorEnabled
+XamlPalInitialize
+XamlPalUninitialize

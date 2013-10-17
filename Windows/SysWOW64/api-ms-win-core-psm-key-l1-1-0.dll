@@ -1,0 +1,10 @@
+PsmCreateKey
+PsmEqualApplication
+PsmEqualPackage
+PsmGetApplicationNameFromKey
+PsmGetKeyFromProcess
+PsmGetKeyFromToken
+PsmGetPackageFullNameFromKey
+PsmIsChildKey
+PsmIsDynamicKey
+PsmIsValidKey

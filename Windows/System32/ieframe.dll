@@ -21,7 +21,6 @@
 #168
 #170
 #172
-#174
 #199
 #211
 #212
@@ -76,6 +75,9 @@
 #329
 #91
 #92
+#93
+#94
+#95
 AddUrlToFavorites
 CORLockDownProvider
 CreateExtensionGuidEnumerator
@@ -124,6 +126,7 @@ IERemoveDirectory
 IESaveFile
 IESetProtectedModeCookie
 IESetProtectedModeCookieEx
+IEShowOpenFileDialog
 IEShowSaveFileDialog
 IETrackingProtectionEnabled
 IEUnregisterWritableRegistry

@@ -17,6 +17,13 @@
 #113
 #115
 #116
+#117
+#118
+#119
+#122
+#123
+#124
+#125
 #13
 #14
 #15
@@ -85,10 +92,8 @@
 #92
 #93
 #94
-#95
 #96
 #97
-#98
 #99
 BeginBufferedAnimation
 BeginBufferedPaint
@@ -120,7 +125,10 @@ GetBufferedPaintBits
 GetBufferedPaintDC
 GetBufferedPaintTargetDC
 GetBufferedPaintTargetRect
+GetColorFromPreference
 GetCurrentThemeName
+GetImmersiveColorFromColorSetEx
+GetImmersiveUserColorSetPreference
 GetThemeAnimationProperty
 GetThemeAnimationTransform
 GetThemeAppProperties
@@ -155,6 +163,7 @@ GetThemeTextExtent
 GetThemeTextMetrics
 GetThemeTimingFunction
 GetThemeTransitionDuration
+GetUserColorPreference
 GetWindowTheme
 HitTestThemeBackground
 IsAppThemed

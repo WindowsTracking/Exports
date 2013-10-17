@@ -1,0 +1,10 @@
+NisLogCleanup
+NisLogInitialize
+NisLogMachinePatchState
+NisLogOnConsumerUpdate
+NisLogOnParseError
+NisLogOnServiceStart
+NisLogOnSignatureEntry
+NisLogOnSignatureMatch
+NisLogSPrintfW
+NisLogWrite

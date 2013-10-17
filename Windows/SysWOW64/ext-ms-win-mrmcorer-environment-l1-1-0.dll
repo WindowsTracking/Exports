@@ -1,0 +1,13 @@
+MrtCompareQualifiers
+MrtEvaluate
+MrtGetBuildConfiguration
+MrtGetDefaultPlatformVersion
+MrtGetEnvironmentInfo
+MrtGetPlatformVersionForVerString
+MrtGetQualifierInfo
+MrtGetQualifierValue
+MrtGetQualifierValueChangeEventName
+MrtIsSupportedFileMagicNumber
+MrtIsSupportedPlatformVersion
+MrtValidateQualifierComparison
+MrtValidateQualifierValue

@@ -40,6 +40,7 @@ DevObjOpenDeviceInterfaceRegKey
 DevObjOpenDevRegKey
 DevObjRegisterDeviceInfo
 DevObjRemoveDeviceInterface
+DevObjRestartDevices
 DevObjSetClassProperty
 DevObjSetClassRegistryProperty
 DevObjSetDeviceInfoDetail

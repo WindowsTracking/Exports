@@ -1,6 +1,0 @@
-#1500
-DllCanUnloadNow
-DllGetActivationFactory
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer

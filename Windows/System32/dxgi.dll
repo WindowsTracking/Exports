@@ -1,8 +1,8 @@
-CheckETWTLS
 CompatString
 CompatValue
 CreateDXGIFactory
 CreateDXGIFactory1
+CreateDXGIFactory2
 D3DKMTCloseAdapter
 D3DKMTCreateAllocation
 D3DKMTCreateContext
@@ -43,6 +43,7 @@ DXGID3D10ETWRundown
 DXGID3D10GetLayeredDeviceSize
 DXGID3D10RegisterLayers
 DXGIDumpJournal
+DXGIGetDebugInterface1
 DXGIReportAdapterConfiguration
 DXGIRevertToSxS
 OpenAdapter10

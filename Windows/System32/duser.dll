@@ -4,6 +4,8 @@ AdjustClipInsideRef
 AttachWndProcA
 AttachWndProcW
 AutoTrace
+BeginHideInputPaneAnimation
+BeginShowInputPaneAnimation
 BuildAnimation
 BuildDropTarget
 BuildInterpolation
@@ -44,6 +46,7 @@ DUserSendEvent
 DUserSendMethod
 DUserStopAnimation
 DUserStopPVLAnimation
+EndInputPaneAnimation
 EnsureAnimationsEnabled
 EnsureGadgetTransInitialized
 EnumGadgets
@@ -131,6 +134,7 @@ SetGadgetRotation
 SetGadgetScale
 SetGadgetStyle
 SetHardwareDeviceUsage
+SetMinimumDCompVersion
 SetRestoreCachedLayeredRefFlag
 SetTransitionVisualProperties
 SetWindowResizeFlag

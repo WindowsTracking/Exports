@@ -67,6 +67,7 @@ BluetoothSetServiceStateEx
 BluetoothUnregisterAuthentication
 BluetoothUpdateDeviceRecord
 BthpCheckForUnsupportedGuid
+BthpCleanupBRDeviceNode
 BthpCleanupDeviceLocalServices
 BthpCleanupDeviceRemoteServices
 BthpCleanupLEDeviceNodes

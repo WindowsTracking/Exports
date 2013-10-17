@@ -1,0 +1,7 @@
+ClientInitEcsLib
+ClientUnInitEcsLib
+CreateSyncClientCoreInstance
+CreateSyncServiceCoreInstance
+DllCanUnloadNow
+ServiceMain
+SyncChangeBatchEnumCreateInstance

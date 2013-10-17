@@ -1,0 +1,4 @@
+FveGetStatusW
+FveSysCloseVolume
+FveSysOpenVolumeW
+FveSysSetUserFlags

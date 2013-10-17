@@ -1,9 +1,0 @@
-CreateCOMPlusApplication
-CreateIISPackage
-DeleteIISPackage
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-WamReg_RegisterSinkNotify
-WamReg_UnRegisterSinkNotify

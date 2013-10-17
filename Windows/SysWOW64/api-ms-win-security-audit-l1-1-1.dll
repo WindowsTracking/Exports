@@ -1,0 +1,15 @@
+AuditComputeEffectivePolicyBySid
+AuditEnumerateCategories
+AuditEnumeratePerUserPolicy
+AuditEnumerateSubCategories
+AuditFree
+AuditLookupCategoryNameW
+AuditLookupSubCategoryNameW
+AuditQueryGlobalSaclW
+AuditQueryPerUserPolicy
+AuditQuerySecurity
+AuditQuerySystemPolicy
+AuditSetGlobalSaclW
+AuditSetPerUserPolicy
+AuditSetSecurity
+AuditSetSystemPolicy

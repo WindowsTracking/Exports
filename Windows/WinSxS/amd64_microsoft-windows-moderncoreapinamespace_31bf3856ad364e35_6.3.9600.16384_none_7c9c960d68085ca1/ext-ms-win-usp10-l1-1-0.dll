@@ -1,0 +1,14 @@
+ScriptBreak
+ScriptFreeCache
+ScriptGetCMap
+ScriptGetLogicalWidths
+ScriptGetProperties
+ScriptItemize
+ScriptPlace
+ScriptShape
+ScriptString_pLogAttr
+ScriptStringAnalyse
+ScriptStringFree
+ScriptStringValidate
+ScriptSubstituteSingleGlyph
+ScriptTextOut

@@ -170,6 +170,9 @@
 ??0?$SmartPtr@VVersion@UnBCL@@@UnBCL@@QEAA@AEBV01@@Z
 ??0?$SmartPtr@VVersion@UnBCL@@@UnBCL@@QEAA@PEAVVersion@1@@Z
 ??0?$SmartPtr@VVersion@UnBCL@@@UnBCL@@QEAA@XZ
+??0?$SmartPtr@VXmlNamespaceManager@UnBCL@@@UnBCL@@QEAA@AEBV01@@Z
+??0?$SmartPtr@VXmlNamespaceManager@UnBCL@@@UnBCL@@QEAA@PEAVXmlNamespaceManager@1@@Z
+??0?$SmartPtr@VXmlNamespaceManager@UnBCL@@@UnBCL@@QEAA@XZ
 ??0?$Stack@H@UnBCL@@QEAA@AEBV01@@Z
 ??0?$Stack@H@UnBCL@@QEAA@XZ
 ??0?$Stack@PEAVObject@UnBCL@@@UnBCL@@QEAA@AEBV01@@Z
@@ -206,6 +209,8 @@
 ??0ArithmeticException@UnBCL@@QEAA@XZ
 ??0ASCIIEncoding@UnBCL@@QEAA@AEBV01@@Z
 ??0ASCIIEncoding@UnBCL@@QEAA@XZ
+??0BufferedStream@UnBCL@@QEAA@AEBV01@@Z
+??0BufferedStream@UnBCL@@QEAA@PEAVStream@1@K@Z
 ??0CaseInsensitiveStringComparer@UnBCL@@QEAA@AEBV01@@Z
 ??0CaseInsensitiveStringComparer@UnBCL@@QEAA@XZ
 ??0Char@UnBCL@@QEAA@AEBV01@@Z
@@ -432,6 +437,8 @@
 ??0XmlDocument@UnBCL@@QEAA@XZ
 ??0XmlException@UnBCL@@QEAA@AEBV01@@Z
 ??0XmlException@UnBCL@@QEAA@PEAVString@1@PEAVException@1@HHJ@Z
+??0XmlNamespaceManager@UnBCL@@QEAA@AEBV01@@Z
+??0XmlNamespaceManager@UnBCL@@QEAA@XZ
 ??0XmlNode@UnBCL@@IEAA@PEAUIXMLDOMNode@@@Z
 ??0XmlNode@UnBCL@@IEAA@XZ
 ??0XmlNode@UnBCL@@QEAA@AEBV01@@Z
@@ -496,6 +503,7 @@
 ??1?$SmartPtr@VStream@UnBCL@@@UnBCL@@UEAA@XZ
 ??1?$SmartPtr@VString@UnBCL@@@UnBCL@@UEAA@XZ
 ??1?$SmartPtr@VVersion@UnBCL@@@UnBCL@@UEAA@XZ
+??1?$SmartPtr@VXmlNamespaceManager@UnBCL@@@UnBCL@@UEAA@XZ
 ??1?$Stack@H@UnBCL@@UEAA@XZ
 ??1?$Stack@PEAVObject@UnBCL@@@UnBCL@@UEAA@XZ
 ??1AbandonedMutexException@UnBCL@@UEAA@XZ
@@ -505,6 +513,7 @@
 ??1ArgumentOutOfRangeException@UnBCL@@UEAA@XZ
 ??1ArithmeticException@UnBCL@@UEAA@XZ
 ??1ASCIIEncoding@UnBCL@@UEAA@XZ
+??1BufferedStream@UnBCL@@UEAA@XZ
 ??1CaseInsensitiveStringComparer@UnBCL@@UEAA@XZ
 ??1Char@UnBCL@@UEAA@XZ
 ??1DateTime@UnBCL@@UEAA@XZ
@@ -571,6 +580,7 @@
 ??1XmlAttributeCollection@UnBCL@@UEAA@XZ
 ??1XmlDocument@UnBCL@@UEAA@XZ
 ??1XmlException@UnBCL@@UEAA@XZ
+??1XmlNamespaceManager@UnBCL@@UEAA@XZ
 ??1XmlNode@UnBCL@@UEAA@XZ
 ??1XmlNodeList@UnBCL@@UEAA@XZ
 ??1XPathException@UnBCL@@UEAA@XZ
@@ -651,6 +661,7 @@
 ??4?$SmartPtr@VStream@UnBCL@@@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4?$SmartPtr@VString@UnBCL@@@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4?$SmartPtr@VVersion@UnBCL@@@UnBCL@@QEAAAEAV01@AEBV01@@Z
+??4?$SmartPtr@VXmlNamespaceManager@UnBCL@@@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4?$Stack@H@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4?$Stack@PEAVObject@UnBCL@@@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4AbandonedMutexException@UnBCL@@QEAAAEAV01@AEBV01@@Z
@@ -661,6 +672,7 @@
 ??4ArgumentOutOfRangeException@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4ArithmeticException@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4ASCIIEncoding@UnBCL@@QEAAAEAV01@AEBV01@@Z
+??4BufferedStream@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4CaseInsensitiveStringComparer@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4Char@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4ConsoleLogHandler@UnBCL@@QEAAAEAV01@AEBV01@@Z
@@ -737,6 +749,7 @@
 ??4XmlAttributeCollection@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4XmlDocument@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4XmlException@UnBCL@@QEAAAEAV01@AEBV01@@Z
+??4XmlNamespaceManager@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4XmlNode@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4XmlNodeList@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4XPathException@UnBCL@@QEAAAEAV01@AEBV01@@Z
@@ -782,6 +795,7 @@
 ??7?$SmartPtr@VStream@UnBCL@@@UnBCL@@QEBA_NXZ
 ??7?$SmartPtr@VString@UnBCL@@@UnBCL@@QEBA_NXZ
 ??7?$SmartPtr@VVersion@UnBCL@@@UnBCL@@QEBA_NXZ
+??7?$SmartPtr@VXmlNamespaceManager@UnBCL@@@UnBCL@@QEBA_NXZ
 ??_7?$Array@E@UnBCL@@6B01@@
 ??_7?$Array@E@UnBCL@@6B?$ICollection@E@1@@
 ??_7?$Array@E@UnBCL@@6B?$IEnumerable@E@1@@
@@ -929,6 +943,7 @@
 ??_7?$SmartPtr@VStream@UnBCL@@@UnBCL@@6B@
 ??_7?$SmartPtr@VString@UnBCL@@@UnBCL@@6B@
 ??_7?$SmartPtr@VVersion@UnBCL@@@UnBCL@@6B@
+??_7?$SmartPtr@VXmlNamespaceManager@UnBCL@@@UnBCL@@6B@
 ??_7?$Stack@H@UnBCL@@6B01@@
 ??_7?$Stack@H@UnBCL@@6B?$ICollection@H@1@@
 ??_7?$Stack@H@UnBCL@@6B?$IEnumerable@H@1@@
@@ -948,6 +963,9 @@
 ??_7ArithmeticException@UnBCL@@6B@
 ??_7ASCIIEncoding@UnBCL@@6BEncoding@1@@
 ??_7ASCIIEncoding@UnBCL@@6BObject@1@@
+??_7BufferedStream@UnBCL@@6BIDisposable@1@@
+??_7BufferedStream@UnBCL@@6BObject@1@@
+??_7BufferedStream@UnBCL@@6BStream@1@@
 ??_7CaseInsensitiveStringComparer@UnBCL@@6B?$IComparer@PEAVString@UnBCL@@@1@@
 ??_7CaseInsensitiveStringComparer@UnBCL@@6BObject@1@@
 ??_7Char@UnBCL@@6B@
@@ -1045,6 +1063,7 @@
 ??_7XmlAttributeCollection@UnBCL@@6B@
 ??_7XmlDocument@UnBCL@@6B@
 ??_7XmlException@UnBCL@@6B@
+??_7XmlNamespaceManager@UnBCL@@6B@
 ??_7XmlNode@UnBCL@@6B@
 ??_7XmlNodeList@UnBCL@@6B@
 ??_7XPathException@UnBCL@@6B@
@@ -1179,6 +1198,8 @@
 ??_8?$Stack@PEAVObject@UnBCL@@@UnBCL@@7B?$ICollection@PEAVObject@UnBCL@@@1@@
 ??_8ASCIIEncoding@UnBCL@@7B01@@
 ??_8ASCIIEncoding@UnBCL@@7BEncoding@1@@
+??_8BufferedStream@UnBCL@@7BIDisposable@1@@
+??_8BufferedStream@UnBCL@@7BStream@1@@
 ??_8CaseInsensitiveStringComparer@UnBCL@@7B@
 ??_8Decoder@UnBCL@@7B@
 ??_8Delegate@UnBCL@@7B@
@@ -1276,6 +1297,7 @@
 ??_D?$Stack@H@UnBCL@@QEAAXXZ
 ??_D?$Stack@PEAVObject@UnBCL@@@UnBCL@@QEAAXXZ
 ??_DASCIIEncoding@UnBCL@@QEAAXXZ
+??_DBufferedStream@UnBCL@@QEAAXXZ
 ??_DCaseInsensitiveStringComparer@UnBCL@@QEAAXXZ
 ??_DDecoder@UnBCL@@QEAAXXZ
 ??_DDelegate@UnBCL@@QEAAXXZ
@@ -1322,6 +1344,7 @@
 ??B?$SmartPtr@VStream@UnBCL@@@UnBCL@@QEBAPEAVNullTest@01@XZ
 ??B?$SmartPtr@VString@UnBCL@@@UnBCL@@QEBAPEAVNullTest@01@XZ
 ??B?$SmartPtr@VVersion@UnBCL@@@UnBCL@@QEBAPEAVNullTest@01@XZ
+??B?$SmartPtr@VXmlNamespaceManager@UnBCL@@@UnBCL@@QEBAPEAVNullTest@01@XZ
 ??BChar@UnBCL@@QEAAGXZ
 ??BRegHandle@UnBCL@@QEAAPEAUHKEY__@@XZ
 ??BStringPtr@UnBCL@@QEAA?AV?$SmartPtr@VString@UnBCL@@@1@XZ
@@ -1337,6 +1360,7 @@
 ??C?$SmartPtr@VStream@UnBCL@@@UnBCL@@QEBAPEAVStream@1@XZ
 ??C?$SmartPtr@VString@UnBCL@@@UnBCL@@QEBAPEAVString@1@XZ
 ??C?$SmartPtr@VVersion@UnBCL@@@UnBCL@@QEBAPEAVVersion@1@XZ
+??C?$SmartPtr@VXmlNamespaceManager@UnBCL@@@UnBCL@@QEBAPEAVXmlNamespaceManager@1@XZ
 ??D?$SmartPtr@V?$Array@E@UnBCL@@@UnBCL@@QEBAAEAV?$Array@E@1@XZ
 ??D?$SmartPtr@V?$Array@PEAVString@UnBCL@@@UnBCL@@@UnBCL@@QEBAAEAV?$Array@PEAVString@UnBCL@@@1@XZ
 ??D?$SmartPtr@V?$ArrayList@PEAVString@UnBCL@@@UnBCL@@@UnBCL@@QEBAAEAV?$ArrayList@PEAVString@UnBCL@@@1@XZ
@@ -1348,6 +1372,7 @@
 ??D?$SmartPtr@VStream@UnBCL@@@UnBCL@@QEBAAEAVStream@1@XZ
 ??D?$SmartPtr@VString@UnBCL@@@UnBCL@@QEBAAEAVString@1@XZ
 ??D?$SmartPtr@VVersion@UnBCL@@@UnBCL@@QEBAAEAVVersion@1@XZ
+??D?$SmartPtr@VXmlNamespaceManager@UnBCL@@@UnBCL@@QEBAAEAVXmlNamespaceManager@1@XZ
 ??Y?$CSimpleStringT@G$0A@@ATL@@QEAAAEAV01@AEBV01@@Z
 ??Y?$CSimpleStringT@G$0A@@ATL@@QEAAAEAV01@D@Z
 ??Y?$CSimpleStringT@G$0A@@ATL@@QEAAAEAV01@E@Z
@@ -1403,6 +1428,7 @@
 ?Add@StreamCounter@UnBCL@@QEAAX_J@Z
 ?Add@TimeSpan@UnBCL@@QEBA?AV12@AEBV12@@Z
 ?AddDictionary@?$Hashtable@PEAVString@UnBCL@@PEAV12@@UnBCL@@AEAAXPEBU?$IDictionary@PEAVString@UnBCL@@PEAV12@@2@@Z
+?AddNamespace@XmlNamespaceManager@UnBCL@@QEAAXPEAVString@2@0@Z
 ?AddRange@?$ArrayList@G@UnBCL@@UEAAXPEBU?$ICollection@G@2@@Z
 ?AddRange@?$ArrayList@PEAVString@UnBCL@@@UnBCL@@UEAAXPEBU?$ICollection@PEAVString@UnBCL@@@2@@Z
 ?AddRef@Object@UnBCL@@QEAAXXZ
@@ -1455,6 +1481,8 @@
 ?Assign@?$SmartPtr@VString@UnBCL@@@UnBCL@@AEAAXPEAVString@2@@Z
 ?Assign@?$SmartPtr@VVersion@UnBCL@@@UnBCL@@AEAAXAEBV12@@Z
 ?Assign@?$SmartPtr@VVersion@UnBCL@@@UnBCL@@AEAAXPEAVVersion@2@@Z
+?Assign@?$SmartPtr@VXmlNamespaceManager@UnBCL@@@UnBCL@@AEAAXAEBV12@@Z
+?Assign@?$SmartPtr@VXmlNamespaceManager@UnBCL@@@UnBCL@@AEAAXPEAVXmlNamespaceManager@2@@Z
 ?Attach@?$CSimpleStringT@G$0A@@ATL@@AEAAXPEAUCStringData@2@@Z
 ?BinarySearch@?$Array@E@UnBCL@@SAHPEBV12@EPEAU?$IComparer@E@2@@Z
 ?BinarySearch@?$Array@G@UnBCL@@SAHPEBV12@GPEAU?$IComparer@G@2@@Z
@@ -1501,6 +1529,7 @@
 ?Clone@Version@UnBCL@@UEBAPEAVObject@2@XZ
 ?CloneData@?$CSimpleStringT@G$0A@@ATL@@CAPEAUCStringData@2@PEAU32@@Z
 ?CloneNode@XmlNode@UnBCL@@QEAAPEAV12@H@Z
+?Close@BufferedStream@UnBCL@@UEAAXXZ
 ?Close@FileStream@UnBCL@@UEAAXXZ
 ?Close@MemoryStream@UnBCL@@UEAAXXZ
 ?Close@Process@UnBCL@@QEAAXXZ
@@ -1599,6 +1628,7 @@
 ?DeAssign@?$SmartPtr@VStream@UnBCL@@@UnBCL@@AEAAXXZ
 ?DeAssign@?$SmartPtr@VString@UnBCL@@@UnBCL@@AEAAXXZ
 ?DeAssign@?$SmartPtr@VVersion@UnBCL@@@UnBCL@@AEAAXXZ
+?DeAssign@?$SmartPtr@VXmlNamespaceManager@UnBCL@@@UnBCL@@AEAAXXZ
 ?DecRef@Object@UnBCL@@QEAAHXZ
 ?DEFAULT_ERROR@Exception@UnBCL@@0PEBGEB
 ?DefaultBins@?$Hashtable@PEAVString@UnBCL@@PEAV12@@UnBCL@@0IB
@@ -1615,6 +1645,7 @@
 ?DeleteSubKey@RegistryKey@UnBCL@@QEAAXPEBVString@2@H@Z
 ?DeleteSubKeyTree@RegistryKey@UnBCL@@QEAAXPEBVString@2@@Z
 ?DeleteValue@RegistryKey@UnBCL@@QEAAXPEBVString@2@@Z
+?Dispose@BufferedStream@UnBCL@@UEAAXXZ
 ?Dispose@FileStream@UnBCL@@UEAAXXZ
 ?Dispose@MemoryStream@UnBCL@@UEAAXXZ
 ?Dispose@Process@UnBCL@@UEAAXXZ
@@ -1623,6 +1654,8 @@
 ?Dispose@TextWriter@UnBCL@@UEAAXXZ
 ?Dispose@WaitHandle@UnBCL@@AEAAXH@Z
 ?Dispose@WaitHandle@UnBCL@@UEAAXXZ
+?Done@Environment@UnBCL@@SAJXZ
+?Done@String@UnBCL@@SAXXZ
 ?Dump@Allocator@UnBCL@@SAIPEAUILogHandler@@I@Z
 ?Dump@HeapMemoryManager@UnBCL@@UEAAIPEAUILogHandler@@@Z
 ?DumpDelta@Allocator@UnBCL@@SAIPEAUILogHandler@@I@Z
@@ -1661,10 +1694,12 @@
 ?FindOneOf@?$CStringT@GV?$StrTraitATL@GV?$ChTraitsCRT@G@ATL@@@ATL@@@ATL@@QEBAHPEBG@Z
 ?FixupName@RegistryKey@UnBCL@@AEAAPEAVString@2@AEBV32@@Z
 ?FixupPath@RegistryKey@UnBCL@@AEAAXAEAVStringBuilder@2@@Z
+?Flush@BufferedStream@UnBCL@@UEAAXXZ
 ?Flush@FileStream@UnBCL@@UEAAXXZ
 ?Flush@MemoryStream@UnBCL@@UEAAXXZ
 ?Flush@SerializationStream@UnBCL@@QEAAXXZ
 ?Flush@StreamWriter@UnBCL@@UEAAXXZ
+?FlushBuffer@BufferedStream@UnBCL@@AEAAXXZ
 ?Fork@?$CSimpleStringT@G$0A@@ATL@@AEAAXH@Z
 ?Format@?$CStringT@GV?$StrTraitATL@GV?$ChTraitsCRT@G@ATL@@@ATL@@@ATL@@QEAAXIZZ
 ?Format@?$CStringT@GV?$StrTraitATL@GV?$ChTraitsCRT@G@ATL@@@ATL@@@ATL@@QEAAXPEBGZZ
@@ -1696,6 +1731,7 @@
 ?get_AutoDeleteValue@?$Hashtable@PEAVString@UnBCL@@PEAV12@@UnBCL@@UEBAHXZ
 ?get_Buffer@MultiSz@UnBCL@@QEBAPEBGXZ
 ?get_Build@Version@UnBCL@@QEBAHXZ
+?get_CanWrite@BufferedStream@UnBCL@@UEBAHXZ
 ?get_CanWrite@FileStream@UnBCL@@UEBAHXZ
 ?get_CanWrite@MemoryStream@UnBCL@@UEBAHXZ
 ?get_Capacity@?$ArrayList@G@UnBCL@@UEBAHXZ
@@ -1798,6 +1834,7 @@
 ?get_Length@?$Array@H@UnBCL@@UEBAHXZ
 ?get_Length@?$Array@PEAVObject@UnBCL@@@UnBCL@@UEBAHXZ
 ?get_Length@?$Array@PEAVString@UnBCL@@@UnBCL@@UEBAHXZ
+?get_Length@BufferedStream@UnBCL@@UEBA_JXZ
 ?get_Length@FileStream@UnBCL@@UEBA_JXZ
 ?get_Length@MemoryStream@UnBCL@@UEBA_JXZ
 ?get_Length@String@UnBCL@@QEBAHXZ
@@ -1832,8 +1869,10 @@
 ?get_P@?$SmartPtr@VStream@UnBCL@@@UnBCL@@QEBAPEAVStream@2@XZ
 ?get_P@?$SmartPtr@VString@UnBCL@@@UnBCL@@QEBAPEAVString@2@XZ
 ?get_P@?$SmartPtr@VVersion@UnBCL@@@UnBCL@@QEBAPEAVVersion@2@XZ
+?get_P@?$SmartPtr@VXmlNamespaceManager@UnBCL@@@UnBCL@@QEBAPEAVXmlNamespaceManager@2@XZ
 ?get_ParentNode@XmlNode@UnBCL@@QEAAPEAV12@XZ
 ?get_Platform@OperatingSystem@UnBCL@@QEBA?AW4PlatformID@2@XZ
+?get_Position@BufferedStream@UnBCL@@UEBA_JXZ
 ?get_Position@FileStream@UnBCL@@UEBA_JXZ
 ?get_Position@MemoryStream@UnBCL@@UEBA_JXZ
 ?get_Prefix@XmlNode@UnBCL@@QEAAPEAVString@2@XZ
@@ -1866,6 +1905,7 @@
 ?get_Version@SerializationId@UnBCL@@QEBAHXZ
 ?get_Win32ErrorCode@Win32Exception@UnBCL@@QEBAKXZ
 ?get_XMLDOMNode@XmlNode@UnBCL@@QEAAPEAUIXMLDOMNode@@XZ
+?get_XPathNamespaces@XmlDocument@UnBCL@@QEBAHXZ
 ?get_Year@DateTime@UnBCL@@QEBAHXZ
 ?GetAllocLength@?$CSimpleStringT@G$0A@@ATL@@QEBAHXZ
 ?GetAltDirectorySeparatorChar@Path@UnBCL@@SAGXZ
@@ -1914,8 +1954,8 @@
 ?GetDecoder@UnicodeEncoding@UnBCL@@UEBAPEAVDecoder@2@XZ
 ?GetDefault@Encoding@UnBCL@@SAPEAV12@XZ
 ?GetDictionaryEnumerator@?$Hashtable@PEAVString@UnBCL@@PEAV12@@UnBCL@@UEBAPEAU?$IDictionaryEnumerator@PEAVString@UnBCL@@PEAV12@@2@XZ
-?GetDirectories@Directory@UnBCL@@SAPEAV?$Array@PEAVString@UnBCL@@@2@PEBVString@2@0@Z
-?GetDirectoriesAndFiles@Directory@UnBCL@@SAPEAV?$Array@PEAVString@UnBCL@@@2@PEBVString@2@0W4EnumerationType@12@@Z
+?GetDirectories@Directory@UnBCL@@SAPEAV?$Array@PEAVString@UnBCL@@@2@PEBVString@2@0H@Z
+?GetDirectoriesAndFiles@Directory@UnBCL@@SAPEAV?$Array@PEAVString@UnBCL@@@2@PEBVString@2@0W4EnumerationType@12@H@Z
 ?GetDirectoryRoot@Directory@UnBCL@@SAPEAVString@2@PEBV32@@Z
 ?GetDirectorySeparatorChar@Path@UnBCL@@SAGXZ
 ?GetDwordValue@RegHandle@UnBCL@@QEAAHPEBGAEAK@Z
@@ -1931,13 +1971,14 @@
 ?GetEnumerator@?$Stack@H@UnBCL@@UEBAPEAU?$IEnumerator@H@2@XZ
 ?GetEnumerator@?$Stack@PEAVObject@UnBCL@@@UnBCL@@UEBAPEAU?$IEnumerator@PEAVObject@UnBCL@@@2@XZ
 ?GetEnumerator@MultiSz@UnBCL@@UEBAPEAU?$IEnumerator@PEBG@2@XZ
+?GetEnumerator@XmlNamespaceManager@UnBCL@@QEBAPEAU?$IEnumerator@V?$DictionaryEntry@PEAVString@UnBCL@@PEAV12@@UnBCL@@@2@XZ
 ?GetEnvironmentVar@Environment@UnBCL@@SAPEAVString@2@PEBV32@@Z
 ?GetEnvironmentVariableW@?$CStringT@GV?$StrTraitATL@GV?$ChTraitsCRT@G@ATL@@@ATL@@@ATL@@QEAAHPEBG@Z
 ?GetEnvironmentVars@Environment@UnBCL@@SAPEAV?$Hashtable@PEAVString@UnBCL@@PEAV12@@2@XZ
 ?GetFileName@Path@UnBCL@@SAPEAVString@2@PEBV32@@Z
 ?GetFileNameExtension@Path@UnBCL@@SAPEAVString@2@PEBV32@@Z
 ?GetFileNameWithoutExtension@Path@UnBCL@@SAPEAVString@2@PEBV32@@Z
-?GetFiles@Directory@UnBCL@@SAPEAV?$Array@PEAVString@UnBCL@@@2@PEBVString@2@0@Z
+?GetFiles@Directory@UnBCL@@SAPEAV?$Array@PEAVString@UnBCL@@@2@PEBVString@2@0H@Z
 ?GetFullPath@Path@UnBCL@@SAPEAVString@2@PEBV32@@Z
 ?GetHandler@Logging@UnBCL@@SAPEAUILogHandler@@XZ
 ?GetHashCode@DateTime@UnBCL@@UEBAHXZ
@@ -2129,6 +2170,7 @@
 ?LoadXml@XmlDocument@UnBCL@@QEAAXPEAVString@2@@Z
 ?LockBuffer@?$CSimpleStringT@G$0A@@ATL@@QEAAPEAGXZ
 ?LogW@ConsoleLogHandler@UnBCL@@UEAA?AW4tagLOGRESULT@@KPEBDKPEBG1K@Z
+?LookupNamespace@XmlNamespaceManager@UnBCL@@QEAAPEAVString@2@PEAV32@@Z
 ?m_OSVersion@Environment@UnBCL@@0PEAVOperatingSystem@2@EA
 ?MakeLower@?$CStringT@GV?$StrTraitATL@GV?$ChTraitsCRT@G@ATL@@@ATL@@@ATL@@QEAAAEAV12@XZ
 ?MakeLower@MutableString@UnBCL@@QEAAXXZ
@@ -2168,6 +2210,7 @@
 ?Nullify@?$SmartPtr@VStream@UnBCL@@@UnBCL@@QEAAAEAV12@XZ
 ?Nullify@?$SmartPtr@VString@UnBCL@@@UnBCL@@QEAAAEAV12@XZ
 ?Nullify@?$SmartPtr@VVersion@UnBCL@@@UnBCL@@QEAAAEAV12@XZ
+?Nullify@?$SmartPtr@VXmlNamespaceManager@UnBCL@@@UnBCL@@QEAAAEAV12@XZ
 ?NumBlocksAllocated@HeapMemoryManager@UnBCL@@UEAAIXZ
 ?OemToCharA@?$CStringT@GV?$StrTraitATL@GV?$ChTraitsCRT@G@ATL@@@ATL@@@ATL@@QEAAXXZ
 ?Open@RegHandle@UnBCL@@QEAAHPEAUHKEY__@@PEBGK@Z
@@ -2190,6 +2233,7 @@
 ?Push@?$Stack@PEAVObject@UnBCL@@@UnBCL@@UEAAXPEAVObject@2@@Z
 ?QuickSort@?$ArrayList@G@UnBCL@@AEAAXPEAV12@0HH@Z
 ?QuickSort@?$ArrayList@PEAVString@UnBCL@@@UnBCL@@AEAAXPEAV12@0HH@Z
+?Read@BufferedStream@UnBCL@@UEAAHPEAEHH@Z
 ?Read@FileStream@UnBCL@@UEAAHPEAEHH@Z
 ?Read@MemoryStream@UnBCL@@UEAAHPEAEHH@Z
 ?Read@StreamReader@UnBCL@@UEAAHXZ
@@ -2206,6 +2250,8 @@
 ?ReAllocDbg@Allocator@UnBCL@@SAPEAXPEAX_KPEBDHI@Z
 ?ReAllocDbg@HeapMemoryManager@UnBCL@@UEAAPEAXPEBDHPEAX_K@Z
 ?ReferenceEquals@Object@UnBCL@@SAHPEBV12@0@Z
+?RegisterNamespaces@XmlDocument@UnBCL@@QEAAXPEAVString@2@@Z
+?RegisterNamespaces@XmlNode@UnBCL@@AEAAXPEAVXmlNamespaceManager@2@@Z
 ?RegisterStaticTypes@SbRegistrationList@UnBCL@@SAXH@Z
 ?RegisterType@SerializationStream@UnBCL@@SAXPEBVString@2@HPEAUHINSTANCE__@@PEAUIInstanceFactory@2@@Z
 ?RegisterVersion@?$SerializableBase@V?$Array@E@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?NewLarvalArray@?$StaticArrayOps@E@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@MEBAXH@Z
@@ -2243,6 +2289,7 @@
 ?RemoveAt@?$ArrayList@PEAVString@UnBCL@@@UnBCL@@UEAAXH@Z
 ?RemoveAt@?$CollectionBase@PEAVObject@UnBCL@@@UnBCL@@UEAAXH@Z
 ?RemoveChild@XmlNode@UnBCL@@QEAAXPEAV12@@Z
+?RemoveNamespace@XmlNamespaceManager@UnBCL@@QEAAXPEAVString@2@@Z
 ?RemoveTail@?$ArrayList@G@UnBCL@@UEAAXXZ
 ?RemoveTail@?$ArrayList@PEAVString@UnBCL@@@UnBCL@@UEAAXXZ
 ?Replace@?$CStringT@GV?$StrTraitATL@GV?$ChTraitsCRT@G@ATL@@@ATL@@@ATL@@QEAAHGG@Z
@@ -2284,10 +2331,13 @@
 ?Sanitize@Path@UnBCL@@SAPEAVString@2@PEBV32@@Z
 ?SanitizeTypeName@SerializationStream@UnBCL@@SAPEAVString@2@AEBV32@@Z
 ?Save@XmlDocument@UnBCL@@QEAAXPEAVString@2@@Z
+?Seek@BufferedStream@UnBCL@@UEAA_J_JW4SeekOrigin@2@@Z
 ?Seek@FileStream@UnBCL@@UEAA_J_JW4SeekOrigin@2@@Z
 ?Seek@MemoryStream@UnBCL@@UEAA_J_JW4SeekOrigin@2@@Z
 ?SelectNodes@XmlNode@UnBCL@@QEAAPEAVXmlNodeList@2@PEAVString@2@@Z
+?SelectNodes@XmlNode@UnBCL@@QEAAPEAVXmlNodeList@2@PEAVString@2@PEAVXmlNamespaceManager@2@@Z
 ?SelectSingleNode@XmlNode@UnBCL@@QEAAPEAV12@PEAVString@2@@Z
+?SelectSingleNode@XmlNode@UnBCL@@QEAAPEAV12@PEAVString@2@PEAVXmlNamespaceManager@2@@Z
 ?set_Arguments@ProcessStartInfo@UnBCL@@QEAAXPEBVString@2@@Z
 ?set_AutoDelete@?$Array@E@UnBCL@@UEAAXH@Z
 ?set_AutoDelete@?$Array@G@UnBCL@@UEAAXH@Z
@@ -2321,6 +2371,7 @@
 ?set_LineNumber@XmlException@UnBCL@@MEAAXH@Z
 ?set_LinePosition@XmlException@UnBCL@@MEAAXH@Z
 ?set_NewLine@TextWriter@UnBCL@@UEAAXPEBVString@2@@Z
+?set_Position@BufferedStream@UnBCL@@UEAAX_J@Z
 ?set_Position@FileStream@UnBCL@@UEAAX_J@Z
 ?set_Position@MemoryStream@UnBCL@@UEAAX_J@Z
 ?set_Source@Exception@UnBCL@@UEAAXPEBVString@2@@Z
@@ -2385,6 +2436,7 @@
 ?Steal@?$SmartPtr@VStream@UnBCL@@@UnBCL@@QEAAPEAVStream@2@XZ
 ?Steal@?$SmartPtr@VString@UnBCL@@@UnBCL@@QEAAPEAVString@2@XZ
 ?Steal@?$SmartPtr@VVersion@UnBCL@@@UnBCL@@QEAAPEAVVersion@2@XZ
+?Steal@?$SmartPtr@VXmlNamespaceManager@UnBCL@@@UnBCL@@QEAAPEAVXmlNamespaceManager@2@XZ
 ?StreamRead@?$SerializableArrayBase@E@_@UnBCL@@UEAAXAEAVSerializationStream@3@@Z
 ?StreamRead@?$SerializableArrayBase@G@_@UnBCL@@UEAAXAEAVSerializationStream@3@@Z
 ?StreamRead@?$SerializableArrayBase@H@_@UnBCL@@UEAAXAEAVSerializationStream@3@@Z
@@ -2479,6 +2531,7 @@
 ?WithLongPrefixUNC@Path@UnBCL@@SAPEAVString@2@PEBV32@H@Z
 ?WithoutLongPrefix@Path@UnBCL@@SAPEAVString@2@PEBV32@@Z
 ?WithoutLongPrefix@Path@UnBCL@@SAPEAVString@2@PEBV32@AEAH@Z
+?Write@BufferedStream@UnBCL@@UEAAXPEBEHH@Z
 ?Write@FileStream@UnBCL@@UEAAXPEBEHH@Z
 ?Write@MemoryStream@UnBCL@@UEAAXPEBEHH@Z
 ?Write@StreamWriter@UnBCL@@UEAAXPEBVString@2@HH@Z

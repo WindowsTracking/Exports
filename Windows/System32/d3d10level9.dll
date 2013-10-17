@@ -4,6 +4,7 @@ D3D10Level9DumpJournal
 D3D11CreateDeviceExternalImplementation
 D3DKMTAcquireKeyedMutex
 D3DKMTAcquireKeyedMutex2
+D3DKMTCheckMultiPlaneOverlaySupport
 D3DKMTCloseAdapter
 D3DKMTConfigureSharedResource
 D3DKMTCreateAllocation
@@ -44,6 +45,7 @@ D3DKMTOpenSyncObjectFromNtHandle
 D3DKMTOutputDuplPresent
 D3DKMTPinDirectFlipResources
 D3DKMTPresent
+D3DKMTPresentMultiPlaneOverlay
 D3DKMTQueryAdapterInfo
 D3DKMTQueryAllocationResidency
 D3DKMTQueryResourceInfo
@@ -71,6 +73,7 @@ D3DKMTWaitForSynchronizationObject
 D3DKMTWaitForSynchronizationObject2
 D3DKMTWaitForVerticalBlankEvent
 D3DKMTWaitForVerticalBlankEvent2
+LogMarkerStringTable
 OpenAdapter10
 OpenAdapter10_2
 RetrieveFilteredOpenAdapter

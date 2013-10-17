@@ -1,5 +1,10 @@
+TbCreateCEvent
 TbCreateEvent
+TbDeleteCEvent
 TbDeleteEvent
+TbEnumerateCEvents
 TbEnumerateEvents
+TbQueryCEventData
 TbQueryEventData
+TbUpdateCEvent
 TbUpdateEvent

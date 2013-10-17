@@ -105,6 +105,7 @@ mmTaskSignal
 mmTaskYield
 OpenDriver
 SendDriverMessage
+sndOpenSound
 waveInAddBuffer
 waveInClose
 waveInGetDevCapsA

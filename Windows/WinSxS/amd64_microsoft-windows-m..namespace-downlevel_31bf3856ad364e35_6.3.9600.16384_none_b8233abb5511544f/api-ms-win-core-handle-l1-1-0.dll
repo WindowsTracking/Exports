@@ -1,0 +1,4 @@
+CloseHandle
+DuplicateHandle
+GetHandleInformation
+SetHandleInformation

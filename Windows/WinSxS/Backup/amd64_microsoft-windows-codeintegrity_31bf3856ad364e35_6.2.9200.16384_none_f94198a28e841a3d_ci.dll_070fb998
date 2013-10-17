@@ -1,7 +1,0 @@
-CiCheckSignedFile
-CiFindPageHashesInCatalog
-CiFindPageHashesInSignedFile
-CiFreePolicyInfo
-CiGetPEInformation
-CiInitialize
-CiVerifyHashInCatalog

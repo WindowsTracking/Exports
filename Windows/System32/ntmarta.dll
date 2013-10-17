@@ -41,4 +41,10 @@ AccSetEntriesInAList
 AccTreeResetNamedSecurityInfo
 EventGuidToName
 EventNameFree
+GetExplicitEntriesFromAclW
 GetMartaExtensionInterface
+GetNamedSecurityInfoW
+GetSecurityInfo
+SetEntriesInAclW
+SetNamedSecurityInfoW
+SetSecurityInfo

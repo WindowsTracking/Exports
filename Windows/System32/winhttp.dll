@@ -32,6 +32,7 @@ WinHttpPalGetProxyCreds
 WinHttpPalGetProxyForCurrentInterface
 WinHttpPalIsImplemented
 WinHttpPalOnSendRequestComplete
+WinHttpProbeConnectivity
 WinHttpQueryAuthSchemes
 WinHttpQueryDataAvailable
 WinHttpQueryHeaders
@@ -39,6 +40,7 @@ WinHttpQueryOption
 WinHttpReadData
 WinHttpReceiveResponse
 WinHttpResetAutoProxy
+WinHttpSaveProxyCredentials
 WinHttpSendRequest
 WinHttpSetCredentials
 WinHttpSetDefaultProxyConfiguration

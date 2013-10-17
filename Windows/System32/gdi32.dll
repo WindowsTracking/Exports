@@ -104,8 +104,10 @@ CreateSessionMappedDIBSection
 CreateSolidBrush
 D3DKMTAcquireKeyedMutex
 D3DKMTAcquireKeyedMutex2
+D3DKMTCacheHybridQueryValue
 D3DKMTCheckExclusiveOwnership
 D3DKMTCheckMonitorPowerState
+D3DKMTCheckMultiPlaneOverlaySupport
 D3DKMTCheckOcclusion
 D3DKMTCheckSharedResourceAccess
 D3DKMTCheckVidPnExclusiveOwnership
@@ -133,6 +135,7 @@ D3DKMTDestroySynchronizationObject
 D3DKMTEnumAdapters
 D3DKMTEscape
 D3DKMTFlipOverlay
+D3DKMTGetCachedHybridQueryValue
 D3DKMTGetContextInProcessSchedulingPriority
 D3DKMTGetContextSchedulingPriority
 D3DKMTGetDeviceState
@@ -148,6 +151,11 @@ D3DKMTGetSharedPrimaryHandle
 D3DKMTGetSharedResourceAdapterLuid
 D3DKMTInvalidateActiveVidPn
 D3DKMTLock
+D3DKMTNetDispGetNextChunkInfo
+D3DKMTNetDispQueryMiracastDisplayDeviceStatus
+D3DKMTNetDispQueryMiracastDisplayDeviceSupport
+D3DKMTNetDispStartMiracastDisplayDevice
+D3DKMTNetDispStopMiracastDisplayDevice
 D3DKMTOfferAllocations
 D3DKMTOpenAdapterFromDeviceName
 D3DKMTOpenAdapterFromGdiDisplayName
@@ -169,6 +177,7 @@ D3DKMTOutputDuplReleaseFrame
 D3DKMTPinDirectFlipResources
 D3DKMTPollDisplayChildren
 D3DKMTPresent
+D3DKMTPresentMultiPlaneOverlay
 D3DKMTQueryAdapterInfo
 D3DKMTQueryAllocationResidency
 D3DKMTQueryRemoteVidPnSourceFromGdiDisplayName
@@ -381,6 +390,7 @@ GdiAddGlsRecord
 GdiAlphaBlend
 GdiArtificialDecrementDriver
 GdiCleanCacheDC
+GdiClearStockObjectCache
 GdiComment
 GdiConsoleTextOut
 GdiConvertAndCheckDC
@@ -501,6 +511,7 @@ GetClipRgn
 GetColorAdjustment
 GetColorSpace
 GetCOPPCompatibleOPMInformation
+GetCurrentDpiInfo
 GetCurrentObject
 GetCurrentPositionEx
 GetDCBrushColor

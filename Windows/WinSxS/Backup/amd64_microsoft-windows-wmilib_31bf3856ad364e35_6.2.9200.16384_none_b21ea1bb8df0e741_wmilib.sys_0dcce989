@@ -1,5 +1,0 @@
-DllInitialize
-DllUnload
-WmiCompleteRequest
-WmiFireEvent
-WmiSystemControl

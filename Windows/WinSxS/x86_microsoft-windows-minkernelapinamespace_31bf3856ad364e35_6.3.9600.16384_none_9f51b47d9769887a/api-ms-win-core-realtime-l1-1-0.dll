@@ -1,0 +1,5 @@
+QueryIdleProcessorCycleTime
+QueryIdleProcessorCycleTimeEx
+QueryProcessCycleTime
+QueryThreadCycleTime
+QueryUnbiasedInterruptTime

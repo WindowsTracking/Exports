@@ -1,4 +1,7 @@
+CloseClusterCryptProvider
 ClusterClearBackupStateForSharedVolume
+ClusterDecrypt
+ClusterEncrypt
 ClusterEnumTasks
 ClusterFileShareCreate
 ClusterFileShareDelete
@@ -28,6 +31,11 @@ ClusWorkerCheckTerminate
 ClusWorkerCreate
 ClusWorkerStart
 ClusWorkerTerminate
+CreateClusterStorageSpacesClustering
+CreateClusterStorageSpacesResourceLocator
+CreateClusterStorageSpacesSubProvider
+FreeClusterCrypt
+OpenClusterCryptProvider
 ResUtilAddUnknownProperties
 ResUtilCreateDirectoryTree
 ResUtilDupParameterBlock
@@ -102,6 +110,7 @@ ResUtilSetResourceServiceStartParameters
 ResUtilSetResourceServiceStartParametersEx
 ResUtilSetSzValue
 ResUtilSetUnknownProperties
+ResUtilSetValueEx
 ResUtilStartResourceService
 ResUtilStopResourceService
 ResUtilStopService

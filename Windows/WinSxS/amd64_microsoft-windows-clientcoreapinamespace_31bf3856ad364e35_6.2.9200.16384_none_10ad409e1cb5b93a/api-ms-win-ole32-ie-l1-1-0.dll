@@ -1,5 +1,0 @@
-CoFileTimeNow
-CoInitialize
-CreateBindCtx
-OleRun
-ReleaseStgMedium

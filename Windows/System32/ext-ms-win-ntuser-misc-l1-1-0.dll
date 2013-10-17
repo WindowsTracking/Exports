@@ -14,5 +14,7 @@ SetTimer
 SetUserObjectSecurity
 ShutdownBlockReasonCreate
 ShutdownBlockReasonDestroy
+TabbedTextOutW
 UnregisterDeviceNotification
 WaitForInputIdle
+WinHelpW

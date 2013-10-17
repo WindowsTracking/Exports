@@ -1,1 +1,6 @@
 CheckDeveloperLicense
+GetApplicationURL
+WSEvaluatePackage
+WSGetEvaluatePackageAttempted
+WSLicenseClose
+WSLicenseOpen

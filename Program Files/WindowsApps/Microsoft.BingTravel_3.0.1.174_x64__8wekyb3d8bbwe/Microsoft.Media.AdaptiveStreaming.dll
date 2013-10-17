@@ -1,0 +1,5 @@
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+XDRM_CreateInstance
+XDRM_DestroyInstance

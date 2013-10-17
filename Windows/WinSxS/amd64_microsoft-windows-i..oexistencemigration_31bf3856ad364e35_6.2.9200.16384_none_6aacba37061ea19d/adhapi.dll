@@ -1,7 +1,0 @@
-AdhEngineClose
-AdhEngineOpen
-AdhGetConfig
-AdhGetEvidenceCollectorResult
-AdhStatusEventSubscribe
-AdhStatusEventUnsubscribe
-DllMain

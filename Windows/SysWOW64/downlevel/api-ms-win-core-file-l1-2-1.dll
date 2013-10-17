@@ -1,0 +1,3 @@
+GetCompressedFileSizeA
+GetCompressedFileSizeW
+SetFileIoOverlappedRange

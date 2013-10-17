@@ -1,0 +1,6 @@
+RasChapExt_FreeMemory
+RasChapExt_GetConfigForceNotDomainJoined
+RasChapExt_GetConfigIgnoreIASLogon
+RasChapExt_GetConfigKeepCredentialsOnFailure
+RasChapExt_GetUserCredentials
+RasChapExt_ShowHelp

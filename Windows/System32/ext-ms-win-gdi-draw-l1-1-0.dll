@@ -2,6 +2,7 @@ BitBlt
 CreateBitmap
 CreateCompatibleBitmap
 CreateDIBSection
+CreateSolidBrush
 GdiFlush
 GetBitmapBits
 GetDIBits

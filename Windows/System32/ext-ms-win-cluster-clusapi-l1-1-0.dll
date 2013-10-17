@@ -10,5 +10,7 @@ ClusterResourceTypeEnum
 ClusterResourceTypeOpenEnum
 GetClusterInformation
 GetClusterNodeState
+GetNodeClusterState
 OpenCluster
 OpenClusterNode
+OpenClusterResource

@@ -1,6 +1,12 @@
 DllCanUnloadNow
 DllGetClassObject
+TdhAggregatePayloadFilters
+TdhApplyPayloadFilter
+TdhCleanupPayloadEventFilterDescriptor
 TdhCloseDecodingHandle
+TdhCreatePayloadFilter
+TdhDeletePayloadFilter
+TdhEnumerateManifestProviderEvents
 TdhEnumerateProviderFieldInformation
 TdhEnumerateProviderFilters
 TdhEnumerateProviders
@@ -11,6 +17,7 @@ TdhGetAllEventsInformation
 TdhGetDecodingParameter
 TdhGetEventInformation
 TdhGetEventMapInformation
+TdhGetManifestEventInformation
 TdhGetProperty
 TdhGetPropertyOffsetAndSize
 TdhGetPropertySize
@@ -23,3 +30,4 @@ TdhQueryProviderFieldInformation
 TdhQueryRemoteWBEMProviderFieldInformation
 TdhSetDecodingParameter
 TdhUnloadManifest
+TdhValidatePayloadFilter

@@ -3,4 +3,3 @@ DllGetClassObject
 DllGetTscCtlVer
 DllRegisterServer
 DllUnregisterServer
-RegisterTransportExtDll

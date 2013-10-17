@@ -11,15 +11,19 @@ DDMAdminPortEnum
 DDMAdminPortGetInfo
 DDMAdminPortReset
 DDMAdminRemoveQuarantine
+DDMAdminRoutingDomainConnectionEnumEx
 DDMAdminServerGetInfo
 DDMAdminServerGetInfoEx
 DDMAdminServerSetInfo
 DDMAdminServerSetInfoEx
 DDMAdminUpdateConnection
+DDMAdminUpdateQoSPolicies
 DDMConnectInterface
 DDMDisconnectInterface
 DDMGetIdentityAttributes
+DDMHandleRoutingDomainConfigChange
 DDMPlumbPskIkev2Policy
+DDMPlumbRDIkev2TunnelPolicy
 DDMPostCleanup
 DDMRegisterConnectionNotification
 DDMSendUserMessage
@@ -28,8 +32,11 @@ DDMServicePostListens
 DDMTransportCreate
 IfObjectFreePhonebookContext
 IfObjectFreeRemoteEndpoint
+IfObjectGetStatistics
 IfObjectInitiatePersistentConnections
+IfObjectLoadDestinationInfo
 IfObjectLoadPhonebookInfo
+IfObjectNotifyAllOfReachabilityChange
 IfObjectNotifyOfReachabilityChange
 IfObjectSetDialoutHoursRestriction
 RasAcctConfigChangeNotification
@@ -44,3 +51,4 @@ RasAuthProviderAuthenticateUser
 RasAuthProviderFreeAttributes
 RasAuthProviderInitialize
 RasAuthProviderTerminate
+UpdateGlobalPhoneBookContext

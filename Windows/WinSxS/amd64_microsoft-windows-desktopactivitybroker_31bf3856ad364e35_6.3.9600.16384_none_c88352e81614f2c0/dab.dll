@@ -1,0 +1,4 @@
+DabInitialize
+DabPowerStateChanged
+DabSessionStateChanged
+DabTerminate

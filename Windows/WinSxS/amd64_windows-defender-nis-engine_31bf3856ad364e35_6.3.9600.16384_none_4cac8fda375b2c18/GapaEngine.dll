@@ -1,0 +1,4 @@
+CanUnloadEngineDll
+CreateGapaComponentFactory
+CreateGapaComponentFactoryEx
+GetCurrentOsSignatureSetId

@@ -1,0 +1,9 @@
+EnumSystemFirmwareTables
+GetNativeSystemInfo
+GetOsSafeBootMode
+GetProductInfo
+GetSystemFirmwareTable
+GetSystemTimePreciseAsFileTime
+SetComputerNameExW
+SetSystemTime
+VerSetConditionMask

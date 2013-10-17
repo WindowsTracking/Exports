@@ -1,0 +1,11 @@
+WcmBeginIgnoreProfileList
+WcmCloseHandle
+WcmEndIgnoreProfileList
+WcmFreeMemory
+WcmOpenHandle
+WcmQueryParameter
+WcmQueryProperty
+WcmResetIgnoreProfileList
+WcmSetParameter
+WcmSetProfileList
+WcmSetProperty

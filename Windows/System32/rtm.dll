@@ -32,9 +32,11 @@ RtmBlockConvertRoutesToStatic
 RtmBlockDeleteRoutes
 RtmBlockMethods
 RtmBlockSetRouteEnable
+RtmCleanupInstances
 RtmCloseEnumerationHandle
 RtmConvertIpv6AddressAndLengthToNetAddress
 RtmConvertNetAddressToIpv6AddressAndLength
+RtmCreateBestRouteEnum
 RtmCreateDestEnum
 RtmCreateEnumerationHandle
 RtmCreateNextHopEnum
@@ -60,6 +62,7 @@ RtmGetChangeStatus
 RtmGetDestInfo
 RtmGetEntityInfo
 RtmGetEntityMethods
+RtmGetEnumBestRoutes
 RtmGetEnumDests
 RtmGetEnumNextHops
 RtmGetEnumRoutes

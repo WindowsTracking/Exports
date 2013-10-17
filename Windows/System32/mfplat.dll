@@ -5,7 +5,6 @@ DestroyPropVariant
 FormatTagFromWfx
 GetAMSubtypeFromD3DFormat
 GetD3DFormatFromMFSubtype
-LFGetGlobalPool
 MFAddPeriodicCallback
 MFAllocateSerialWorkQueue
 MFAllocateWorkQueue
@@ -17,7 +16,6 @@ MFBeginGetHostByName
 MFBeginRegisterWorkQueueWithMMCSS
 MFBeginRegisterWorkQueueWithMMCSSEx
 MFBeginUnregisterWorkQueueWithMMCSS
-MFBlockThread
 MFCalculateBitmapImageSize
 MFCalculateImageSize
 MFCancelCreateFile
@@ -43,7 +41,6 @@ MFCreateDXSurfaceBuffer
 MFCreateEventQueue
 MFCreateFile
 MFCreateFileFromHandle
-MFCreateGuid
 MFCreateLegacyMediaBufferOnMFMediaBuffer
 MFCreateMediaBufferFromMediaType
 MFCreateMediaBufferWrapper
@@ -73,7 +70,6 @@ MFCreateStreamDescriptor
 MFCreateStreamOnMFByteStream
 MFCreateStreamOnMFByteStreamEx
 MFCreateSystemTimeSource
-MFCreateSystemUnderlyingClock
 MFCreateTempFile
 MFCreateTrackedSample
 MFCreateTransformActivate
@@ -107,14 +103,12 @@ MFGetConfigurationPolicy
 MFGetConfigurationStore
 MFGetConfigurationString
 MFGetContentProtectionSystemCLSID
-MFGetIoPortHandle
 MFGetMFTMerit
 MFGetNumericNameFromSockaddr
 MFGetPlaneSize
-MFGetPlatform
+MFGetPlatformFlags
 MFGetPlatformVersion
 MFGetPluginControl
-MFGetPrivateWorkqueues
 MFGetRandomNumber
 MFGetSockaddrFromNumericName
 MFGetStrideForBitmapInfoHeader
@@ -140,10 +134,9 @@ MFInitMediaTypeFromWaveFormatEx
 MFInitVideoFormat
 MFInitVideoFormat_RGB
 MFInvokeCallback
+MFIsBottomUpFormat
 MFIsFeatureEnabled
 MFIsLocallyRegisteredMimeType
-MFIsQueueThread
-MFJoinIoPort
 MFJoinWorkQueue
 MFllMulDiv
 MFLockDXGIDeviceManager
@@ -159,7 +152,6 @@ MFPutWorkItem
 MFPutWorkItem2
 MFPutWorkItemEx
 MFPutWorkItemEx2
-MFRecordError
 MFRegisterLocalByteStreamHandler
 MFRegisterLocalSchemeHandler
 MFRegisterPlatformWithMMCSS
@@ -185,7 +177,6 @@ MFTRegisterLocalByCLSID
 MFTUnregister
 MFTUnregisterLocal
 MFTUnregisterLocalByCLSID
-MFUnblockThread
 MFUnjoinWorkQueue
 MFUnlockDXGIDeviceManager
 MFUnlockPlatform

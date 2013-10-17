@@ -1,0 +1,4 @@
+CreateCompatibleDC
+CreateDCW
+CreateICW
+DeleteDC

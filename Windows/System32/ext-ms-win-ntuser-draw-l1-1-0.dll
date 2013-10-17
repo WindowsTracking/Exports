@@ -1,4 +1,5 @@
 BeginPaint
+DrawFocusRect
 EndPaint
 GetUpdateRect
 GetUpdateRgn

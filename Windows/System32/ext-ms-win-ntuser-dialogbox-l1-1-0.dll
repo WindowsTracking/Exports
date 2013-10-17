@@ -7,6 +7,7 @@ DialogBoxIndirectParamA
 DialogBoxIndirectParamW
 DialogBoxParamW
 EndDialog
+GetDlgCtrlID
 GetDlgItem
 GetDlgItemTextW
 IsDlgButtonChecked

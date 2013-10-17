@@ -1,6 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-McxCreateDShowPipelineMgr
-McxCreateMdeDatapath

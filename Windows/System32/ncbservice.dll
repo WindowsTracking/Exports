@@ -1,4 +1,2 @@
-SubServicePowerSuspend
-SubServiceScmNotification
-SubServiceStart
-SubServiceStop
+ServiceMain
+SvchostPushServiceGlobals

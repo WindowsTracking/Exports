@@ -575,10 +575,6 @@ PrivilegedServiceAuditAlarmW
 ProcessIdleTasks
 ProcessIdleTasksW
 ProcessTrace
-PsmActivateApplication
-PsmAdjustActivationToken
-PsmQueryBackgroundActivationType
-PsmRegisterApplicationProcess
 QueryAllTracesA
 QueryAllTracesW
 QueryRecoveryAgentsOnEncryptedFile

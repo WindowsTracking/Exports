@@ -3,4 +3,6 @@ DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
 InitializeEapHost
+OnSessionChange
+StopServiceOnLowPower
 UninitializeEapHost

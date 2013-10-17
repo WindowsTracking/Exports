@@ -1,0 +1,4 @@
+MsaUser_FormatUserDisplayName
+MsaUser_GetPlatformQualifier
+MsaUser_IsChildAccount
+MsaUser_WinBioSetMSACredential

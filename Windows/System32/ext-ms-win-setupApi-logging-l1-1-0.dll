@@ -1,3 +1,5 @@
 SetupCloseLog
+SetupGetThreadLogToken
 SetupLogErrorW
 SetupOpenLog
+SetupWriteTextLog

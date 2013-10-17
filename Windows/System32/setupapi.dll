@@ -239,9 +239,6 @@ InstallHinfSection
 InstallHinfSectionA
 InstallHinfSectionW
 IsUserAdmin
-Local_CM_Add_Driver_Package_Worker
-Local_CM_Delete_Driver_Package_Worker
-Local_CM_Install_DevNode_Worker
 MyFree
 MyMalloc
 MyRealloc
@@ -264,6 +261,8 @@ pSetupCreateTextLogSectionW
 pSetupDestroyRunOnceNodeList
 pSetupDiBuildInfoDataFromStrongName
 pSetupDiCrimsonLogDeviceInstall
+pSetupDiEnumSelectedDrivers
+pSetupDiGetDriverInfoExtensionId
 pSetupDiGetStrongNameForDriverNode
 pSetupDiInvalidateHelperModules
 pSetupDoesUserHavePrivilege

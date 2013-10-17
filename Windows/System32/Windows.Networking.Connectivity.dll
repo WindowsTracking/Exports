@@ -1,7 +1,3 @@
-CreateEndpointPairFromSockAddrs
-CreateHostNameFromSockAddr
-CreateHostNameFromString
-CreateNetworkAdapterFromGuid
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject

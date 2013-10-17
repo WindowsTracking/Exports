@@ -1,4 +1,0 @@
-DllMain
-SnmpExtensionInit
-SnmpExtensionQuery
-SnmpExtensionTrap

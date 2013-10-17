@@ -1,0 +1,5 @@
+CheckRemoteDebuggerPresent
+ContinueDebugEvent
+DebugActiveProcess
+DebugActiveProcessStop
+WaitForDebugEvent

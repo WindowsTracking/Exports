@@ -1,0 +1,6 @@
+MTF_Close
+MTF_Deinit
+MTF_Init
+MTF_IOControl
+MTF_Open
+MTF_SetPrivateMode

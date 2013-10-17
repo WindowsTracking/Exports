@@ -1,0 +1,10 @@
+KsrClaimPersistedMemory
+KsrCleanupPageDatabase
+KsrFreePersistedMemory
+KsrGetFirmwareInformation
+KsrInitPageDatabase
+KsrInitSystem
+KsrMmMapLockedRestartPages
+KsrMmUnmapLockedRestartPages
+KsrPersistMemory
+KsrRegisterLoader

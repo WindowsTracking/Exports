@@ -1,0 +1,8 @@
+MI_Application_NewDeserializer_Binary
+MI_Application_NewSerializer_Binary
+SyncBmilReader_Create
+SyncBmilReader_Delete
+SyncBmilReader_ReadInstance
+SyncBmilWriter_Create
+SyncBmilWriter_Delete
+SyncBmilWriter_WriteInstance

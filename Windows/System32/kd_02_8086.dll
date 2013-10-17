@@ -6,4 +6,5 @@ KdInitializeController
 KdInitializeLibrary
 KdReleaseRxPacket
 KdSendTxPacket
+KdSetHibernateRange
 KdShutdownController

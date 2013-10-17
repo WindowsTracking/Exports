@@ -2,6 +2,7 @@ Bcp47GetEnglishName
 Bcp47GetLocalizedName
 Bcp47GetLocalizedScript
 Bcp47GetNativeName
+Bcp47GetSerializedUserLanguageProfile
 EnsureLanguageProfileExists
 GetCompatibleInputMethodsForLanguage
 GetDefaultInputMethodForLanguage

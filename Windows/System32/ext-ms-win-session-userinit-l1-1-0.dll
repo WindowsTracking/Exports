@@ -9,3 +9,4 @@ ProcesRemoteSessionInitialCommand
 ProcessTermSrvIniFiles
 SetShellDesktopSwitchEvent
 SetupHotKeyForKeyboardLayout
+UserinitExt

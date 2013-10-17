@@ -1,0 +1,11 @@
+CATraps
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
+GetProviderClassID
+LCMTraps
+MI_Main
+NITS
+NITS_PRESENCE

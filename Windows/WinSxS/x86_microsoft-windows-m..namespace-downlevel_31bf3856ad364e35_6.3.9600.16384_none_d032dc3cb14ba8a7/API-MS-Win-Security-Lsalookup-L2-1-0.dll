@@ -1,0 +1,6 @@
+LookupAccountNameW
+LookupAccountSidW
+LookupPrivilegeDisplayNameW
+LookupPrivilegeNameW
+LookupPrivilegeValueW
+LsaEnumerateTrustedDomains

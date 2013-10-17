@@ -31,9 +31,8 @@
 #432
 #433
 #434
-#435
-#436
 #437
+#438
 ClearPropVariantArray
 ClearVariantArray
 DllCanUnloadNow
@@ -134,6 +133,7 @@ PropVariantToUInt64Vector
 PropVariantToUInt64VectorAlloc
 PropVariantToUInt64WithDefault
 PropVariantToVariant
+PropVariantToWinRTPropertyValue
 PSCoerceToCanonicalValue
 PSCreateAdapterFromPropertyStore
 PSCreateDelayedMultiplexPropertyStore
@@ -255,3 +255,4 @@ VariantToUInt64
 VariantToUInt64Array
 VariantToUInt64ArrayAlloc
 VariantToUInt64WithDefault
+WinRTPropertyValueToPropVariant

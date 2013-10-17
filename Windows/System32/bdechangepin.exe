@@ -1,12 +1,14 @@
 ??0VolumeFveStatus@@IEAA@XZ
-??0VolumeFveStatus@@QEAA@KJW4_FVE_WIPING_STATE@@@Z
+??0VolumeFveStatus@@QEAA@K_KJW4_FVE_WIPING_STATE@@@Z
 ??4BuiVolume@@QEAAAEAV0@AEBV0@@Z
 ??4VolumeFveStatus@@QEAAAEAV0@AEBV0@@Z
 ?FailedDryRun@VolumeFveStatus@@QEBA_NXZ
+?GetExtendedFlags@VolumeFveStatus@@QEBA_KXZ
 ?GetLastConvertStatus@VolumeFveStatus@@QEBAJXZ
 ?GetStatusFlags@VolumeFveStatus@@QEBAKXZ
 ?HasExternalKey@VolumeFveStatus@@QEBA_NXZ
 ?HasPassphraseProtector@VolumeFveStatus@@QEBA_NXZ
+?HasPBKDF2RecoveryPassword@VolumeFveStatus@@QEBA_NXZ
 ?HasPinProtector@VolumeFveStatus@@QEBA_NXZ
 ?HasRecoveryData@VolumeFveStatus@@QEBA_NXZ
 ?HasRecoveryPassword@VolumeFveStatus@@QEBA_NXZ
@@ -15,6 +17,7 @@
 ?HasTpmProtector@VolumeFveStatus@@QEBA_NXZ
 ?IsConverting@VolumeFveStatus@@QEBA_NXZ
 ?IsCsvMetadataVolume@VolumeFveStatus@@QEBA_NXZ
+?IsDEAutoProvisioned@VolumeFveStatus@@QEBA_NXZ
 ?IsDecrypted@VolumeFveStatus@@QEBA_NXZ
 ?IsDecrypting@VolumeFveStatus@@QEBA_NXZ
 ?IsDisabled@VolumeFveStatus@@QEBA_NXZ

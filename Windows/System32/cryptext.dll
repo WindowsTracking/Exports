@@ -30,3 +30,4 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+I_InvokeCommand

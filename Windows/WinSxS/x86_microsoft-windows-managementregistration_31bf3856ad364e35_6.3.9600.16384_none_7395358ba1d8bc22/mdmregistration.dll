@@ -1,0 +1,7 @@
+DiscoverManagementService
+GetManagementAppHyperlink
+IsDeviceRegisteredWithManagement
+IsManagementRegistrationAllowed
+RegisterDeviceWithManagement
+SetManagedExternally
+UnregisterDeviceWithManagement

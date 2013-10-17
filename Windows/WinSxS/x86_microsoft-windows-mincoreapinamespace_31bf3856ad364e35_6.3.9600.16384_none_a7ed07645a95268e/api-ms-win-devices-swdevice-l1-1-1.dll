@@ -1,0 +1,9 @@
+SwDeviceClose
+SwDeviceCreate
+SwDeviceGetLifetime
+SwDeviceInterfacePropertySet
+SwDeviceInterfaceRegister
+SwDeviceInterfaceSetState
+SwDevicePropertySet
+SwDeviceSetLifetime
+SwMemFree

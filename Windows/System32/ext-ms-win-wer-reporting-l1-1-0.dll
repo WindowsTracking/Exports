@@ -1,4 +1,9 @@
+WerpAddFileBuffer
+WerpCreateIntegratorReportId
+WerpFreeString
+WerpSetIntegratorReportId
 WerReportAddDump
+WerReportAddFile
 WerReportCloseHandle
 WerReportCreate
 WerReportSetParameter

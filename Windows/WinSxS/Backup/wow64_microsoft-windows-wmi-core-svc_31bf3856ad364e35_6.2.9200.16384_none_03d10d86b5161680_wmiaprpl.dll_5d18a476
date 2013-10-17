@@ -1,5 +1,0 @@
-DllRegisterServer
-DllUnregisterServer
-WmiClosePerfData
-WmiCollectPerfData
-WmiOpenPerfData

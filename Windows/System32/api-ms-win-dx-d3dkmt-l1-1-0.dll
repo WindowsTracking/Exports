@@ -1,5 +1,7 @@
+#1004
 D3DKMTAcquireKeyedMutex
 D3DKMTAcquireKeyedMutex2
+D3DKMTCacheHybridQueryValue
 D3DKMTCheckExclusiveOwnership
 D3DKMTCheckMonitorPowerState
 D3DKMTCheckOcclusion
@@ -28,6 +30,7 @@ D3DKMTDestroyOverlay
 D3DKMTDestroySynchronizationObject
 D3DKMTEscape
 D3DKMTFlipOverlay
+D3DKMTGetCachedHybridQueryValue
 D3DKMTGetContextSchedulingPriority
 D3DKMTGetDeviceState
 D3DKMTGetDisplayModeList
@@ -92,5 +95,4 @@ D3DKMTWaitForIdle
 D3DKMTWaitForSynchronizationObject
 D3DKMTWaitForSynchronizationObject2
 D3DKMTWaitForVerticalBlankEvent
-DrvQueryAdapterPopulationUniqueness
 GdiEntry13

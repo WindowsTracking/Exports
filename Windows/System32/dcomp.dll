@@ -13,6 +13,14 @@
 #1014
 #1015
 #1016
+#1018
+#1019
+#1020
+#1021
+#1022
+#1023
+#1024
+#1025
 #500
 #501
 #502
@@ -29,5 +37,10 @@
 #513
 #514
 #515
+#516
+#517
+#518
+#519
 DCompositionCreateDevice
+DCompositionCreateDevice2
 DCompositionCreateSurfaceHandle

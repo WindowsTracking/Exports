@@ -1,0 +1,4 @@
+IsWinEventHookInstalled
+NotifyWinEvent
+SetWinEventHook
+UnhookWinEvent

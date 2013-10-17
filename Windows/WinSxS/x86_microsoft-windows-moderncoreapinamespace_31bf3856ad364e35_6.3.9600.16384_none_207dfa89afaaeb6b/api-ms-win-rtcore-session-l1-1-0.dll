@@ -1,0 +1,4 @@
+RegisterNavigationWindowHandle
+RegisterSessionProcess
+RegisterSharedInputGlobal
+UnregisterNavigationWindowHandle

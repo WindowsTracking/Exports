@@ -1,5 +1,7 @@
 WcmBeginIgnoreProfileList
+WcmCancelOnDemandRequest
 WcmCloseHandle
+WcmCloseOnDemandRequestHandle
 WcmEndIgnoreProfileList
 WcmEnterConnectedStandby
 WcmEnterNetQuiet
@@ -10,10 +12,13 @@ WcmFreeMemory
 WcmGetInterfaceToken
 WcmGetProfileList
 WcmOpenHandle
+WcmOpenOnDemandRequestHandle
 WcmOrderConnection
+WcmQueryOnDemandRequestStateInfo
 WcmQueryParameter
 WcmQueryProperty
 WcmResetIgnoreProfileList
 WcmSetParameter
 WcmSetProfileList
 WcmSetProperty
+WcmStartOnDemandRequest

@@ -1,6 +1,0 @@
-?GetSingletonManager@@YAPEAUISingletonManager@@XZ
-?SetDbName@@YAJPEB_W0@Z
-?ShutdownSingletonMgr@@YAXH@Z
-DllCanUnloadNow
-DllGetActivationFactory
-DllGetClassObject

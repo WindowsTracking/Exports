@@ -1,5 +1,6 @@
 CheckStringForAsciiConversion
 GetDomainName
+QueryUserConfig
 QueryUserProperty
 RegBuildNumberQuery
 RegCdCreateA

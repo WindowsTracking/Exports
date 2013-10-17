@@ -1,2 +1,5 @@
+EfsClientEncryptFileEx
+EfsClientFreeProtectorList
+EfsClientQueryProtectors
 EfsUtilGetCurrentKey
 FeClientInitialize

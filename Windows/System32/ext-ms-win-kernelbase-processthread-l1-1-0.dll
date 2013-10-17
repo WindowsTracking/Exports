@@ -2,7 +2,6 @@ BaseCheckElevation
 BaseDestroyVDMEnvironment
 BaseElevationPostProcessing
 BaseIsDosApplication
-BasepAppCompatHookDLL
 BasepAppContainerEnvironmentExtension
 BasepAppXExtension
 BasepCheckWebBladeHashes

@@ -4,10 +4,13 @@ SLConsumeRight
 SLDepositMigrationBlob
 SLDepositOfflineConfirmationId
 SLDepositOfflineConfirmationIdEx
+SLDepositStoreToken
 SLFireEvent
 SLGatherMigrationBlob
+SLGatherMigrationBlobEx
 SLGenerateOfflineInstallationId
 SLGenerateOfflineInstallationIdEx
+SLGetActiveLicenseInfo
 SLGetApplicationInformation
 SLGetApplicationPolicy
 SLGetAuthenticationResult
@@ -33,6 +36,8 @@ SLLoadApplicationPolicies
 SLOpen
 SLpAuthenticateGenuineTicketResponse
 SLpBeginGenuineTicketTransaction
+SLpClearActivationInProgress
+SLpDepositDownlevelGenuineTicket
 SLpDepositTokenActivationResponse
 SLPersistApplicationPolicies
 SLPersistRTSPayloadOverride
@@ -43,6 +48,9 @@ SLpGetLicenseAcquisitionInfo
 SLpGetMachineUGUID
 SLpGetMSPidInformation
 SLpGetTokenActivationGrantInfo
+SLpIAActivateProduct
+SLpProcessVMPipeMessage
+SLpSetActivationInProgress
 SLpTriggerServiceWorker
 SLpVLActivateProduct
 SLReArm

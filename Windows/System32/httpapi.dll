@@ -11,6 +11,7 @@ HttpCreateRequestQueue
 HttpCreateServerSession
 HttpCreateUrlGroup
 HttpDeleteServiceConfiguration
+HttpEvaluateRequest
 HttpFlushResponseCache
 HttpGetCounters
 HttpInitialize

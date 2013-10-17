@@ -1,8 +1,0 @@
-CombineRgn
-CreateRectRgn
-DeleteObject
-EqualRgn
-ExtCreateRegion
-GetRegionData
-RectInRegion
-SetRectRgn

@@ -1,6 +1,10 @@
 WTSDisconnectSession
+WTSEnumerateProcessesExW
+WTSEnumerateProcessesW
+WTSEnumerateSessionsExW
 WTSEnumerateSessionsW
 WTSFreeMemory
+WTSFreeMemoryExW
 WTSLogoffSession
 WTSQuerySessionInformationW
 WTSQueryUserToken

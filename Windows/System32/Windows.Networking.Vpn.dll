@@ -1,0 +1,12 @@
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
+VpnClientPluginGetSecurity
+VpnClientPluginInstall
+VpnClientPluginManifestFind
+VpnClientPluginUninstall
+VpnPluginEnumerate
+VpnPluginListFree

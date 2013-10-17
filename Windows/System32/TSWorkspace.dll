@@ -3,6 +3,8 @@ DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
 RADCProcessGroupPolicyEx
+RADCUISupportCreateDiscoveryStrategy
+RADCUISupportCreateSubscriptionClient
 TaskUpdateWorkspaces
 TaskUpdateWorkspaces2
 TaskUpdateWorkspacesIfNeeded

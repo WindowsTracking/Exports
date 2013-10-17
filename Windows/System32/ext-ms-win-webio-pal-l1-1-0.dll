@@ -6,5 +6,6 @@ WebPalFreeDnsCacheCtx
 WebPalFreeSocketCtx
 WebPalInitializeTwTimer
 WebPalIsImplemented
+WebPalOverrideConnectResult
 WebPalSetTwTimer
 WebPalTerminateTwTimer

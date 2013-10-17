@@ -1,0 +1,4 @@
+EACreateAggregateEvent
+EADeleteAggregateEvent
+EAEnumerateAggregateEvents
+EAQueryAggregateEventData

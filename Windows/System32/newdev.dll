@@ -10,6 +10,7 @@ InstallNewDevice
 InstallSelectedDriver
 InstallWindowsUpdateDriver
 InstallWindowsUpdateDriverEx
+InstallWindowsUpdateDrivers
 pDiDoDeviceInstallAsAdmin
 pDiDoNullDriverInstall
 pDiRunFinishInstallOperations

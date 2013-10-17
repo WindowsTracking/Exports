@@ -1,0 +1,14 @@
+BlockAdminKeyboard
+BlockPredefinedKey
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
+GetProviderClassID
+IsAdminUnblocked
+IsPredefinedKeyBlocked
+KBF_DisableService
+KBF_EnableService
+KBF_QueryService
+MI_Main

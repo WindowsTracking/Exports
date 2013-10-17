@@ -1,9 +1,0 @@
-CreateNativeConfigurationSystem
-DllCanUnloadNow
-DllGetClassObject
-DllMain
-DllRegisterServer
-DllUnregisterServer
-GetDefaultNativeConfigurationSystem
-InitializeNativeConfiguration
-TerminateNativeConfiguration

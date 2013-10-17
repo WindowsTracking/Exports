@@ -1,0 +1,11 @@
+CloseMetaFile
+CreateMetaFileA
+DeleteEnhMetaFile
+DeleteMetaFile
+EnumMetaFile
+GetEnhMetaFileBits
+GetEnhMetaFileHeader
+GetMetaFileBitsEx
+GetWinMetaFileBits
+SetEnhMetaFileBits
+SetMetaFileBitsEx

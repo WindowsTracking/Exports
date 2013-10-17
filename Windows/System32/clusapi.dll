@@ -5,6 +5,12 @@ AddResourceToClusterSharedVolumes
 BackupClusterDatabase
 CancelClusterGroupOperation
 CanResourceBeDependent
+CCHlpAddNodeUpdateCluster
+CCHlpConfigureNode
+CCHlpCreateClusterNameCOIfNotExists
+CCHlpGetClusterServiceSecret
+CCHlpGetDNSHostLabel
+CCHlpRestoreClusterVirtualObjectToInitialState
 ChangeClusterResourceGroup
 CloseCluster
 CloseClusterGroup
@@ -52,6 +58,7 @@ ClusterRegBatchAddCommand
 ClusterRegBatchCloseNotification
 ClusterRegBatchReadCommand
 ClusterRegCloseBatch
+ClusterRegCloseBatchEx
 ClusterRegCloseBatchNotifyPort
 ClusterRegCloseKey
 ClusterRegCloseReadBatch
@@ -59,9 +66,12 @@ ClusterRegCloseReadBatchReply
 ClusterRegCreateBatch
 ClusterRegCreateBatchNotifyPort
 ClusterRegCreateKey
+ClusterRegCreateKeyForceSync
 ClusterRegCreateReadBatch
 ClusterRegDeleteKey
+ClusterRegDeleteKeyForceSync
 ClusterRegDeleteValue
+ClusterRegDeleteValueForceSync
 ClusterRegEnumKey
 ClusterRegEnumValue
 ClusterRegGetBatchNotification
@@ -74,6 +84,8 @@ ClusterRegReadBatchAddCommand
 ClusterRegReadBatchReplyNextCommand
 ClusterRegSetKeySecurity
 ClusterRegSetValue
+ClusterRegSetValueForceSync
+ClusterRegSyncDatabase
 ClusterResourceCloseEnum
 ClusterResourceCloseEnumEx
 ClusterResourceControl
@@ -95,10 +107,12 @@ ClusterStmFindDisk
 CreateCluster
 CreateClusterGroup
 CreateClusterGroupEx
+CreateClusterManagementPoint
 CreateClusterNotifyPort
 CreateClusterNotifyPortV2
 CreateClusterResource
 CreateClusterResourceType
+CreateClusterResourceWithId
 DeleteClusterGroup
 DeleteClusterResource
 DeleteClusterResourceType

@@ -69,6 +69,7 @@ SecDeleteUserModeContext
 SeciAllocateAndSetCallFlags
 SeciAllocateAndSetIPAddress
 SeciFreeCallContext
+SeciIsProtectedUser
 SecInitUserModeContext
 SetContextAttributesA
 SetContextAttributesW

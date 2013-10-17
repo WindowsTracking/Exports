@@ -3,11 +3,13 @@ ConvertPropVariant
 CopyPropertyStore
 CreateNamedPropertyStore
 DllCanUnloadNow
+DllGetActivationFactory
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
 ExtractPropVariant
 MergePropertyStore
+MFCopyMFMetadata
 MFCreateAggregateSource
 MFCreateAppSourceProxy
 MFCreateAudioRenderer
@@ -17,6 +19,7 @@ MFCreateDeviceSourceActivate
 MFCreateFileSchemePlugin
 MFCreateMediaProcessor
 MFCreateMediaSession
+MFCreateMFMetadataOnPropertyStore
 MFCreatePMPHost
 MFCreatePMPMediaSession
 MFCreatePMPServer
@@ -32,6 +35,7 @@ MFCreateStandardQualityManager
 MFCreateTopoLoader
 MFCreateTopology
 MFCreateTopologyNode
+MFCreateTransformWrapper
 MFCreateWMAEncoderActivate
 MFCreateWMVEncoderActivate
 MFEnumDeviceSources

@@ -1,0 +1,7 @@
+AdjustCalendarDate
+ConvertCalDateTimeToSystemTime
+ConvertSystemTimeToCalDateTime
+GetCalendarDateFormatEx
+GetCalendarSupportedDateRange
+IsCalendarLeapYear
+UpdateCalendarDayOfWeek

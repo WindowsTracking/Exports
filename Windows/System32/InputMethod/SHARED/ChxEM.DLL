@@ -1,0 +1,6 @@
+DestroyMtf
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+SetupMtf

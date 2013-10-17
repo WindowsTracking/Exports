@@ -1,4 +1,5 @@
-PsmActivateApplication
+PsmActivateApplicationByToken
 PsmAdjustActivationToken
+PsmCreateMatchToken
 PsmQueryBackgroundActivationType
 PsmRegisterApplicationProcess

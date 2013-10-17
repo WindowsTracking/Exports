@@ -1,0 +1,8 @@
+GetTraceEnableFlags
+GetTraceEnableLevel
+GetTraceLoggerHandle
+RegisterTraceGuidsW
+TraceEvent
+TraceMessage
+TraceMessageVa
+UnregisterTraceGuids

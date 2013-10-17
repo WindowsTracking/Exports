@@ -15,3 +15,4 @@ BiQueryUserSession
 BiQueryWorkItem
 BiSignalEvent
 BiSignalMultipleEvents
+BiUpdateEventFlags

@@ -1,6 +1,7 @@
 CallMsgFilterW
 DispatchMessageA
 DispatchMessageW
+GetMessageA
 GetMessageW
 GetQueueStatus
 InSendMessage
@@ -10,10 +11,12 @@ PeekMessageW
 PostMessageA
 PostMessageW
 PostQuitMessage
+PostThreadMessageA
 PostThreadMessageW
 RegisterWindowMessageA
 RegisterWindowMessageW
 SendMessageA
 SendMessageTimeoutW
 SendMessageW
+SetMessageQueue
 TranslateMessage

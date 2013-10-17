@@ -26,6 +26,7 @@ NetUserDel
 NetUserEnum
 NetUserGetGroups
 NetUserGetInfo
+NetUserGetInternetIdentityInfo
 NetUserGetLocalGroups
 NetUserModalsGet
 NetUserModalsSet

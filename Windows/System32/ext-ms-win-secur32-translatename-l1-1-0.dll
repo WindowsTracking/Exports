@@ -1,3 +1,4 @@
+GetComputerObjectNameW
 SecpFreeMemory
 SecpTranslateName
 SecpTranslateNameEx
