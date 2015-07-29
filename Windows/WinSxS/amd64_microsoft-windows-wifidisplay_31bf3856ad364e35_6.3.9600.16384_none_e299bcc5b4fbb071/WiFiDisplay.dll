@@ -1,9 +1,0 @@
-CloseMiracastSession
-CreateDAFProviderMiracastHelper
-CreateWiFiDisplayEtwProvider
-IsMiracastSupportedByWlan
-MiracastFreeMemory
-MiracastIeDecode
-MiracastIeEncode
-OpenMiracastSession
-VsIeProviderGetFunctionTable

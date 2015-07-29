@@ -1,0 +1,6 @@
+?ChartDataGridUI_spChartDataGridFMUI_Set@ChartDataGrid@Oart@Xaml@UI@Office@@YAXPE$AAVChartDataGridUI@12345@AEBV?$TCntPtr@VChartDataGridFMUI@ChartDataGrid@Oart@Xaml@UI@Office@@@Mso@@@Z
+?CreateDatapointTooltip@Oart@Xaml@UI@Office@@YA?AV?$TCntPtr@UIOartXamlDatapointTooltip@Oart@Xaml@UI@Office@@@Mso@@AEBV?$TCntPtr@VFMDatapointTooltipControlApp@FM@Oart@@@6@@Z
+?CreateIgxSilhouetteTextPane@Oart@Xaml@UI@Office@@YA?AV?$TCntPtr@UISilhouettePaneContent@Core@Xaml@UI@Office@ABI@@@Mso@@AEBV?$TCntPtr@VFMSilhouetteContentPaneUI@FM@Igx@@@6@_N@Z
+?CreateXamlMetadataProvider@Oart@Xaml@UI@Office@@YA?AV?$ComPtr@UIXamlMetadataProvider@Markup@Xaml@UI@Windows@ABI@@@WRL@Microsoft@@XZ
+DllCanUnloadNow
+DllGetActivationFactory

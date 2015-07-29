@@ -4,6 +4,7 @@
 #104
 #105
 #106
+#107
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject

@@ -1,9 +1,0 @@
-TransportGetConnectionManager
-TransportGetDiscoverer
-TransportGetInfo
-TransportGetName
-TransportGetVisitorManager
-TransportInitialize
-TransportInstall
-TransportUninitialize
-TransportUninstall

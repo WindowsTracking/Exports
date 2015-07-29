@@ -9,6 +9,7 @@ WGIIsImeInputMethod
 WGIIsImeScript
 WGIIsImmersiveInputMethod
 WGIIsTouchEnabledInputMethod
+WGISetCurrentInputLanguage
 WGITransformInputMethodsForLanguage
 WGITransformInputMethodsForLanguageId
 WGIUpdateGlobalSpellerKey

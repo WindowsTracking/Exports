@@ -1,5 +1,7 @@
 AddPersonalTrustDBPages
 CatalogCompactHashDatabase
+ComputeFirstPageHash
+ConfigCiFinalPolicy
 CryptCATAdminAcquireContext
 CryptCATAdminAcquireContext2
 CryptCATAdminAddCatalog

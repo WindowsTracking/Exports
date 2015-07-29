@@ -1,7 +1,0 @@
-GetProcessPriorityBoost
-GetSystemTimes
-GetThreadInformation
-GetThreadIOPendingFlag
-IsProcessCritical
-SetProcessPriorityBoost
-SetThreadInformation

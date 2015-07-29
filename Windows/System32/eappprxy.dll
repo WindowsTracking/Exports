@@ -4,6 +4,7 @@ EapHostPeerEndSession
 EapHostPeerFreeEapError
 EapHostPeerFreeRuntimeMemory
 EapHostPeerGetAuthStatus
+EapHostPeerGetDataToUnplumbCredentials
 EapHostPeerGetIdentity
 EapHostPeerGetResponseAttributes
 EapHostPeerGetResult

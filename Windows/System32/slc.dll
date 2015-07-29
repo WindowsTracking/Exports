@@ -30,6 +30,8 @@ SLpCheckProductKey
 SLpGetGenuineLocal
 SLpProcessOemProductKey
 SLpUpdateComponentTokens
+SLQueryLicenseValueFromApp
+SLQueryLicenseValueFromApp2
 SLReArmWindows
 SLRegisterEvent
 SLRegisterWindowsEvent

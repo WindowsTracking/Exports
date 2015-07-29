@@ -2,8 +2,11 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+SruCreateCheckpoint
+SruCreateEnergyNotificationServer
 SruFreeRecordSet
 SruQueryStats
+SruQueryStatsBySeqNumber
 SruRegisterRealTimeStats
 SruUnregisterRealTimeStats
 SruUpdateStats

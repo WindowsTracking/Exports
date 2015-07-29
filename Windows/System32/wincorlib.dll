@@ -81,6 +81,8 @@
 ?__abi_FailFast@@YAXXZ
 ?__abi_make_type_id@@YAPE$AAVType@Platform@@AEBU__abi_type_descriptor@@@Z
 ?__abi_ObjectToString@__abi_details@@YAPE$AAVString@Platform@@PE$AAVObject@3@_N@Z
+?__abi_Resolve@ControlBlock@Details@Platform@@UEAAJAEAVGuid@3@PEAPEAU__abi_IInspectable@@@Z
+?__abi_translateCurrentException@@YAJ_N@Z
 ?__abi_WinRTraiseAccessDeniedException@@YAXXZ
 ?__abi_WinRTraiseChangedStateException@@YAXXZ
 ?__abi_WinRTraiseClassNotRegisteredException@@YAXXZ
@@ -97,17 +99,21 @@
 ?__abi_WinRTraiseOutOfMemoryException@@YAXXZ
 ?__abi_WinRTraiseWrongThreadException@@YAXXZ
 ?__getActivationFactoryByHSTRING@@YAJPEAUHSTRING__@@AEAVGuid@Platform@@PEAPEAX@Z
+?AlignedAllocate@Heap@Details@Platform@@SAPEAX_K00@Z
 ?AlignedAllocate@Heap@Details@Platform@@SAPEAX_K0@Z
+?AlignedAllocateException@Heap@Details@Platform@@SAPEAX_K00@Z
 ?AlignedAllocateException@Heap@Details@Platform@@SAPEAX_K0@Z
 ?AlignedFree@Heap@Details@Platform@@SAXPEAX@Z
 ?AlignedFreeException@Heap@Details@Platform@@SAXPEAX@Z
+?Allocate@Heap@Details@Platform@@SAPEAX_K0@Z
 ?Allocate@Heap@Details@Platform@@SAPEAX_K@Z
+?AllocateException@Heap@Details@Platform@@SAPEAX_K0@Z
 ?AllocateException@Heap@Details@Platform@@SAPEAX_K@Z
 ?Compare@Duration@Xaml@UI@Windows@@SAHV1234@0@Z
 ?Contains@Rect@Foundation@Windows@@QEAA_NVPoint@23@@Z
 ?CreateException@Exception@Platform@@SAPE$AAV12@H@Z
 ?CreateException@Exception@Platform@@SAPE$AAV12@HPE$AAVString@2@@Z
-?CreateValue@Details@Platform@@YAPE$AAVObject@2@PE$AAVType@2@PEBX@Z
+?CreateValue@Details@Platform@@YAPE$AAVObject@2@W4TypeCode@2@PEBX@Z
 ?EnableFactoryCache@@YAXXZ
 ?EnumerateAllocatedObjects@Heap@Details@Platform@@SAXPE$AAVHeapEntryHandler@23@@Z
 ?Equals@Attribute@Metadata@Platform@@QE$AAA_NPE$AAVObject@3@@Z
@@ -134,7 +140,7 @@
 ?Equals@ValueType@Platform@@QE$AAA_NPE$AAVObject@2@@Z
 ?EventSourceAdd@Details@Platform@@YA?AVEventRegistrationToken@Foundation@Windows@@PEAPEAXPEAUEventLock@12@PE$AAVDelegate@2@@Z
 ?EventSourceGetTargetArray@Details@Platform@@YAPEAXPEAXPEAUEventLock@12@@Z
-?EventSourceGetTargetArrayEvent@Details@Platform@@YAPEAXPEAXI@Z
+?EventSourceGetTargetArrayEvent@Details@Platform@@YAPEAXPEAXIPEBXPEA_J@Z
 ?EventSourceGetTargetArraySize@Details@Platform@@YAIPEAX@Z
 ?EventSourceInitialize@Details@Platform@@YAXPEAPEAX@Z
 ?EventSourceRemove@Details@Platform@@YAXPEAPEAXPEAUEventLock@12@VEventRegistrationToken@Foundation@Windows@@@Z
@@ -201,6 +207,7 @@
 ?GetType@uint8@default@@QEAAPE$AAVType@Platform@@XZ
 ?GetTypeCode@Type@Platform@@SA?AW4TypeCode@2@PE$AAV12@@Z
 ?GetWeakReference@Details@Platform@@YAPEAU__abi_IUnknown@@QE$ADVObject@2@@Z
+?InitControlBlock@ControlBlock@Details@Platform@@AEAAXPEAX_N11@Z
 ?InitializeData@Details@Platform@@YAJH@Z
 ?Intersect@Rect@Foundation@Windows@@QEAAXV123@@Z
 ?IntersectsWith@Rect@Foundation@Windows@@QEAA_NV123@@Z
@@ -211,6 +218,7 @@
 ?ReferenceEquals@Object@Platform@@SA_NPE$AAVString@2@0@Z
 ?RegisterFactories@Details@Platform@@YAPE$AAVObject@2@PEAPEAVModuleBase@1WRL@Microsoft@@PEAPEAU__abi_Module@@P6AXXZ@Z
 ?ReleaseInContextImpl@Details@Platform@@YAJPEAUIUnknown@@0@Z
+?ReleaseTarget@ControlBlock@Details@Platform@@AEAAXXZ
 ?ResolveWeakReference@Details@Platform@@YAPE$AAVObject@2@AEBU_GUID@@PEAPEAU__abi_IUnknown@@@Z
 ?RunApplicationServer@Details@Platform@@YAXPEAPEAVModuleBase@1WRL@Microsoft@@PEAPEAU__abi_Module@@PEB_W@Z
 ?RunServer@Details@Platform@@YAXPEAPEAVModuleBase@1WRL@Microsoft@@PEAPEAU__abi_Module@@PEB_W@Z

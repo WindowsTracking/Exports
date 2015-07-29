@@ -1,8 +1,0 @@
-CreateCaret
-DestroyCaret
-GetCaretBlinkTime
-GetCaretPos
-HideCaret
-SetCaretBlinkTime
-SetCaretPos
-ShowCaret

@@ -1,2 +1,10 @@
-DllGetContractDescription
+DuplicateCertificate
+FreeCertificate
+GeneratePrincipalName
 I_RpcExtInitializeExtensionPoint
+IndicatePortInUse
+IsMarshaledCredential
+MatchPrincipalName
+ProcessAndProvisionCertificate
+ResetIndicatedPortsInUse
+ValidatePrincipalName

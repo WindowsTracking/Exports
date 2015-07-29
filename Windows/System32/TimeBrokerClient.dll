@@ -2,9 +2,9 @@ TbCreateCEvent
 TbCreateEvent
 TbDeleteCEvent
 TbDeleteEvent
-TbEnumerateCEvents
 TbEnumerateEvents
 TbQueryCEventData
+TbQueryCEventTriggerTime
 TbQueryEventData
 TbUpdateCEvent
 TbUpdateEvent

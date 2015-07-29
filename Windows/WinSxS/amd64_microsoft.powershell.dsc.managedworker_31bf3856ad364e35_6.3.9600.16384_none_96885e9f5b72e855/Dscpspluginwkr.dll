@@ -1,8 +1,0 @@
-Get
-GetResourceProvider
-Pull_GetAction_ManagedPlugin
-Pull_GetConfiguration_ManagedPlugin
-Pull_InstallCertificate_ManagedPlugin
-Set
-StopCurrentPSConfiguration
-Test

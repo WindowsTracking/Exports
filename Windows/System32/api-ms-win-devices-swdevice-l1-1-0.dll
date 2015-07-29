@@ -1,7 +1,0 @@
-SwDeviceClose
-SwDeviceCreate
-SwDeviceInterfacePropertySet
-SwDeviceInterfaceRegister
-SwDeviceInterfaceSetState
-SwDevicePropertySet
-SwMemFree

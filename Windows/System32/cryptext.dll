@@ -22,6 +22,8 @@ CryptExtOpenCTL
 CryptExtOpenCTLW
 CryptExtOpenP7R
 CryptExtOpenP7RW
+CryptExtOpenPFX
+CryptExtOpenPFXW
 CryptExtOpenPKCS7
 CryptExtOpenPKCS7W
 CryptExtOpenSTR

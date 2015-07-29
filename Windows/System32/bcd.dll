@@ -15,13 +15,16 @@ BcdEnumerateElementsWithFlags
 BcdEnumerateElementTypes
 BcdEnumerateObjects
 BcdExportStore
+BcdFlushStore
 BcdForciblyUnloadStore
 BcdGetElementData
 BcdGetElementDataWithFlags
 BcdImportStore
 BcdImportStoreWithFlags
 BcdMarkAsSystemStore
+BcdMigrateObjectElementValues
 BcdOpenObject
+BcdOpenStore
 BcdOpenStoreFromFile
 BcdOpenSystemStore
 BcdQueryObject

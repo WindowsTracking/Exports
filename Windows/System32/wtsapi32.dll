@@ -1,3 +1,4 @@
+IsInteractiveUserSession
 QueryActiveSession
 QueryUserToken
 RegisterUsertokenForNoWinlogon

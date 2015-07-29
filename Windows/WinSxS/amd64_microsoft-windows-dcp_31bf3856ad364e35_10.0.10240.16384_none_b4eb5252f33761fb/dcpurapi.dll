@@ -1,0 +1,9 @@
+??0DcpDataRequestParams@@QEAA@XZ
+??0IDcpDataRequest@@IEAA@XZ
+??0IDcpDataRequest@@QEAA@AEBV0@@Z
+??1DcpDataRequestStatus@@UEAA@XZ
+??1IDcpDataRequest@@UEAA@XZ
+??4CrowdsourcingDataReceiver_t@@QEAAAEAV0@AEBV0@@Z
+??4IDcpDataRequest@@QEAAAEAV0@AEBV0@@Z
+??_7IDcpDataRequest@@6B@
+?CreateDcpDataRequest@CrowdsourcingDataReceiver_t@@SAJAEBUDcpDataRequestParams@@PEAPEAVIDcpDataRequest@@@Z

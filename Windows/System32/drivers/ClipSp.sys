@@ -1,0 +1,4 @@
+ClipSpInitialize
+ClipSpUninitialize
+DllInitialize
+DllUnload

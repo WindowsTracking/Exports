@@ -390,7 +390,7 @@
 ??_Fid@locale@std@@QEAAXXZ
 ??_Ftime_base@std@@QEAAXXZ
 ??Bid@locale@std@@QEAA_KXZ
-??Bios_base@std@@QEBAPEAXXZ
+??Bios_base@std@@QEBA_NXZ
 ?_10@placeholders@std@@3V?$_Ph@$09@2@A
 ?_11@placeholders@std@@3V?$_Ph@$0L@@2@A
 ?_12@placeholders@std@@3V?$_Ph@$0M@@2@A
@@ -422,7 +422,6 @@
 ?_C_str@?$_Yarn@_W@std@@QEBAPEB_WXZ
 ?_C_str@?$_Yarn@D@std@@QEBAPEBDXZ
 ?_Callfns@ios_base@std@@AEAAXW4event@12@@Z
-?_CaptureCallstackImpl@_TaskCreationCallstack@details@Concurrency@@SA_KPEAPEAX_K1@Z
 ?_Clocptr@_Locimp@locale@std@@0PEAV123@EA
 ?_Close_dir@sys@tr2@std@@YAXPEAX@Z
 ?_Copy_file@sys@tr2@std@@YAHPEB_W0_N@Z
@@ -453,7 +452,6 @@
 ?_Fput@?$num_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@AEBA?AV?$ostreambuf_iterator@DU?$char_traits@D@std@@@2@V32@AEAVios_base@2@DPEBD_K333@Z
 ?_Fput@?$num_put@GV?$ostreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@AEBA?AV?$ostreambuf_iterator@GU?$char_traits@G@std@@@2@V32@AEAVios_base@2@GPEBD_K333@Z
 ?_Future_error_map@std@@YAPEBDH@Z
-?_Get_future_error_what@std@@YAPEBDH@Z
 ?_Getcat@?$codecvt@_WDH@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z
 ?_Getcat@?$codecvt@DDH@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z
 ?_Getcat@?$codecvt@GDH@std@@SA_KPEAPEBVfacet@locale@2@PEBV42@@Z
@@ -476,7 +474,6 @@
 ?_Getcoll@_Locinfo@std@@QEBA?AU_Collvec@@XZ
 ?_GetCombinableSize@details@Concurrency@@YA_KXZ
 ?_Getctype@_Locinfo@std@@QEBA?AU_Ctypevec@@XZ
-?_GetCurrentThreadId@details@Concurrency@@YAKXZ
 ?_Getcvt@_Locinfo@std@@QEBA?AU_Cvtvec@@XZ
 ?_Getdateorder@_Locinfo@std@@QEBAHXZ
 ?_Getdays@_Locinfo@std@@QEBAPEBDXZ
@@ -500,7 +497,6 @@
 ?_Getlconv@_Locinfo@std@@QEBAPEBUlconv@@XZ
 ?_Getmonths@_Locinfo@std@@QEBAPEBDXZ
 ?_Getname@_Locinfo@std@@QEBAPEBDXZ
-?_GetNextAsyncId@details@Concurrency@@YAIXZ
 ?_Getpfirst@_Container_base12@std@@QEBAPEAPEAU_Iterator_base12@2@XZ
 ?_Getptr@_Timevec@std@@QEBAPEAXXZ
 ?_Gettnames@_Locinfo@std@@QEBA?AV_Timevec@2@XZ
@@ -724,7 +720,6 @@
 ?bad@ios_base@std@@QEBA_NXZ
 ?c_str@?$_Yarn@D@std@@QEBAPEBDXZ
 ?cancel@agent@Concurrency@@QEAA_NXZ
-?cancel_current_task@Concurrency@@YAXXZ
 ?cerr@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A
 ?cin@std@@3V?$basic_istream@DU?$char_traits@D@std@@@1@A
 ?classic@locale@std@@SAAEBV12@XZ
@@ -1001,6 +996,7 @@
 ?getloc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEBA?AVlocale@2@XZ
 ?getloc@?$basic_streambuf@GU?$char_traits@G@std@@@std@@QEBA?AVlocale@2@XZ
 ?getloc@ios_base@std@@QEBA?AVlocale@2@XZ
+?GetNextAsyncId@platform@details@Concurrency@@YAIXZ
 ?global@locale@std@@SA?AV12@AEBV12@@Z
 ?good@ios_base@std@@QEBA_NXZ
 ?gptr@?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@IEBAPEA_WXZ
@@ -1080,7 +1076,6 @@
 ?is@?$ctype@G@std@@QEBA_NFG@Z
 ?is@?$ctype@G@std@@QEBAPEBGPEBG0PEAF@Z
 ?is_current_task_group_canceling@Concurrency@@YA_NXZ
-?is_task_cancellation_requested@Concurrency@@YA_NXZ
 ?isfx@?$basic_istream@_WU?$char_traits@_W@std@@@std@@QEAAXXZ
 ?isfx@?$basic_istream@DU?$char_traits@D@std@@@std@@QEAAXXZ
 ?isfx@?$basic_istream@GU?$char_traits@G@std@@@std@@QEAAXXZ
@@ -1571,7 +1566,4 @@ _Xtime_diff_to_millis
 _Xtime_diff_to_millis2
 _Xtime_get_ticks
 _Zero
-towctrans
-wctrans
-wctype
 xtime_get

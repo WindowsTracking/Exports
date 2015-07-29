@@ -3,6 +3,7 @@ GetDeviceIDString
 GetDeviceIDWithTimeout
 Tbsi_Context_Create
 Tbsi_Create_Attestation_From_Log
+Tbsi_Create_Windows_Key
 Tbsi_FilterLog
 Tbsi_Get_OwnerAuth
 Tbsi_Get_TCG_Log

@@ -1,0 +1,14 @@
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+GetEntCommonBaseAddress
+GetEntertainmentAppLocalFolder
+GetEntertainmentAppTempFolder
+GetEntPlatBaseAddress
+GetSingletonManager
+HasUnlimitedInternetConnection
+IsInternetConnected
+RegisterSingleton
+SetEntPlatBaseAddress
+ShutdownSingletonMgr
+TryGetProcessLifetimeManager

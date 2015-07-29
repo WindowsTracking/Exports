@@ -3,6 +3,7 @@ CreateNamedPipeW
 CreatePipe
 DisconnectNamedPipe
 GetNamedPipeClientComputerNameW
+ImpersonateNamedPipeClient
 PeekNamedPipe
 SetNamedPipeHandleState
 TransactNamedPipe

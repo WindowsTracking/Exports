@@ -13,6 +13,9 @@ AuditSetGlobalSaclW
 AuditSetPerUserPolicy
 AuditSetSecurity
 AuditSetSystemPolicy
+BuildSecurityDescriptorForSharingAccess
+BuildSecurityDescriptorForSharingAccessEx
+CapabilityCheck
 ChangeServiceConfig2A
 ChangeServiceConfig2W
 ChangeServiceConfigA
@@ -83,9 +86,12 @@ EtwQueryRealtimeConsumer
 EventAccessControl
 EventAccessQuery
 EventAccessRemove
+FreeTransientObjectSecurityDescriptor
 GetDefaultIdentityProvider
 GetIdentityProviderInfoByGUID
 GetIdentityProviderInfoByName
+GetServiceDisplayNameW
+GetServiceKeyNameW
 I_QueryTagInformation
 I_ScBroadcastServiceControlMessage
 I_ScIsSecurityProcess
@@ -111,6 +117,7 @@ LookupAccountSidLocalW
 LsaAddAccountRights
 LsaClose
 LsaCreateSecret
+LsaDelete
 LsaEnumerateAccountRights
 LsaEnumerateAccountsWithUserRight
 LsaFreeMemory
@@ -128,6 +135,7 @@ LsaLookupSids
 LsaLookupSids2
 LsaLookupTranslateNames
 LsaLookupTranslateSids
+LsaLookupUserAccountType
 LsaOpenPolicy
 LsaOpenSecret
 LsaQueryInformationPolicy
@@ -156,6 +164,7 @@ QueryServiceDynamicInformation
 QueryServiceObjectSecurity
 QueryServiceStatus
 QueryServiceStatusEx
+QueryTransientObjectSecurityDescriptor
 RegisterServiceCtrlHandlerA
 RegisterServiceCtrlHandlerExA
 RegisterServiceCtrlHandlerExW
@@ -163,6 +172,7 @@ RegisterServiceCtrlHandlerW
 RegisterTraceGuidsA
 ReleaseIdentityProviderEnumContext
 RemoveTraceCallback
+RpcClientCapabilityCheck
 SetServiceObjectSecurity
 SetServiceStatus
 SetTraceCallback

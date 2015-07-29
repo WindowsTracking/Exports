@@ -1,6 +1,10 @@
 #1500
 #1600
+#1602
+#1604
+#1700
 CreateControlInput
+CreateControlInputEx
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject

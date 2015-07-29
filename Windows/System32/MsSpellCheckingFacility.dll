@@ -3,3 +3,10 @@ DllGetActivationFactory
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+SpellerCheck
+SpellerCloseLex
+SpellerGetOptions
+SpellerInit
+SpellerOpenLex
+SpellerSetOptions
+SpellerTerminate

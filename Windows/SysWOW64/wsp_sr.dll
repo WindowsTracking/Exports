@@ -1,0 +1,10 @@
+_PreShutdown@0
+_SetShutdownCallback@4
+_SmpUnload@0
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
+GetProviderClassID
+MI_Main

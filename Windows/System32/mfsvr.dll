@@ -1,2 +1,4 @@
 DllCanUnloadNow
 DllGetClassObject
+MFCreateHDCPStatus
+MFCreateMediaEngineVideoOTA

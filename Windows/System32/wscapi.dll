@@ -16,8 +16,10 @@ WscGetAntiMalwareUri
 WscGetSecurityProviderHealth
 wscIcfEnable
 wscIeSettingsFix
+wscInitiateOfflineCleaning
 wscIsDefenderAntivirusSupported
 wscLuaSettingsFix
+wscNotifyUserForNearExpiration
 wscOverrideComponentStatus
 wscPing
 wscProductInfoFree

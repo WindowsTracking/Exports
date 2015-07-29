@@ -1,11 +1,12 @@
 CreateString
 CreateXamlUIPresenter
 DeleteString
+DisableDeferredInvoke
 DllCanUnloadNow
 DllGetActivationFactory
 DllMain
-FreeBinaryGenericXaml
-GenerateBinaryGenericXaml
 GetDependencyObjectAddress
+GetGlobalModuleParams
 GetStringLen
 GetStringRawBuffer
+OverrideXamlMetadataProvider

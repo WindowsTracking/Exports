@@ -1,0 +1,10 @@
+IpcAccessCheck
+IpcCloseHandle
+IpcCreateLicenseFromKey
+IpcDecrypt
+IpcEncrypt
+IpcFreeMemory
+IpcGetKeyProperty
+IpcGetLicenseProperty
+IpcGetSerializedLicenseProperty
+IpcpGetKey

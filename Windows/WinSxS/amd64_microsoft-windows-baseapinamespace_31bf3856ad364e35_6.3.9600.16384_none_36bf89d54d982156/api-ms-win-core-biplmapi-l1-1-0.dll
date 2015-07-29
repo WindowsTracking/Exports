@@ -1,6 +1,0 @@
-BiChangeApplicationStateForPackageName
-BiChangeSessionState
-BiNotifyNewSession
-BiResetActiveSessionForPackage
-BiSetActiveSessionForPackage
-BiUpdateLockScreenApplications

@@ -1,7 +1,0 @@
-DllCanUnloadNow
-DllGetActivationFactory
-DllGetClassObject
-EnterpriseDataCopyProtection
-EnterpriseDataGetStatus
-EnterpriseDataProtect
-EnterpriseDataRevoke

@@ -1,7 +1,17 @@
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject
+DpmBufferFree
+DpmProtectSecretToIdentity
+DpmStreamClose
+DpmStreamOpenToProtectToIdentity
+DpmStreamOpenToUnprotect
+DpmStreamUpdate
+DpmUnprotectSecret
 EnterpriseDataCopyProtection
 EnterpriseDataGetStatus
 EnterpriseDataProtect
 EnterpriseDataRevoke
+FreeIdentityProtectorList
+ProtectFileToIdentity
+QueryIdentityProtectors

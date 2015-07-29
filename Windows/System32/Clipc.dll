@@ -1,0 +1,14 @@
+ClipCallServer
+ClipCleanUpState
+ClipClose
+ClipGatherDiagnostics
+ClipGenerateClientChallengeData
+ClipGenerateDeviceLicenseRequest
+ClipGetAssociatedResults
+ClipGetFileIdFromAssociateId
+ClipGetLicenseData
+ClipInstallLicense
+ClipOpen
+ClipQueryAssociateId
+ClipRefreshLicense
+ClipUninstallLicense

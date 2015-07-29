@@ -71,6 +71,7 @@ BthpCleanupBRDeviceNode
 BthpCleanupDeviceLocalServices
 BthpCleanupDeviceRemoteServices
 BthpCleanupLEDeviceNodes
+BthpEnableA2DPIfPresent
 BthpEnableAllServices
 BthpEnableConnectableAndDiscoverable
 BthpEnableRadioSoftware

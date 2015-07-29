@@ -1,0 +1,8 @@
+CalculateCensusId
+DoCensusRun
+GetCITTelemetryPoints
+PdupAddGeneralTelemetryNode
+RunGeneralTelemetry
+RunInUserCxtW
+RunTelemetryW
+SysprepCleanupEnableCustomTrigger

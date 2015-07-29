@@ -42,6 +42,8 @@ DsFreeDomainControllerInfoWWorker
 DsFreeNameResultA
 DsFreeNameResultW
 DsFreeNameResultWWorker
+DsFreeNgcKey
+DsFreeNgcKeyWorker
 DsFreePasswordCredentials
 DsFreePasswordCredentialsWorker
 DsFreeSchemaGuidMapA
@@ -89,6 +91,9 @@ DsQuerySitesByCostW
 DsQuerySitesFree
 DsQuoteRdnValueA
 DsQuoteRdnValueW
+DsReadNgcKeyA
+DsReadNgcKeyW
+DsReadNgcKeyWWorker
 DsRemoveDsDomainA
 DsRemoveDsDomainW
 DsRemoveDsServerA
@@ -121,3 +126,6 @@ DsUnquoteRdnValueA
 DsUnquoteRdnValueW
 DsWriteAccountSpnA
 DsWriteAccountSpnW
+DsWriteNgcKeyA
+DsWriteNgcKeyW
+DsWriteNgcKeyWWorker

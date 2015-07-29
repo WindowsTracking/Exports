@@ -3,10 +3,12 @@ RtwqAllocateSerialWorkQueue
 RtwqAllocateWorkQueue
 RtwqBeginRegisterWorkQueueWithMMCSS
 RtwqBeginUnregisterWorkQueueWithMMCSS
+RtwqCancelDeadline
 RtwqCancelWorkItem
 RtwqCreateAsyncResult
 RtwqEndRegisterWorkQueueWithMMCSS
 RtwqEndUnregisterWorkQueueWithMMCSS
+RtwqGetPlatform
 RtwqGetWorkQueueMMCSSClass
 RtwqGetWorkQueueMMCSSPriority
 RtwqGetWorkQueueMMCSSTaskId
@@ -21,6 +23,7 @@ RtwqRegisterPlatformEvents
 RtwqRegisterPlatformWithMMCSS
 RtwqRemovePeriodicCallback
 RtwqScheduleWorkItem
+RtwqSetDeadline
 RtwqSetLongRunning
 RtwqShutdown
 RtwqStartup

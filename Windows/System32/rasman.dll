@@ -1,13 +1,13 @@
 IsRasmanProcess
 RasActivateRoute
 RasActivateRouteEx
+RasActivateRouteEx2
 RasAddConnectionPort
 RasAddNotification
 RasAddNotificationEx
 RasAllocateRoute
 RasAllocInterfaceLuidIndex
 RasApplyPostConnectActions
-RasAutoTriggerSaveCachedCreds
 RasBundleClearStatistics
 RasBundleClearStatisticsEx
 RasBundleGetPort
@@ -37,7 +37,6 @@ RasFreeInterfaceLuidIndex
 RasGetAutoTriggerData
 RasGetBuffer
 RasGetCalledIdInfo
-RasGetCompartmentInfo
 RasGetConnectInfo
 RasGetConnectionParams
 RasGetConnectionUserData
@@ -168,7 +167,6 @@ RasSetEapUserInfo
 RasSetEncPassword
 RasSetIPAddresses
 RasSetKey
-RasSetNetworkInfo
 RasSetPortUserData
 RasSetRouterUsage
 RasSetTriggerAuthData
@@ -183,3 +181,4 @@ RasStartRasAutoIfRequired
 RasUpdateAutoTriggerRegKeys
 RasUpdateDefaultRouteSettings
 RasUpdateQoSPolicies
+RasVpnIkeGetNewTunnelId

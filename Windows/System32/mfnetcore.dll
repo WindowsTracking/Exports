@@ -1,5 +1,10 @@
 DllCanUnloadNow
 DllGetClassObject
+IsLicensedComponentAC3_ENC
+IsLicensedComponentDOLBY
+IsLicensedComponentMPEG2
+IsLicensedComponentMPEG2_ENC
 MFCreateCredentialCache
 MFCreatePartialSeekableByteStream
 MFCreateProxyLocator
+MFGetSupportedDLNAProfileInfo

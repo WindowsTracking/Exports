@@ -1,0 +1,6 @@
+TokenBindingDeleteBinding
+TokenBindingGenerateBinding
+TokenBindingGenerateMessage
+TokenBindingGetKeyTypesClient
+TokenBindingGetKeyTypesServer
+TokenBindingVerifyMessage

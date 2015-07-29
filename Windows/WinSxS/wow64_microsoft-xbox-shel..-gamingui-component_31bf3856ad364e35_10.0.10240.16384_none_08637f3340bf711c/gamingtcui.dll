@@ -1,0 +1,10 @@
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+ProcessPendingGameUI
+ShowChangeFriendRelationshipUI
+ShowGameInviteUI
+ShowPlayerPickerUI
+ShowProfileCardUI
+ShowTitleAchievementsUI
+TryCancelPendingGameUI

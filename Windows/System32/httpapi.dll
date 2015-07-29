@@ -10,6 +10,7 @@ HttpCreateHttpHandle
 HttpCreateRequestQueue
 HttpCreateServerSession
 HttpCreateUrlGroup
+HttpDeclarePush
 HttpDeleteServiceConfiguration
 HttpEvaluateRequest
 HttpFlushResponseCache

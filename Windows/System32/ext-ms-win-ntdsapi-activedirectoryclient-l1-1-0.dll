@@ -1,8 +1,0 @@
-DsBindWithSpnExWWorker
-DsCrackNamesWWorker
-DsFreeDomainControllerInfoWWorker
-DsFreeNameResultWWorker
-DsFreePasswordCredentialsWorker
-DsGetDomainControllerInfoWWorker
-DsMakePasswordCredentialsWWorker
-DsUnBindWWorker

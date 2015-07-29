@@ -1,1 +1,5 @@
+AreDvdCodecsEnabled
+GetServerForPMP
 InstantiateComponentFromPackage
+RegisterServerForPMP
+UnregisterServerForPMP

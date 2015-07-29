@@ -1,4 +1,5 @@
 AppRepComputeImageHash
+AppRepComputeImageHashWithOffset
 AppRepComputeSignatureInfo
 AppRepFreeAttributeLib
 AppRepInitializeAttributeLib
@@ -6,3 +7,4 @@ AppRepParameterCleanup
 RepGetFileInformation
 RepGetFileReputation
 RepInformUserAction
+ReputationInfoCleanup

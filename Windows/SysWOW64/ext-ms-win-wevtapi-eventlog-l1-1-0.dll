@@ -1,7 +1,0 @@
-EvtClose
-EvtCreateRenderContext
-EvtExportLog
-EvtGetChannelConfigProperty
-EvtOpenChannelConfig
-EvtRender
-EvtSubscribe

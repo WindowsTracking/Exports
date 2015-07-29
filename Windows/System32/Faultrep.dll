@@ -1,12 +1,16 @@
 #1
 AddERExcludedApplicationA
 AddERExcludedApplicationW
+BasepReportFault
 CancelHangReporting
+CheckForReadOnlyResourceFilter
 CheckPerUserCrossProcessThrottle
 DllCanUnloadNow
 DllGetClassObject
 ReportFault
 ReportHang
 UpdatePerUserLastCrossProcessCollectionTime
+WerpGetDebugger
 WerpInitiateCrashReporting
+WerpLaunchAeDebug
 WerReportHang

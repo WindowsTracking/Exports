@@ -1,6 +1,0 @@
-AddSIDToBoundaryDescriptor
-ClosePrivateNamespace
-CreateBoundaryDescriptorW
-CreatePrivateNamespaceW
-DeleteBoundaryDescriptor
-OpenPrivateNamespaceW

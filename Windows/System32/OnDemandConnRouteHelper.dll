@@ -1,3 +1,5 @@
+FreeInterfaceContextTable
+GetInterfaceContextTableForHostName
 OnDemandAddRouteRequest
 OnDemandGetRoutingHint
 OnDemandRegisterNotification

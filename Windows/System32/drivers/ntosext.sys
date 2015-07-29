@@ -1,0 +1,4 @@
+DllUnload
+ExpMicrocodeInformationLoad
+ExpMicrocodeInformationUnload
+ExpMicrocodeInitialization

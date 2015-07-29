@@ -1,4 +1,5 @@
 g_bPrint
+TH_WSFulfillProduct
 WSAcquireLicense
 WSAcquireWindowsUpgradeLicense
 WSCallActivateAppxLOBSKU

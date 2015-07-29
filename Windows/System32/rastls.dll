@@ -2,6 +2,7 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+EapTls_SaveUserCredentials
 RasEapCreateConnectionProperties
 RasEapCreateConnectionProperties2
 RasEapCreateConnectionPropertiesXml
@@ -22,4 +23,5 @@ RasEapQueryCredentialInputFields
 RasEapQueryInteractiveUIInputFields
 RasEapQueryUIBlobFromInteractiveUIInputFields
 RasEapQueryUserBlobFromCredentialInputFields
+RasEapSetRetryFlag
 RasEapUpdateServerConfig

@@ -63,6 +63,7 @@ DnsCopyStringEx
 DnsCreateReverseNameStringForIpAddress
 DnsCreateStandardDnsNameCopy
 DnsCreateStringCopy
+DnsDeRegisterLocal
 DnsDhcpRegisterAddrs
 DnsDhcpRegisterHostAddrs
 DnsDhcpRegisterInit
@@ -146,6 +147,7 @@ DnsRecordSetDetach
 DnsRecordStringForType
 DnsRecordStringForWritableType
 DnsRecordTypeForName
+DnsRegisterLocal
 DnsReleaseContextHandle
 DnsRemoveRegistrations
 DnsReplaceRecordSetA
@@ -154,9 +156,21 @@ DnsReplaceRecordSetW
 DnsResetQueryRetryTimeouts
 DnsResolverOp
 DnsScreenLocalAddrsForRegistration
+DnsServiceBrowse
+DnsServiceBrowseCancel
+DnsServiceConstructInstance
+DnsServiceCopyInstance
+DnsServiceDeRegister
+DnsServiceFreeInstance
+DnsServiceRegister
+DnsServiceRegisterCancel
+DnsServiceResolve
+DnsServiceResolveCancel
 DnsSetConfigDword
 DnsSetQueryRetryTimeouts
+DnsStartMulticastQuery
 DnsStatusString
+DnsStopMulticastQuery
 DnsStringCopyAllocateEx
 DnsTraceServerConfig
 DnsUnicodeToUtf8
@@ -215,6 +229,7 @@ Reg_ReadUpdateInfo
 Security_ContextListTimeout
 Send_AndRecvUdpWithParam
 Send_MessagePrivate
+Send_MessagePrivateEx
 Send_OpenTcpConnectionAndSend
 Socket_CacheCleanup
 Socket_CacheInit

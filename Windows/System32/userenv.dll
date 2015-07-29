@@ -15,8 +15,7 @@
 #212
 #213
 #214
-#215
-#216
+#217
 AreThereVisibleLogoffScripts
 AreThereVisibleShutdownScripts
 CreateAppContainerProfile
@@ -26,10 +25,10 @@ DeleteAppContainerProfile
 DeleteProfileA
 DeleteProfileW
 DeriveAppContainerSidFromAppContainerName
+DeriveRestrictedAppContainerSidFromAppContainerSidAndRestrictedName
 DestroyEnvironmentBlock
 DllCanUnloadNow
 DllGetClassObject
-DllGetContractDescription
 DllRegisterServer
 DllUnregisterServer
 EnterCriticalPolicySection
@@ -58,6 +57,7 @@ GetUserProfileDirectoryA
 GetUserProfileDirectoryW
 HasPolicyForegroundProcessingCompleted
 LeaveCriticalPolicySection
+LoadProfileExtender
 LoadUserProfileA
 LoadUserProfileW
 ProcessGroupPolicyCompleted
@@ -70,6 +70,7 @@ RsopFileAccessCheck
 RsopLoggingEnabled
 RsopResetPolicySettingStatus
 RsopSetPolicySettingStatus
+UnloadProfileExtender
 UnloadUserProfile
 UnregisterGPNotification
 WaitForMachinePolicyForegroundProcessing

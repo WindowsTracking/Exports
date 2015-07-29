@@ -1,5 +1,6 @@
 ConfigStartMenu
 DllCanUnloadNow
+DllGetActivationFactory
 DllGetClassObject
 DllGetVersion
 GetProgramsOnline

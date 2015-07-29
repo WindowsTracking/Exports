@@ -17,6 +17,7 @@ PrinterPropPageProvider
 PrintNotifyTray_Exit
 PrintNotifyTray_Init
 PrintUIDownloadAndInstallLegacyDriver
+PrintUIEntryDPIAwareW
 PrintUIEntryW
 RegisterPrintNotify
 ReleaseArgv

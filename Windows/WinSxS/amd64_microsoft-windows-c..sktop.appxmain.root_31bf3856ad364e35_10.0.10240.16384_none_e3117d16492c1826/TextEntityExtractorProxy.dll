@@ -1,0 +1,12 @@
+CreateTEEProxy
+DestroyTEEProxy
+TEEProxyAbort
+TEEProxyDestroyOutput
+TEEProxyExtract
+TEEProxyIsPauseRequested
+TEEProxyMessageIdKey
+TEEProxyPause
+TEEProxyReferenceDateKey
+TEEProxyResume
+TEEProxySentFromEmailKey
+TEEProxySentFromPhoneKey

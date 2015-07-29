@@ -55,6 +55,7 @@ ProcessGroupPolicyFolders
 ProcessGroupPolicyIniFile
 ProcessGroupPolicyInternet
 ProcessGroupPolicyLocUsAndGroups
+ProcessGroupPolicyMitigationOptions
 ProcessGroupPolicyNetShares
 ProcessGroupPolicyNetworkOptions
 ProcessGroupPolicyPowerOptions

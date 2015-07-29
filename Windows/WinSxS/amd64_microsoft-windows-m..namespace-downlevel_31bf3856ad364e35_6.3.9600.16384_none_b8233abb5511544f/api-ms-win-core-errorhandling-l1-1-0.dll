@@ -1,7 +1,0 @@
-GetErrorMode
-GetLastError
-RaiseException
-SetErrorMode
-SetLastError
-SetUnhandledExceptionFilter
-UnhandledExceptionFilter

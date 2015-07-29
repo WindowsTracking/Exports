@@ -1,9 +1,0 @@
-BiChangeApplicationStateForPackageName
-BiChangeApplicationStateForPsmKey
-BiChangeSessionState
-BiGetActiveBackgroundTasksEvent
-BiIsApplicationTerminateSensitive
-BiNotifyNewSession
-BiResetActiveSessionForPackage
-BiSetActiveSessionForPackage
-BiUpdateLockScreenApplications

@@ -1,0 +1,6 @@
+BeginAcquireStoreLicenseForPackageActivation
+DllMain
+EnsureStoreLicenseForPackageActivation
+PackageRundownNotificationForStoreLicense
+PackageSuspendedNotificationForStoreLicense
+Reset

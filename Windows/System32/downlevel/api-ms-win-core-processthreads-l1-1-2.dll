@@ -3,5 +3,7 @@ GetSystemTimes
 GetThreadInformation
 GetThreadIOPendingFlag
 IsProcessCritical
+QueryProtectedPolicy
 SetProcessPriorityBoost
+SetProtectedPolicy
 SetThreadInformation

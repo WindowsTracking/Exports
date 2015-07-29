@@ -3,6 +3,7 @@ AttachVirtualDisk
 BreakMirrorVirtualDisk
 CompactVirtualDisk
 CreateVirtualDisk
+DeleteSnapshotVhdSet
 DeleteVirtualDiskMetadata
 DetachVirtualDisk
 EnumerateVirtualDiskMetadata
@@ -15,7 +16,10 @@ GetVirtualDiskOperationProgress
 GetVirtualDiskPhysicalPath
 MergeVirtualDisk
 MirrorVirtualDisk
+ModifyVhdSet
 OpenVirtualDisk
+QueryChangesVirtualDisk
 ResizeVirtualDisk
 SetVirtualDiskInformation
 SetVirtualDiskMetadata
+TakeSnapshotVhdSet

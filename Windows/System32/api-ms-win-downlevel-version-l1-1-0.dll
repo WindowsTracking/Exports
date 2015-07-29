@@ -1,6 +1,0 @@
-GetFileVersionInfoExW
-GetFileVersionInfoSizeExW
-VerFindFileA
-VerFindFileW
-VerQueryValueA
-VerQueryValueW

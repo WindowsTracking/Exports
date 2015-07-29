@@ -1,0 +1,12 @@
+ConfigCloseKey
+ConfigOpenKey
+CreateConfigWriter
+DelConfigValue
+DestroyConfigWriter
+GetConfigBool
+GetConfigDword
+GetExclusionList
+GetProductVersion
+IsAMServiceEnabled
+SetConfigBool
+SetConfigDword

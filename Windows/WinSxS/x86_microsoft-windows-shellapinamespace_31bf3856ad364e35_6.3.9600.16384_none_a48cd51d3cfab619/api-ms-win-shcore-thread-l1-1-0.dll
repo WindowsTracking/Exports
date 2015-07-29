@@ -1,8 +1,0 @@
-GetProcessReference
-SetProcessReference
-SHCreateThread
-SHCreateThreadRef
-SHCreateThreadWithHandle
-SHGetThreadRef
-SHReleaseThreadRef
-SHSetThreadRef

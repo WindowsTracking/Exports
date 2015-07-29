@@ -1,0 +1,9 @@
+gnsdk_fp_fingerprint_audio_begin
+gnsdk_fp_fingerprint_audio_write
+gnsdk_fp_fingerprint_end_of_write
+gnsdk_fp_fingerprint_release
+gnsdk_fp_fingerprint_retrieve_data
+gnsdk_fp_get_build_date
+gnsdk_fp_get_version
+gnsdk_fp_initialize
+gnsdk_fp_shutdown

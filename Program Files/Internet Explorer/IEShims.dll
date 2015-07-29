@@ -1,6 +1,7 @@
 AcRedirNotify
 AcRedirNotifySetEnabled
 AcRedirSetEnabled
+IEShims_AdminCheckAndLaunch
 IEShims_CreateWindowEx
 IEShims_GetOriginatingThreadId
 IEShims_InDllMainContext

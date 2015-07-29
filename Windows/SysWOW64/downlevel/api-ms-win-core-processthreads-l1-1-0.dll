@@ -1,4 +1,5 @@
 CreateProcessA
+CreateProcessAsUserW
 CreateProcessW
 CreateRemoteThread
 CreateRemoteThreadEx
@@ -23,7 +24,9 @@ GetThreadId
 GetThreadPriority
 GetThreadPriorityBoost
 InitializeProcThreadAttributeList
+OpenProcessToken
 OpenThread
+OpenThreadToken
 ProcessIdToSessionId
 QueryProcessAffinityUpdateMode
 QueueUserAPC
@@ -34,6 +37,7 @@ SetProcessShutdownParameters
 SetThreadPriority
 SetThreadPriorityBoost
 SetThreadStackGuarantee
+SetThreadToken
 SuspendThread
 SwitchToThread
 TerminateProcess

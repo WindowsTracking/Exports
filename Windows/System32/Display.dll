@@ -1,3 +1,4 @@
 DisplaySaveSettingsEx
 DllCanUnloadNow
 DllGetClassObject
+ShowAdapterSettings

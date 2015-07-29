@@ -1,7 +1,0 @@
-DhcpQecEnableTracing
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-InitializeQec
-UninitializeQec

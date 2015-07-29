@@ -1,5 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-MFCreateCredentialCache
-MFCreatePartialSeekableByteStream
-MFCreateProxyLocator

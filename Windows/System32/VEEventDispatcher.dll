@@ -1,0 +1,7 @@
+DllCanUnloadNow
+DllGetClassObject
+VE_CreateApplicationInformation
+VE_CreateApplicationInformation2
+VE_GetAllTilesInViewFastMarshal
+VE_MaterializeApplicationActivator
+VE_MaterializeApplicationInformation

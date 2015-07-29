@@ -3,3 +3,4 @@ DllGetClassObject
 DllMain
 DllRegisterServer
 DllUnregisterServer
+IasUpgradeComplianceCheck

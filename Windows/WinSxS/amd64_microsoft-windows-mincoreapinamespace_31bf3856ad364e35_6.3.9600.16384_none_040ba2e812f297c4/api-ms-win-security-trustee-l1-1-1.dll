@@ -1,8 +1,0 @@
-BuildExplicitAccessWithNameW
-BuildImpersonateTrusteeW
-BuildSecurityDescriptorW
-BuildTrusteeWithNameW
-BuildTrusteeWithObjectsAndSidW
-BuildTrusteeWithSidW
-GetAuditedPermissionsFromAclW
-GetEffectiveRightsFromAclW

@@ -12,6 +12,7 @@ DllRegisterServer
 DllUnregisterServer
 I_CryptConvertIriToAsciiOrUnicode
 I_CryptConvertIriToAsciiOrUnicodeWithFlags
+I_CryptNetAutoFlush
 I_CryptNetEnumUrlCacheEntry
 I_CryptNetGetConnectivity
 I_CryptNetGetHostNameFromUrl

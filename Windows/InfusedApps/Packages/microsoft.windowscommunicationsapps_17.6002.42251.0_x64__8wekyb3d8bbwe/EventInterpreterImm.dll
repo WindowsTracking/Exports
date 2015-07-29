@@ -1,0 +1,4 @@
+CreateEventInterpreterFromByteArray
+CreateEventInterpreterFromFile
+CreateEventInterpreterFromHandle
+CreateEventInterpreterFromIResource

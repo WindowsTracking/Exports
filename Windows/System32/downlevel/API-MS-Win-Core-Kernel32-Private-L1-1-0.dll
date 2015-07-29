@@ -5,9 +5,14 @@ _lopen
 _lread
 _lwrite
 BaseSetLastNTError
+CheckAllowDecryptedRemoteDestinationPolicy
+CheckElevation
 CheckElevationEnabled
+CompareCalendarDates
 DosPathToSessionPathW
 EnumerateLocalComputerNamesW
+GetCalendarMonthsInYear
 RegisterWaitForInputIdle
 RemoveLocalAlternateComputerNameW
 SetLocalPrimaryComputerNameW
+Wow64EnableWow64FsRedirection

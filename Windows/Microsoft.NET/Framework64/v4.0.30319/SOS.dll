@@ -1,4 +1,5 @@
 _EFN_GetManagedExcepStack
+_EFN_GetManagedExcepStackW
 _EFN_GetManagedObjectFieldInfo
 _EFN_GetManagedObjectName
 _EFN_StackTrace

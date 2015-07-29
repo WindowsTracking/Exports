@@ -28,6 +28,7 @@ SignError
 SignerSign
 SignerSignEx
 SignerSignEx2
+SignerSignEx3
 SignerTimeStamp
 SignerTimeStampEx
 SignerTimeStampEx2

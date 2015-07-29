@@ -16,6 +16,9 @@
 #127
 #128
 #129
+#130
+#131
+#134
 ClearPhishingFilterData
 ConvertAndEscapePostData
 CreateCoreWebView
@@ -27,6 +30,7 @@ GetColorValueFromString
 GetWebPlatformObject
 IEIsXMLNSRegistered
 IERegisterXMLNS
+InitializeLocalHtmlEngine
 MatchExactGetIDsOfNames
 PrintHTML
 RunHTMLApplication
@@ -36,3 +40,4 @@ ShowModalDialog
 ShowModelessHTMLDialog
 TravelLogCreateInstance
 TravelLogStgCreateInstance
+UninitializeLocalHtmlEngine

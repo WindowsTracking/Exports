@@ -1,0 +1,4 @@
+SCGetFlightId
+SCGetPayloadId
+SCGetValue
+SCReleaseValue

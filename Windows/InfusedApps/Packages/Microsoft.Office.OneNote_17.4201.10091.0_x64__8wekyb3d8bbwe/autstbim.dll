@@ -1,0 +1,16 @@
+??1CONTypeInfoHolder@ATLUtils@Jot@@QEAA@XZ
+?ComModuleRegisterClassObjects@ONComServerImpl@ATLUtils@Jot@@YAXPEAVIJotHostComModule@23@@Z
+?ComModuleRevokeClassObjects@ONComServerImpl@ATLUtils@Jot@@YAXPEAVIJotHostComModule@23@@Z
+?ComModuleUpdateRegistry@ATLUtils@Jot@@YAJI_N@Z
+?CreateDomDocument@Jot@@YAJPEAPEAUIXMLDOMDocument2@@@Z
+?CreateInstance@ONComServerImpl@ATLUtils@Jot@@YA_NU_GUID@@0PEAPEAX@Z
+?CreateSchemaCollection@Jot@@YAJPEAPEAUIXMLDOMSchemaCollection2@@@Z
+?GetIDsOfNames@CONTypeInfoHolder@ATLUtils@Jot@@QEAAJAEBU_GUID@@PEAPEA_WIKPEAJ@Z
+?GetSchemaFromResourceAsString@Jot@@YAJPEAUHINSTANCE__@@HAEAV?$CWzInBuffer_T@V?$String@UWzTraits@MsoCF@@@MsoCF@@V?$CBuffer@_W@2@@MsoCF@@@Z
+?GetTI@CONTypeInfoHolder@ATLUtils@Jot@@QEAAJKPEAPEAUITypeInfo@@@Z
+?GetTypeInfo@CONTypeInfoHolder@ATLUtils@Jot@@QEAAJIKPEAPEAUITypeInfo@@@Z
+?Invoke@CONTypeInfoHolder@ATLUtils@Jot@@QEAAJPEAUIDispatch@@JAEBU_GUID@@KGPEAUtagDISPPARAMS@@PEAUtagVARIANT@@PEAUtagEXCEPINFO@@PEAI@Z
+?RegisterComModuleServer@ONComServerImpl@ATLUtils@Jot@@YAXPEAVIJotHostComModule@23@_N@Z
+?RegisterComModuleTypeLib@ONComServerImpl@ATLUtils@Jot@@YAXPEAVIJotHostComModule@23@PEB_W@Z
+?RegisterMessageFilter@ONComServerImpl@ATLUtils@Jot@@YAXPEAUIMessageFilter@@PEAPEAU4@@Z
+?UnregisterComModuleServer@ONComServerImpl@ATLUtils@Jot@@YAXPEAVIJotHostComModule@23@_N@Z

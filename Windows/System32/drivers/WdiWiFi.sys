@@ -1,0 +1,6 @@
+DllInitialize
+DllUnload
+Wdi_NdisMDeregisterWdiMiniportDriver
+Wdi_NdisMIndicateStatusEx
+Wdi_NdisMOidRequestComplete
+Wdi_NdisMRegisterWdiMiniportDriver

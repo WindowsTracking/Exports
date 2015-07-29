@@ -1,0 +1,8 @@
+DllCanUnloadNow
+DllGetClassObject
+ServiceMain
+StateRepository_DataAccessLayer_DatabaseCache_Add
+StateRepository_DataAccessLayer_DatabaseCache_Get
+StateRepository_Initialize
+StateRepository_Shutdown
+SvchostPushServiceGlobals

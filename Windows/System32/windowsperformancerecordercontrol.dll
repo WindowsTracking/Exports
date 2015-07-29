@@ -1,0 +1,11 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+WPRCControlLogging
+WPRCCreateInstance
+WPRCCreateInstanceUnderInstanceName
+WPRCDisableBuiltinProfiles
+WPRCFormatError
+WPRCQueryBuiltInProfiles
+WPRCRemoveLogging

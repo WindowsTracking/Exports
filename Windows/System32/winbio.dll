@@ -19,6 +19,7 @@ WinBioEnrollCapture
 WinBioEnrollCaptureWithCallback
 WinBioEnrollCommit
 WinBioEnrollDiscard
+WinBioEnrollSelect
 WinBioEnumBiometricUnits
 WinBioEnumDatabases
 WinBioEnumEnrollments
@@ -28,9 +29,8 @@ WinBioGetCredentialState
 WinBioGetCredentialWithTicket
 WinBioGetDomainLogonSetting
 WinBioGetEnabledSetting
+WinBioGetEnrolledFactors
 WinBioGetLogonSetting
-WinBioGetMSACredentialState
-WinBioGetMSACredentialWithTicket
 WinBioGetProperty
 WinBioIdentify
 WinBioIdentifyAndReleaseTicket
@@ -39,6 +39,7 @@ WinBioLocateSensor
 WinBioLocateSensorWithCallback
 WinBioLockUnit
 WinBioLogonIdentifiedUser
+WinBioMonitorPresence
 WinBioNotifyPasswordChange
 WinBioOpenSession
 WinBioProtectData
@@ -48,9 +49,9 @@ WinBioReleaseFocus
 WinBioRemoveAllCredentials
 WinBioRemoveAllDomainCredentials
 WinBioRemoveCredential
-WinBioRemoveMSACredential
 WinBioSetCredential
 WinBioSetMSACredential
+WinBioSetProperty
 WinBioUnlockUnit
 WinBioUnprotectData
 WinBioUnregisterEventMonitor

@@ -1,0 +1,11 @@
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+IsLangExcludedForIccid
+MvBackupUserData
+MvDsGetInfoFromMcc
+MvEraseUserData
+MvGetMccFromGeoId
+MvQueueFileForBackup
+MvRestoreUserData
+ValidateMnc

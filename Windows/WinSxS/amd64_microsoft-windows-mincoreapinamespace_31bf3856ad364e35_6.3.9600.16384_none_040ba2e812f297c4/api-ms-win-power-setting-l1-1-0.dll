@@ -1,8 +1,0 @@
-PowerGetActiveScheme
-PowerReadACValue
-PowerReadDCValue
-PowerSetActiveScheme
-PowerSettingRegisterNotification
-PowerSettingUnregisterNotification
-PowerWriteACValueIndex
-PowerWriteDCValueIndex

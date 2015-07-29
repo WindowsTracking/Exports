@@ -1,0 +1,4 @@
+CreateSGPlatform
+DestroySGPlatform
+DllCanUnloadNow
+DllGetActivationFactory

@@ -1,0 +1,13 @@
+DecryptData
+DecryptISKBoundData
+EncryptData
+GetFipsModeFromIumKernelState
+GetSecureIdentityKey
+GetSeedFromIumKernelState
+GetTaggedData
+GetTaggedDataSize
+IsSecureProcess
+PostMailbox
+SecureStorageGet
+SecureStoragePut
+SetTrustletInstance

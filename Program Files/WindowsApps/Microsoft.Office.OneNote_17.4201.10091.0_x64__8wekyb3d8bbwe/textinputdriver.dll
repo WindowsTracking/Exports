@@ -1,0 +1,7 @@
+?CreateTextInputDriver@Input@Mso@@YAJPEBUITextDocument2@@PEAPEAVITextHost@@@Z
+?CreateTextInputDriverEx@Input@Mso@@YAJPEBUITextDocument2@@PEAPEAVITextHost@@K@Z
+?GetImeOptions@Input@Mso@@YAKXZ
+?HideSoftInput@Input@Mso@@YAXXZ
+?SetImeOptions@Input@Mso@@YAJK@Z
+?ShowSoftInput@Input@Mso@@YAXXZ
+?ShutdownTextInputDriver@Input@Mso@@YAXPEAVITextHost@@@Z

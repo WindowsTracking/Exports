@@ -35,6 +35,7 @@ SetInputScope
 SetInputScopes
 SetInputScopes2
 SetInputScopeXML
+TextInputClientWrapperCreate
 TF_CanUninitialize
 TF_CleanUpPrivateMessages
 TF_CreateCategoryMgr
@@ -57,6 +58,7 @@ TF_GetThreadMgr
 TF_InitSystem
 TF_InvalidAssemblyListCacheIfExist
 TF_IsCtfmonRunning
+TF_IsLanguageBarEnabled
 TF_IsThreadWithFlags
 TF_MapCompatibleHKL
 TF_MapCompatibleKeyboardTip

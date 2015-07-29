@@ -55,6 +55,7 @@ ResUtilFindFileTimeProperty
 ResUtilFindLongProperty
 ResUtilFindMultiSzProperty
 ResUtilFindSzProperty
+ResUtilFindULargeIntegerProperty
 ResUtilFreeEnvironment
 ResUtilFreeParameterBlock
 ResUtilGetAllProperties
@@ -91,6 +92,8 @@ ResUtilGetSzProperty
 ResUtilGetSzValue
 ResUtilIsPathValid
 ResUtilIsResourceClassEqual
+ResUtilLeftPaxosIsLessThanRight
+ResUtilPaxosComparer
 ResUtilPropertyListFromParameterBlock
 ResUtilRemoveResourceServiceEnvironment
 ResUtilResourcesEqual

@@ -1,0 +1,9 @@
+#99
+D3D12CoreCreateLayeredDevice
+D3D12CoreGetLayeredDeviceSize
+D3D12CoreRegisterLayers
+D3D12CreateDevice
+D3D12CreateRootSignatureDeserializer
+D3D12GetDebugInterface
+D3D12SerializeRootSignature
+GetBehaviorValue

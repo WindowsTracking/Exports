@@ -5,4 +5,5 @@ EasClientSecurityPolicyApply
 EasClientSecurityPolicyCheckCompliance
 EasGetClientDeviceInformation
 EasRegisterEncryptionProvider
+EasShowConsentDialog
 EasUnRegisterEncryptionProvider

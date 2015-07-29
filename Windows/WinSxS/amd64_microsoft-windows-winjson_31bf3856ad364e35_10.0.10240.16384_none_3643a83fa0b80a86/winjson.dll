@@ -1,0 +1,3 @@
+WinJsonCloseHandle
+WinJsonSendRequest
+WinJsonSendRequestAsync

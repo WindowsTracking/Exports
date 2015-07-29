@@ -150,8 +150,8 @@ myGetTargetMachineDomainDnsName
 myHExceptionCode
 myHExceptionCodePrint
 myHGetLastError
-myHResultToString
-myHResultToStringRaw
+myHResultToString_old
+myHResultToStringRaw_old
 myIsDelayLoadHResult
 myJetHResult
 myLogExceptionInit

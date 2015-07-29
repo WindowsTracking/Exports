@@ -4,3 +4,5 @@ MI_MOFParser_Delete
 MI_MOFParser_Init
 MI_MOFParser_Lex
 MI_MOFParser_Parse
+NITS_PRESENCE_STUB
+NITS_STUB

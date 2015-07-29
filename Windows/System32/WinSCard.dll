@@ -57,6 +57,9 @@ SCardLocateCardsA
 SCardLocateCardsByATRA
 SCardLocateCardsByATRW
 SCardLocateCardsW
+SCardPciRaw
+SCardPciT0
+SCardPciT1
 SCardReadCacheA
 SCardReadCacheW
 SCardReconnect

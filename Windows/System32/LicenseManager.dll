@@ -1,0 +1,13 @@
+DllCanUnloadNow
+DllGetClassObject
+LmCreateLicenseManager
+LmCreateStandardServiceProvider
+ServiceBeginAcquireLicense
+ServiceCleanup
+ServiceCreateApplicationLicenseManager
+ServiceEnsureLicenseForPackageActivation
+ServiceInitialize
+ServicePackageRundownNotification
+ServicePackageSuspendedNotification
+ServiceReset
+WnfEventHandlerForDeviceIdChange

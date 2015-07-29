@@ -6,3 +6,5 @@ AppIDGetAppxFileAttributes
 AppIDGetFileAttributes
 AppIDReleaseAppxFileAttributes
 AppIDReleaseFileAttributes
+CompareToSystemCIPolicy
+UpdateSystemCIPolicy

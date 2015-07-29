@@ -3,6 +3,8 @@ WerUIDelete
 WerUIGetUserSelection
 WerUIPromptForSecondLevel
 WerUIPromptUser
+WerUIReportHang
+WerUIReportSilentProcessExit
 WerUIShowUpsell
 WerUIStart
 WerUITerminate

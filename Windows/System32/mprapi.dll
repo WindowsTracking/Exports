@@ -16,6 +16,7 @@ MprAdminGetErrorString
 MprAdminGetPDCServer
 MprAdminGetProtocolStatistics
 MprAdminGetRoutingDomainId
+MprAdminInterfaceAddIkev2Policy
 MprAdminInterfaceClearStatisticsEx
 MprAdminInterfaceConnect
 MprAdminInterfaceCreate
@@ -46,6 +47,7 @@ MprAdminInterfaceTransportSetInfo
 MprAdminInterfaceUpdatePhonebookInfo
 MprAdminInterfaceUpdateRoutes
 MprAdminIsDomainRasServer
+MprAdminIsModernStackEnabled
 MprAdminIsMultiTenancyEnabled
 MprAdminIsServiceInitialized
 MprAdminIsServiceRunning
@@ -96,10 +98,13 @@ MprAdminUserWrite
 MprAdminUserWriteProfFlags
 MprConfigAddRoutingDomain
 MprConfigBufferFree
+MprConfigDeleteAllRoutingDomainsConfigEx
 MprConfigDeleteRoutingDomain
 MprConfigFilterGetInfo
 MprConfigFilterSetInfo
+MprConfigFreeAllRoutingDomainsConfigBufferEx
 MprConfigFreeRoutingDomainConfigEx
+MprConfigGetAllRoutingDomainsConfigEx
 MprConfigGetFriendlyName
 MprConfigGetGuidName
 MprConfigGetRoutingDomainId
@@ -135,6 +140,7 @@ MprConfigServerRefresh
 MprConfigServerRestore
 MprConfigServerSetInfo
 MprConfigServerSetInfoEx
+MprConfigSetAllRoutingDomainsConfigEx
 MprConfigTransportCreate
 MprConfigTransportDelete
 MprConfigTransportEnum
@@ -143,6 +149,7 @@ MprConfigTransportGetInfo
 MprConfigTransportSetInfo
 MprDomainQueryRasServer
 MprDomainRegisterRasServer
+MprFreeInterfaceInfoEx
 MprGetUsrParams
 MprInfoBlockAdd
 MprInfoBlockFind

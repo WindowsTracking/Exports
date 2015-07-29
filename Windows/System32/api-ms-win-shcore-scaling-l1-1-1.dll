@@ -1,9 +1,0 @@
-GetDpiForMonitor
-GetProcessDpiAwareness
-GetScaleFactorForDevice
-GetScaleFactorForMonitor
-RegisterScaleChangeEvent
-RegisterScaleChangeNotifications
-RevokeScaleChangeNotifications
-SetProcessDpiAwareness
-UnregisterScaleChangeEvent

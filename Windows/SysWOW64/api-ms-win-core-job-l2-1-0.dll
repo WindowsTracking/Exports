@@ -1,6 +1,0 @@
-AssignProcessToJobObject
-CreateJobObjectW
-OpenJobObjectW
-QueryInformationJobObject
-SetInformationJobObject
-TerminateJobObject

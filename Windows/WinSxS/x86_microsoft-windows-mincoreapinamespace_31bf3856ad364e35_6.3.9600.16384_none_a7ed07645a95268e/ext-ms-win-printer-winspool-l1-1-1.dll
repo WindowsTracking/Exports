@@ -1,8 +1,0 @@
-ClosePrinter
-DeletePrinterDataExW
-GetPrinterDataExW
-GetPrinterDriverDirectoryW
-GetPrinterW
-OpenPrinterW
-SetPrinterDataExW
-SetPrinterW

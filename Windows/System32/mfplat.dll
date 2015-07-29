@@ -29,12 +29,16 @@ MFConvertFromFP16Array
 MFConvertToFP16Array
 MFCopyImage
 MFCreate2DMediaBuffer
+MFCreate2DMediaBufferOn1DMediaBuffer
 MFCreateAlignedMemoryBuffer
+MFCreateAlignedSharedMemoryBuffer
 MFCreateAMMediaTypeFromMFMediaType
 MFCreateAsyncResult
 MFCreateAttributes
 MFCreateAudioMediaType
 MFCreateCollection
+MFCreateContentDecryptorContext
+MFCreateContentProtectionDevice
 MFCreateDXGIDeviceManager
 MFCreateDXGISurfaceBuffer
 MFCreateDXSurfaceBuffer
@@ -53,6 +57,7 @@ MFCreateMediaTypeFromProperties
 MFCreateMediaTypeFromRepresentation
 MFCreateMemoryBuffer
 MFCreateMemoryStream
+MFCreateMFByteStreamOnIStreamWithFlags
 MFCreateMFByteStreamOnStream
 MFCreateMFByteStreamOnStreamEx
 MFCreateMFByteStreamWrapper
@@ -62,6 +67,7 @@ MFCreatePresentationDescriptor
 MFCreatePropertiesFromMediaType
 MFCreateReusableByteStream
 MFCreateSample
+MFCreateSharedMemoryMediaBufferFromMediaType
 MFCreateSocket
 MFCreateSocketListener
 MFCreateSourceResolver
@@ -75,6 +81,7 @@ MFCreateTrackedSample
 MFCreateTransformActivate
 MFCreateUdpSockets
 MFCreateURLFromPath
+MFCreateVideoDecryptorContext
 MFCreateVideoMediaType
 MFCreateVideoMediaTypeFromBitMapInfoHeader
 MFCreateVideoMediaTypeFromBitMapInfoHeaderEx
@@ -120,6 +127,7 @@ MFGetUncompressedVideoFormat
 MFGetWorkQueueMMCSSClass
 MFGetWorkQueueMMCSSPriority
 MFGetWorkQueueMMCSSTaskId
+MFHasLocallyRegisteredByteStreamHandlers
 MFHeapAlloc
 MFHeapFree
 MFInitAMMediaTypeFromMFMediaType
@@ -135,6 +143,7 @@ MFInitVideoFormat
 MFInitVideoFormat_RGB
 MFInvokeCallback
 MFIsBottomUpFormat
+MFIsContentProtectionDeviceSupported
 MFIsFeatureEnabled
 MFIsLocallyRegisteredMimeType
 MFJoinWorkQueue
@@ -185,6 +194,7 @@ MFUnregisterPlatformFromMMCSS
 MFUnwrapMediaType
 MFValidateMediaTypeSize
 MFWrapMediaType
+MFWrapSocket
 PropVariantFromStream
 PropVariantToStream
 ValidateWaveFormat

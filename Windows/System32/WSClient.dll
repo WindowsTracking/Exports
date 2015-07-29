@@ -26,7 +26,6 @@ WSLicenseOpen
 WSLicenseRefreshLicense
 WSLicenseRetrieveMachineID
 WSLicenseRevokeLicenses
-WSLicenseSpecializeState
 WSLicenseUninstallLicense
 WSNotifyOOBECompletion
 WSNotifyPackageInstalled

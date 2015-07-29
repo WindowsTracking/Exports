@@ -1,4 +1,6 @@
+AvCreateTaskIndex
 AvQuerySystemResponsiveness
+AvQueryTaskIndexValue
 AvRevertMmThreadCharacteristics
 AvRtCreateThreadOrderingGroup
 AvRtCreateThreadOrderingGroupExA
@@ -12,3 +14,7 @@ AvSetMmMaxThreadCharacteristicsW
 AvSetMmThreadCharacteristicsA
 AvSetMmThreadCharacteristicsW
 AvSetMmThreadPriority
+AvSetMultimediaMode
+AvTaskIndexYield
+AvTaskIndexYieldCancel
+AvThreadOpenTaskIndex

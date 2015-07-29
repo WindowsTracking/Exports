@@ -1,0 +1,11 @@
+MapsStore_CancelInstallation
+MapsStore_CheckUpdateAsync
+MapsStore_GetData
+MapsStore_Initialize
+MapsStore_InstallAsync
+MapsStore_IsMapFullyInstalled
+MapsStore_SetOnline
+MapsStore_SuspendInstallation
+MapsStore_UnInitialize
+MapsStore_UpdateAsync
+MapsStore_WaitInstallation

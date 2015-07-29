@@ -1,5 +1,0 @@
-CreateProcessAsUserW
-ImpersonateNamedPipeClient
-OpenProcessToken
-OpenThreadToken
-SetThreadToken

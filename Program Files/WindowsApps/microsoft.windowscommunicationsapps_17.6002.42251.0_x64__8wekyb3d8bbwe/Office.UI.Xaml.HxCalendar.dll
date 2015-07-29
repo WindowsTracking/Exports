@@ -1,0 +1,7 @@
+?CreateXamlMetadataProvider@HxCalendar@Xaml@UI@Office@@YA?AV?$ComPtr@UIXamlMetadataProvider@Markup@Xaml@UI@Windows@ABI@@@WRL@Microsoft@@XZ
+?Initialize@HxCalendar@Xaml@UI@Office@@YAXAEBU_GUID@@@Z
+?RegisterXamlETWProviders@HxCalendar@Xaml@UI@Office@@YAXXZ
+?StartXamlETWLogging@HxCalendar@Xaml@UI@Office@@YAX_K@Z
+?UnregisterXamlETWProviders@HxCalendar@Xaml@UI@Office@@YAXXZ
+DllCanUnloadNow
+DllGetActivationFactory

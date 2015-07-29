@@ -138,6 +138,8 @@ NetErrorLogWrite
 NetFileClose
 NetFileEnum
 NetFileGetInfo
+NetFreeAadJoinInformation
+NetGetAadJoinInformation
 NetGetAnyDCName
 NetGetDCName
 NetGetDisplayInformationIndex

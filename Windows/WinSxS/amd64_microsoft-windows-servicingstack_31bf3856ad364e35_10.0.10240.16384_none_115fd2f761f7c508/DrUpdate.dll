@@ -1,0 +1,12 @@
+DllCanUnloadNow
+DllCsiGetHandler
+DriverUpdateCloseContext
+DriverUpdateEnableDeviceInstall
+DriverUpdateInstallUpdates
+DriverUpdateOpenContext
+DriverUpdateQueryUpdatesInstallStatus
+DriverUpdateQueryUpdatesUninstallStatus
+DriverUpdateStageUpdates
+DriverUpdateUninstallUpdates
+DriverUpdateUnstageUpdates
+InstallDriversOffline

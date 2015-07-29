@@ -1,0 +1,7 @@
+ActionMgrActivateService
+ActionMgrBindToHandler
+ActionMgrInitializeApi
+ActionMgrRegisterJsonHandler
+ActionMgrShutdownApi
+ActionMgrSubmitActionJson
+ActionMgrUnbindHandler

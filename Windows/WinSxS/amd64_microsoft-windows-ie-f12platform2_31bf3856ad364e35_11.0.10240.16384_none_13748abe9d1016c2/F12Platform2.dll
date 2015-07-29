@@ -1,0 +1,4 @@
+CreatePlatform
+DllCanUnloadNow
+DllRegisterServer
+DllUnregisterServer

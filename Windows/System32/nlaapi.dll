@@ -17,6 +17,7 @@ NlaEqual
 NlaEqualNetSignatures
 NlaGetInternetCapability
 NlaGetIntranetCapability
+NlaIndicateReprobe
 NlaNotEqual
 NlaOpenQuery
 NlaOr

@@ -10,6 +10,8 @@ DllUnregisterServer
 ExtractPropVariant
 MergePropertyStore
 MFCopyMFMetadata
+MFCopyPropertyStore
+MFCopyStreamMetadata
 MFCreateAggregateSource
 MFCreateAppSourceProxy
 MFCreateAudioRenderer
@@ -32,6 +34,7 @@ MFCreateSequencerSourceRemoteStream
 MFCreateSimpleTypeHandler
 MFCreateSoundEventSchemePlugin
 MFCreateStandardQualityManager
+MFCreateTelemetrySession
 MFCreateTopoLoader
 MFCreateTopology
 MFCreateTopologyNode

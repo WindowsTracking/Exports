@@ -24,3 +24,4 @@ RasEapQueryCredentialInputFields
 RasEapQueryInteractiveUIInputFields
 RasEapQueryUIBlobFromInteractiveUIInputFields
 RasEapQueryUserBlobFromCredentialInputFields
+RasEapSetRetryFlag

@@ -16,4 +16,7 @@ NPGetResourceParent
 NPGetUniversalName
 NPGetUser
 NPOpenEnum
+QueryAppInstanceVersion
 RegisterAppInstance
+RegisterAppInstanceVersion
+ResetAllAppInstanceVersions

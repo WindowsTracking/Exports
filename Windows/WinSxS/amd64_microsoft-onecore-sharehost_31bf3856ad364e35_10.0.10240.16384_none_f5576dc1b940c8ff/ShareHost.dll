@@ -1,0 +1,8 @@
+ConvertDataPackageToShareFields
+ConvertShareFieldsToDataPackage
+DllCanUnloadNow
+DllGetClassObject
+GetDssTokenFromStorageFile
+GetStorageFilesFromDssTokens
+ResolveConnectedSharePlatformToken
+SerializePropertyBag

@@ -40,6 +40,7 @@ I_NetDatabaseDeltas
 I_NetDatabaseRedo
 I_NetDatabaseSync
 I_NetDatabaseSync2
+I_NetExtendMachinePasswordExpirationTimeout
 I_NetGetDCList
 I_NetGetForestTrustInformation
 I_NetlogonComputeClientDigest
@@ -58,6 +59,7 @@ I_NetLogonSamLogonWithFlags
 I_NetLogonSendToSam
 I_NetLogonUasLogoff
 I_NetLogonUasLogon
+I_NetQuerySecureChannelDCInfo
 I_NetServerAuthenticate
 I_NetServerAuthenticate2
 I_NetServerAuthenticate3

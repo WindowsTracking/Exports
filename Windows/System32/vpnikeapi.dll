@@ -8,7 +8,6 @@ FreeIDPayloadBuffer
 FreeTrafficSelectors
 GetConfigurationPayloadRequest
 GetIDPayload
-GetNewTunnelID
 GetServerEapAuthRequestPacket
 GetTrafficSelectorsRequest
 NewRasIncomingCall

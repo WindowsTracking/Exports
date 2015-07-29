@@ -1,8 +1,0 @@
-#1500
-#1600
-CreateControlInput
-DllCanUnloadNow
-DllGetActivationFactory
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer

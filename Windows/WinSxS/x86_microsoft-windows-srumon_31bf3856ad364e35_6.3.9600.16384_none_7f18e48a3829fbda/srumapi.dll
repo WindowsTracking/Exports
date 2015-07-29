@@ -1,9 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-SruFreeRecordSet
-SruQueryStats
-SruRegisterRealTimeStats
-SruUnregisterRealTimeStats
-SruUpdateStats

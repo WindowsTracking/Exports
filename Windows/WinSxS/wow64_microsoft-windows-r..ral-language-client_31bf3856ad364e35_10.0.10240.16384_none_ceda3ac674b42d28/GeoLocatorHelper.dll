@@ -1,0 +1,3 @@
+?GetInstance@GeolocatorHelper@Halsey@@SG?AV?$shared_ptr@VGeolocatorHelper@Halsey@@@std@@XZ
+?GetLocationData@GeolocatorHelper@Halsey@@QAEJPAN00@Z
+?StartLocationRetrieval@GeolocatorHelper@Halsey@@QAEJXZ

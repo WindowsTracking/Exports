@@ -15,12 +15,14 @@ DriverStoreConfigureW
 DriverStoreCopyW
 DriverStoreDeleteW
 DriverStoreDriverPackageResolveCallbackW
+DriverStoreEnumNodesW
 DriverStoreEnumObjectsW
 DriverStoreEnumW
 DriverStoreFindW
 DriverStoreGetObjectPropertyKeysW
 DriverStoreGetObjectPropertyW
 DriverStoreImportW
+DriverStoreMountNodeW
 DriverStoreOfflineAddDriverPackageA
 DriverStoreOfflineAddDriverPackageW
 DriverStoreOfflineDeleteDriverPackageA
@@ -33,9 +35,12 @@ DriverStoreOpenW
 DriverStorePublishW
 DriverStoreReflectCriticalW
 DriverStoreReflectW
+DriverStoreRunDllW
+DriverStoreSelectNodeW
 DriverStoreSetLogContext
 DriverStoreSetObjectPropertyW
 DriverStoreUnconfigureW
+DriverStoreUnmountNodeW
 DriverStoreUnpublishW
 DriverStoreUnreflectCriticalW
 DriverStoreUnreflectW

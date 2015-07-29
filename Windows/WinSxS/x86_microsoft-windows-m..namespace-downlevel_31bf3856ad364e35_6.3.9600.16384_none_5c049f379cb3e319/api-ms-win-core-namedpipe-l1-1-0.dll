@@ -1,9 +1,0 @@
-ConnectNamedPipe
-CreateNamedPipeW
-CreatePipe
-DisconnectNamedPipe
-GetNamedPipeClientComputerNameW
-PeekNamedPipe
-SetNamedPipeHandleState
-TransactNamedPipe
-WaitNamedPipeW

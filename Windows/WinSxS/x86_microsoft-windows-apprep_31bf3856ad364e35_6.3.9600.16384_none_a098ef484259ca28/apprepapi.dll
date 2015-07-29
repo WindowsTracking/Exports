@@ -1,8 +1,0 @@
-AppRepComputeImageHash
-AppRepComputeSignatureInfo
-AppRepFreeAttributeLib
-AppRepInitializeAttributeLib
-AppRepParameterCleanup
-RepGetFileInformation
-RepGetFileReputation
-RepInformUserAction

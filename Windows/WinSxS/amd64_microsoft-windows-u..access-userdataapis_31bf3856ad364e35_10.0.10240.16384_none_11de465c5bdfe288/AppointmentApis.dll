@@ -1,0 +1,6 @@
+CreatePropertiesFromRecurrencePattern
+CreateRecurrencePatternFromProperties
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+SetLocalRpcConnection

@@ -1,5 +1,0 @@
-CallNtPowerInformation
-GetPwrCapabilities
-PowerDeterminePlatformRoleEx
-PowerRegisterSuspendResumeNotification
-PowerUnregisterSuspendResumeNotification

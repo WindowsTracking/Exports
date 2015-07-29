@@ -1,3 +1,7 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
 WcmBeginIgnoreProfileList
 WcmCancelOnDemandRequest
 WcmCloseHandle
@@ -13,6 +17,7 @@ WcmGetInterfaceToken
 WcmGetProfileList
 WcmOpenHandle
 WcmOpenOnDemandRequestHandle
+WcmOpenOnDemandRequestHandleByWwanProfileName
 WcmOrderConnection
 WcmQueryOnDemandRequestStateInfo
 WcmQueryParameter

@@ -1,9 +1,0 @@
-PerfAddCounters
-PerfCloseQueryHandle
-PerfDeleteCounters
-PerfEnumerateCounterSet
-PerfEnumerateCounterSetInstances
-PerfOpenQueryHandle
-PerfQueryCounterData
-PerfQueryCounterInfo
-PerfQueryCounterSetRegistrationInfo

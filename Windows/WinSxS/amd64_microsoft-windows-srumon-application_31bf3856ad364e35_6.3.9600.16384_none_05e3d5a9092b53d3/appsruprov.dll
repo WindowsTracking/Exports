@@ -1,5 +1,0 @@
-DllMain
-PsmQueryApplicationPerformanceInformation
-PsmQueryQuotaInformation
-SruInitializeProvider
-SruUninitializeProvider

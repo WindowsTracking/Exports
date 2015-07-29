@@ -1,6 +1,0 @@
-DeregisterEventSource
-GetEventLogInformation
-RegisterEventSourceA
-RegisterEventSourceW
-ReportEventA
-ReportEventW

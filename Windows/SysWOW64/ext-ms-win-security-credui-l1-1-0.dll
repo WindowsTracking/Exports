@@ -1,9 +1,0 @@
-CredPackAuthenticationBufferW
-CredUICmdLinePromptForCredentialsW
-CredUIConfirmCredentialsA
-CredUIConfirmCredentialsW
-CredUIPromptForCredentialsW
-CredUIPromptForWindowsCredentialsW
-CredUnPackAuthenticationBufferW
-SspiIsPromptingNeeded
-SspiPromptForCredentialsW
