@@ -22,6 +22,8 @@
 #133
 #134
 #135
+#136
+#137
 ClearPhishingFilterData
 ClearTemporaryWebDataAsync
 ConvertAndEscapePostData

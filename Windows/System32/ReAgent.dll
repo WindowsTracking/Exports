@@ -58,7 +58,7 @@ WinReSetTriggerFile
 WinReSetupBackupWinRE
 WinReSetupCheckWinRE
 WinReSetupInstall
-WinReSetupMigrateDrivers
+WinReSetupMigrateData
 WinReSetupRestoreWinRE
 WinReSetupRestoreWinREEx
 WinReSetupSetImage

@@ -2,10 +2,14 @@ DllInstall
 DllUnregisterServer
 GetAsymmetricEncryptionInterface
 GetRngInterface
+GetSecretAgreementInterface
+GetSignatureInterface
 PcpGenerateAikStatement
 PcpGenerateAttestationChallenge
 PcpGenerateKeyAttestation
 PcpGenerateKeyAttestationStatement
+PcpGetKeyAlgorithm
+PcpIsKeyAlgorithmSupported
 PcpVerifyAikStatement
 PcpVerifyKeyAttestation
 PcpVerifyKeyAttestationStatement

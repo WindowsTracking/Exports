@@ -1,3 +1,9 @@
+MapsStorageClose
+MapsStorageFree
+MapsStorageGetDataDirectory
+MapsStorageGetLocations
+MapsStorageOpen
+MapsStorageValidateLocationAsync
 MosCacheStateGetSizes
 MosCacheStateSetMaxSize
 MosCacheStateSetSlotSize
@@ -15,9 +21,11 @@ MosReportCacheMiss
 MosRequestResourceLock
 MosRequestResourceUnlock
 OdmlAddMapPackages
+OdmlCancelMapDataMigration
 OdmlCancelMapPackage
 OdmlClose
 OdmlDeleteAllMaps
+OdmlFindNearbyPackagesAsync
 OdmlFree
 OdmlGetAutoUpdateEnabled
 OdmlGetAvailablePackages
@@ -32,3 +40,4 @@ OdmlSetAutoUpdateEnabled
 OdmlSetUpdateOnlyOnWifi
 OdmlStartCheckForUpdates
 OdmlStartInstallUpdate
+OdmlStartMapDataMigration

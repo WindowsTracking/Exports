@@ -1,0 +1,9 @@
+DevAuthExportKey
+DevAuthGetDeviceInfo
+DevAuthGetHostMessage
+DevAuthGetStatus
+DevAuthProcessDeviceMessage
+DevAuthRegister
+DevAuthUnregister
+DllInitialize
+DllUnload

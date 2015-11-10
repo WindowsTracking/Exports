@@ -1,4 +1,5 @@
 AddVirtualDiskParent
+ApplySnapshotVhdSet
 AttachVirtualDisk
 BreakMirrorVirtualDisk
 CompactVirtualDisk

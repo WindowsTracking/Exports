@@ -13,5 +13,7 @@ EnterpriseDataGetStatus
 EnterpriseDataProtect
 EnterpriseDataRevoke
 FreeIdentityProtectorList
+GetEnterpriseActionForCopy
+ProtectFileToEnterpriseIdentity
 ProtectFileToIdentity
 QueryIdentityProtectors

@@ -1,5 +1,6 @@
 QueryNetconStatus
 QueryNetconVirtualCharacteristic
+WFDAbortSessionInt
 WFDAcceptConnectRequestAndOpenSessionInt
 WFDAcceptGroupRequestAndOpenSessionInt
 WFDCancelConnectorPairWithOOB
@@ -33,6 +34,7 @@ WFDLowPrivCloseLegacySessionInt
 WFDLowPrivCloseSessionInt
 WFDLowPrivConfigureFirewallForSessionInt
 WFDLowPrivDeclineDeviceApiConnectionRequestInt
+WFDLowPrivGetPendingGroupRequestDetailsInt
 WFDLowPrivGetSessionEndpointPairsInt
 WFDLowPrivIsWfdSupportedInt
 WFDLowPrivOpenHandleInt
@@ -71,6 +73,7 @@ WFDStartConnectorPairWithOOB
 WFDStartListenerPairWithOOB
 WFDStartOffloadedDiscoveryInt
 WFDStartOpenSessionInt
+WFDStartUsingGroupExInt
 WFDStartUsingGroupInt
 WFDStopBackgroundDiscoveryInt
 WFDStopDiscoverDevicesInt

@@ -30,7 +30,9 @@ ClusterTaskQuery
 ClusWorkerCheckTerminate
 ClusWorkerCreate
 ClusWorkerStart
+ClusWorkersTerminate
 ClusWorkerTerminate
+ClusWorkerTerminateEx
 CreateClusterStorageSpacesClustering
 CreateClusterStorageSpacesResourceLocator
 CreateClusterStorageSpacesSubProvider

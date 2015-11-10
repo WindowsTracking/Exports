@@ -1,6 +1,6 @@
-?DoesActionRequireElevation@@YA_NW4SecurityAction@@@Z
-?ExecuteSecurityActionHandler@@YA_NPEAUHWND__@@W4SecurityAction@@PEAVSecurityLogicState@@_N@Z
-?ExecuteSecurityActionHandlerById@@YA_NPEAUHWND__@@PEBGPEAVSecurityLogicState@@@Z
-?GetSecondaryListViewHwnd@@YAPEAUHWND__@@XZ
 DllCanUnloadNow
 DllGetClassObject
+DoesActionRequireElevation
+ExecuteSecurityActionHandler
+ExecuteSecurityActionHandlerById
+GetSecondaryListViewHwnd

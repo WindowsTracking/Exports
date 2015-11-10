@@ -114,6 +114,7 @@ ClusterResourceTypeGetEnumCount
 ClusterResourceTypeOpenEnum
 ClusterSendReceiveMrr
 ClusterSendReceiveMrrAsUser
+ClusterSetAccountAccess
 ClusterSharedVolumeClearBackupState
 ClusterSharedVolumeSetSnapshotState
 ClusterStmFindDisk

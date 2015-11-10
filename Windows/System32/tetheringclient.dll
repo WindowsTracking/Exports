@@ -12,6 +12,7 @@ TetheringGetPublicConnectionSettings
 TetheringGetSharedInterfaceIndices
 TetheringGetSharingState
 TetheringInitApi
+TetheringIs5GHzSupported
 TetheringIsAllowed
 TetheringRegisterNotification
 TetheringSetPrivateConnectionSettings

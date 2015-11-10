@@ -28,6 +28,7 @@ D3DKMTDestroyPagingQueue
 D3DKMTDestroySynchronizationObject
 D3DKMTEscape
 D3DKMTEvict
+D3DKMTFlushHeapTransitions
 D3DKMTFreeGpuVirtualAddress
 D3DKMTGetContextInProcessSchedulingPriority
 D3DKMTGetContextSchedulingPriority

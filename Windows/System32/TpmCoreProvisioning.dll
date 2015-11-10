@@ -37,6 +37,7 @@ TpmGet_TpmVersionInfo
 TpmGetCapLockoutInfo
 TpmGetDictionaryAttackParameters
 TpmGetEndorsementKeyCertificateState
+TpmGetOrderlyShutdownInfo
 TpmGetOwnerAuth
 TpmGetOwnerAuthForEscrow
 TpmGetOwnerAuthStatus

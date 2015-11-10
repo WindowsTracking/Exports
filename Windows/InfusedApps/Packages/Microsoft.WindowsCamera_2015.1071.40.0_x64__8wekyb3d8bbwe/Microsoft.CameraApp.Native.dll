@@ -1,0 +1,14 @@
+??0LumiaCameraBarcClient@Client@BARC@Camera@Lumia@@QEAA@XZ
+??1LumiaCameraBarcClient@Client@BARC@Camera@Lumia@@QEAA@XZ
+?CancelImageProcessing@LumiaCameraBarcClient@Client@BARC@Camera@Lumia@@QEAAJPEB_W@Z
+?Close@LumiaCameraBarcClient@Client@BARC@Camera@Lumia@@QEAAJXZ
+?FreeDynamicMemory@LumiaCameraBarcClient@Client@BARC@Camera@Lumia@@QEAAXPEAX@Z
+?GetBufferStatus@LumiaCameraBarcClient@Client@BARC@Camera@Lumia@@QEBAJPEAI0@Z
+?GetProcessingImagesList@LumiaCameraBarcClient@Client@BARC@Camera@Lumia@@QEAAJPEAHPEAPEA_W@Z
+?ListenForNumberOfBufferChangesAsync@LumiaCameraBarcClient@Client@BARC@Camera@Lumia@@QEAAJPEAI0@Z
+?ListenForProcessingImagesListAsync@LumiaCameraBarcClient@Client@BARC@Camera@Lumia@@QEAAJPEAHPEAPEA_W@Z
+?Open@LumiaCameraBarcClient@Client@BARC@Camera@Lumia@@QEAAJXZ
+?ProcessCaptureMetadata@LumiaCameraBarcClient@Client@BARC@Camera@Lumia@@QEAAJPEBE_K@Z
+?ProcessRawData@LumiaCameraBarcClient@Client@BARC@Camera@Lumia@@QEAAJPEBE_K01@Z
+DllCanUnloadNow
+DllGetActivationFactory

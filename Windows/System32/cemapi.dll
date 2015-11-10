@@ -3,7 +3,6 @@ CreateMAPITableWalkerEx
 FlushMailStore
 FreeProws
 GetEntryIDType
-GetMapiStorePropTagFromName
 GetMAPIStorePropTags
 GetMsgClassEnum
 GetMsgClassEnumFromMsg

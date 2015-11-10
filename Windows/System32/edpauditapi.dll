@@ -4,3 +4,5 @@ EdpAuditLoggerRegister
 EdpAuditLoggerUnregister
 EdpAuditLogProtectionRemoved
 EdpAuditRead
+ReadAuditLogByCount
+ReadAuditLogByTimeRange

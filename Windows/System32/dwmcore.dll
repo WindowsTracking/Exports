@@ -1,4 +1,5 @@
 Analog_SetCompositorInterface
+Analog_UpdateFrameStatistics
 MilChannel_AppendCommandData
 MilChannel_BeginCommand
 MilChannel_CommitChannel

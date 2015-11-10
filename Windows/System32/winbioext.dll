@@ -1,3 +1,5 @@
+DllCanUnloadNow
+DllGetClassObject
 WinBioAcquireFocus
 WinBioAsyncEnumDatabases
 WinBioAsyncMonitorFrameworkChanges

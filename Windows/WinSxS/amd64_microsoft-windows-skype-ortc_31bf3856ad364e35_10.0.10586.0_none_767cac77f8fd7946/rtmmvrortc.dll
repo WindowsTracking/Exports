@@ -1,0 +1,3 @@
+MediaVRCreateORTCRenderer
+MediaVRDestroyORTCRenderer
+MediaVRGetORTCRenderContext

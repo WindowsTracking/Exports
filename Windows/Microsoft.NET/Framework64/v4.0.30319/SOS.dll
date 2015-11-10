@@ -14,9 +14,11 @@ clrstack
 COMState
 comstate
 da
+dclog
 DebugExtensionInitialize
 DebugExtensionNotify
 DebugExtensionUninitialize
+dgc
 do
 dso
 DumpArray
@@ -30,6 +32,10 @@ DumpClass
 dumpclass
 DumpDomain
 dumpdomain
+DumpGCConfigLog
+dumpgcconfiglog
+DumpGCData
+dumpgcdata
 DumpHeap
 dumpheap
 DumpIL

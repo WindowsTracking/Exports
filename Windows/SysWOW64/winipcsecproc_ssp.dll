@@ -12,6 +12,7 @@ IpcSPCreateSecurityProcessor
 IpcSPDecrypt
 IpcSPDecryptFinal
 IpcSPDecryptUpdate
+IpcSPDecryptWithRac
 IpcSPEnableAndEncrypt
 IpcSPEnablePublishingLicense
 IpcSPEncrypt
@@ -25,6 +26,7 @@ IpcSPGetLicenseAttributeCount
 IpcSPGetLicenseObject
 IpcSPGetLicenseObjectCount
 IpcSPGetProcAddress
+IpcSPInitialize
 IpcSPIsActivated
 IpcSPLoadLibrary
 IpcSPSign

@@ -30,6 +30,7 @@ SetUnistoreVersion
 SetUpgradeAppIdentityTestMap
 StartUnifiedStoreWorkForClient
 SvchostPushServiceGlobals
+USBlobToAppRevisionBlob
 USComparePropVals
 USCopyPropVals
 USDeleteFileEx

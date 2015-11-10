@@ -1,7 +1,9 @@
+EdpContainerizeFile
 EdpCredentialCreate
 EdpCredentialDelete
 EdpCredentialExists
 EdpCredentialQuery
+EdpDecontainerizeFile
 EdpDplPolicyEnabledForUser
 EdpDplUpgradePinInfo
 EdpDplUpgradeVerifyUser
@@ -9,9 +11,13 @@ EdpDplUserCredentialsSet
 EdpDplUserUnlockComplete
 EdpDplUserUnlockStart
 EdpFree
+EdpGetContainerIdentity
 EdpGetCredServiceState
+EdpQueryCredServiceInfo
 EdpQueryDplEnforcedPolicyOwnerIds
 EdpQueryRevokedPolicyOwnerIds
+EdpRmsClearKeys
+EdpSetCredServiceInfo
 EfsClientCloseFileRaw
 EfsClientDecryptFile
 EfsClientDuplicateEncryptionInfo

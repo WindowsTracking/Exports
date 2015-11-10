@@ -23,6 +23,7 @@ BiGetCancellationTimeoutInMs
 BiIsApplicationTerminateSensitive
 BiIsApplicationTerminateSensitiveForUser
 BiNotifyNewSession
+BiNotifyNewSessionComplete
 BiNotifyNewUser
 BiPtActivateDeferredWorkItem
 BiPtActivateInBackground
@@ -57,6 +58,7 @@ BiSetActiveUserForPackage
 BiTerminateApplicationHost
 BiTerminateApplicationHost2
 BiTerminateApplicationHostForUser
+BiUpdateBackgroundAccessApplicationsForUser
 BiUpdateLockScreenApplications
 DllCanUnloadNow
 DllGetActivationFactory

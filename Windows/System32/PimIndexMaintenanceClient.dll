@@ -1,8 +1,5 @@
-CreateEmailMessageSearchClient
 CreateIndexedFilterClient
-CreateMessagingSearchClient
 CreatePOOMSortedAggregateDataSource
-CreateRecipientInfoSearchClient
 GetDefaultContactsFilterSupplierSortOrder
 PimIM_RpcConnect
 PimIM_RpcDisconnect

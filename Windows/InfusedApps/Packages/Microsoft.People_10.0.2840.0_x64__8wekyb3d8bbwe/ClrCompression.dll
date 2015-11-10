@@ -1,0 +1,9 @@
+deflate
+deflateEnd
+deflateInit2_
+free
+inflate
+inflateEnd
+inflateInit2_
+malloc
+zlibCompileFlags

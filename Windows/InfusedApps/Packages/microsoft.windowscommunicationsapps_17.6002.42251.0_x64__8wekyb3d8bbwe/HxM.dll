@@ -1,8 +1,0 @@
-?CoreConstructorInitialize@Mail@Hx@@YAXXZ
-?CoreInitialize@Mail@Hx@@YAXXZ
-?CorePreInitialize@Mail@Hx@@YAXAEBU_GUID@@@Z
-?CoreUninitialize@Mail@Hx@@YAXXZ
-?GetLocalizedCommResourceDll@Mail@Hx@@YAPEAUHINSTANCE__@@XZ
-?GetLocalizedMailResourceDll@Mail@Hx@@YAPEAUHINSTANCE__@@XZ
-?TEST_GenerateRecipientsChangedText@Mail@Hx@XamlTest@UI@Office@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PEBU?$ICollection@UIPerson@Hx@@@2@@Z
-?UseAccessHubUI@Mail@Hx@@YAAEAUIMailAccessHubUI@12@XZ

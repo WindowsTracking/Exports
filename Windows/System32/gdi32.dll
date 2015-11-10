@@ -147,6 +147,7 @@ D3DKMTEnumAdapters2
 D3DKMTEscape
 D3DKMTEvict
 D3DKMTFlipOverlay
+D3DKMTFlushHeapTransitions
 D3DKMTFreeGpuVirtualAddress
 D3DKMTGetCachedHybridQueryValue
 D3DKMTGetContextInProcessSchedulingPriority
@@ -231,6 +232,7 @@ D3DKMTSetDisplayMode
 D3DKMTSetDisplayPrivateDriverFormat
 D3DKMTSetDodIndirectSwapchain
 D3DKMTSetGammaRamp
+D3DKMTSetHwProtectionTeardownRecovery
 D3DKMTSetProcessSchedulingPriorityClass
 D3DKMTSetQueuedLimit
 D3DKMTSetStablePowerState
@@ -539,7 +541,9 @@ GetBoundsRect
 GetBrushAttributes
 GetBrushOrgEx
 GetCertificate
+GetCertificateByHandle
 GetCertificateSize
+GetCertificateSizeByHandle
 GetCharABCWidthsA
 GetCharABCWidthsFloatA
 GetCharABCWidthsFloatW

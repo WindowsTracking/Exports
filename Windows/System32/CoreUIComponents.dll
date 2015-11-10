@@ -9,6 +9,7 @@ CoreUIServerTestCreate
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject
+MinUserGetInputHost
 MinUserGetInputRoutingInfo
 MinUserGetPointerDeviceMaxInputs
 MinUserGetPointerDeviceProperties

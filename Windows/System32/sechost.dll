@@ -99,6 +99,7 @@ I_ScPnPGetServiceName
 I_ScQueryServiceConfig
 I_ScRegisterDeviceNotification
 I_ScRegisterPreshutdownRestart
+I_ScReparseServiceDatabase
 I_ScRpcBindA
 I_ScRpcBindW
 I_ScSendPnPMessage
@@ -156,6 +157,7 @@ OpenTraceW
 ProcessTrace
 QueryAllTracesA
 QueryAllTracesW
+QueryLocalUserServiceName
 QueryServiceConfig2A
 QueryServiceConfig2W
 QueryServiceConfigA
@@ -165,6 +167,7 @@ QueryServiceObjectSecurity
 QueryServiceStatus
 QueryServiceStatusEx
 QueryTransientObjectSecurityDescriptor
+QueryUserServiceName
 RegisterServiceCtrlHandlerA
 RegisterServiceCtrlHandlerExA
 RegisterServiceCtrlHandlerExW

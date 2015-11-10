@@ -33,6 +33,9 @@
 #1035
 #1036
 #1037
+#1038
+#1039
+#1040
 #500
 #501
 #502
@@ -48,7 +51,6 @@
 #512
 #513
 #514
-#515
 #516
 #517
 #518
@@ -58,6 +60,7 @@
 #603
 CompileEffectDescription
 CreateEffectDescription
+DCompositionAttachMouseWheelToHwnd
 DCompositionCreateDevice
 DCompositionCreateDevice2
 DCompositionCreateDevice3

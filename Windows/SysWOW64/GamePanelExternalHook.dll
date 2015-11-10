@@ -1,0 +1,5 @@
+?GetInstance@CGamePanelExternalHook@@SGAAV1@XZ
+?GPHHookWindowPointerDown@CGamePanelExternalHook@@SGIXZ
+?Hook@CGamePanelExternalHook@@QAEXPAUHWND__@@@Z
+?SetIntercept@CGamePanelExternalHook@@QAEX_NPAUHWND__@@@Z
+?Unhook@CGamePanelExternalHook@@QAEXXZ

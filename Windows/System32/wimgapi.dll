@@ -30,6 +30,7 @@ WIMGetMountedImages
 WIMGetWIMBootEntries
 WIMGetWIMBootWIMPath
 WIMInitFileIOCallbacks
+WIMInitializeWofDriver
 WIMIsCurrentSystemWimboot
 WIMIsReferenceWim
 WIMLoadImage

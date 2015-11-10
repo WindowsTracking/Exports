@@ -16,6 +16,8 @@ MsvpNtlm3ValidateResponse
 MsvpPasswordValidate
 MsvpPutClearOwfsInPrimaryCredential
 MsvpUpdateSharedConfiguration
+MsvpValidateSupplementalCreds
+MsvpValidateSupplementalCredsBuffer
 NtlmSharedAllocate
 NtlmSharedAllocatePrivateHeap
 NtlmSharedCleanup

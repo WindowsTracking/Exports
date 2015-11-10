@@ -8,6 +8,7 @@ JpMapControlSettings_Create
 JpMapFactory_Create
 JpMapOverlayModel_Create
 JpOverviewMapControl_Create
+JpRestrictedApiAccessCheck
 JpStreetsideExperience_Create
 JpStreetsidePanoramaOperation_Create
 MapSettings_GetMosAppId
@@ -16,5 +17,3 @@ MapSettings_GetMosConnectivityStatus
 MapSettings_GetMosServiceToken
 MapSettings_ResetMosKeys
 MapSettings_SetMosConnectivityStatus
-NativeBypass_GetMosConfig
-NativeBypass_GetNgeoMapModel

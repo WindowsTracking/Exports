@@ -1,0 +1,6 @@
+DllCanUnloadNow
+DllGetClassObject
+HandleWebDavMeetingResponseForAppointment
+HandleWebDavMeetingResponseForMeetingNotification
+UpdateCalDavTrackingSchema
+UpdateWebDavCalendarCapabilities

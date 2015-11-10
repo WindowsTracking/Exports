@@ -1,5 +1,0 @@
-InitializeProtocolEngine
-InitializeServerProtocolEngine
-SendMessageToProtocolEngine
-UninitializeProtocolEngine
-UninitializeServerProtocolEngine

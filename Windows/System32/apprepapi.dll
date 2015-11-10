@@ -4,6 +4,7 @@ AppRepComputeSignatureInfo
 AppRepFreeAttributeLib
 AppRepInitializeAttributeLib
 AppRepParameterCleanup
+AppRepPartialTelemetryCleanup
 RepGetFileInformation
 RepGetFileReputation
 RepInformUserAction

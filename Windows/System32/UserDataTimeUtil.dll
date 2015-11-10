@@ -6,7 +6,6 @@ CmpST
 CmpYMD
 ConvertFileTimeToLocalVariantTime
 ConvertLocalVariantTimeToFileTime
-ConvertRenTzToSchedPlus
 ConvertSchedPlusToRenTz
 ConvertTimeZone
 ConvertVariantTimeToFileTime

@@ -1,6 +1,0 @@
-DllInstall
-DllMain
-DllUnregisterServer
-GetAsymmetricEncryptionInterface
-GetKeyStorageInterface
-GetRngInterface

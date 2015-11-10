@@ -2,6 +2,7 @@ DllCanUnloadNow
 DllGetClassObject
 QueryNetconStatus
 QueryNetconVirtualCharacteristic
+WFDAbortSessionInt
 WFDAcceptConnectRequestAndOpenSessionInt
 WFDAcceptGroupRequestAndOpenSessionInt
 WFDCancelConnectorPairWithOOB
@@ -38,6 +39,7 @@ WFDLowPrivCloseLegacySessionInt
 WFDLowPrivCloseSessionInt
 WFDLowPrivConfigureFirewallForSessionInt
 WFDLowPrivDeclineDeviceApiConnectionRequestInt
+WFDLowPrivGetPendingGroupRequestDetailsInt
 WFDLowPrivGetSessionEndpointPairsInt
 WFDLowPrivIsWfdSupportedInt
 WFDLowPrivOpenHandleInt
@@ -79,6 +81,7 @@ WFDStartListenerPairWithOOB
 WFDStartOffloadedDiscoveryInt
 WFDStartOpenSession
 WFDStartOpenSessionInt
+WFDStartUsingGroupExInt
 WFDStartUsingGroupInt
 WFDStopBackgroundDiscoveryInt
 WFDStopDiscoverDevicesInt
@@ -205,7 +208,9 @@ WlanStartAP
 WlanStopAP
 WlanStoreRadioStateOnEnteringAirPlaneMode
 WlanStringToSsid
+WlanStringToUtf8Ssid
 WlanTryUpgradeCurrentConnectionAuthCipher
+WlanUpdateBasicProfileSecurity
 WlanUpdateProfileWithAuthCipher
 WlanUtf8SsidToDisplayName
 WlanVMgrQueryCurrentScenariosInt

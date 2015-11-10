@@ -2,6 +2,7 @@ EdpDllCredentialCreate
 EdpDllCredentialDelete
 EdpDllCredentialExists
 EdpDllCredentialQuery
+EdpDllCredSvcControl
 EdpDllDplUpgradePinInfo
 EdpDllDplUpgradeVerifyUser
 EdpDllDplUserCredentialsSet
@@ -13,6 +14,10 @@ EdpDllGetLockSessionWrappedKey
 EdpDllQueryDplEnforcedPolicyOwnerIds
 EdpDllQueryRevokedPolicyOwnerIds
 EdpDllQueueFileForEncryption
+EdpDllRmsClearKeys
+EdpDllRmsContainerizeFile
+EdpDllRmsDecontainerizeFile
+EdpDllRmsGetContainerIdentity
 EdpDllServiceFileEncryptionQueue
 EfsDllAddUsersToFileSrv
 EfsDllAllocateHeap

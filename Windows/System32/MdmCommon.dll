@@ -1,0 +1,16 @@
+MdmConnectedAccountsChanged
+MdmGetLocation
+MdmGetServiceTarget
+MdmHandlePushNotification
+MdmIsRegisteredWithService
+MdmParseCommandData
+MdmParseEncryptedRequest
+MdmParseLockCommand
+MdmParseNonEncryptedRequest
+MdmRegisterDevice
+MdmRegisterUserDevice
+MdmSendRequestAndGetResponse
+MdmSyncLocation
+MdmUpdateStatus
+MdmWnsListenerDeInitialize
+MdmWnsListenerInitialize

@@ -1,6 +1,0 @@
-?DoesActionRequireElevation@@YG_NW4SecurityAction@@@Z
-?ExecuteSecurityActionHandler@@YG_NPAUHWND__@@W4SecurityAction@@PAVSecurityLogicState@@_N@Z
-?ExecuteSecurityActionHandlerById@@YG_NPAUHWND__@@PBGPAVSecurityLogicState@@@Z
-?GetSecondaryListViewHwnd@@YGPAUHWND__@@XZ
-DllCanUnloadNow
-DllGetClassObject

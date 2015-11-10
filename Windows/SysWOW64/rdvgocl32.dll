@@ -1,0 +1,3 @@
+clGetExtensionFunctionAddress
+clIcdGetPlatformIDsKHR
+DllMain

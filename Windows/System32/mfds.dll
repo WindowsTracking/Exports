@@ -4,8 +4,10 @@ DllRegisterServer
 DllUnregisterServer
 InitAACAudioStream_
 InitAC3AudioStream_
+InitBDAVLPCMAudioStream_
 InitDDPlusAudioStream_
 InitH264Stream_
+InitHEVCStream_
 InitLPCMAudioStream_
 InitLPCMMiracastAudioStream_
 InitMpeg1VideoStream_

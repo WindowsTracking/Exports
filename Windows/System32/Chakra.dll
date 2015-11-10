@@ -17,8 +17,8 @@ JsCreateArrayBuffer
 JsCreateContext
 JsCreateDataView
 JsCreateError
+JsCreateExternalArrayBuffer
 JsCreateExternalObject
-JsCreateExternalType
 JsCreateFunction
 JsCreateNamedFunction
 JsCreateObject
@@ -28,7 +28,6 @@ JsCreateRuntime
 JsCreateSymbol
 JsCreateSyntaxError
 JsCreateTypedArray
-JsCreateTypedExternalObject
 JsCreateTypeError
 JsCreateURIError
 JsDefineProperty
@@ -42,12 +41,12 @@ JsEnumerateHeap
 JsEquals
 JsGetAndClearException
 JsGetArrayBufferStorage
+JsGetContextData
+JsGetContextOfObject
 JsGetCurrentContext
 JsGetDataViewStorage
-JsGetDefaultTypeDescription
 JsGetExtensionAllowed
 JsGetExternalData
-JsGetExternalType
 JsGetFalseValue
 JsGetGlobalObject
 JsGetIndexedPropertiesExternalData
@@ -68,6 +67,7 @@ JsGetRuntimeMemoryUsage
 JsGetStringLength
 JsGetSymbolFromPropertyId
 JsGetTrueValue
+JsGetTypedArrayInfo
 JsGetTypedArrayStorage
 JsGetUndefinedValue
 JsGetValueType
@@ -78,6 +78,7 @@ JsHasIndexedProperty
 JsHasProperty
 JsIdle
 JsInspectableToObject
+JsInstanceOf
 JsIntToNumber
 JsIsEnumeratingHeap
 JsIsRuntimeExecutionDisabled
@@ -86,13 +87,16 @@ JsNumberToInt
 JsObjectToInspectable
 JsParseScript
 JsParseSerializedScript
+JsParseSerializedScriptWithCallback
 JsPointerToString
 JsPreventExtension
 JsProjectWinRTNamespace
 JsRelease
 JsRunScript
 JsRunSerializedScript
+JsRunSerializedScriptWithCallback
 JsSerializeScript
+JsSetContextData
 JsSetCurrentContext
 JsSetException
 JsSetExternalData

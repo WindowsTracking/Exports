@@ -122,6 +122,14 @@ WerReportCreate
 WerReportSetParameter
 WerReportSetUIOption
 WerReportSubmit
+WerStoreClose
+WerStoreGetFirstReportKey
+WerStoreGetNextReportKey
+WerStoreGetReportCount
+WerStoreGetSizeOnDisk
+WerStoreOpen
+WerStoreQueryReportMetadataV1
+WerStoreUploadReport
 WerSysprepCleanup
 WerSysprepGeneralize
 WerSysprepSpecialize

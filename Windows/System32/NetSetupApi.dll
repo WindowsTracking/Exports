@@ -6,12 +6,15 @@ NetSetupCreateObjectQuery
 NetSetupDeleteObject
 NetSetupFreeObjectProperties
 NetSetupFreeObjects
+NetSetupFreeSerializedFilter
 NetSetupGetObjectProperties
 NetSetupGetObjectPropertyKeys
 NetSetupGetObjects
 NetSetupInitialize
 NetSetupRollback
+NetSetupSerializeFilter
 NetSetupSetObjectProperties
+NetSetupSynchronizeDevices
 NetSetupValidateTransaction
 OnMachineUILanguageInit
 OnMachineUILanguageSwitch

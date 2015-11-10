@@ -11,10 +11,11 @@ DsrBeginWorkplaceJoin
 DsrBeginWorkplaceJoinRenew
 DsrBeginWorkplaceUnjoin
 DsrCanCurrentUserProvisionNgcKey
-DsrCanUserProvisionNgcKey
 DsrFreeDiscoveryMetadata
 DsrFreeJoinInfo
+DsrFreeJoinInfoEx
 DsrGetJoinInfo
+DsrGetJoinInfoEx
 DsrIsDeviceJoined
 DsrIsWorkplaceJoined
 DsrLocalUnjoin
@@ -29,5 +30,7 @@ IsDeviceAtUserJoined
 IsDeviceJoined
 NgcDeregisterKey
 NgcGetKeyId
+NgcNeedProvision
+NgcNeedProvisionForAccount
 NgcRegisterKey
 NgcRemoveRegistration

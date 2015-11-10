@@ -20,3 +20,4 @@ QueryAppInstanceVersion
 RegisterAppInstance
 RegisterAppInstanceVersion
 ResetAllAppInstanceVersions
+SetAppInstanceCsvFlags
