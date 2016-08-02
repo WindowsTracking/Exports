@@ -42,6 +42,7 @@ PimGetDateFormat
 PimGetLocaleInfo
 PimGetTimeFormat
 RenFromStdTimeZoneInfo
+RoundEventTime
 SecondsBetweenFT
 StdTimeZoneInfoFromRen
 TruncFt

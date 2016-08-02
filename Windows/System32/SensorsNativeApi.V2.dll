@@ -10,6 +10,7 @@ SensorGetBarDataV2
 SensorGetCapabilitiesCollectionV2
 SensorGetCapabilitiesV2
 SensorGetDataCollectionV2
+SensorGetDataDeliveryModeV2
 SensorGetDataFieldPropertiesV2
 SensorGetDataIntervalV2
 SensorGetDataThresholdsV2
@@ -32,6 +33,7 @@ SensorOpenV2
 SensorSetAccThresholdsV2
 SensorSetAlsThresholdsV2
 SensorSetBarThresholdsV2
+SensorSetDataDeliveryModeV2
 SensorSetFusThresholdsV2
 SensorSetGyrThresholdsV2
 SensorSetMagThresholdsV2

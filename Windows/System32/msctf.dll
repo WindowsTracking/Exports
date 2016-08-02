@@ -31,6 +31,8 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+HasDeferredInputForCoreDispatcher
+InputFocusMonitorCreate
 SetInputScope
 SetInputScopes
 SetInputScopes2

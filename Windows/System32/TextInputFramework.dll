@@ -3,6 +3,8 @@ DllGetActivationFactory
 DllGetClassObject
 TextInputClientCreate
 TextInputHostCreate
+TextInputHostCreate2
+TextInputHostCreateEx
 TextInputServerCreate
 tsfGetAsyncKeyState
 tsfGetKeyboardState

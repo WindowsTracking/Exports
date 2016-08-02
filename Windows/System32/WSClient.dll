@@ -1,8 +1,5 @@
 AcquireDeveloperLicense
 CheckDeveloperLicense
-DllCanUnloadNow
-DllGetClassObject
-g_bPrintFromClientDLL
 GetApplicationURL
 RefreshBannedAppsList
 RemoveDeveloperLicense

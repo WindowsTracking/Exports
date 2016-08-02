@@ -1,2 +1,2 @@
+ApHostServerStatus_EnsureServerReady
 CreateAPHostClient
-StartApHostAndWaitForOnStarted

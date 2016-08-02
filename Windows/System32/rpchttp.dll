@@ -9,6 +9,7 @@ HTTP2ProcessRuntimePostedEvent
 HTTP2TestHook
 HttpParseNetworkOptions
 HttpSendIdentifyResponse
+I_RpcExtInitializeExtensionPoint
 I_RpcGetRpcProxy
 I_RpcProxyNewConnection
 I_RpcReplyToClientWithStatus

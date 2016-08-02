@@ -1,5 +1,5 @@
 DllMain
-KerbCreateTokenFromTicket
+KerbCreateTokenFromTicketForKdc
 KerbDomainChangeCallback
 Kerberos
 KerbIsInitialized

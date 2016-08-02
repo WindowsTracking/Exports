@@ -1,0 +1,11 @@
+GetBestMediaParameters
+LoadMediaManager
+MMCreateMediaPlatform
+MMFree
+MMFreeDiagnosticBlob
+MMFreeMediaParameters
+MMFreeSessionData
+RegisterMediaProvider
+RetrieveMediaProvider
+UnloadMediaManager
+UnregisterMediaProvider

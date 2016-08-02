@@ -1,0 +1,7 @@
+#1
+DllCanUnloadNow
+DllGetClassObject
+IEGetWriteableFolderPath
+IEIsInPrivateBrowsing
+IEIsProtectedModeProcess
+IERefreshElevationPolicy

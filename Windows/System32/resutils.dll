@@ -1,4 +1,7 @@
 CloseClusterCryptProvider
+ClusAddClusterHealthFault
+ClusGetClusterHealthFaults
+ClusRemoveClusterHealthFault
 ClusterClearBackupStateForSharedVolume
 ClusterDecrypt
 ClusterEncrypt
@@ -37,6 +40,10 @@ CreateClusterStorageSpacesClustering
 CreateClusterStorageSpacesResourceLocator
 CreateClusterStorageSpacesSubProvider
 FreeClusterCrypt
+FreeClusterHealthFault
+FreeClusterHealthFaultArray
+InitializeClusterHealthFault
+InitializeClusterHealthFaultArray
 OpenClusterCryptProvider
 ResUtilAddUnknownProperties
 ResUtilCreateDirectoryTree

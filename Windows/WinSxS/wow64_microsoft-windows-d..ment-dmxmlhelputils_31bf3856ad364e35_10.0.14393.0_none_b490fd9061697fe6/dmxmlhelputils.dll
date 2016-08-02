@@ -1,0 +1,9 @@
+WBXMLToTextXMLGeneric
+WSPFreeBuffer
+XMLHCreateChildElement
+XMLHEscapeString
+XMLHGetBooleanAttributeVal
+XMLHGetBstrVarFromAttr
+XMLHGetBstrVarFromAttr2
+XMLHGetStringAttributeVal
+XMLHSkipXMLProlog

@@ -34,7 +34,6 @@ MFCreateSequencerSourceRemoteStream
 MFCreateSimpleTypeHandler
 MFCreateSoundEventSchemePlugin
 MFCreateStandardQualityManager
-MFCreateTelemetrySession
 MFCreateTopoLoader
 MFCreateTopology
 MFCreateTopologyNode

@@ -1,7 +1,0 @@
-?CreateInstance@CLogMgr@@SAJPEAPEAV1@PEAUIUnknown@@@Z
-?DeleteInstance@CLogMgr@@SAXPEAV1@@Z
-?DllGetDTCLOG@@YAHAEBU_GUID@@0PEAPEAX@Z
-DllGetClassObject
-DllGetDTCLOG2
-DllRegisterServer
-DllUnregisterServer

@@ -2,6 +2,7 @@ DevObjBuildClassInfoList
 DevObjChangeState
 DevObjClassGuidsFromName
 DevObjClassNameFromGuid
+DevObjCreateClassDeviceInfoList
 DevObjCreateDeviceInfo
 DevObjCreateDeviceInfoList
 DevObjCreateDeviceInterface

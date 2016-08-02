@@ -4,4 +4,3 @@ CreateCardParserExA
 CreateICalGen
 CreateVCardGen
 EncodeQP
-GenerateSingleContactFromAggregate

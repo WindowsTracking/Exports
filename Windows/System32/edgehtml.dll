@@ -24,11 +24,13 @@
 #135
 #136
 #137
+#138
 ClearPhishingFilterData
 ClearTemporaryWebDataAsync
 ConvertAndEscapePostData
 CreateCoreWebView
 CreateHTMLPropertyPage
+CreateWebDriverAdapter
 DllCanUnloadNow
 DllEnumClassObjects
 DllGetClassObject
@@ -42,5 +44,4 @@ ShowHTMLDialogEx
 ShowModalDialog
 ShowModelessHTMLDialog
 TravelLogCreateInstance
-TravelLogStgCreateInstance
 UninitializeLocalHtmlEngine

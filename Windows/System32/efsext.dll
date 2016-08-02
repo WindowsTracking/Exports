@@ -1,5 +1,6 @@
 EdpPlatform_QueryUserSessionState
 EdpPlatform_RegisterUserSessionNotification
+EdpPlatform_ShowDialog
 EdpPlatform_ShowUI
 EdpPlatform_UnregisterUserSessionNotification
 EfsPlatform_GetCallerID

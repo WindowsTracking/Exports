@@ -1,6 +1,7 @@
 ConvertDataPackageToShareFields
 ConvertShareFieldsToDataPackage
 DllCanUnloadNow
+DllGetActivationFactory
 DllGetClassObject
 GetDssTokenFromStorageFile
 GetStorageFilesFromDssTokens

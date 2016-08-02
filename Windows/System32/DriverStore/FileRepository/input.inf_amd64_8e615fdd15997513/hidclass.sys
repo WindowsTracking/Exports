@@ -1,4 +1,0 @@
-DllInitialize
-DllUnload
-HidNotifyPresence
-HidRegisterMinidriver

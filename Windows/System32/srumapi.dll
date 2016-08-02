@@ -8,5 +8,6 @@ SruFreeRecordSet
 SruQueryStats
 SruQueryStatsBySeqNumber
 SruRegisterRealTimeStats
+SruRetrieveEnergyRecord
 SruUnregisterRealTimeStats
 SruUpdateStats

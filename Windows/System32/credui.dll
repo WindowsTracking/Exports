@@ -18,10 +18,6 @@ CredUIStoreSSOCredA
 CredUIStoreSSOCredW
 CredUnPackAuthenticationBufferA
 CredUnPackAuthenticationBufferW
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
 SspiGetCredUIContext
 SspiIsPromptingNeeded
 SspiPromptForCredentialsA

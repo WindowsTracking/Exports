@@ -19,15 +19,13 @@ IsUnistoreInProc
 IsUnistoreLocal
 IsUSPropValPresent
 LowerRPCPriority
-MigrateUdmData
 RegisterRundownProtectionForProcess
 ReleaseUnistoreJetInstance
 RemoveStaleChangeTrackingDataOnStore
 ServiceMain
-SetDataProtectionHelper
+SetMaxRevisionBlobSize
 SetUnistoreProcessEventFilter
 SetUnistoreVersion
-SetUpgradeAppIdentityTestMap
 StartUnifiedStoreWorkForClient
 SvchostPushServiceGlobals
 USBlobToAppRevisionBlob

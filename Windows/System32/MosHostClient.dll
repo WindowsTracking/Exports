@@ -3,6 +3,7 @@ MapsStorageFree
 MapsStorageGetDataDirectory
 MapsStorageGetLocations
 MapsStorageOpen
+MapsStorageUseDefaultExternalStorage
 MapsStorageValidateLocationAsync
 MosCacheStateGetSizes
 MosCacheStateSetMaxSize
@@ -10,8 +11,10 @@ MosCacheStateSetSlotSize
 MosCacheStateSnapshot
 MosCacheStateUnuseSlot
 MosCacheStateUseSlot
+MosDeleteDataAsyncOperation
 MosGetBrowseCacheSizeInMBytes
 MosGetDataAsync
+MosGetDataAsyncOperation
 MosGetDataDirectory
 MosGetResourceDirectory
 MosHostClose

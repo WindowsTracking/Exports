@@ -6,8 +6,8 @@ _DismCleanupSession
 _DismEnableDisableFeature
 _DismExportDriver
 _DismGetCurrentEdition
+_DismGetEffectiveSystemUILanguage
 _DismGetFeaturesEx
-_DismGetInstallLanguage
 _DismGetKCacheBinaryValue
 _DismGetKCacheDwordValue
 _DismGetKCacheStringValue

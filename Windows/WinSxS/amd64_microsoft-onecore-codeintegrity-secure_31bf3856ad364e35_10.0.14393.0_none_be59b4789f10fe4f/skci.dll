@@ -1,0 +1,9 @@
+SkciCreateCodeCatalog
+SkciCreateSecureImage
+SkciFinalizeSecureImageHash
+SkciFinishImageValidation
+SkciFreeImageContext
+SkciInitialize
+SkciTransferVersionResource
+SkciValidateDynamicCodePages
+SkciValidateImageData

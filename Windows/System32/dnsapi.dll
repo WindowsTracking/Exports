@@ -74,6 +74,7 @@ DnsDhcpSrvRegisterHostAddrEx
 DnsDhcpSrvRegisterHostName
 DnsDhcpSrvRegisterHostNameEx
 DnsDhcpSrvRegisterInit
+DnsDhcpSrvRegisterInitEx
 DnsDhcpSrvRegisterInitialize
 DnsDhcpSrvRegisterTerm
 DnsDisableIdnEncoding
@@ -249,3 +250,4 @@ Socket_TcpListen
 Trace_Reset
 Update_ReplaceAddressRecordsW
 Util_IsIp6Running
+Util_IsRunningOnXboxOne

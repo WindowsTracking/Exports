@@ -6,6 +6,7 @@ InitAACAudioStream_
 InitAC3AudioStream_
 InitBDAVLPCMAudioStream_
 InitDDPlusAudioStream_
+InitDTSAudioStream_
 InitH264Stream_
 InitHEVCStream_
 InitLPCMAudioStream_
@@ -13,6 +14,7 @@ InitLPCMMiracastAudioStream_
 InitMpeg1VideoStream_
 InitMpeg2VideoStream_
 InitMpegAudioStream_
+InitTrueHDAudioStream_
 PackMuxRate
 PackSCR
 PESHeaderLength

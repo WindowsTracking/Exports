@@ -2,6 +2,7 @@ DllInstall
 DllUnregisterServer
 GetAsymmetricEncryptionInterface
 GetRngInterface
+GetSealInterface
 GetSecretAgreementInterface
 GetSignatureInterface
 PcpGenerateAikStatement

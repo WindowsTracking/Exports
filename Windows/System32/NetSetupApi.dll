@@ -11,6 +11,7 @@ NetSetupGetObjectProperties
 NetSetupGetObjectPropertyKeys
 NetSetupGetObjects
 NetSetupInitialize
+NetSetupOpenAdvancedPropertyKey
 NetSetupRollback
 NetSetupSerializeFilter
 NetSetupSetObjectProperties

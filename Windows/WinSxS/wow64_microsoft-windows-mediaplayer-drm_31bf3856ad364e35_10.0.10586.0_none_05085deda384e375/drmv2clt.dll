@@ -1,6 +1,0 @@
-CreateDRMRightsManager
-DllRegisterServer
-DllUnregisterServer
-LaunchURL
-MakeEscapedURL
-Sysprep

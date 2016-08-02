@@ -9,4 +9,6 @@ GetDependencyObjectAddress
 GetGlobalModuleParams
 GetStringLen
 GetStringRawBuffer
+InitializeXamlDiagnosticsEx
 OverrideXamlMetadataProvider
+OverrideXamlResourcePropertyBag

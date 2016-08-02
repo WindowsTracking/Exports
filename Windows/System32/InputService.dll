@@ -1,3 +1,4 @@
 InitializeService
 ServiceMain
 SvchostPushServiceGlobals
+UninitializeService

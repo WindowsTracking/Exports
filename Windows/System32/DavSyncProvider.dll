@@ -3,4 +3,3 @@ DllGetClassObject
 HandleWebDavMeetingResponseForAppointment
 HandleWebDavMeetingResponseForMeetingNotification
 UpdateCalDavTrackingSchema
-UpdateWebDavCalendarCapabilities

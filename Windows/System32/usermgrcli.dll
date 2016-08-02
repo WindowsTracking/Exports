@@ -2,6 +2,7 @@ IsInteractiveUserSession
 QueryActiveSession
 QueryUserToken
 RegisterUsertokenForNoWinlogon
+UMgrChangeSessionActiveShellUser
 UMgrChangeSessionUserToken
 UMgrClearDefaultSignInAccount
 UMgrConnectLocalUser
@@ -13,6 +14,7 @@ UMgrGetCachedCredentials
 UMgrGetConstrainedUserToken
 UMgrGetDefaultSignInAccount
 UMgrGetImpersonationTokenForContext
+UMgrGetSessionActiveShellUserToken
 UMgrInformFlags
 UMgrInformUserLogoff
 UMgrInformUserLogon

@@ -1,3 +1,4 @@
+AddMillisecondsToFileTime
 CollectionsListAllocateBufferAndSerialize
 CollectionsListCopyAndMarshall
 CollectionsListDeserializeFromBuffer
@@ -16,6 +17,7 @@ ConvertCollectionToLightSensorData
 ConvertCollectionToMagnetometerData
 ConvertCollectionToOrientationData
 ConvertCollectionToProximitySensorData
+ConvertFloat3DDataToCollection
 ConvertGyroscopeDataToCollection
 ConvertLightSensorDataToCollection
 ConvertMagnetometerDataToCollection
@@ -23,7 +25,10 @@ ConvertOrientationDataToCollection
 ConvertProximitySensorDataToCollection
 ConvertSimpleOrientationDataToCollection
 EvaluateActivityThresholds
+GetFileTimeDifference
+GetFileTimeFromTimeStamp
 GetPerformanceTime
+GetTimeStampFromFileTime
 InitPropVariantFromFloat
 IsCollectionListSame
 IsKeyPresentInCollectionList

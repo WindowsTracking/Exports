@@ -1,9 +1,0 @@
-CreateForegroundTaskManager
-CreateModernVoipPolicy
-DllCanUnloadNow
-DllGetActivationFactory
-DllGetClassObject
-PlmGetHostIdForDynamicProcess
-PlmGetHostIdForMixedHost
-PlmGetHostIdForPple
-TestHook_CancelShutdown

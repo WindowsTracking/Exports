@@ -78,11 +78,13 @@ FwpmNetEventDestroyEnumHandle0
 FwpmNetEventEnum0
 FwpmNetEventEnum1
 FwpmNetEventEnum2
+FwpmNetEventEnum3
 FwpmNetEventsGetSecurityInfo0
 FwpmNetEventsLost0
 FwpmNetEventsSetSecurityInfo0
 FwpmNetEventSubscribe0
 FwpmNetEventSubscribe1
+FwpmNetEventSubscribe2
 FwpmNetEventSubscriptionsGet0
 FwpmNetEventUnsubscribe0
 FwpmProcessNameResolutionEvent0

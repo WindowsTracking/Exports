@@ -99,6 +99,7 @@ D3DKMTUnlock
 D3DKMTUnlock2
 D3DKMTUnpinDirectFlipResources
 D3DKMTUnregisterTrimNotification
+D3DKMTUpdateAllocationProperty
 D3DKMTUpdateGpuVirtualAddress
 D3DKMTWaitForSynchronizationObject
 D3DKMTWaitForSynchronizationObject2

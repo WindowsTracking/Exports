@@ -7,8 +7,12 @@ ClipGenerateDeviceLicenseRequest
 ClipGetAssociatedResults
 ClipGetFileIdFromAssociateId
 ClipGetLicenseData
+ClipGetSubscriptionStatus
 ClipInstallLicense
 ClipOpen
 ClipQueryAssociateId
 ClipRefreshLicense
 ClipUninstallLicense
+GetOfflineDeviceUniqueID
+SLQueryLicenseValueFromApp
+SLQueryLicenseValueFromApp2

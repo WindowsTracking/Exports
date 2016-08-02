@@ -22,6 +22,8 @@ FwBinariesFree
 FwChkBuildSidAndAttributesFree
 FwCleanupPhase1Sa
 FwClosePolicyStore
+FwCompareCSRule
+FwCompareFWRule
 FwConvertIPv6SubNetToRange
 FwCopyAuthSetListToLowerVersion
 FwCopyAuthsetToHigherVersion

@@ -15,6 +15,7 @@ DriverStoreConfigureW
 DriverStoreCopyW
 DriverStoreDeleteW
 DriverStoreDriverPackageResolveCallbackW
+DriverStoreEnumDeviceDriversW
 DriverStoreEnumNodesW
 DriverStoreEnumObjectsW
 DriverStoreEnumW
@@ -44,5 +45,6 @@ DriverStoreUnmountNodeW
 DriverStoreUnpublishW
 DriverStoreUnreflectCriticalW
 DriverStoreUnreflectW
+DriverStoreUpdateDevicesW
 pServerDeleteDriverPackage
 pServerImportDriverPackage

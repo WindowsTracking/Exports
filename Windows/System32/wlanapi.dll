@@ -19,6 +19,7 @@ WFDConfigureFirewallForSessionInt
 WFDCreateDHPrivatePublicKeyPairInt
 WFDDeclineConnectRequestInt
 WFDDeclineGroupRequestInt
+WFDDiscoverDevicesExInt
 WFDDiscoverDevicesInt
 WFDFlushVisibleDeviceListInt
 WFDForceDisconnectInt
@@ -28,6 +29,7 @@ WFDGetDefaultGroupProfileInt
 WFDGetDeviceDescriptorForPendingRequestInt
 WFDGetNFCCarrierConfigBlobInt
 WFDGetOOBBlob
+WFDGetPrimaryAdapterStateInt
 WFDGetProfileKeyInfoInt
 WFDGetSessionEndpointPairsInt
 WFDGetVisibleDevicesInt
@@ -72,6 +74,7 @@ WFDParseWfaNfcCarrierConfigBlobInt
 WFDQueryPropertyInt
 WFDRegisterNotificationInt
 WFDRegisterVMgrCallerInt
+WFDSetActiveWfdMgrInt
 WFDSetAdditionalIEsInt
 WFDSetPropertyInt
 WFDSetSecondaryDeviceTypeListInt
@@ -100,6 +103,9 @@ WFDSvcLowPrivPublishServiceInt
 WFDSvcLowPrivUnpublishServiceInt
 WFDUnregisterVMgrCallerInt
 WFDUpdateDeviceVisibility
+WiFiDisplayResetSinkStateInt
+WiFiDisplaySetSinkClientHandleInt
+WiFiDisplaySetSinkStateInt
 WlanAllocateMemory
 WlanCancelPlap
 WlanCloseHandle
@@ -166,7 +172,10 @@ WlanNotifyVsIeProviderInt
 WlanOpenHandle
 WlanParseProfileXmlBasicSettings
 WlanPrivateClearAnqpCache
+WlanPrivateEnableAnqpOsuRegistration
 WlanPrivateGetAnqpCacheResponse
+WlanPrivateGetAnqpOSUProviderList
+WlanPrivateGetAnqpOsuRegistrationStatus
 WlanPrivateGetAvailableNetworkList
 WlanPrivateParseAnqpRawData
 WlanPrivateQueryInterface

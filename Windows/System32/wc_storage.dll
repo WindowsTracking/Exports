@@ -1,0 +1,15 @@
+WcAttachFilterEx
+WcCopyLayerEx
+WcDetachFilterEx
+WcExportLayerBegin
+WcExportLayerEnd
+WcExportLayerEx
+WcExportLayerNext
+WcExportLayerRead
+WcImportLayerBegin
+WcImportLayerEnd
+WcImportLayerEx
+WcImportLayerNext
+WcImportLayerWrite
+WcInitializeSandboxEx
+WcSandboxToLayerEx

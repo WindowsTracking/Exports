@@ -2,3 +2,5 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+ManualRegisterInterfaces
+ManualUnregisterInterfaces

@@ -1,3 +1,7 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
 RasTlsExt_FreeMemory
 RasTlsExt_GetConfigCacheOnlyCertValidation
 RasTlsExt_GetConfigForceNotDomainJoined
@@ -8,3 +12,4 @@ RasTlsExt_SelectCertificate
 RasTlsExt_ShowHelp
 RasTlsExt_UnpackUserBlob
 RasTlsExt_ValidateServer
+RasTlsExt_ValidateServerDialogProc

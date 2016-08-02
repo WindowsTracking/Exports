@@ -39,7 +39,10 @@ PowerDeterminePlatformRole
 PowerDeterminePlatformRoleEx
 PowerDuplicateScheme
 PowerEnumerate
+PowerGeneralizePlatformSettings
 PowerGetActiveScheme
+PowerGetAdaptiveStandbyDiagnostics
+PowerGetUserAwayMinPredictionConfidence
 PowerImportPowerScheme
 PowerInformationWithPrivileges
 PowerIsSettingRangeDefined
@@ -79,6 +82,7 @@ PowerRestoreDefaultPowerSchemes
 PowerRestoreIndividualDefaultPowerScheme
 PowerSetActiveScheme
 PowerSetAlsBrightnessOffset
+PowerSetBrightnessAndTransitionTimes
 PowerSettingAccessCheck
 PowerSettingAccessCheckEx
 PowerSettingRegisterNotification

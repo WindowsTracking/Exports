@@ -24,8 +24,6 @@
 ?SetOutput@CVdsAsyncObjectBase@@QEAAXU_VDS_ASYNC_OUTPUT@@@Z
 ?SetOutputType@CVdsAsyncObjectBase@@QEAAXW4_VDS_ASYNC_OUTPUT_TYPE@@@Z
 ?SetPositionToLast@CPrvEnumObject@@QEAAXXZ
-?StartReferenceHistory@@YAKXZ
-?StopReferenceHistory@@YAXXZ
 ?Upgrade@CRtlSharedLock@@AEAAXXZ
 ?ZeroAsyncOut@CVdsAsyncObjectBase@@QEAAXXZ
 DllCanUnloadNow

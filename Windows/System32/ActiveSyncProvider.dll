@@ -31,7 +31,6 @@ SyncMgrPurgeFolderProvider
 SyncMgrPurgeProviderStore
 SyncMgrRemovePolicy
 SyncSqmUpdateStats
-UpdateEasCalendarCapabilities
 UpdateEasTrackingSchema
 WriteStoreCapabilityProps
 WriteStoreContentTypesProps

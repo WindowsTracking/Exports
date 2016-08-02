@@ -3,6 +3,7 @@ CreateModernVoipPolicy
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject
+PlmGetHostIdForDesktopAppxProcess
 PlmGetHostIdForDynamicProcess
 PlmGetHostIdForMixedHost
 PlmGetHostIdForPple

@@ -30,3 +30,5 @@ KerbDHCreateBCryptKey
 KerbDHGetLegacyDHParameters
 KerbDHGetLittleEndianPublicKey
 KerbDHGetSharedSecretFromCapiKeyBuffer
+KerbKdcReplyContainsTgt
+KerbPackKdcReplyWithEncryptedSessionKey

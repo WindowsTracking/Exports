@@ -1,9 +1,0 @@
-BthCollectFingerprintInfo
-BthCollectRemoteDeviceFriendlyName
-BthProcessEventDataDword
-BthProcessEventOccurrence
-BthProcessEventOccurrenceBthaddr
-BthProcessEventOccurrenceResult
-BthProcessEventOccurrenceResultBthaddr
-BthProcessRpalEventOccurrence
-BthTraceLocalRadioInfo

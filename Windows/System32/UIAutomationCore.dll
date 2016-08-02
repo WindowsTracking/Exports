@@ -85,6 +85,7 @@ UiaProviderFromIAccessible
 UiaRaiseAsyncContentLoadedEvent
 UiaRaiseAutomationEvent
 UiaRaiseAutomationPropertyChangedEvent
+UiaRaiseChangesEvent
 UiaRaiseStructureChangedEvent
 UiaRaiseTextEditTextChangedEvent
 UiaRegisterProviderCallback

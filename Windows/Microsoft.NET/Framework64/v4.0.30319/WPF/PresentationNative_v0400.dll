@@ -140,6 +140,9 @@ GetWindowWrapper
 GlobalDeleteAtomWrapper
 IsStartXpsPrintJobSupported
 IsWindows10OrGreater
+IsWindows10RS1OrGreater
+IsWindows10TH1OrGreater
+IsWindows10TH2OrGreater
 IsWindows7OrGreater
 IsWindows7SP1OrGreater
 IsWindows8OrGreater

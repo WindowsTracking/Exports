@@ -1,0 +1,4 @@
+SetupDeviceManagementAutoLog
+StartDeviceManagementAutoLog
+StopDeviceManagementAutoLog
+TearDownDeviceManagementAutoLog

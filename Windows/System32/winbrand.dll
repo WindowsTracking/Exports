@@ -3,7 +3,9 @@ BrandingLoadBitmap
 BrandingLoadCursor
 BrandingLoadIcon
 BrandingLoadImage
+BrandingLoadNeutralStringForEdition
 BrandingLoadString
+BrandingLoadStringForEdition
 EulaFreeBuffer
 GetEULAFile
 GetEULAInCurrentUILanguage

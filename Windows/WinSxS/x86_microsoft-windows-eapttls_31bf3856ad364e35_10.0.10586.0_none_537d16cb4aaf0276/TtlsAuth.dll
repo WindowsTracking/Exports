@@ -1,7 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-EapPeerFreeErrorMemory
-EapPeerFreeMemory
-EapPeerGetInfo

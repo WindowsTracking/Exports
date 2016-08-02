@@ -1,5 +1,7 @@
 AreDvdCodecsEnabled
+GetNetworkRequestCount
 GetServerForPMP
 InstantiateComponentFromPackage
 RegisterServerForPMP
+RequireNetworkDuringMediaTaskCompletion
 UnregisterServerForPMP

@@ -8,6 +8,8 @@ MiracastIeEncode
 OpenMiracastSession
 VsIeProviderGetFunctionTable
 WFDDisplaySinkCloseSession
+WFDDisplaySinkDeInit
+WFDDisplaySinkInit
 WFDDisplaySinkQueryCapabilities
 WFDDisplaySinkSetPersistedGroupIDList
 WFDDisplaySinkSetProperty

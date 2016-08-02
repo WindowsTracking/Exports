@@ -230,6 +230,7 @@ CryptSignHashA
 CryptSignHashW
 CryptVerifySignatureA
 CryptVerifySignatureW
+CveEventWrite
 DecryptFileA
 DecryptFileW
 DeleteAce
@@ -280,7 +281,6 @@ EnumServicesStatusW
 EqualDomainSid
 EqualPrefixSid
 EqualSid
-EtwLogSysConfigExtension
 EventAccessControl
 EventAccessQuery
 EventAccessRemove

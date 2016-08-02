@@ -2,6 +2,7 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+DusmSetAttributionMapping
 WcmBeginIgnoreProfileList
 WcmCancelOnDemandRequest
 WcmCloseHandle
@@ -15,6 +16,7 @@ WcmExitNetQuiet
 WcmFreeMemory
 WcmGetInterfaceToken
 WcmGetProfileList
+WcmGetProfileListByPurpose
 WcmGetProfileListForInterfaceGuid
 WcmOpenHandle
 WcmOpenOnDemandRequestHandle

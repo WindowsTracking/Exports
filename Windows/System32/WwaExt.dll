@@ -8,7 +8,6 @@ GetExtensionWebModuleCount
 GetExtensionWebModuleFactory
 GetExtensionWebMultiThreadedModuleCount
 GetExtensionWebMultiThreadedModuleFactory
-IEShims_Initialize
 ProcessDisplayRotation
 SetPhoneWerParameters
 StaticExtensionInitialization

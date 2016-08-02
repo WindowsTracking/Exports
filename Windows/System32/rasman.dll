@@ -171,7 +171,6 @@ RasSetPortUserData
 RasSetRouterUsage
 RasSetTriggerAuthData
 RasSetTunnelEndPoints
-RasSetupSstpServerConfig
 RasSetVpnClientConnectionType
 RasSignalActionRequired
 RasSignalMonitorThreadExit

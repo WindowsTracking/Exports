@@ -1,7 +1,3 @@
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
 EapTls_SaveUserCredentials
 RasEapCreateConnectionProperties
 RasEapCreateConnectionProperties2

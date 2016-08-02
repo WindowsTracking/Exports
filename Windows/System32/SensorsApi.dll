@@ -3,6 +3,7 @@ DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
 SensorCloseCOM
+SensorEnableIdleOperationCOM
 SensorGetAccDataCOM
 SensorGetAlsDataCOM
 SensorGetBarDataCOM

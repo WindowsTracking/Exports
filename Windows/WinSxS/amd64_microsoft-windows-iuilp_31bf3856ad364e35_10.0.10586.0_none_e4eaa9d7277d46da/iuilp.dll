@@ -1,9 +1,0 @@
-CloseLayoutPolicyCheckerInstance
-GetAllDefaultApps
-GetCategoryForAppUserModelID
-GetDefaultAppsList
-GetDefaultLauncherLayout
-GetLayoutPolicy
-GetLayoutPolicyCheckerInstance
-GetUpgradeHighlightStatusForAppID
-GetUpgradeReplacementAppID

@@ -1,7 +1,3 @@
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject
-Frame_CreateInstance_External
-PromptForCredentials
-RootViewModel_CreateInstance_External
-XamlRuntimeSite_CreateInstance_External

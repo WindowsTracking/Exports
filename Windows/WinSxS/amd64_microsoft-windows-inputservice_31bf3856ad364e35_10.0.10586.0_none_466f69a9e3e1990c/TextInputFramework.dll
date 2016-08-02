@@ -1,9 +1,0 @@
-DllCanUnloadNow
-DllGetActivationFactory
-DllGetClassObject
-TextInputClientCreate
-TextInputHostCreate
-TextInputServerCreate
-tsfGetAsyncKeyState
-tsfGetKeyboardState
-tsfGetKeyState

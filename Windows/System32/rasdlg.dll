@@ -1,6 +1,5 @@
 DllCanUnloadNow
 DllGetClassObject
-DwTerminalDlg
 GetRasDialOutProtocols
 RasAutodialQueryDlgA
 RasAutodialQueryDlgW

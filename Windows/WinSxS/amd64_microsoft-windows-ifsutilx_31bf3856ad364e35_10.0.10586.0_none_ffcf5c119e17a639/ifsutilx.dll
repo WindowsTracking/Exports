@@ -1,6 +1,0 @@
-?CheckSnapshotPresence@@YAEPEAU_SNAPSHOT_DATA@@@Z
-?CreateVolumeSnapshot@@YAJPEAGPEAPEAU_SNAPSHOT_DATA@@@Z
-?GetSnapshotErrorMessage@@YAEJPEAVWSTRING@@@Z
-?InitializeCOM@@YAJPEAE@Z
-?ReleaseVolumeSnapshot@@YAEPEAU_SNAPSHOT_DATA@@@Z
-?UninitializeCOM@@YAXXZ

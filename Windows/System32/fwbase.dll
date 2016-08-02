@@ -89,7 +89,9 @@ FwIpV4SubNetDecode
 FwIsBuiltInPort
 FwIsMachineLocalHost
 FwIsValidPorts
+FwLicensingIsIoT
 FwLicensingIsNetIsolationOnly
+FwLicensingIsXbox
 FwLoadIndirectString
 FwLoadString
 FwLookupAccountSid
@@ -100,6 +102,7 @@ FwMetaDataCopy
 FwMetaDataFree
 FwMetaDataIsEnforcementStatePresent
 FwMultiByteToWideChar
+FwParseEdpCloudResourceStringToNrptRuleList
 FwPortsToString
 FwProfileTypesToString
 FwRegCloseKey
@@ -135,6 +138,7 @@ FwSortInterfaceLUIDs
 FwStaticFwPortEncode
 FwStaticFwPortEncodeValueName
 FwStringBuild
+FwStringCanonicalizeCopy
 FwStringCopy
 FwStringCopyA
 FwStringCopyAtoWAlloc

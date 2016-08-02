@@ -24,6 +24,7 @@ RtwqRegisterPlatformWithMMCSS
 RtwqRemovePeriodicCallback
 RtwqScheduleWorkItem
 RtwqSetDeadline
+RtwqSetDeadline2
 RtwqSetLongRunning
 RtwqShutdown
 RtwqStartup

@@ -1,7 +1,3 @@
-BatterySense_GetExecutionState
-BatterySense_GetExecutionStateByAUMID
-BatterySense_RequestBackgroundExecution
-BatterySense_RequestBackgroundExecutionForAUMID
 CmAcquireConnection
 CmApiDeinit
 CmApiInit

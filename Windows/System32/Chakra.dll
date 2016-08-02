@@ -39,6 +39,7 @@ JsDoubleToNumber
 JsEnableRuntimeExecution
 JsEnumerateHeap
 JsEquals
+JsExperimentalApiRunModule
 JsGetAndClearException
 JsGetArrayBufferStorage
 JsGetContextData
@@ -86,6 +87,7 @@ JsNumberToDouble
 JsNumberToInt
 JsObjectToInspectable
 JsParseScript
+JsParseScriptWithAttributes
 JsParseSerializedScript
 JsParseSerializedScriptWithCallback
 JsPointerToString

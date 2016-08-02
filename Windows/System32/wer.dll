@@ -97,6 +97,8 @@ WerpSetReportInformation
 WerpSetReportNamespaceParameter
 WerpSetReportTime
 WerpSetReportUploadContextToken
+WerpSetTelemetryAppParams
+WerpSetTelemetryKernelParams
 WerpSetTimedTask
 WerpShowUpsellUI
 WerpStitchedMinidumpVmPostReadCallback

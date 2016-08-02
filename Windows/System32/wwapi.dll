@@ -33,6 +33,7 @@ WwanGetProfileHomeProviderName
 WwanGetProfileIndex
 WwanGetProfileIstream
 WwanGetProfileList
+WwanGetProfileListByPurpose
 WwanGetProfileMetaData
 WwanGetProfileState
 WwanOpenHandle
@@ -54,4 +55,8 @@ WwanSetSmsConfiguration
 WwanSmsDelete
 WwanSmsRead
 WwanSmsSend
+WwanUiccCloseChannel
+WwanUiccOpenChannel
+WwanUiccSendApdu
+WwanUiccSetTerminalCapability
 WwanUssdRequest

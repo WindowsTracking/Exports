@@ -45,8 +45,10 @@ WIMRemountImage
 WIMSetBootImage
 WIMSetFileIOCallbackTemporaryPath
 WIMSetImageInformation
+WIMSetImageUserSpecifiedCreationTime
 WIMSetReferenceFile
 WIMSetTemporaryPath
+WIMSetWimGuid
 WIMSingleInstanceFile
 WIMSplitFile
 WIMUnmountImage

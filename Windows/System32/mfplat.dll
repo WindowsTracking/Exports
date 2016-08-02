@@ -56,6 +56,7 @@ MFCreateMediaType
 MFCreateMediaTypeFromProperties
 MFCreateMediaTypeFromRepresentation
 MFCreateMemoryBuffer
+MFCreateMemoryBufferFromRawBuffer
 MFCreateMemoryStream
 MFCreateMFByteStreamOnIStreamWithFlags
 MFCreateMFByteStreamOnStream
@@ -66,16 +67,19 @@ MFCreatePathFromURL
 MFCreatePresentationDescriptor
 MFCreatePropertiesFromMediaType
 MFCreateReusableByteStream
+MFCreateReusableByteStreamWithSharedLock
 MFCreateSample
 MFCreateSharedMemoryMediaBufferFromMediaType
 MFCreateSocket
 MFCreateSocketListener
 MFCreateSourceResolver
 MFCreateSourceResolverInternal
+MFCreateStagingSurfaceWrapper
 MFCreateStreamDescriptor
 MFCreateStreamOnMFByteStream
 MFCreateStreamOnMFByteStreamEx
 MFCreateSystemTimeSource
+MFCreateTelemetrySession
 MFCreateTempFile
 MFCreateTrackedSample
 MFCreateTransformActivate
@@ -105,6 +109,7 @@ MFFreeAdaptersAddresses
 MFGetAdaptersAddresses
 MFGetAttributesAsBlob
 MFGetAttributesAsBlobSize
+MFGetCallStackTracingWeakReference
 MFGetConfigurationDWORD
 MFGetConfigurationPolicy
 MFGetConfigurationStore
@@ -128,6 +133,7 @@ MFGetWorkQueueMMCSSClass
 MFGetWorkQueueMMCSSPriority
 MFGetWorkQueueMMCSSTaskId
 MFHasLocallyRegisteredByteStreamHandlers
+MFHasLocallyRegisteredSchemeHandlers
 MFHeapAlloc
 MFHeapFree
 MFInitAMMediaTypeFromMFMediaType
@@ -146,6 +152,7 @@ MFIsBottomUpFormat
 MFIsContentProtectionDeviceSupported
 MFIsFeatureEnabled
 MFIsLocallyRegisteredMimeType
+MFIsLocallyRegisteredSchemeHandler
 MFJoinWorkQueue
 MFllMulDiv
 MFLockDXGIDeviceManager
@@ -171,11 +178,14 @@ MFSerializeAttributesToStream
 MFSerializeEvent
 MFSerializeMediaTypeToStream
 MFSerializePresentationDescriptor
+MFSetMinimumMemoryAlignment
 MFSetSockaddrAny
+MFSetWindowForContentProtection
 MFShutdown
 MFStartup
 MFStreamDescriptorProtectMediaType
 MFTEnum
+MFTEnum2
 MFTEnumEx
 MFTGetInfo
 MFTraceError

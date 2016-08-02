@@ -120,6 +120,7 @@
 #341
 #342
 #343
+#344
 #345
 #346
 #347
@@ -322,6 +323,7 @@
 #579
 #58
 #580
+#581
 #582
 #583
 #584
@@ -412,12 +414,6 @@
 #73
 #74
 #75
-#750
-#751
-#752
-#753
-#754
-#755
 #76
 #763
 #764
@@ -501,7 +497,6 @@ IEDllLoader
 IEGetFrameUtilExports
 IEGetProcessModule
 IEGetTabWindowExports
-IERT_DelayLoadFailureHook
 ImpersonateUser
 IntlPercentEncodeNormalize
 IsDWORDProperty
@@ -518,4 +513,5 @@ ResetIEExtensibility
 ResetIERegistrySettings
 RetiredOrdinal
 RevertImpersonate
+SetEdgeAppProfileForVSDebug
 UriFromHostAndScheme

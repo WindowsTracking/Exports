@@ -1,5 +1,3 @@
-DllCanUnloadNow
-DllGetClassObject
 EapPeerConfigBlob2Xml
 EapPeerConfigXml2Blob
 EapPeerCredentialsXml2Blob

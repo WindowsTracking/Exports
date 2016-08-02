@@ -55,6 +55,7 @@
 #198
 #20
 #200
+#2000
 #201
 #202
 #203
@@ -342,6 +343,8 @@
 #94
 #940
 #943
+#944
+#945
 #95
 #96
 #97
@@ -552,6 +555,7 @@ SHELL32_CDBurn_OnMediaChange
 SHELL32_CDefFolderMenu_Create2
 SHELL32_CDefFolderMenu_Create2Ex
 SHELL32_CDefFolderMenu_MergeMenu
+SHELL32_CDrives_CreateSFVCB
 SHELL32_CDrivesContextMenu_Create
 SHELL32_CDrivesDropTarget_Create
 SHELL32_CFillPropertiesTask_CreateInstance
@@ -559,6 +563,7 @@ SHELL32_CFSDropTarget_CreateInstance
 SHELL32_CFSFolderCallback_Create
 SHELL32_CLibraryDropTarget_CreateInstance
 SHELL32_CLocationContextMenu_Create
+SHELL32_CLocationFolderUI_CreateInstance
 SHELL32_CloseAutoplayPrompt
 SHELL32_CMountPoint_DoAutorun
 SHELL32_CMountPoint_DoAutorunPrompt
@@ -655,9 +660,10 @@ SHELL32_SHLaunchPropSheet
 SHELL32_SHLogILFromFSIL
 SHELL32_SHOpenWithDialog
 SHELL32_ShowHideIconOnlyOnDesktop
+SHELL32_SHStartNetConnectionDialogW
 SHELL32_SHUICommandFromGUID
 SHELL32_SimpleRatingToFilterCondition
-SHELL32_StampIconForElevation
+SHELL32_StampIconForFile
 SHELL32_SuspendUndo
 SHELL32_TryVirtualDiscImageDriveEject
 SHELL32_UpdateFilePlaceholderStates

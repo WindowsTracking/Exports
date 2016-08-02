@@ -2,3 +2,6 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+GetSegmentedStr
+InitGetSegmentedStr
+UnInitGetSegmentedStr

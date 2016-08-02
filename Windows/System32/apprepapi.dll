@@ -6,6 +6,5 @@ AppRepInitializeAttributeLib
 AppRepParameterCleanup
 AppRepPartialTelemetryCleanup
 RepGetFileInformation
-RepGetFileReputation
 RepInformUserAction
 ReputationInfoCleanup

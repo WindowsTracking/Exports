@@ -21,10 +21,6 @@ IpcSPEncryptUpdate
 IpcSPGetBoundRightKey
 IpcSPGetCurrentTime
 IpcSPGetInfo
-IpcSPGetLicenseAttribute
-IpcSPGetLicenseAttributeCount
-IpcSPGetLicenseObject
-IpcSPGetLicenseObjectCount
 IpcSPGetProcAddress
 IpcSPInitialize
 IpcSPIsActivated

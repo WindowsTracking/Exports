@@ -6,6 +6,7 @@ MsvpCompareCredentials
 MsvpComputeSaltedHashedPassword
 MsvpCredentialToCachePasswords
 MsvpDecryptDpapiMasterKey
+MsvpDeriveSecureCredKey
 MsvpGMSACred
 MsvpLm20GetNtlm3ChallengeResponse
 MsvpLm3Response

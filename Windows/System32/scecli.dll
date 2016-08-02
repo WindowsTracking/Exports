@@ -69,4 +69,6 @@ SceSvcUpdateInfo
 SceSysPrep
 SceUpdateObjectInfo
 SceUpdateSecurityProfile
+SceWrapperExportSecurityProfile
+SceWrapperImportSecurityProfile
 SceWriteSecurityProfileInfo

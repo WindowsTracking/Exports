@@ -1,5 +1,0 @@
-DllCanUnloadNow
-DllGetActivationFactory
-DllGetClassObject
-DsrGetToken
-DsrSafeFree

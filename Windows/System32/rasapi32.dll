@@ -15,10 +15,10 @@ DDMRasPbkEntryCleanup
 DDMUpdateProtocolConfigInfoFromEntry
 DwCloneEntry
 DwEnumEntryDetails
+DwEnumEntryDetailsEx
 DwRasUninitialize
 GetAutoTriggerProfileInfo
 IsActiveAutoTriggerConnection
-LaunchVpnUiW
 RasAutodialAddressToNetwork
 RasAutodialEntryToNetwork
 RasAutoDialSharedConnection
@@ -101,11 +101,6 @@ RasQuerySharedConnection
 RasRegisterEntryChangeNotification
 RasRenameEntryA
 RasRenameEntryW
-RasScriptGetIpAddress
-RasScriptInit
-RasScriptReceive
-RasScriptSend
-RasScriptTerm
 RasSetAutodialAddressA
 RasSetAutodialAddressW
 RasSetAutodialEnableA

@@ -27,6 +27,10 @@ DetectMultiPrefix
 DuplicateSidIfValid
 FindAreaCode
 FormatPhoneNumberWithLeftToRightMarker
+Get3GGPInCallToneDefaultForRegion
+Get3GPPInCallToneDefault
+Get3GPPInCallToneForTypeAndMcc
+Get3GPPInCallToneTypeString
 GetAdjustCDMACallTimeSetting
 GetCchTailMin
 GetCellvoiceLineIdAsString_LocalAlloc
@@ -46,6 +50,7 @@ GetNationalNumberLength
 GetNddPrefix
 GetRegistryStringData
 GetRpcClientUser
+GetSignedInUserForAppActivation
 GetTelUriFromDialString
 GetTextReplyPresetMessages
 GetTimeDeltaFormat
@@ -64,6 +69,7 @@ MaskString
 OneShotTimer_CreateInstance
 OptimizedReverseNumberCompare
 Phone_FmtText
+Phone_FmtText_GlobalFormat
 Phone_FmtText_NonDialerFormat
 PhoneLineIdToString
 PhoneLineIdToUrlEscapedString

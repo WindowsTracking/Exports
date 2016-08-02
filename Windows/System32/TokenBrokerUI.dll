@@ -1,4 +1,6 @@
+TokenBrokerActivateApp
 TokenBrokerActivateAppEx
 TokenBrokerDismissUI
 TokenBrokerGetEdgeSids
 TokenBrokerGetPushCookieMonikers
+TokenBrokerWaitForActivation

@@ -20,6 +20,7 @@ MirrorVirtualDisk
 ModifyVhdSet
 OpenVirtualDisk
 QueryChangesVirtualDisk
+RawSCSIVirtualDisk
 ResizeVirtualDisk
 SetVirtualDiskInformation
 SetVirtualDiskMetadata

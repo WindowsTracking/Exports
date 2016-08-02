@@ -7,4 +7,5 @@ DllGetActivationFactory
 DllGetClassObject
 DllInstall
 DllRegisterServer
+FindCallingThreadImmersiveWindow
 PurgeAuthHostSsoCache

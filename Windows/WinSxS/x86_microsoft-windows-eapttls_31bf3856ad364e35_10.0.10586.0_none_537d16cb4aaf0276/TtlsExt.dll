@@ -1,7 +1,0 @@
-TtlsExt_FreeMemoryExt
-TtlsExt_GetConfigCacheOnlyCertValidation
-TtlsExt_GetConfigForceNotDomainJoined
-TtlsExt_GetContextData
-TtlsExt_GetUserCredentials
-TtlsExt_InvokeServerAuthentication
-TtlsExt_ShowHelp

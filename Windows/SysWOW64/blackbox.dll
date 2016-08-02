@@ -1,8 +1,0 @@
-DllMain
-DllRegisterServer
-DllUnregisterServer
-IBlackBox_CreateInstance
-IBlackBox_CreateInstance2
-IBlackBox_CreateInstanceEx
-IBlackBox_CreateInstanceEx2
-IBlackBox_DestroyInstance

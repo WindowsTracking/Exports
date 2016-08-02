@@ -4,3 +4,9 @@ DllGetClassObject
 DllMain
 DllRegisterServer
 DllUnregisterServer
+RadioDeviceCreate
+RadioDeviceDelete
+RadioDeviceStart
+RadioDeviceStop
+StartRadioMonitor
+StopRadioMonitor
