@@ -20,6 +20,7 @@ GetUserInfoForUnconfiguredAccount
 HandleEasMeetingResponseForAppointment
 HandleEasMeetingResponseForMeetingNotification
 InitializeSyncStatus
+IsEnabledForSync
 IsErrorCatastrophic
 IsValidOutlookExtensionVersion
 MarkPeopleFolderForResync

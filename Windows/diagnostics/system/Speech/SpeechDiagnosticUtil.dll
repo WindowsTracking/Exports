@@ -1,0 +1,8 @@
+GetMicDiagnosticResult
+GetMicrophoneLevel
+GetPrefMicDeviceId
+GetTroublePageShowStatus
+IsCalibrationDone
+MarkTroublePageDisplayed
+StartMicDiagnistic
+UpdateRegistryValues

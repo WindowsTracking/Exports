@@ -55,7 +55,9 @@ GetStandardColorSpaceProfileA
 GetStandardColorSpaceProfileW
 InstallColorProfileA
 InstallColorProfileW
+InternalGetAppliedGammaRamp
 InternalGetDeviceConfig
+InternalGetDeviceGammaCapability
 InternalGetPS2ColorRenderingDictionary
 InternalGetPS2ColorRenderingDictionary2
 InternalGetPS2ColorSpaceArray
@@ -65,6 +67,8 @@ InternalGetPS2PreviewCRD
 InternalGetPS2PreviewCRD2
 InternalRefreshCalibration
 InternalSetDeviceConfig
+InternalSetDeviceGammaRamp
+InternalSetDeviceTemperature
 InternalWcsAssociateColorProfileWithDevice
 IsColorProfileTagPresent
 IsColorProfileValid

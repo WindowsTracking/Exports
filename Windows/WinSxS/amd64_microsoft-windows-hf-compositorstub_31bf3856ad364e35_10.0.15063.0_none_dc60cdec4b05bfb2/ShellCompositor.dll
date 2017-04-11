@@ -1,0 +1,11 @@
+#101
+#102
+CreateCompositor
+DwmInitializeEngine
+DwmInitializePort
+DwmRenderDesktopForDDA
+DwmShutdownEngine
+DwmVersionCheck
+GetMPCInputPostProcessor
+RunCompositor
+StopCompositor

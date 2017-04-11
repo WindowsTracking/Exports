@@ -39,7 +39,6 @@ JsDoubleToNumber
 JsEnableRuntimeExecution
 JsEnumerateHeap
 JsEquals
-JsExperimentalApiRunModule
 JsGetAndClearException
 JsGetArrayBufferStorage
 JsGetContextData
@@ -78,6 +77,7 @@ JsHasIndexedPropertiesExternalData
 JsHasIndexedProperty
 JsHasProperty
 JsIdle
+JsInitializeJITServer
 JsInspectableToObject
 JsInstanceOf
 JsIntToNumber

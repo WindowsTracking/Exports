@@ -1,5 +1,3 @@
-Analog_SetCompositorInterface
-Analog_UpdateFrameStatistics
 MilCompositionEngine_GetComposedEventId
 MilCompositionEngine_Initialize
 MilCompositionEngine_Uninitialize

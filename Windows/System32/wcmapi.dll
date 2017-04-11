@@ -2,7 +2,6 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
-DusmSetAttributionMapping
 WcmBeginIgnoreProfileList
 WcmCancelOnDemandRequest
 WcmCloseHandle

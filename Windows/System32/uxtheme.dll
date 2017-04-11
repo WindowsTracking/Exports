@@ -27,7 +27,6 @@
 #126
 #127
 #128
-#129
 #13
 #130
 #14
@@ -179,6 +178,7 @@ IsThemeDialogTextureEnabled
 IsThemePartDefined
 OpenThemeData
 OpenThemeDataEx
+OpenThemeDataForDpi
 SetThemeAppProperties
 SetWindowTheme
 SetWindowThemeAttribute

@@ -23,7 +23,9 @@ TdhpGetMatchedTraceEventInfoManifest
 TdhpGetProviderFieldInfoFromManifest
 TdhpGetStringSize
 TdhpGetTraceEventInfoFromMofInfo
+TdhpHeapAlloc
 TdhpLoadManifestFromBinary
 TdhpPopulateCacheWithFilterInfo
+TdhpSetWbemExtensionBlock
 TdhQueryProviderFieldInformation
 TdhUnloadManifest

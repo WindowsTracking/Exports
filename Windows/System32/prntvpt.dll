@@ -12,6 +12,10 @@ GetDeviceDefaultPrintTicketThunk
 GetDeviceNamespacesThunk
 GetPrintCapabilitiesThunk
 GetPrintCapabilitiesThunk2
+GetPrintDeviceCapabilitiesThunk
+GetPrintDeviceCapabilitiesThunk2
+GetPrintDeviceResourcesThunk
+GetPrintDeviceResourcesThunk2
 GetSchemaVersionThunk
 MergeAndValidatePrintTicketThunk
 MergeAndValidatePrintTicketThunk2
@@ -19,6 +23,8 @@ PTCloseProvider
 PTConvertDevModeToPrintTicket
 PTConvertPrintTicketToDevMode
 PTGetPrintCapabilities
+PTGetPrintDeviceCapabilities
+PTGetPrintDeviceResources
 PTMergeAndValidatePrintTicket
 PTOpenProvider
 PTOpenProviderEx

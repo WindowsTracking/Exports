@@ -13,4 +13,5 @@ SetConversationSyncDateFilter
 SetConversationSyncEnabled
 SetUnifiedInboxEnabled
 UpdateGoogleAccountConversationFlags
+UpdateGoogleAccountServerSendsMeetingProp
 UpdateWebDavAccountProperties

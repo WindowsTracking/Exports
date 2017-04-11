@@ -5,6 +5,7 @@ WinReClearBootApp
 WinReClearError
 WinReClearOemImagePath
 WinReConfigureTask
+WinReCopyDiagnosticFiles
 WinReCopyLogFilesToRamdisk
 WinReCreateLogInstance
 WinReCreateLogInstanceEx
@@ -25,6 +26,7 @@ WinReIsWinPE
 WinReOobeInstall
 WinReOpenLogInstance
 WinRePostBCDRepair
+WinReQueueRecoveryBoot
 WinReReinstall
 WinReRepair
 WinReRestoreConfigAfterPBR
@@ -34,8 +36,6 @@ WinReSetConfig
 WinReSetCustomization
 WinReSetError
 WinReSetRecoveryAction
-WinReSetRecoveryActionEx
-WinReSetRecoveryActionNoBcd
 WinReSetTriggerFile
 WinReSetupBackupWinRE
 WinReSetupCheckWinRE

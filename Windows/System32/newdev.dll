@@ -4,7 +4,10 @@ DiInstallDriverA
 DiInstallDriverW
 DiRollbackDriver
 DiShowUpdateDevice
+DiShowUpdateDriver
 DiUninstallDevice
+DiUninstallDriverA
+DiUninstallDriverW
 GetInternetPolicies
 InstallNewDevice
 InstallSelectedDriver

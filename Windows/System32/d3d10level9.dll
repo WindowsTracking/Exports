@@ -30,6 +30,7 @@ D3DKMTEscape
 D3DKMTEvict
 D3DKMTFlushHeapTransitions
 D3DKMTFreeGpuVirtualAddress
+D3DKMTGetAllocationPriority
 D3DKMTGetContextInProcessSchedulingPriority
 D3DKMTGetContextSchedulingPriority
 D3DKMTGetDeviceSchedulingPriority

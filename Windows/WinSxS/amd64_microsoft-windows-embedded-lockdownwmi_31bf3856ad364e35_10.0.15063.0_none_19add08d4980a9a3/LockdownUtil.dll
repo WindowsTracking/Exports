@@ -1,0 +1,9 @@
+ConnectWMIEmbeddedNamespace
+DeleteFirstLockdownObjectFromWMI
+GetFirstLockdownObjectFromWMI
+GetKioskModeAppInfo
+GetLockdownInfoFromWMI
+IsKioskModeAppConfigured
+RemoveKioskModeApp
+SaveLockdownInfoToWMI
+SetKioskModeApp

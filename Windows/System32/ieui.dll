@@ -56,6 +56,7 @@ FindGadgetTargetingInfo
 FindStdColor
 FireGadgetMessages
 ForwardGadgetMessage
+FreeGdiDxInteropStagingBuffer
 GadgetTransCompositionChanged
 GadgetTransSettingChanged
 GetActionTimeslice

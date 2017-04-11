@@ -20,6 +20,7 @@ MinUserGetPointerDeviceMaxInputs
 MinUserGetPointerDeviceProperties
 MinUserInputInitialize
 MinUserRegisterPointerInputTarget
+MinUserRequestViewHitTest
 MinUserUnregisterPointerInputTarget
 ServiceMain
 SvchostPushServiceGlobals

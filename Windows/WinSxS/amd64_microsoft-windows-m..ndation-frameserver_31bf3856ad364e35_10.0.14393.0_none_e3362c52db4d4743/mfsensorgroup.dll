@@ -1,8 +1,0 @@
-MFConvertBlobToRSMTCollection
-MFCreateSensorGroup
-MFCreateSensorGroupById
-MFCreateSensorGroupCollection
-MFCreateSensorGroupIdManager
-MFDeleteSensorGroupById
-MFInitializeSensorGroupStore
-MFIsSensorGroupName

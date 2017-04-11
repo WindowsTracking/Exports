@@ -183,6 +183,7 @@ InternetConfirmZoneCrossingA
 InternetConfirmZoneCrossingW
 InternetConnectA
 InternetConnectW
+InternetConvertUrlFromWireToWideChar
 InternetCrackUrlA
 InternetCrackUrlW
 InternetCreateUrlA

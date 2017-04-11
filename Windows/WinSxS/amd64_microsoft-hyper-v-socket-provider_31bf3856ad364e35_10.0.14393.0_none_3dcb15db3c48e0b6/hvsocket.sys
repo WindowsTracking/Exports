@@ -1,5 +1,0 @@
-DllInitialize
-DllUnload
-HvSocketFillInterface
-HvSocketProviderStart
-HvSocketProviderStop

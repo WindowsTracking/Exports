@@ -2,6 +2,7 @@ BigStrcat
 BinaryToHexString
 ComputeHmac
 CopyString
+CreateBstrArray
 DecodeBase64W
 DmCancelGetUserPermissionAsync
 DmCopyDirectoryRecursive

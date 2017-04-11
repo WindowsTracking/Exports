@@ -1,4 +1,3 @@
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject
-GetProxyDllInfo

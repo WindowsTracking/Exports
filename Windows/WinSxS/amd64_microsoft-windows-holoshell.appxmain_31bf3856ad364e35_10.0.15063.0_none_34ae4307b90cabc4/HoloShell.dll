@@ -1,0 +1,5 @@
+ShellInitialize
+ShellNotifyResume
+ShellNotifySuspend
+ShellRun
+ShellShutdown

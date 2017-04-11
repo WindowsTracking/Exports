@@ -19,6 +19,7 @@ WFDConfigureFirewallForSessionInt
 WFDCreateDHPrivatePublicKeyPairInt
 WFDDeclineConnectRequestInt
 WFDDeclineGroupRequestInt
+WFDDiscoverDeviceServiceInformationInt
 WFDDiscoverDevicesExInt
 WFDDiscoverDevicesInt
 WFDFlushVisibleDeviceListInt
@@ -32,6 +33,7 @@ WFDGetOOBBlob
 WFDGetPrimaryAdapterStateInt
 WFDGetProfileKeyInfoInt
 WFDGetSessionEndpointPairsInt
+WFDGetVisibleDevicesExInt
 WFDGetVisibleDevicesInt
 WFDIsInterfaceWiFiDirect
 WFDIsWiFiDirectRunningOnWiFiAdapter
@@ -74,10 +76,11 @@ WFDParseWfaNfcCarrierConfigBlobInt
 WFDQueryPropertyInt
 WFDRegisterNotificationInt
 WFDRegisterVMgrCallerInt
-WFDSetActiveWfdMgrInt
+WFDResetSelectedWfdMgrInt
 WFDSetAdditionalIEsInt
 WFDSetPropertyInt
 WFDSetSecondaryDeviceTypeListInt
+WFDSetSelectedWfdMgrInt
 WFDStartBackgroundDiscoveryInt
 WFDStartConnectorPairWithOOB
 WFDStartListenerPairWithOOB
@@ -87,6 +90,7 @@ WFDStartOpenSessionInt
 WFDStartUsingGroupExInt
 WFDStartUsingGroupInt
 WFDStopBackgroundDiscoveryInt
+WFDStopDiscoverDevicesExInt
 WFDStopDiscoverDevicesInt
 WFDStopOffloadedDiscoveryInt
 WFDStopUsingGroupInt
@@ -114,6 +118,7 @@ WlanConnectEx
 WlanConnectWithInput
 WlanDeinitPlapParams
 WlanDeleteProfile
+WlanDeviceServiceCommand
 WlanDisconnect
 WlanDoesBssMatchSecurity
 WlanDoPlap
@@ -135,10 +140,12 @@ WlanGetProfileIndex
 WlanGetProfileKeyInfo
 WlanGetProfileList
 WlanGetProfileMetadata
+WlanGetProfileMetadataWithProfileGuid
 WlanGetProfileSsidList
 WlanGetRadioInformation
 WlanGetSecuritySettings
 WlanGetStoredRadioState
+WlanGetSupportedDeviceServices
 WlanHostedNetworkForceStart
 WlanHostedNetworkForceStop
 WlanHostedNetworkFreeWCNSettings
@@ -156,6 +163,7 @@ WlanHostedNetworkStartUsing
 WlanHostedNetworkStopUsing
 WlanIhvControl
 WlanInitPlapParams
+WlanInternalNonDisruptiveScan
 WlanInternalScan
 WlanIsActiveConsoleUser
 WlanIsNetworkSuppressed
@@ -178,6 +186,7 @@ WlanPrivateGetAnqpOSUProviderList
 WlanPrivateGetAnqpOsuRegistrationStatus
 WlanPrivateGetAvailableNetworkList
 WlanPrivateParseAnqpRawData
+WlanPrivateQuery11adPairedConfig
 WlanPrivateQueryInterface
 WlanPrivateRefreshAnqpCache
 WlanPrivateSetInterface
@@ -212,6 +221,7 @@ WlanSetPsdIEDataList
 WlanSetSecuritySettings
 WlanSetUIForwardingNetworkList
 WlanSignalValueToBar
+WlanSignalValueToBarEx
 WlanSsidToDisplayName
 WlanStartAP
 WlanStopAP

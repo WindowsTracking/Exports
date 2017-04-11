@@ -71,6 +71,7 @@ SealMessage
 SecCacheSspiPackages
 SecDeleteUserModeContext
 SeciAllocateAndSetCallFlags
+SeciAllocateAndSetCallTarget
 SeciAllocateAndSetIPAddress
 SeciFreeCallContext
 SeciIsProtectedUser

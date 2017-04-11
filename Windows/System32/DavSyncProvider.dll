@@ -3,3 +3,4 @@ DllGetClassObject
 HandleWebDavMeetingResponseForAppointment
 HandleWebDavMeetingResponseForMeetingNotification
 UpdateCalDavTrackingSchema
+UpdateGMailContactSyncPartner

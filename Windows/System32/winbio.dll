@@ -14,11 +14,14 @@ WinBioCloseSession
 WinBioControlUnit
 WinBioControlUnitPrivileged
 WinBioDeleteTemplate
+WinBioDiscardTicket
+WinBioEnrollAuthorize
 WinBioEnrollBegin
 WinBioEnrollCapture
 WinBioEnrollCaptureWithCallback
 WinBioEnrollCommit
 WinBioEnrollDiscard
+WinBioEnrollRevoke
 WinBioEnrollSelect
 WinBioEnumBiometricUnits
 WinBioEnumDatabases
@@ -30,8 +33,11 @@ WinBioGetCredentialWithTicket
 WinBioGetDomainLogonSetting
 WinBioGetEnabledSetting
 WinBioGetEnrolledFactors
+WinBioGetGestureMetadata
 WinBioGetLogonSetting
+WinBioGetPolicyProtectionSupport
 WinBioGetProperty
+WinBioGetProtectionPolicy
 WinBioIdentify
 WinBioIdentifyAndReleaseTicket
 WinBioIdentifyWithCallback
@@ -43,6 +49,7 @@ WinBioMonitorPresence
 WinBioNotifyPasswordChange
 WinBioOpenSession
 WinBioProtectData
+WinBioProtectDataWithPolicy
 WinBioRegisterEventMonitor
 WinBioRegisterServiceMonitor
 WinBioReleaseFocus

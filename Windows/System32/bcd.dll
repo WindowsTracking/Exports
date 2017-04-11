@@ -30,6 +30,7 @@ BcdOpenSystemStore
 BcdQueryObject
 BcdSetElementData
 BcdSetElementDataWithFlags
+BcdSetLogging
 BcdSetSystemStoreDevice
 GUID_BAD_MEMORY_GROUP
 GUID_BOOT_LOADER_SETTINGS_GROUP

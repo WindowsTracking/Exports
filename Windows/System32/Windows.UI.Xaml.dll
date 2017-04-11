@@ -6,6 +6,7 @@ DllCanUnloadNow
 DllGetActivationFactory
 DllMain
 GetDependencyObjectAddress
+GetErrorContextIndex
 GetGlobalModuleParams
 GetStringLen
 GetStringRawBuffer

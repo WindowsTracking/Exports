@@ -2,9 +2,6 @@ ZTraceClose
 ZTraceEnabledHelper
 ZTraceHelper
 ZTraceHelperNoThis
-ZTraceHelperRaw
-ZTraceHelperRawV
-ZTraceHelperRawVC
 ZTraceHelperV
 ZTraceHelperVC
 ZTraceInit

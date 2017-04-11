@@ -11,6 +11,7 @@ Wwan2RegisterNotification
 Wwan2SendDeviceServiceCommand
 Wwan2SubscribePowerStateEvents
 Wwan2WriteDeviceServiceData
+WwanActivateNotification
 WwanAllocateMemory
 WwanAuthChallenge
 WwanCloseHandle

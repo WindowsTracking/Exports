@@ -81,6 +81,7 @@ SoftpubInitialize
 SoftpubLoadDefUsageCallData
 SoftpubLoadMessage
 SoftpubLoadSignature
+SrpCheckSmartlockerEAandProcessToken
 TrustDecode
 TrustFindIssuerCertificate
 TrustFreeDecode
@@ -97,6 +98,7 @@ WintrustSetDefaultIncludePEPageHashes
 WintrustSetRegPolicyFlags
 WinVerifyTrust
 WinVerifyTrustEx
+WTGetBioSignatureInfo
 WTGetSignatureInfo
 WTHelperCertCheckValidSignature
 WTHelperCertFindIssuerCertificate
@@ -115,6 +117,7 @@ WTHelperIsChainedToMicrosoftFromStateData
 WTHelperIsInRootStore
 WTHelperOpenKnownStores
 WTHelperProvDataFromStateData
+WTValidateBioSignaturePolicy
 WVTAsn1CatMemberInfo2Decode
 WVTAsn1CatMemberInfo2Encode
 WVTAsn1CatMemberInfoDecode

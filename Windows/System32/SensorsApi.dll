@@ -13,6 +13,7 @@ SensorGetDeviceIdCOM
 SensorGetFusDataCOM
 SensorGetGyrDataCOM
 SensorGetMagDataCOM
+SensorGetPropertiesCOM
 SensorGetPrxDataCOM
 SensorGetThresholdsCOM
 SensorOpenByInterfaceCOM

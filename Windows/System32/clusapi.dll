@@ -156,6 +156,7 @@ ClusterStmFindDisk
 ClusterUpgradeFunctionalLevel
 ClusterUpgradeFunctionalLevelEx
 CreateCluster
+CreateClusterAvailabilitySet
 CreateClusterGroup
 CreateClusterGroupEx
 CreateClusterGroupSet

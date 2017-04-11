@@ -7,11 +7,17 @@ CoreUIConfigureUserIntegration
 CoreUICreate
 CoreUICreateAnonymousStream
 CoreUICreateClientWindowIDManager
+CoreUICreateEx
 CoreUICreateSystemWindowIDManager
 CoreUICreateWindowValidator
 CoreUIFailFastOOM
 CoreUIOpenExisting
 CoreUIRouteToTestRegistrar
+CreateDedicatedDispatcherQueue
+CreateDispatcherQueueForCurrentThread
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
 InitializeServices
 MsgBlobCreateShared
 MsgBlobCreateStack

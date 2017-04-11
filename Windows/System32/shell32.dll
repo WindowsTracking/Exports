@@ -56,6 +56,7 @@
 #20
 #200
 #2000
+#2001
 #201
 #202
 #203
@@ -348,6 +349,9 @@
 #95
 #96
 #97
+#970
+#971
+#972
 #99
 AppCompat_RunDLLW
 AssocCreateForClasses
@@ -583,7 +587,6 @@ SHELL32_CreateAlternateStreamFileName
 SHELL32_CreateConfirmationInterrupt
 SHELL32_CreateConflictInterrupt
 SHELL32_CreateDefaultOperationDataProvider
-SHELL32_CreateExtrinsicPropertyStore
 SHELL32_CreateFileFolderContextMenu
 SHELL32_CreateLinkInfoW
 SHELL32_CreatePlaceholderFile

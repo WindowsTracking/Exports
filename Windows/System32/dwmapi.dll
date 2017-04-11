@@ -10,8 +10,6 @@
 #113
 #114
 #124
-#127
-#131
 #132
 #134
 #138
@@ -38,6 +36,9 @@
 #162
 #163
 #164
+#165
+#166
+#167
 DllCanUnloadNow
 DllGetClassObject
 DwmAttachMilContent
@@ -66,7 +67,9 @@ DwmpDxUpdateWindowRedirectionBltSurface
 DwmpDxUpdateWindowSharedSurface
 DwmpEnableDDASupport
 DwmpFreeSecurityDescriptor
+DwmpGetColorizationParameters
 DwmpRenderFlick
+DwmpSetColorizationParameters
 DwmQueryThumbnailSourceSize
 DwmRegisterThumbnail
 DwmRenderGesture

@@ -1,9 +1,0 @@
-SecClearRegistryOperations
-SecCreateSessionFilter
-SecDeleteSessionFilter
-SecGetDriverVersion
-SecGetFileHashes
-SecGetUserLibVersion
-SecRegisterConsumer
-SecSetRegistryOperations
-SecUnregisterConsumer

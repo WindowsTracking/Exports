@@ -129,8 +129,8 @@
 ??0?$SerializableBase@V?$Stack@H@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@V?$Stack@H@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@QEAA@AEBV01@@Z
 ??0?$SerializableBase@VMultiSz@UnBCL@@$0A@V?$DefaultInstanceFactory@VMultiSz@UnBCL@@@2@@UnBCL@@IEAA@XZ
 ??0?$SerializableBase@VMultiSz@UnBCL@@$0A@V?$DefaultInstanceFactory@VMultiSz@UnBCL@@@2@@UnBCL@@QEAA@AEBV01@@Z
-??0?$SerializableBase@VOperatingSystem@UnBCL@@$0A@V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@IEAA@XZ
-??0?$SerializableBase@VOperatingSystem@UnBCL@@$0A@V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@QEAA@AEBV01@@Z
+??0?$SerializableBase@VOperatingSystem@UnBCL@@$00V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@IEAA@XZ
+??0?$SerializableBase@VOperatingSystem@UnBCL@@$00V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@QEAA@AEBV01@@Z
 ??0?$SerializableBase@VVersion@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@VVersion@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@IEAA@XZ
 ??0?$SerializableBase@VVersion@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@VVersion@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@QEAA@AEBV01@@Z
 ??0?$SerializableHashtableBase@PEAVString@UnBCL@@PEAV12@@_@UnBCL@@QEAA@AEBV012@@Z
@@ -337,7 +337,9 @@
 ??0OperatingSystem@UnBCL@@AEAA@XZ
 ??0OperatingSystem@UnBCL@@QEAA@AEBV01@@Z
 ??0OperatingSystem@UnBCL@@QEAA@W4PlatformID@1@KPEAVVersion@1@@Z
+??0OperatingSystem@UnBCL@@QEAA@W4PlatformID@1@KW4InstallationType@1@PEAVVersion@1@@Z
 ??0OperatingSystem@UnBCL@@QEAA@W4PlatformID@1@PEAVVersion@1@@Z
+??0OperatingSystem@UnBCL@@QEAA@W4PlatformID@1@W4InstallationType@1@PEAVVersion@1@@Z
 ??0OutOfMemoryException@UnBCL@@QEAA@$$QEAV01@@Z
 ??0OutOfMemoryException@UnBCL@@QEAA@AEBV01@@Z
 ??0OutOfMemoryException@UnBCL@@QEAA@PEAVString@1@@Z
@@ -549,7 +551,7 @@
 ??1?$SerializableBase@V?$Hashtable@PEAVString@UnBCL@@PEAV12@@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@V?$Hashtable@PEAVString@UnBCL@@PEAV12@@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@UEAA@XZ
 ??1?$SerializableBase@V?$Stack@H@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@V?$Stack@H@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@UEAA@XZ
 ??1?$SerializableBase@VMultiSz@UnBCL@@$0A@V?$DefaultInstanceFactory@VMultiSz@UnBCL@@@2@@UnBCL@@UEAA@XZ
-??1?$SerializableBase@VOperatingSystem@UnBCL@@$0A@V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@UEAA@XZ
+??1?$SerializableBase@VOperatingSystem@UnBCL@@$00V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@UEAA@XZ
 ??1?$SerializableBase@VVersion@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@VVersion@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@UEAA@XZ
 ??1?$SerializableHashtableBase@PEAVString@UnBCL@@PEAV12@@_@UnBCL@@UEAA@XZ
 ??1?$SerializableStackBase@H@_@UnBCL@@UEAA@XZ
@@ -751,8 +753,8 @@
 ??4?$SerializableBase@V?$Stack@H@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@V?$Stack@H@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4?$SerializableBase@VMultiSz@UnBCL@@$0A@V?$DefaultInstanceFactory@VMultiSz@UnBCL@@@2@@UnBCL@@QEAAAEAV01@$$QEAV01@@Z
 ??4?$SerializableBase@VMultiSz@UnBCL@@$0A@V?$DefaultInstanceFactory@VMultiSz@UnBCL@@@2@@UnBCL@@QEAAAEAV01@AEBV01@@Z
-??4?$SerializableBase@VOperatingSystem@UnBCL@@$0A@V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@QEAAAEAV01@$$QEAV01@@Z
-??4?$SerializableBase@VOperatingSystem@UnBCL@@$0A@V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@QEAAAEAV01@AEBV01@@Z
+??4?$SerializableBase@VOperatingSystem@UnBCL@@$00V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@QEAAAEAV01@$$QEAV01@@Z
+??4?$SerializableBase@VOperatingSystem@UnBCL@@$00V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4?$SerializableBase@VVersion@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@VVersion@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@QEAAAEAV01@$$QEAV01@@Z
 ??4?$SerializableBase@VVersion@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@VVersion@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4?$SerializableHashtableBase@PEAVString@UnBCL@@PEAV12@@_@UnBCL@@QEAAAEAV012@$$QEAV012@@Z
@@ -1084,9 +1086,9 @@
 ??_7?$SerializableBase@VMultiSz@UnBCL@@$0A@V?$DefaultInstanceFactory@VMultiSz@UnBCL@@@2@@UnBCL@@6B01@@
 ??_7?$SerializableBase@VMultiSz@UnBCL@@$0A@V?$DefaultInstanceFactory@VMultiSz@UnBCL@@@2@@UnBCL@@6BISerializable@1@@
 ??_7?$SerializableBase@VMultiSz@UnBCL@@$0A@V?$DefaultInstanceFactory@VMultiSz@UnBCL@@@2@@UnBCL@@6BObject@1@@
-??_7?$SerializableBase@VOperatingSystem@UnBCL@@$0A@V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@6B01@@
-??_7?$SerializableBase@VOperatingSystem@UnBCL@@$0A@V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@6BISerializable@1@@
-??_7?$SerializableBase@VOperatingSystem@UnBCL@@$0A@V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@6BObject@1@@
+??_7?$SerializableBase@VOperatingSystem@UnBCL@@$00V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@6B01@@
+??_7?$SerializableBase@VOperatingSystem@UnBCL@@$00V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@6BISerializable@1@@
+??_7?$SerializableBase@VOperatingSystem@UnBCL@@$00V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@6BObject@1@@
 ??_7?$SerializableBase@VVersion@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@VVersion@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@6B01@@
 ??_7?$SerializableBase@VVersion@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@VVersion@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@6BISerializable@1@@
 ??_7?$SerializableBase@VVersion@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@VVersion@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@6BObject@1@@
@@ -1175,7 +1177,7 @@
 ??_7NotSupportedException@UnBCL@@6B@
 ??_7Object@UnBCL@@6B@
 ??_7ObjectDisposedException@UnBCL@@6B@
-??_7OperatingSystem@UnBCL@@6B?$SerializableBase@VOperatingSystem@UnBCL@@$0A@V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@1@@
+??_7OperatingSystem@UnBCL@@6B?$SerializableBase@VOperatingSystem@UnBCL@@$00V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@1@@
 ??_7OperatingSystem@UnBCL@@6B@
 ??_7OperatingSystem@UnBCL@@6BISerializable@1@@
 ??_7OutOfMemoryException@UnBCL@@6B@
@@ -1318,7 +1320,7 @@
 ??_8Mutex@UnBCL@@7BIDisposable@1@@
 ??_8Mutex@UnBCL@@7BWaitHandle@1@@
 ??_8OperatingSystem@UnBCL@@7B01@@
-??_8OperatingSystem@UnBCL@@7B?$SerializableBase@VOperatingSystem@UnBCL@@$0A@V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@1@@
+??_8OperatingSystem@UnBCL@@7B?$SerializableBase@VOperatingSystem@UnBCL@@$00V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@1@@
 ??_8OperatingSystem@UnBCL@@7BISerializable@1@@
 ??_8Process@UnBCL@@7B01@@
 ??_8Process@UnBCL@@7BIDisposable@1@@
@@ -1987,6 +1989,7 @@
 ?get_TotalMilliseconds@TimeSpan@UnBCL@@QEBANXZ
 ?get_TotalMinutes@TimeSpan@UnBCL@@QEBANXZ
 ?get_TotalSeconds@TimeSpan@UnBCL@@QEBANXZ
+?get_Type@OperatingSystem@UnBCL@@QEBA?AW4InstallationType@2@XZ
 ?get_TypeName@SerializationId@UnBCL@@QEBAPEBGXZ
 ?get_UseShellExecute@ProcessStartInfo@UnBCL@@QEBAHXZ
 ?get_Value@XmlNode@UnBCL@@QEAAPEAVString@2@XZ
@@ -2130,7 +2133,7 @@
 ?GetTypeName@?$SerializableBase@V?$Hashtable@PEAVString@UnBCL@@PEAV12@@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@V?$Hashtable@PEAVString@UnBCL@@PEAV12@@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@UEBAPEBVString@2@XZ
 ?GetTypeName@?$SerializableBase@V?$Stack@H@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@V?$Stack@H@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@UEBAPEBVString@2@XZ
 ?GetTypeName@?$SerializableBase@VMultiSz@UnBCL@@$0A@V?$DefaultInstanceFactory@VMultiSz@UnBCL@@@2@@UnBCL@@UEBAPEBVString@2@XZ
-?GetTypeName@?$SerializableBase@VOperatingSystem@UnBCL@@$0A@V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@UEBAPEBVString@2@XZ
+?GetTypeName@?$SerializableBase@VOperatingSystem@UnBCL@@$00V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@UEBAPEBVString@2@XZ
 ?GetTypeName@?$SerializableBase@VVersion@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@VVersion@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@UEBAPEBVString@2@XZ
 ?GetUnicode@Encoding@UnBCL@@SAPEAV12@XZ
 ?GetValue@?$Array@E@UnBCL@@UEBAEH@Z
@@ -2150,7 +2153,7 @@
 ?GetVersionId@?$SerializableBase@V?$Hashtable@PEAVString@UnBCL@@PEAV12@@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@V?$Hashtable@PEAVString@UnBCL@@PEAV12@@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@UEBAHXZ
 ?GetVersionId@?$SerializableBase@V?$Stack@H@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@V?$Stack@H@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@UEBAHXZ
 ?GetVersionId@?$SerializableBase@VMultiSz@UnBCL@@$0A@V?$DefaultInstanceFactory@VMultiSz@UnBCL@@@2@@UnBCL@@UEBAHXZ
-?GetVersionId@?$SerializableBase@VOperatingSystem@UnBCL@@$0A@V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@UEBAHXZ
+?GetVersionId@?$SerializableBase@VOperatingSystem@UnBCL@@$00V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@UEBAHXZ
 ?GetVersionId@?$SerializableBase@VVersion@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@VVersion@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@UEBAHXZ
 ?GetVolumeSeparatorChar@Path@UnBCL@@SAGXZ
 ?GetWindowsDir@Directory@UnBCL@@SAPEAVString@2@XZ
@@ -2365,7 +2368,7 @@
 ?RegisterVersion@?$SerializableBase@V?$Hashtable@PEAVString@UnBCL@@PEAV12@@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@V?$Hashtable@PEAVString@UnBCL@@PEAV12@@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@MEBAXH@Z
 ?RegisterVersion@?$SerializableBase@V?$Stack@H@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@V?$Stack@H@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@MEBAXH@Z
 ?RegisterVersion@?$SerializableBase@VMultiSz@UnBCL@@$0A@V?$DefaultInstanceFactory@VMultiSz@UnBCL@@@2@@UnBCL@@MEBAXH@Z
-?RegisterVersion@?$SerializableBase@VOperatingSystem@UnBCL@@$0A@V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@MEBAXH@Z
+?RegisterVersion@?$SerializableBase@VOperatingSystem@UnBCL@@$00V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@MEBAXH@Z
 ?RegisterVersion@?$SerializableBase@VVersion@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@VVersion@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@MEBAXH@Z
 ?Release@Mutex@UnBCL@@UEAAXXZ
 ?ReleaseBuffer@?$CSimpleStringT@G$0A@@ATL@@QEAAXH@Z
@@ -2427,7 +2430,7 @@
 ?s_Registration@?$SerializableBase@V?$Hashtable@PEAVString@UnBCL@@PEAV12@@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@V?$Hashtable@PEAVString@UnBCL@@PEAV12@@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@0UStaticTypeRegistration@12@A
 ?s_Registration@?$SerializableBase@V?$Stack@H@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@V?$Stack@H@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@0UStaticTypeRegistration@12@A
 ?s_Registration@?$SerializableBase@VMultiSz@UnBCL@@$0A@V?$DefaultInstanceFactory@VMultiSz@UnBCL@@@2@@UnBCL@@0UStaticTypeRegistration@12@A
-?s_Registration@?$SerializableBase@VOperatingSystem@UnBCL@@$0A@V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@0UStaticTypeRegistration@12@A
+?s_Registration@?$SerializableBase@VOperatingSystem@UnBCL@@$00V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@0UStaticTypeRegistration@12@A
 ?s_Registration@?$SerializableBase@VVersion@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@VVersion@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@0UStaticTypeRegistration@12@A
 ?s_RegistrationListHead@SbRegistrationList@UnBCL@@0U_SINGLE_LIST_ENTRY@@A
 ?Sanitize@Path@UnBCL@@SAPEAVString@2@PEBV32@@Z

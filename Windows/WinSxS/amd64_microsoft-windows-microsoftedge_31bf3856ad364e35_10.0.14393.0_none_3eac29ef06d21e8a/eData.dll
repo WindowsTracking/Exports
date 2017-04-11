@@ -1,9 +1,0 @@
-CleanUpDataStoreAsync
-CreateBhxExtensionsListManager
-CreateCARulesManager
-CreateFavoritesManager
-CreateReadingListManager
-CreateTopSitesManager
-CreateUriToAppIdMappingManager
-LoadDataStore
-ReleaseDataStore

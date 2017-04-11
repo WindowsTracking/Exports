@@ -13,6 +13,8 @@ FwpiVpnTriggerRemoveSecurityDescriptor
 FwpiVpnTriggerResetNrptTriggering
 FwpiVpnTriggerSetStateDisconnected
 FwpiVpnTriggerUninitializeNrptTriggering
+FwpmBitmapIndexFree0
+FwpmBitmapIndexGet0
 FwpmCalloutAdd0
 FwpmCalloutCreateEnumHandle0
 FwpmCalloutDeleteById0

@@ -2,6 +2,7 @@ PcaGetFileInfoFromPath
 PcaIsPcaDisabled
 PcaLinkChildProcessToParent
 PcaMonitorProcess
+PcaMonitorProcess2
 PcaNotifyMsiInstall
 PcaNotifyStatusIcon
 PcaSendToService

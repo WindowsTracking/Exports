@@ -93,6 +93,7 @@ GetIdentityProviderInfoByName
 GetServiceDisplayNameW
 GetServiceKeyNameW
 I_QueryTagInformation
+I_RegisterSvchostNotificationCallback
 I_ScBroadcastServiceControlMessage
 I_ScIsSecurityProcess
 I_ScPnPGetServiceName
@@ -168,6 +169,7 @@ QueryServiceStatus
 QueryServiceStatusEx
 QueryTransientObjectSecurityDescriptor
 QueryUserServiceName
+QueryUserServiceNameForContext
 RegisterServiceCtrlHandlerA
 RegisterServiceCtrlHandlerExA
 RegisterServiceCtrlHandlerExW

@@ -1,5 +1,7 @@
 DllCanUnloadNow
 DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
 PlaDeleteReport
 PlaExpandTaskArguments
 PlaExtractCabinet

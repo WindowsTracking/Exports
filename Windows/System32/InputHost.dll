@@ -1,0 +1,13 @@
+CreateCursorClient
+CreateCursorManager
+CreateGenericInputHost
+CreateInputDeviceWatcher
+CreateInputHost
+CreatePointerInputHost
+CreateTouchInputHost
+CreateViewHitTestRequestClient
+SetInputDeviceIndicatorState
+SetInputDeviceRepeatParameters
+SetInputFocus
+TouchInputHostCreate
+ViewHitTestClientCreate

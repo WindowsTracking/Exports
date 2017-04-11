@@ -1,10 +1,14 @@
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject
+InputFocusChanged
+NavigateFocusInfoCreate
 TextInputClientCreate
 TextInputHostCreate
 TextInputHostCreate2
 TextInputHostCreateEx
+TextInputHostGetCurrent
+TextInputHostSiteCreate
 TextInputServerCreate
 tsfGetAsyncKeyState
 tsfGetKeyboardState

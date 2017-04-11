@@ -1,8 +1,17 @@
+MapsPackageAddMapPackageAsync
+MapsPackageClose
+MapsPackageFindNearbyPackagesAsync
+MapsPackageFree
+MapsPackageGetPackages
+MapsPackageOpen
 MapsStorageClose
 MapsStorageFree
+MapsStorageGetCurrentLocation
 MapsStorageGetDataDirectory
 MapsStorageGetLocations
+MapsStorageGetMigrationState
 MapsStorageOpen
+MapsStorageQueueSwitchToDefaultExternalStorage
 MapsStorageUseDefaultExternalStorage
 MapsStorageValidateLocationAsync
 MosCacheStateGetSizes
@@ -13,6 +22,7 @@ MosCacheStateUnuseSlot
 MosCacheStateUseSlot
 MosDeleteDataAsyncOperation
 MosGetBrowseCacheSizeInMBytes
+MosGetCopyrightString
 MosGetDataAsync
 MosGetDataAsyncOperation
 MosGetDataDirectory

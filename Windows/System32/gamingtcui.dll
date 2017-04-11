@@ -10,6 +10,8 @@ ShowChangeFriendRelationshipUI
 ShowChangeFriendRelationshipUIForUser
 ShowGameInviteUI
 ShowGameInviteUIForUser
+ShowGameInviteUIWithContext
+ShowGameInviteUIWithContextForUser
 ShowPlayerPickerUI
 ShowPlayerPickerUIForUser
 ShowProfileCardUI

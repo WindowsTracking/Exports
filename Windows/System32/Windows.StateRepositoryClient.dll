@@ -3,3 +3,4 @@ DllGetActivationFactory
 DllGetClassObject
 SRGetPackageOriginForUser
 SRGetStagedPackageOrigin
+SRRepair

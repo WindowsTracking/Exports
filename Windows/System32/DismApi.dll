@@ -8,6 +8,7 @@ _DismExportDriver
 _DismGetCurrentEdition
 _DismGetEffectiveSystemUILanguage
 _DismGetFeaturesEx
+_DismGetInstallLanguage
 _DismGetKCacheBinaryValue
 _DismGetKCacheDwordValue
 _DismGetKCacheStringValue
@@ -22,12 +23,15 @@ _DismGetTargetEditions
 _DismGetUsedSpace
 _DismOptimizeImage
 _DismRemoveProvisionedAppxPackage
+_DismRemoveProvisionedAppxPackageAllUsers
+_DismRevertPendingActions
 _DismSetAllIntlSettings
 _DismSetAppXProvisionedDataFile
 _DismSetEdition
 _DismSetFirstBootCommandLine
 _DismSetMachineName
 _DismSetProductKey
+_DismSetSkuIntlDefaults
 _DismSplitFfuImage
 _DismStage
 _DismValidateProductKey

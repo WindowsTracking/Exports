@@ -1,5 +1,6 @@
 WlanIsActiveConsoleUser
 WlanSignalValueToBar
+WlanSignalValueToBarEx
 WlanSsidToDisplayName
 WlanStringToSsid
 WlanStringToUtf8Ssid

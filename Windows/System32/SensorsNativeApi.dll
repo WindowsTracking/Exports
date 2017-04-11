@@ -2,6 +2,7 @@ DllMain
 SensorCancelHistoryRetrieval
 SensorClearHistory
 SensorClose
+SensorDetermineStackByPropertyStore
 SensorDeviceIoControl
 SensorEnableIdleOperation
 SensorGetAccData
@@ -13,6 +14,7 @@ SensorGetData
 SensorGetDataCollection
 SensorGetDataDeliveryMode
 SensorGetDataFieldProperties
+SensorGetDefaultThresholds
 SensorGetDeviceId
 SensorGetFifoMaxSize
 SensorGetFusData
@@ -24,6 +26,7 @@ SensorGetPrxData
 SensorGetRangeResolution
 SensorGetSupportedDataFields
 SensorGetThresholds
+SensorGetTypeFromInterfacePath
 SensorNotificationConfigure
 SensorNotificationStart
 SensorNotificationStop

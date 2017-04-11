@@ -21,6 +21,8 @@
 #44
 #47
 #48
+CreateLogonCertificateRequest
+DeleteLogonCertificateRequest
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject
@@ -29,6 +31,8 @@ DllRegisterServer
 DllUnregisterServer
 ImportPFXToProvider
 ImportPFXToProviderFreeData
+InstallLogonCertificateResponse
+IsLogonCertificateTemplateAvailable
 LogCertArchive
 LogCertCopy
 LogCertDelete

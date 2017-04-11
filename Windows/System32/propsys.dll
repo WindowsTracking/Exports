@@ -38,6 +38,8 @@
 #441
 #442
 #443
+#444
+#445
 ClearPropVariantArray
 ClearVariantArray
 DllCanUnloadNow

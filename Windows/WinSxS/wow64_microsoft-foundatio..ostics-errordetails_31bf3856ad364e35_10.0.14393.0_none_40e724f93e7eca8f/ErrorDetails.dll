@@ -1,5 +1,0 @@
-DllCanUnloadNow
-DllGetActivationFactory
-DllGetClassObject
-FreeErrorDetails
-GetErrorDetails

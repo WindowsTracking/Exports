@@ -1,0 +1,12 @@
+CreateDecoder
+Decode
+DisposeDecoder
+GetLastBarcode
+GetLastBarcodeRawData
+GetLastBarcodeSymbology
+GetLastPositionInImage
+GetPreferredImageFormat
+GetSupportedSymbologies
+SetActiveSymbologies
+SetImageDimension
+SetImageFormat

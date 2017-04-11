@@ -92,7 +92,6 @@
 #225
 #226
 #227
-#228
 #229
 #230
 #231
@@ -116,6 +115,7 @@ HlinkFrameNavigate
 HlinkFrameNavigateNHL
 ImportPrivacySettings
 OpenURL
+SafeOpenPromptForShellExec
 SetQueryNetSessionCount
 SetShellOfflineState
 SHAddSubscribeFavorite

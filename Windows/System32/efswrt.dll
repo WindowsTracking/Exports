@@ -14,6 +14,8 @@ EnterpriseDataProtect
 EnterpriseDataRevoke
 FreeIdentityProtectorList
 GetEnterpriseActionForCopy
+GetEnterpriseIdForNetworkPath
 ProtectFileToEnterpriseIdentity
 ProtectFileToIdentity
 QueryIdentityProtectors
+UnprotectFile

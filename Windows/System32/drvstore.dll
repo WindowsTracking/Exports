@@ -8,6 +8,7 @@ DriverPackageEnumInterfacesW
 DriverPackageEnumPropertiesW
 DriverPackageEnumRegKeysW
 DriverPackageEnumServicesW
+DriverPackageEnumSoftwareW
 DriverPackageGetVersionInfoW
 DriverPackageOpenW
 DriverStoreClose

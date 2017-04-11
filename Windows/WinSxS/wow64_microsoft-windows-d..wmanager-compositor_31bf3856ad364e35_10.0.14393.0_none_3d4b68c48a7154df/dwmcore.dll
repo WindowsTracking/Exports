@@ -1,8 +1,0 @@
-Analog_SetCompositorInterface
-Analog_UpdateFrameStatistics
-MilCompositionEngine_GetComposedEventId
-MilCompositionEngine_Initialize
-MilCompositionEngine_Uninitialize
-MilConnection_CreateChannel
-MilTransport_AddRef
-MilTransport_Release

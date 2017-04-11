@@ -5,8 +5,11 @@ ClipGatherDiagnostics
 ClipGenerateClientChallengeData
 ClipGenerateDeviceLicenseRequest
 ClipGetAssociatedResults
+ClipGetDeviceHardwareData
 ClipGetFileIdFromAssociateId
+ClipGetLicenseAndPolicyForPfn
 ClipGetLicenseData
+ClipGetQueryResults
 ClipGetSubscriptionStatus
 ClipInstallLicense
 ClipOpen

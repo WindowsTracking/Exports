@@ -595,6 +595,7 @@ QueryServiceStatusEx
 QueryTraceA
 QueryTraceW
 QueryUserServiceName
+QueryUserServiceNameForContext
 QueryUsersOnEncryptedFile
 ReadEncryptedFileRaw
 ReadEventLogA

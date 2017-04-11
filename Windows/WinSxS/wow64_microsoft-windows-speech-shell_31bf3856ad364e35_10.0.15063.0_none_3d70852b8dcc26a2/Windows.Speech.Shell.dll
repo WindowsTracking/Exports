@@ -1,0 +1,4 @@
+CreateVoiceShell
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

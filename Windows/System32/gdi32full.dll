@@ -160,6 +160,7 @@ ftsWordBreak
 GdiAddFontResourceW
 GdiAddGlsBounds
 GdiAddGlsRecord
+GdiAddInitialFonts
 GdiAlphaBlend
 GdiArtificialDecrementDriver
 GdiCleanCacheDC
@@ -214,12 +215,14 @@ GdiGetLocalFont
 GdiGetPageCount
 GdiGetPageHandle
 GdiGetSpoolFileHandle
+GdiGetVariationStoreDelta
 GdiGradientFill
 GdiInitializeLanguagePack
 GdiIsMetaFileDC
 GdiIsMetaPrintDC
 GdiIsPlayMetafileDC
 GdiIsScreenDC
+GdiIsTrackingEnabled
 GdiIsUMPDSandboxingEnabled
 GdiLoadType1Fonts
 GdiPlayDCScript
@@ -243,6 +246,8 @@ GdiStartDocEMF
 GdiStartPageEMF
 GdiSupportsFontChangeEvent
 GdiSwapBuffers
+GdiTrackHCreate
+GdiTrackHDelete
 GdiTransparentBlt
 GdiValidateHandle
 GetArcDirection
@@ -257,6 +262,7 @@ GetBrushAttributes
 GetBrushOrgEx
 GetCharABCWidthsA
 GetCharABCWidthsFloatA
+GetCharABCWidthsFloatI
 GetCharABCWidthsFloatW
 GetCharABCWidthsI
 GetCharABCWidthsW
@@ -278,6 +284,7 @@ GetColorSpace
 GetCurrentObject
 GetCurrentPositionEx
 GetDCBrushColor
+GetDCDpiScaleValue
 GetDCOrgEx
 GetDCPenColor
 GetDeviceCaps
@@ -365,6 +372,7 @@ GetTextExtentPointW
 GetTextFaceA
 GetTextFaceAliasW
 GetTextFaceW
+GetTextMetricsA
 GetTextMetricsAImpl
 GetTextMetricsW
 GetTransform
@@ -511,6 +519,8 @@ NtGdiDdDDICreateContext
 NtGdiDdDDICreateContextVirtual
 NtGdiDdDDICreateDCFromMemory
 NtGdiDdDDICreateDevice
+NtGdiDdDDICreateHwContext
+NtGdiDdDDICreateHwQueue
 NtGdiDdDDICreateKeyedMutex
 NtGdiDdDDICreateKeyedMutex2
 NtGdiDdDDICreateOutputDupl
@@ -523,6 +533,8 @@ NtGdiDdDDIDestroyAllocation2
 NtGdiDdDDIDestroyContext
 NtGdiDdDDIDestroyDCFromMemory
 NtGdiDdDDIDestroyDevice
+NtGdiDdDDIDestroyHwContext
+NtGdiDdDDIDestroyHwQueue
 NtGdiDdDDIDestroyKeyedMutex
 NtGdiDdDDIDestroyOutputDupl
 NtGdiDdDDIDestroyOverlay
@@ -535,16 +547,21 @@ NtGdiDdDDIEvict
 NtGdiDdDDIFlipOverlay
 NtGdiDdDDIFlushHeapTransitions
 NtGdiDdDDIFreeGpuVirtualAddress
+NtGdiDdDDIGetAllocationPriority
 NtGdiDdDDIGetCachedHybridQueryValue
 NtGdiDdDDIGetContextInProcessSchedulingPriority
 NtGdiDdDDIGetContextSchedulingPriority
 NtGdiDdDDIGetDeviceState
 NtGdiDdDDIGetDisplayModeList
 NtGdiDdDDIGetDWMVerticalBlankEvent
+NtGdiDdDDIGetMemoryBudgetTarget
+NtGdiDdDDIGetMultiPlaneOverlayCaps
 NtGdiDdDDIGetMultisampleMethodList
 NtGdiDdDDIGetOverlayState
+NtGdiDdDDIGetPostCompositionCaps
 NtGdiDdDDIGetPresentHistory
 NtGdiDdDDIGetPresentQueueEvent
+NtGdiDdDDIGetProcessSchedulingPriorityBand
 NtGdiDdDDIGetProcessSchedulingPriorityClass
 NtGdiDdDDIGetResourcePresentPrivateDriverData
 NtGdiDdDDIGetRuntimeData
@@ -552,6 +569,7 @@ NtGdiDdDDIGetScanLine
 NtGdiDdDDIGetSetSwapChainMetadata
 NtGdiDdDDIGetSharedPrimaryHandle
 NtGdiDdDDIGetSharedResourceAdapterLuid
+NtGdiDdDDIGetYieldPercentage
 NtGdiDdDDIInvalidateActiveVidPn
 NtGdiDdDDIInvalidateCache
 NtGdiDdDDILock
@@ -618,6 +636,8 @@ NtGdiDdDDISetDodIndirectSwapchain
 NtGdiDdDDISetFSEBlock
 NtGdiDdDDISetGammaRamp
 NtGdiDdDDISetHwProtectionTeardownRecovery
+NtGdiDdDDISetMemoryBudgetTarget
+NtGdiDdDDISetProcessSchedulingPriorityBand
 NtGdiDdDDISetProcessSchedulingPriorityClass
 NtGdiDdDDISetQueuedLimit
 NtGdiDdDDISetStablePowerState
@@ -626,6 +646,7 @@ NtGdiDdDDISetSyncRefreshCountWaitTarget
 NtGdiDdDDISetVidPnSourceHwProtection
 NtGdiDdDDISetVidPnSourceOwner
 NtGdiDdDDISetVidPnSourceOwner1
+NtGdiDdDDISetYieldPercentage
 NtGdiDdDDISharedPrimaryLockNotification
 NtGdiDdDDISharedPrimaryUnLockNotification
 NtGdiDdDDIShareObjects
@@ -634,6 +655,9 @@ NtGdiDdDDISignalSynchronizationObjectFromCpu
 NtGdiDdDDISignalSynchronizationObjectFromGpu
 NtGdiDdDDISignalSynchronizationObjectFromGpu2
 NtGdiDdDDISubmitCommand
+NtGdiDdDDISubmitCommandToHwQueue
+NtGdiDdDDISubmitSignalSyncObjectsToHwQueue
+NtGdiDdDDISubmitWaitForSyncObjectsToHwQueue
 NtGdiDdDDITrimProcessCommitment
 NtGdiDdDDIUnlock
 NtGdiDdDDIUnlock2
@@ -783,8 +807,10 @@ NtGdiFrameRgn
 NtGdiFullscreenControl
 NtGdiGetAndSetDCDword
 NtGdiGetAppClipBox
+NtGdiGetAppliedDeviceGammaRamp
 NtGdiGetBitmapBits
 NtGdiGetBitmapDimension
+NtGdiGetBitmapDpiScaleValue
 NtGdiGetBoundsRect
 NtGdiGetCertificate
 NtGdiGetCertificateByHandle
@@ -799,6 +825,7 @@ NtGdiGetColorAdjustment
 NtGdiGetColorSpaceforBitmap
 NtGdiGetCOPPCompatibleOPMInformation
 NtGdiGetCurrentDpiInfo
+NtGdiGetDCDpiScaleValue
 NtGdiGetDCDword
 NtGdiGetDCforBitmap
 NtGdiGetDCObject
@@ -819,6 +846,7 @@ NtGdiGetFontFileData
 NtGdiGetFontFileInfo
 NtGdiGetFontResourceInfoInternalW
 NtGdiGetFontUnicodeRanges
+NtGdiGetGammaRampCapability
 NtGdiGetGlyphIndicesW
 NtGdiGetGlyphIndicesWInternal
 NtGdiGetGlyphOutline
@@ -909,6 +937,8 @@ NtGdiResizePalette
 NtGdiRestoreDC
 NtGdiRoundRect
 NtGdiSaveDC
+NtGdiScaleRgn
+NtGdiScaleValues
 NtGdiScaleViewportExtEx
 NtGdiScaleWindowExtEx
 NtGdiSelectBitmap
@@ -937,6 +967,7 @@ NtGdiSetMiterLimit
 NtGdiSetOPMSigningKeyAndSequenceNumbers
 NtGdiSetPixel
 NtGdiSetPixelFormat
+NtGdiSetPrivateDeviceGammaRamp
 NtGdiSetPUMPDOBJ
 NtGdiSetRectRgn
 NtGdiSetSizeDevice

@@ -43,6 +43,7 @@ BiPtCreateEventForPackageName
 BiPtDeleteEvent
 BiPtDisableWorkItem
 BiPtDisassociateWorkItem
+BiPtDisassociateWorkItemEx
 BiPtEnableWorkItem
 BiPtEnumerateBrokeredEvents
 BiPtEnumerateBrokeredEventsEx

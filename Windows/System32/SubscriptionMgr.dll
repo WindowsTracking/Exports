@@ -1,6 +1,0 @@
-g_hMobileOperatorNotificationMutex
-SubscriptionManagerDeinit
-SubscriptionManagerInit
-SubscriptionManagerNotify
-SubscriptionManagerQueryParameter
-SubscriptionManagerSetParameter

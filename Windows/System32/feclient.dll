@@ -15,12 +15,15 @@ EdpDplUserUnlockStart
 EdpFree
 EdpGetContainerIdentity
 EdpGetCredServiceState
+EdpPurgeAppLearningEvents
 EdpQueryCredServiceInfo
 EdpQueryDplEnforcedPolicyOwnerIds
 EdpQueryRevokedPolicyOwnerIds
 EdpRmsClearKeys
 EdpSetCredServiceInfo
+EdpUnprotectFile
 EfsClientCloseFileRaw
+EfsClientCopyFileRaw
 EfsClientDecryptFile
 EfsClientDuplicateEncryptionInfo
 EfsClientEncryptFileEx

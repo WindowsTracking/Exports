@@ -2,4 +2,3 @@ DllInstall
 DllMain
 DllUnregisterServer
 GetKeyStorageInterface
-GetRngInterface

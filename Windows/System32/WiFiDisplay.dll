@@ -5,6 +5,7 @@ IsMiracastSupportedByWlan
 MiracastFreeMemory
 MiracastIeDecode
 MiracastIeEncode
+MiracastQueryParameters
 OpenMiracastSession
 VsIeProviderGetFunctionTable
 WFDDisplaySinkCloseSession

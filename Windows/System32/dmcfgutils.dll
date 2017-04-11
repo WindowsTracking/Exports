@@ -13,3 +13,5 @@ CfgUtilParseElementName
 CfgUtilParseName
 CfgUtilParseNameByLen
 CfgUtilParseParmAttributeName
+CleanupPolicyComplianceEnsuranceForSource
+EnsurePolicyComplianceForSource

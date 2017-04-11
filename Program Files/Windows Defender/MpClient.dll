@@ -40,6 +40,7 @@ MpFastMemoryScan
 MpFastMemoryScanOpen
 MpForcedReboot
 MpFreeMemory
+MpGenerateSignature
 MpGenerateThreatReport
 MpGetCallistoDetections
 MpGetEngineVersion
@@ -55,6 +56,8 @@ MpManagerOpen
 MpManagerStatusQuery
 MpManagerStatusQueryEx
 MpManagerVersionQuery
+MpManagerXBGMDisable
+MpManagerXBGMEnable
 MpMemoryScanStart
 MpNotificationRegister
 MpOfflineScanInstall
@@ -71,6 +74,7 @@ MpSampleSubmit
 MpScanControl
 MpScanResult
 MpScanStart
+MpScanStartEx
 MpSetUacElevationDefaultWindowHandle
 MpTelemetryAddToAverageDWORD
 MpTelemetryAddToStreamDWORD
@@ -125,5 +129,10 @@ MputSetIfMinDWORD64Rpc
 MputSetIfMinDWORDRpc
 MputSetStringRpc
 MpWDEnable
+MpXBGMEnable
+MpXBGMFreeEvent
+MpXBGMGetData
+MpXBGMPutData
+MpXBGMUpdateIV
 WDEnable
 WDStatus

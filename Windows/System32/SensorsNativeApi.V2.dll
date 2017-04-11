@@ -15,6 +15,7 @@ SensorGetDataFieldPropertiesV2
 SensorGetDataIntervalV2
 SensorGetDataThresholdsV2
 SensorGetDataV2
+SensorGetDefaultDataThresholdsV2
 SensorGetDeviceIdV2
 SensorGetFifoMaxSizeV2
 SensorGetFusDataV2

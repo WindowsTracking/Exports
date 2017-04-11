@@ -5,6 +5,7 @@ FidoSignWithCredential
 NgcAddBioProtector
 NgcAddCompanionDeviceProtector
 NgcAddPrebootProtector
+NgcCancelPendingUIRequest
 NgcChangePin
 NgcChangePinSilent
 NgcCreateContainer
@@ -22,10 +23,17 @@ NgcEncryptWithAsymmetricKey
 NgcEncryptWithSymmetricPopKey
 NgcEnumContainers
 NgcEnumUserIdKeys
+NgcFidoAuthenticatorDeleteCredential
+NgcFidoAuthenticatorGetAAGUID
+NgcFidoAuthenticatorGetAccountInformation
+NgcFidoAuthenticatorGetCredentials
+NgcFidoAuthenticatorMakeCredential
+NgcFidoAuthenticatorSignAssertion
 NgcFreeEnumState
 NgcGetCachedLogonKeyName
 NgcGetDefaultDecryptionKeyName
 NgcGetDeviceProtectionDecryptionKeyName
+NgcGetEventInterface
 NgcGetKeyAttestationForContainerService
 NgcGetKeyAttestationForUserIdKey
 NgcGetKeyImplType
@@ -37,6 +45,7 @@ NgcGetPregenKeyState
 NgcGetPregenUserKey
 NgcGetSymmetricPopKeyTransportKey
 NgcGetSymmetricPopKeyTransportKeyName
+NgcGetUserIdKeyCertificate
 NgcGetUserIdKeyPublicKey
 NgcImportSymmetricPopKey
 NgcIsCertificateRequiredForOnPremAuth
@@ -49,7 +58,9 @@ NgcLocalFindCredential
 NgcLocalRemoveCredential
 NgcNotifyVscProvisioned
 NgcPackAuthBuffer
+NgcPackPasswordChangeAuthBuffer
 NgcQueryEnabled
+NgcQueryEnabledEx
 NgcQueryHardwarePolicy
 NgcRemoveBioProtector
 NgcRemoveCompanionDeviceProtector
@@ -59,7 +70,8 @@ NgcSignWithSymmetricPopKey
 NgcSignWithUserIdKey
 NgcSignWithUserIdKeyEx
 NgcSignWithUserIdKeySilent
-NgcTicketGetAuthBlob
+NgcTicketGetTicketForScard
 NgcUnpackAuthBuffer
 NgcUnpackCredData
+NgcUnpackPasswordChangeAuthBuffer
 NgcVerifyWithSymmetricPopKey

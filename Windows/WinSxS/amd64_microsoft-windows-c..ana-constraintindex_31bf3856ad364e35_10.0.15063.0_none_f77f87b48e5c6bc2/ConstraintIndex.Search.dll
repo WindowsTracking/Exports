@@ -1,0 +1,16 @@
+BuildConstraintIndex
+BuildConstraintIndexInMemory
+BuildFilterTrie
+BuildFilterTrieInMemory
+CreateConstraintIndex
+CreateConstraintIndexInMemory
+CreateCSGSuggest
+CreateCSGSuggestInMemory
+CSGGetBestEntityScore
+DeleteConstraintIndex
+DeleteCSGSuggest
+DllCanUnloadNow
+DllGetActivationFactory
+GetAttributeRank
+GetEntitySuggestions
+GetSegmentRank

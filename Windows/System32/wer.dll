@@ -3,12 +3,15 @@ GetThreadWaitChain
 OpenThreadWaitChainSession
 RegisterWaitChainCOMCallback
 WerAddExcludedApplication
+WerFreeString
 WerpAddAppCompatData
 WerpAddFile
 WerpAddFileBuffer
 WerpAddFileCallback
 WerpAddMemoryBlock
 WerpAddRegisteredDataToReport
+WerpAddRegisteredDumpsToReport
+WerpAddRegisteredMetadataToReport
 WerpArchiveReport
 WerpAuxmdDumpProcessImages
 WerpAuxmdDumpRegisteredBlocks
@@ -99,6 +102,7 @@ WerpSetReportTime
 WerpSetReportUploadContextToken
 WerpSetTelemetryAppParams
 WerpSetTelemetryKernelParams
+WerpSetTelemetryServiceParams
 WerpSetTimedTask
 WerpShowUpsellUI
 WerpStitchedMinidumpVmPostReadCallback
@@ -130,7 +134,9 @@ WerStoreGetNextReportKey
 WerStoreGetReportCount
 WerStoreGetSizeOnDisk
 WerStoreOpen
+WerStorePurge
 WerStoreQueryReportMetadataV1
+WerStoreQueryReportMetadataV2
 WerStoreUploadReport
 WerSysprepCleanup
 WerSysprepGeneralize

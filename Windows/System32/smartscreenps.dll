@@ -1,4 +1,5 @@
 DllCanUnloadNow
+DllGetActivationFactory
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer

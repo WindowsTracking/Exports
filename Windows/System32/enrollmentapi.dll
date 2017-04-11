@@ -13,7 +13,6 @@ GetEnterpriseManagementAppURL
 GetOMADMAccountInfo
 InstallCompanyHub
 IsDeviceEnrolled
-ResumeEnrollmentAsync
 SafeHeapAlloc
 SafeHeapFree
 ShowCertExpiryWarning

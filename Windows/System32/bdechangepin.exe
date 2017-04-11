@@ -27,6 +27,7 @@
 ?IsEncrypting@VolumeFveStatus@@QEBA_NXZ
 ?IsLocked@VolumeFveStatus@@QEBA_NXZ
 ?IsOn@VolumeFveStatus@@QEBA_NXZ
+?IsOsCriticalVolume@VolumeFveStatus@@QEBA_NXZ
 ?IsOsVolume@VolumeFveStatus@@QEBA_NXZ
 ?IsPartiallyConverted@VolumeFveStatus@@QEBA_NXZ
 ?IsPaused@VolumeFveStatus@@QEBA_NXZ

@@ -1,0 +1,10 @@
+CdfPluginRegisterDevice
+CdfPluginUnregisterDevice
+CdfPluginUpdatePresenceState
+NaForceEvaluateUserPresence
+NaRuleQuery
+NaRuleRegister
+NaRuleUnregister
+NaRuleValidate
+NaStartUserPresenceMonitoring
+NaStopUserPresenceMonitoring

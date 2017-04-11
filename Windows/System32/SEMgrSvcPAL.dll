@@ -1,0 +1,13 @@
+DismissSEMgrServiceDialog
+GetPrivateRegistryLocation
+GetSEMgrServiceDialogResult
+InitializeForegroundTracking
+IsForegroundTrackingSupported
+LaunchModernNfcSession
+PlayEventNotification
+ResetScreenIdleTime
+ShowSEMgrServiceDialog
+StartForegroundTracking
+StopEventNotification
+StopForegroundTracking
+UninitializeForegroundTracking
