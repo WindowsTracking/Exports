@@ -1,4 +1,5 @@
 AddStroke
+AddStrokeWithId
 AddWordsToWordList
 AdviseInkChange
 CreateContext
@@ -24,9 +25,11 @@ IsStringSupported
 LoadCachedAttributes
 MakeWordList
 Process
+SetConstraint
 SetEnabledUnicodeRanges
 SetFactoid
 SetFlags
 SetGuide
+SetStrokeGroupId
 SetTextContext
 SetWordList

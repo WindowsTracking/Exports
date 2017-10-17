@@ -1,8 +1,0 @@
-UirGetScreenComment
-UirInitializeEngine
-UirPauseRecordingSession
-UirResumeRecordingSession
-UirStartRecordingSession
-UirStopRecordingSession
-UirUninitializeEngine
-UirUpdateRecordingSession

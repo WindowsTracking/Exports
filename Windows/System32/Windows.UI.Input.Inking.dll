@@ -1,4 +1,4 @@
-CreateDirectInkPartner
+CreateDCompositionDirectInkFactoryPartner
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject

@@ -4,3 +4,4 @@ NgcSerializeConvenienceCredential
 NgcSerializeConveniencePasswordChangeCredential
 NgcSerializeKeyCredential
 NgcSerializeKeyPasswordChangeCredential
+NgcSerializePasswordCredential

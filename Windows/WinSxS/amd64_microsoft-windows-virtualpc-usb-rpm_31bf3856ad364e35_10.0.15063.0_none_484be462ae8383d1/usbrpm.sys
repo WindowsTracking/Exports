@@ -1,8 +1,0 @@
-DllInitialize
-DllUnload
-DriverEntry
-RPMGetAvailableDevices
-RPMLoadAlternateDriverForDevice
-RPMRegisterAlternateDriver
-RPMUnloadAlternateDriverForDevice
-RPMUnregisterAlternateDriver

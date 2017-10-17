@@ -99,6 +99,7 @@ WintrustSetRegPolicyFlags
 WinVerifyTrust
 WinVerifyTrustEx
 WTGetBioSignatureInfo
+WTGetPluginSignatureInfo
 WTGetSignatureInfo
 WTHelperCertCheckValidSignature
 WTHelperCertFindIssuerCertificate

@@ -1,3 +1,4 @@
+_DismAddDriverEx
 _DismAddProvisionedAppxPackage
 _DismApplyCustomDataImage
 _DismApplyFfuImage
@@ -5,7 +6,10 @@ _DismApplyProvisioningPackage
 _DismCleanupSession
 _DismEnableDisableFeature
 _DismExportDriver
+_DismGetCapabilitiesEx
+_DismGetCapabilityInfoEx
 _DismGetCurrentEdition
+_DismGetDriversEx
 _DismGetEffectiveSystemUILanguage
 _DismGetFeaturesEx
 _DismGetInstallLanguage
@@ -34,6 +38,9 @@ _DismSetProductKey
 _DismSetSkuIntlDefaults
 _DismSplitFfuImage
 _DismStage
+_DismSysprepCleanup
+_DismSysprepGeneralize
+_DismSysprepSpecialize
 _DismValidateProductKey
 DismAddCapability
 DismAddDriver

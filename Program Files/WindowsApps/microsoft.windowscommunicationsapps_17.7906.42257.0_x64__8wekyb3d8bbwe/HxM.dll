@@ -1,7 +1,0 @@
-?CoreConstructorInitialize@Mail@Hx@@YAXPEAUConfig@Telemetry@2@@Z
-?CoreInitialize@Mail@Hx@@YAXXZ
-?CorePreInitialize@Mail@Hx@@YAXXZ
-?CoreUninitialize@Mail@Hx@@YAXXZ
-?GetLocalizedMailResourceDll@Mail@Hx@@YAPEAUHINSTANCE__@@XZ
-?TEST_GenerateRecipientsChangedText@Mail@Hx@XamlTest@UI@Office@@YA?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PEBU?$ICollection@UIPerson@Hx@@@2@@Z
-?UseAccessHubUI@Mail@Hx@@YAAEAUIMailAccessHubUI@12@XZ

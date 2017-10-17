@@ -10,6 +10,8 @@ NgcChangePin
 NgcChangePinSilent
 NgcCreateContainer
 NgcCreateContainerSilent
+NgcCreateTicketForSmartCardKeyOperation
+NgcCreateTicketForSmartCardVpn
 NgcCreateUserIdKey
 NgcCreateUserIdKeyEx
 NgcCreateUserIdKeyHandle
@@ -17,6 +19,7 @@ NgcDecryptWithSymmetricPopKey
 NgcDecryptWithUserIdKey
 NgcDecryptWithUserIdKeySilent
 NgcDeleteContainer
+NgcDeleteContainerEx
 NgcDeleteSymmetricPopKeyTransportKey
 NgcDeleteUserIdKey
 NgcEncryptWithAsymmetricKey
@@ -28,6 +31,7 @@ NgcFidoAuthenticatorGetAAGUID
 NgcFidoAuthenticatorGetAccountInformation
 NgcFidoAuthenticatorGetCredentials
 NgcFidoAuthenticatorMakeCredential
+NgcFidoAuthenticatorMakeCredential2
 NgcFidoAuthenticatorSignAssertion
 NgcFreeEnumState
 NgcGetCachedLogonKeyName
@@ -48,7 +52,6 @@ NgcGetSymmetricPopKeyTransportKeyName
 NgcGetUserIdKeyCertificate
 NgcGetUserIdKeyPublicKey
 NgcImportSymmetricPopKey
-NgcIsCertificateRequiredForOnPremAuth
 NgcIsPinRemovable
 NgcLocalAddCredential
 NgcLocalAddCredentialSilent
@@ -56,6 +59,7 @@ NgcLocalAddDefaultUserCredential
 NgcLocalChangeCredential
 NgcLocalFindCredential
 NgcLocalRemoveCredential
+NgcLocalRemoveCredentialEx
 NgcNotifyVscProvisioned
 NgcPackAuthBuffer
 NgcPackPasswordChangeAuthBuffer
@@ -70,7 +74,6 @@ NgcSignWithSymmetricPopKey
 NgcSignWithUserIdKey
 NgcSignWithUserIdKeyEx
 NgcSignWithUserIdKeySilent
-NgcTicketGetTicketForScard
 NgcUnpackAuthBuffer
 NgcUnpackCredData
 NgcUnpackPasswordChangeAuthBuffer

@@ -1,8 +1,0 @@
-DllCanUnloadNow
-DllGetActivationFactory
-DllGetClassObject
-EnablePinForSignIn
-EnrollEnterpriseKey
-EnrollPin
-GetProxyDllInfo
-IsEnrollmentPermittedForLocalAccountWithoutPassword

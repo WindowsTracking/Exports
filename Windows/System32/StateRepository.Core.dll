@@ -157,6 +157,7 @@ sqlite3_result_zeroblob64
 sqlite3_rollback_hook
 sqlite3_set_authorizer
 sqlite3_set_auxdata
+sqlite3_set_last_insert_rowid
 sqlite3_shutdown
 sqlite3_sleep
 sqlite3_snprintf
@@ -175,6 +176,7 @@ sqlite3_stricmp
 sqlite3_strlike
 sqlite3_strnicmp
 sqlite3_system_errno
+sqlite3_table_column_metadata
 sqlite3_test_control
 sqlite3_thread_cleanup
 sqlite3_threadsafe

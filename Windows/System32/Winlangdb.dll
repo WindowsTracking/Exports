@@ -17,5 +17,6 @@ IsTouchEnabledInputMethod
 LanguagesDatabaseGetChildLanguages
 LanguagesDatabaseHasChildren
 SetUserLanguages
+SetUserLanguagesNoSpeller
 TransformInputMethodsForLanguage
 TransformInputMethodsForLanguageId

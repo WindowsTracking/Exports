@@ -4,9 +4,10 @@ DavDeleteConnection
 DavFlushFile
 DavGetExtendedError
 DavGetHTTPFromUNCPath
-DavGetServerPortAndPhysicalName
 DavGetUNCFromHTTPPath
+DavParseUncServerName
 DavRemoveDummyShareFromFileName
 DavRemoveDummyShareFromFileNameEx
-UtfUrlStrToWideStr
-WideStrToUtfUrlStr
+DavUrlDecodeToNtPath
+DavUrlDecodeUtf8
+DavUrlEncodeNtPath

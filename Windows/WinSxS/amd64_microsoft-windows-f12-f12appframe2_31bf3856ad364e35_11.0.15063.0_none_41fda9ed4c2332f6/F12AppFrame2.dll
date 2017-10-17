@@ -1,7 +1,0 @@
-AttachTools
-DllCanUnloadNow
-DllGetClassObject
-DllInstall
-DllRegisterServer
-DllUnregisterServer
-ShowTools

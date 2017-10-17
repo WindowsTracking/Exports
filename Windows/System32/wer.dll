@@ -8,10 +8,12 @@ WerpAddAppCompatData
 WerpAddFile
 WerpAddFileBuffer
 WerpAddFileCallback
+WerpAddIfRegisteredForAppLocalDump
 WerpAddMemoryBlock
 WerpAddRegisteredDataToReport
 WerpAddRegisteredDumpsToReport
 WerpAddRegisteredMetadataToReport
+WerpAddTerminationReason
 WerpArchiveReport
 WerpAuxmdDumpProcessImages
 WerpAuxmdDumpRegisteredBlocks
@@ -22,10 +24,10 @@ WerpAuxmdInitialize
 WerpAuxmdMapFile
 WerpCancelResponseDownload
 WerpCancelUpload
+WerpCleanWer
 WerpCloseStore
 WerpCreateIntegratorReportId
 WerpCreateMachineStore
-WerpCreateUserStore
 WerpDeleteReport
 WerpDestroyWerString
 WerpDownloadResponse
@@ -79,10 +81,9 @@ WerpLoadReport
 WerpLoadReportFromBuffer
 WerpOpenMachineArchive
 WerpOpenMachineQueue
-WerpOpenUserArchive
-WerpOpenUserQueue
 WerpPromptUser
 WerpPruneStore
+WerpQueueHasBypassPowerReports
 WerpReportCancel
 WerpReportSprintfParameter
 WerpReserveMachineQueueReportDir
@@ -94,10 +95,12 @@ WerpSetDefaultUserConsent
 WerpSetDynamicParameter
 WerpSetEventName
 WerpSetIntegratorReportId
+WerpSetProcessTimelines
 WerpSetReportApplicationIdentity
 WerpSetReportFlags
 WerpSetReportInformation
 WerpSetReportNamespaceParameter
+WerpSetReportOption
 WerpSetReportTime
 WerpSetReportUploadContextToken
 WerpSetTelemetryAppParams
@@ -109,7 +112,6 @@ WerpStitchedMinidumpVmPostReadCallback
 WerpStitchedMinidumpVmPreReadCallback
 WerpStitchedMinidumpVmQueryCallback
 WerpSubmitReportFromStore
-WerpSvcReportFromMachineQueue
 WerpTraceAuxMemDumpStatistics
 WerpTraceDuration
 WerpTraceImageCacheStatistics

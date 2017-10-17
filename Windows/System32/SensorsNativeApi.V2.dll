@@ -3,9 +3,12 @@ SensorCancelHistoryRetrievalV2
 SensorClearHistoryV2
 SensorCloseV2
 SensorDeviceIoControlV2
+SensorDisableWakeV2
 SensorEnableIdleOperationV2
+SensorEnableWakeV2
 SensorGetAccDataV2
 SensorGetAlsDataV2
+SensorGetAlsDataWithColorV2
 SensorGetBarDataV2
 SensorGetCapabilitiesCollectionV2
 SensorGetCapabilitiesV2
@@ -33,6 +36,7 @@ SensorOpenByInterfaceV2
 SensorOpenV2
 SensorSetAccThresholdsV2
 SensorSetAlsThresholdsV2
+SensorSetAlsWithColorThresholdsV2
 SensorSetBarThresholdsV2
 SensorSetDataDeliveryModeV2
 SensorSetFusThresholdsV2
@@ -42,6 +46,8 @@ SensorSetRangeResolutionV2
 SensorSetReportLatencyV2
 SensorStartCollectionV2
 SensorStartHistoryV2
+SensorStartStateChangeNotificationV2
 SensorStartV2
 SensorStopHistoryV2
+SensorStopStateChangeNotificationV2
 SensorStopV2

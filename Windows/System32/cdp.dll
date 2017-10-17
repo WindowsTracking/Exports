@@ -1,3 +1,4 @@
+CDPAccountFromWebAccount
 CDPAcquireNetworkingInternal
 CDPCreateAccountInternal
 CDPCreateAccountProviderInternal
@@ -5,6 +6,11 @@ CDPCreateActivity
 CDPCreateActivityAsset
 CDPCreateActivityAssetInternal
 CDPCreateActivityInternal
+CDPCreateActivityStoreInfoInternal
+CDPCreateActivityStoreInfoWatcher
+CDPCreateActivityStoreInfoWatcherInternal
+CDPCreateActivityStoreReader
+CDPCreateActivityStoreReaderInternal
 CDPCreateAFSUserSettingsInternal
 CDPCreateAllDevicesQuery
 CDPCreateAnonymousAccount
@@ -27,6 +33,7 @@ CDPCreateCloudNotificationClient
 CDPCreateComObjectInternal
 CDPCreateCrossPlatformAppId
 CDPCreateCrossPlatformAppIdFromAppId
+CDPCreateDeviceInternal
 CDPCreateDeviceQuery
 CDPCreateDeviceQueryForSessionInternal
 CDPCreateDeviceQueryInternal
@@ -42,6 +49,7 @@ CDPCreateMessagingClientInternal
 CDPCreateMessagingHost
 CDPCreateMessagingHostInternal
 CDPCreateMicrosoftAccount
+CDPCreateRemoteUserInternal
 CDPCreateSensorClient
 CDPCreateSensorClientInternal
 CDPCreateSensorHost
@@ -54,10 +62,14 @@ CDPCreateTouchHost
 CDPCreateTouchHostInternal
 CDPCreateUserNotificationClientInternal
 CDPCreateUserServiceNotificationClient
+CDPCreateUuid
 CDPCreateWebAccountProviderCallbackInternal
 CDPFixAccounts
 CDPGetActivityStore
 CDPGetActivityStoreForAccount
+CDPGetActivityStoreForAccountInternal
+CDPGetActivityStoreForStoreInfo
+CDPGetActivityStoreForStoreInfoInternal
 CDPGetActivityStoreInternal
 CDPGetDeviceCache
 CDPGetDeviceCacheInternal
@@ -65,11 +77,13 @@ CDPGetHost
 CDPGetLogger
 CDPGetResourceHandler
 CDPGetResourceManager
+CDPGetSDKAuthorizationPolicyOfInteractiveUser
 CDPGetSystemAppId
 CDPGetUserActivitySettings
 CDPGetUserActivitySettingsInternal
 CDPInitialize
 CDPInitializeActivitiesSync
+CDPInitializeForService
 CDPInitializeUserService
 CDPPreShutdown
 CDPReleaseNetworkingInternal

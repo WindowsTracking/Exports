@@ -34,4 +34,5 @@ MtxCluSetDefaultClusterResource
 MtxCluSetSecurityRegValue
 MtxCluTakeOfflineDTCW
 MtxCluVerifyLogPathInDependantDiskResource
+MtxCluVerifyLogPathIsValidCSV
 Startup

@@ -1,5 +1,0 @@
-GetEnterprisePolicyName
-GetSkuUpdateManagementGroup
-GetUpdatePolicyName
-ReadPolicy
-ReadPolicyWithFallback

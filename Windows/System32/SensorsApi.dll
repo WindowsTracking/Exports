@@ -6,6 +6,7 @@ SensorCloseCOM
 SensorEnableIdleOperationCOM
 SensorGetAccDataCOM
 SensorGetAlsDataCOM
+SensorGetAlsDataWithColorCOM
 SensorGetBarDataCOM
 SensorGetCapabilitiesCollectionCOM
 SensorGetDataCollectionCOM
@@ -23,6 +24,7 @@ SensorPermissionsHandlerW
 SensorRegisterEventCOM
 SensorSetAccThresholdsCOM
 SensorSetAlsThresholdsCOM
+SensorSetAlsWithColorThresholdsCOM
 SensorSetBarThresholdsCOM
 SensorSetFusThresholdsCOM
 SensorSetGyrThresholdsCOM

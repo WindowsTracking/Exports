@@ -1,4 +1,5 @@
 DllCanUnloadNow
+Tpm20CanClearUsingAuthPolicy
 Tpm20ClearUsingAuthPolicy
 Tpm20GetCompleteManufacturerVersion
 Tpm20IsResetLockoutCountNeeded
@@ -7,10 +8,13 @@ Tpm2ReadWindowsNvBit
 Tpm2SetWindowsNvBit
 TpmAddBlockedCommand
 TpmCertCheckEkCertMatchedEkPub
+TpmCertDeleteHealthCert
 TpmCertDeleteHealthEndpoint
+TpmCertGetCurrentProtocolVersion
 TpmCertGetEkCertFromWeb
 TpmCertGetFormattedUrl
 TpmCertGetFwLinkId
+TpmCertGetHASProtocolVersion
 TpmCertGetHealthCert
 TpmCertGetHealthCertFromWeb
 TpmCertGetHealthCorrelationId
@@ -19,6 +23,8 @@ TpmCertGetHealthForceRetrieve
 TpmCertGetHealthStatusCode
 TpmCertGetHealthStatusRequestBlob
 TpmCertGetIsActiveZeroExhaust
+TpmCertGetMaximumSupportedProtocolVersion
+TpmCertGetPreferredMaximumProtocolVersion
 TpmCertGetTpmManufacturerId
 TpmCertGetTpmManufacturerId12
 TpmCertGetUrlForFwlinkId
@@ -26,13 +32,18 @@ TpmCertGetWindowsAik
 TpmCertInstallEkCertInRegistry
 TpmCertInstallNvEkCerts
 TpmCertIsHealthCertOnBootEnabled
+TpmCertParseHealthResponse
+TpmCertPostHealthXmlData
 TpmCertQueryEkPub
+TpmCertSetEkAttestationOverride
 TpmCertSetHealthEndpoint
 TpmCertSetHealthForceRetrieve
 TpmCertSetHealthStatusCode
+TpmCertSetPreferredMaximumProtocolVersion
 TpmCertVerifyHealthCertFromWeb
 TpmChangeOwnerAuth
 TpmCheckCreateWindowsAIK
+TpmCheckIFXRSAKeyGenVulnerability
 TpmClear
 TpmClearUsingPhysicalPresence
 TpmConvertToOwnerAuth
@@ -61,6 +72,7 @@ TpmGet_TpmVersionInfo
 TpmGetCapLockoutInfo
 TpmGetDictionaryAttackParameters
 TpmGetEndorsementKeyCertificateState
+TpmGetHealthCertRequest
 TpmGetOrderlyShutdownInfo
 TpmGetOwnerAuth
 TpmGetOwnerAuthForEscrow
@@ -75,6 +87,8 @@ TpmGetSignedEKFromVendorCommand
 TpmGetSrkADThumbprint
 TpmGetSrkPublicKeyModulus
 TpmGetTcgLog
+TpmGetVerificationRequest
+TpmHealthCertGetAndVerify
 TpmImportOwnerAuth
 TpmIsActivated
 TpmIsAutoProvisioningEnabled

@@ -1,4 +1,0 @@
-?CreateDescriptionFromXml@container@@YAXPEAXPEAPEBGK_NAEBV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@PEAU_WC_PACKAGE_LAYER@@KAEAVContainerDescription@1@@Z
-?ReadFromXml@xml@container@@YAXAEBV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@_NPEAVListener@12@@Z
-WcCreateDescriptionFromXml
-WcDestroyDescription

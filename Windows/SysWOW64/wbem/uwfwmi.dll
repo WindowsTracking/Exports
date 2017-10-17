@@ -1,0 +1,12 @@
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+DoUnattend
+GetProviderClassID
+MethodAccessCheck
+MI_Main
+PropertyAccessCheck
+UwfSysprepCleanup
+UwfSysprepGeneralize
+UwfSysprepSpecialize

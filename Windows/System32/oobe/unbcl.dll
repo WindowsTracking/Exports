@@ -2418,6 +2418,7 @@
 ?s_Handler@Logging@UnBCL@@0PEAUILogHandler@@EA
 ?s_InternPool@String@UnBCL@@1PEAV?$Hashtable@PEAVString@UnBCL@@PEAV12@@2@EA
 ?s_Manager@Allocator@UnBCL@@0PAPEAUIHeapMemory@@A
+?s_Manager_Init@Allocator@UnBCL@@0HA
 ?s_OOMHandler@Allocator@UnBCL@@0PEAUIOutOfMemoryHandler@@EA
 ?s_PoolLock@String@UnBCL@@1VObject@2@A
 ?s_Registered@SerializationStream@UnBCL@@0PEAV?$Hashtable@PEAVSerializationId@UnBCL@@PEAVTypeFactoryList@SerializationStream@2@@2@EA

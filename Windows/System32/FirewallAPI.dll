@@ -17,6 +17,7 @@ FwAnalyzeFirewallPolicy
 FwAnalyzeFirewallPolicyOnProfile
 FwApiHelperFree
 FwApiHelperInit
+FwBstrToInterfaceTypes
 FwBstrToPorts
 FWChangeNotificationCreate
 FWChangeNotificationDestroy
@@ -98,6 +99,7 @@ FWIndicateProxyForUrl
 FWIndicateProxyResolverRefresh
 FWIndicateTupleInUse
 FWIndicateTupleInUse2
+FwInterfaceTypesToBstr
 FwIsGroupPolicyEnforced
 FwIsRemoteManagementEnabled
 FWIsTargetAProxy

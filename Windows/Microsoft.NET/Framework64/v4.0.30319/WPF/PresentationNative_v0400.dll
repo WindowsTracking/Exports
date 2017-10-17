@@ -143,6 +143,7 @@ IsStartXpsPrintJobSupported
 IsWindows10OrGreater
 IsWindows10RS1OrGreater
 IsWindows10RS2OrGreater
+IsWindows10RS3OrGreater
 IsWindows10TH1OrGreater
 IsWindows10TH2OrGreater
 IsWindows7OrGreater

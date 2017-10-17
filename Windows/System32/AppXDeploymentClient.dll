@@ -1,6 +1,8 @@
 #1
 #16
 AppxAddPackageToAllUserStoreForPbr
+AppxCleanupOrphanPackages
+AppxCleanupSystemAppsMigratedToFOD
 AppxCleanupWCIReparsePoints
 AppxCreateSharedLocalFolder
 AppxDeletePackageFiles
@@ -21,6 +23,7 @@ AppxRequestRemovePackageForUser
 AppxStagePackage
 AppxValidatePackages
 AppxValidatePackagesWithOptions
+CheckComCallerHasCapabilities
 CreateCanonicalPriFile
 DllCanUnloadNow
 DllGetActivationFactory

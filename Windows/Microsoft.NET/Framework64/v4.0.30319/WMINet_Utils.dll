@@ -21,6 +21,7 @@ ExecQueryWmi
 Get
 GetCurrentApartmentType
 GetDemultiplexedStub
+GetErrorInfo
 GetMethod
 GetMethodOrigin
 GetMethodQualifierSet
@@ -32,6 +33,7 @@ GetPropertyOrigin
 GetPropertyQualifierSet
 GetQualifierSet
 InheritsFrom
+Initialize
 Lock
 Next
 NextMethod

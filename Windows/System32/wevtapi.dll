@@ -41,6 +41,5 @@ EvtRender
 EvtSaveChannelConfig
 EvtSeek
 EvtSetChannelConfigProperty
-EvtSetObjectArrayProperty
 EvtSubscribe
 EvtUpdateBookmark

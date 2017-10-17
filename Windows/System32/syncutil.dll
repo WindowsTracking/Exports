@@ -104,7 +104,6 @@
 #4
 #40
 #41
-#411
 #412
 #413
 #42
@@ -179,7 +178,6 @@
 #746
 #747
 #748
-#749
 #83
 #84
 #85
@@ -209,9 +207,9 @@ DeleteHttpTransport
 DeleteOAuthRefreshTokenForPartnership
 DeletePwd
 DeviceNeedsProvisioning
-DisallowAutoConfiguration
 DllCanUnloadNow
 DllGetClassObject
+DoesServerSupportAutoMoveSentItem
 FindErrorCode
 GetAADToken
 GetAccountSyncStats
@@ -251,11 +249,11 @@ InitializeServerReadyEvents
 InitializeSyncStatus
 InvalidateOAuthAccessTokenForPartnership
 IsACOn
-IsAutoConfigurationAllowed
 IsFirstSyncEver
 IsMatchingClientCertificateEx
 IsPwdSaved
 IsScreenOn
+IsValidAADAuthUri
 LoadHeartbeatValues
 LogSyncBiweeklySQM
 MarkServerReady

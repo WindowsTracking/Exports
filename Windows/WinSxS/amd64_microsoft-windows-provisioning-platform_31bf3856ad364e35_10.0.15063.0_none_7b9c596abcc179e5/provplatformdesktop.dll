@@ -1,8 +1,0 @@
-CheckPackageManagerOutOfProc
-CheckUserConsent
-ConfigureAppLaunch
-GetDeviceId
-GetPackagePassword
-GetProvisioningTargetUser
-ReportInstallationError
-SetDeviceName

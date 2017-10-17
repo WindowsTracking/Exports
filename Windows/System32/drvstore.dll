@@ -1,5 +1,6 @@
 DriverPackageClose
 DriverPackageEnumClassesW
+DriverPackageEnumComponentsW
 DriverPackageEnumConfigurationsW
 DriverPackageEnumDevicesW
 DriverPackageEnumDriversW
@@ -9,6 +10,7 @@ DriverPackageEnumPropertiesW
 DriverPackageEnumRegKeysW
 DriverPackageEnumServicesW
 DriverPackageEnumSoftwareW
+DriverPackageGetPropertyW
 DriverPackageGetVersionInfoW
 DriverPackageOpenW
 DriverStoreClose

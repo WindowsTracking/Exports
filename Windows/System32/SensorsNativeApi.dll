@@ -4,9 +4,12 @@ SensorClearHistory
 SensorClose
 SensorDetermineStackByPropertyStore
 SensorDeviceIoControl
+SensorDisableWake
 SensorEnableIdleOperation
+SensorEnableWake
 SensorGetAccData
 SensorGetAlsData
+SensorGetAlsDataWithColor
 SensorGetBarData
 SensorGetCapabilities
 SensorGetCapabilitiesCollection
@@ -37,6 +40,7 @@ SensorRegisterEvent
 SensorSelectBestDevice
 SensorSetAccThresholds
 SensorSetAlsThresholds
+SensorSetAlsWithColorThresholds
 SensorSetBarThresholds
 SensorSetDataDeliveryMode
 SensorSetFusThresholds

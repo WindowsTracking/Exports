@@ -2,10 +2,13 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+WcmAddRoutePolicy
 WcmBeginIgnoreProfileList
 WcmCancelOnDemandRequest
+WcmCheckCapabilityStatus
 WcmCloseHandle
 WcmCloseOnDemandRequestHandle
+WcmDeprovisionCapability
 WcmEndIgnoreProfileList
 WcmEnterConnectedStandby
 WcmEnterNetQuiet
@@ -13,10 +16,11 @@ WcmEnumInterfaces
 WcmExitConnectedStandby
 WcmExitNetQuiet
 WcmFreeMemory
+WcmGetInterfaceContextTable
 WcmGetInterfaceToken
 WcmGetProfileList
 WcmGetProfileListByPurpose
-WcmGetProfileListForInterfaceGuid
+WcmGetRoutingHint
 WcmOpenHandle
 WcmOpenOnDemandRequestHandle
 WcmOpenOnDemandRequestHandleByWwanProfileName
@@ -24,6 +28,8 @@ WcmOrderConnection
 WcmQueryOnDemandRequestStateInfo
 WcmQueryParameter
 WcmQueryProperty
+WcmRemoveMatchingRoutePolicy
+WcmRemoveRoutePolicy
 WcmResetIgnoreProfileList
 WcmSetOperatorConnectionCost
 WcmSetOperatorCycleData
@@ -32,3 +38,4 @@ WcmSetParameter
 WcmSetProfileList
 WcmSetProperty
 WcmStartOnDemandRequest
+WcmUpdateCapabilityAccess

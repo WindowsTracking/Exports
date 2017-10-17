@@ -7,6 +7,7 @@ WinHttpAutoProxySvcMain
 WinHttpCheckPlatform
 WinHttpCloseHandle
 WinHttpConnect
+WinHttpConnectionDeletePolicyEntries
 WinHttpConnectionDeleteProxyInfo
 WinHttpConnectionFreeNameList
 WinHttpConnectionFreeProxyInfo
@@ -14,7 +15,9 @@ WinHttpConnectionFreeProxyList
 WinHttpConnectionGetNameList
 WinHttpConnectionGetProxyInfo
 WinHttpConnectionGetProxyList
+WinHttpConnectionSetPolicyEntries
 WinHttpConnectionSetProxyInfo
+WinHttpConnectionUpdateIfIndexTable
 WinHttpCrackUrl
 WinHttpCreateProxyResolver
 WinHttpCreateUrl
@@ -41,6 +44,7 @@ WinHttpQueryHeaders
 WinHttpQueryOption
 WinHttpReadData
 WinHttpReadProxySettings
+WinHttpReadProxySettingsHvsi
 WinHttpReceiveResponse
 WinHttpResetAutoProxy
 WinHttpSaveProxyCredentials

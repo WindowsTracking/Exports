@@ -1,4 +1,3 @@
-CreateVoiceShell
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject

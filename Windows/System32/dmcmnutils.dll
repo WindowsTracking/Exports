@@ -15,6 +15,7 @@ DmGetCurrentUserSid
 DmGetCurrentUserToken
 DMGetDeviceClientID
 DmGetFileSize
+DmGetIMEI
 DmGetUserEditFieldInput
 DmGetUserPermission
 DmGetUserPermissionAsync
@@ -25,10 +26,12 @@ DmIsDeviceConnected
 DmIsDeviceRoaming
 DmIsRunningInSystemContext
 DmIsSystemOrAdmin
+DmIsSystemOrUserIsAdmin
 DmIsTaskScheduled
 DmMdmSign
 DmPlayNotificationSound
 DmRaiseToastNotification
+DmRaiseToastNotificationAndWait
 DmRegisterRoamingNotification
 DmRemoveToastNotification
 DmRequestAadUserToken
@@ -67,6 +70,7 @@ IsPhoneOS
 MBToUnicode
 OmaDmRegistryDeleteValue
 OmaDmRegistryGetAllSubKeys
+OmaDmRegistryGetAllValues
 OmaDmRegistryGetBinary
 OmaDmRegistryGetDWORD
 OmaDmRegistryGetString

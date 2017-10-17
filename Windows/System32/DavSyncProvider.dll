@@ -1,5 +1,6 @@
 DllCanUnloadNow
 DllGetClassObject
+ForceCalDavCollectionsListRefreshDuringNextSync
 HandleWebDavMeetingResponseForAppointment
 HandleWebDavMeetingResponseForMeetingNotification
 UpdateCalDavTrackingSchema

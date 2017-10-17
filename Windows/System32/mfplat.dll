@@ -19,6 +19,7 @@ MFBeginUnregisterWorkQueueWithMMCSS
 MFCalculateBitmapImageSize
 MFCalculateImageSize
 MFCallStackTracingClearSnapshot
+MFCallStackTracingLogSessionErrors
 MFCallStackTracingRestoreSnapshot
 MFCallStackTracingTakeSnapshot
 MFCancelCreateFile
@@ -39,6 +40,7 @@ MFCreateAMMediaTypeFromMFMediaType
 MFCreateAsyncResult
 MFCreateAttributes
 MFCreateAudioMediaType
+MFCreateByteStreamHandlerAppServiceActivate
 MFCreateCollection
 MFCreateContentDecryptorContext
 MFCreateContentProtectionDevice

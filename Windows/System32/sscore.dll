@@ -3,6 +3,7 @@ SsCoreAliasAddEx
 SsCoreAliasDel
 SsCoreAliasDelEx
 SsCoreCloseInstance
+SsCoreCompleteCsvVolumeDrain
 SsCoreDeregisterNetnameForMultichannel
 SsCoreFileDel
 SsCoreFileDelForInstance
@@ -16,6 +17,7 @@ SsCoreInitializeEx
 SsCoreInvalidationRequest
 SsCoreLockVolumes
 SsCoreMarkAsClusterSvc
+SsCoreNodeResetInfo
 SsCoreNodeSetInfo
 SsCoreOpenInstance
 SsCoreRefreshSrvCredentialHandle
@@ -38,6 +40,7 @@ SsCoreShareGetInfoForInstance
 SsCoreShareSetInfo
 SsCoreShareSetInfoForInstance
 SsCoreShareShutdownForScope
+SsCoreStartCsvVolumeDrain
 SsCoreStartInstance
 SsCoreStopInstance
 SsCoreUninitialize

@@ -22,6 +22,8 @@ CreateDialAssist
 CreatePerUserSecurityPolicy
 CreatePerUserSecurityToken
 CreatePerUserSecurityTokenForRpcClient
+CreateUdmDataSessionForSignedInUser
+CreateUdmDataSessionForSignedInUserContext
 DeinitDialingPrefixTable
 DetectMultiPrefix
 DuplicateSidIfValid
@@ -54,6 +56,7 @@ GetSignedInUserForAppActivation
 GetTelUriFromDialString
 GetTextReplyPresetMessages
 GetTimeDeltaFormat
+GetUserTokenForUser
 GetZerothCellularPhoneLineId
 InitDialingPrefixTable
 IsDialableChar
@@ -75,6 +78,7 @@ PhoneLineIdToString
 PhoneLineIdToUrlEscapedString
 RemoveMetadataFromNumber
 ShouldSupportLineSecurity
+ShouldSupportUdmCallHistory
 StringToPhoneLineId
 StripExtraneousNDD
 StripNonDtmfChars

@@ -6,6 +6,8 @@ MiracastFreeMemory
 MiracastIeDecode
 MiracastIeEncode
 MiracastQueryParameters
+MiracastRegisterDatarateCallback
+MiracastUnregisterDatarateCallback
 OpenMiracastSession
 VsIeProviderGetFunctionTable
 WFDDisplaySinkCloseSession

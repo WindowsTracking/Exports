@@ -1,2 +1,4 @@
 CreateHrtfApo
 CreateHrtfApoWithOptions
+CreateHrtfEngineFactory
+IsHrtfApoAvailable

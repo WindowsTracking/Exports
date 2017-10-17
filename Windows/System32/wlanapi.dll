@@ -111,6 +111,7 @@ WiFiDisplayResetSinkStateInt
 WiFiDisplaySetSinkClientHandleInt
 WiFiDisplaySetSinkStateInt
 WlanAllocateMemory
+WlanAllocateProfileIpConfiguration
 WlanCancelPlap
 WlanCloseHandle
 WlanConnect
@@ -190,6 +191,9 @@ WlanPrivateQuery11adPairedConfig
 WlanPrivateQueryInterface
 WlanPrivateRefreshAnqpCache
 WlanPrivateSetInterface
+WlanProfileIpConfigurationGetAddressList
+WlanProfileIpConfigurationGetDnsServerList
+WlanProfileIpConfigurationGetGatewayList
 WlanQueryAutoConfigParameter
 WlanQueryCreateAllUserProfileRestricted
 WlanQueryInterface
@@ -232,6 +236,7 @@ WlanTryUpgradeCurrentConnectionAuthCipher
 WlanUpdateBasicProfileSecurity
 WlanUpdateProfileWithAuthCipher
 WlanUtf8SsidToDisplayName
+WlanVerifyProfileIpConfiguration
 WlanVMgrQueryCurrentScenariosInt
 WlanWcmDisconnect
 WlanWcmGetInterface

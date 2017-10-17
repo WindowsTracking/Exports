@@ -72,6 +72,7 @@ RasIsPulseDial
 RasIsTrustedCustomDll
 RasLinkGetStatistics
 RasmanUninitialize
+RasNQMEnterNotify
 RasPlumbIkev2PskPolicy
 RasPortBundle
 RasPortCancelReceive
@@ -178,6 +179,7 @@ RasSignalNewConnection
 RasStartProtocolRenegotiation
 RasStartRasAutoIfRequired
 RasUpdateAutoTriggerRegKeys
+RasUpdateAutoTriggerRegKeysEx
 RasUpdateDefaultRouteSettings
 RasUpdateQoSPolicies
 RasVpnIkeGetNewTunnelId

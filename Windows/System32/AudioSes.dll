@@ -1,5 +1,8 @@
 #1
+#2
+#3
 DllCanUnloadNow
+DllGetActivationFactory
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer

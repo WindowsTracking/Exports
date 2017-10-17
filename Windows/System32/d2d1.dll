@@ -11,5 +11,3 @@ D2D1MakeSkewMatrix
 D2D1SinCos
 D2D1Tan
 D2D1Vec3Length
-D2DTkCreateAlgorithmFactory
-D2DTkCreateOn12Device

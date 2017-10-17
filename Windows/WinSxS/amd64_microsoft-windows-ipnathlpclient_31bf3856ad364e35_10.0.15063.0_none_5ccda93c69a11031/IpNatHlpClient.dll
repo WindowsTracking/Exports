@@ -1,6 +1,0 @@
-IpNatHlpGetConnectedDevices
-IpNatHlpStartDhcpServer
-IpNatHlpStartSharing
-IpNatHlpStopDhcpServer
-IpNatHlpStopSharing
-IpNatHlpUpdateSharingSettingsFromStorage

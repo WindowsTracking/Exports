@@ -15,3 +15,5 @@ CfgUtilParseNameByLen
 CfgUtilParseParmAttributeName
 CleanupPolicyComplianceEnsuranceForSource
 EnsurePolicyComplianceForSource
+SyncGetDeviceUniqueID
+VerifyFullAdminPrivileges

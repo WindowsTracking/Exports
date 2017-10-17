@@ -1,5 +1,4 @@
 GetNumofSupportedMLDs
-GetNumofSupportedMLEs
 MLDCallTestApi
 MLDDestroy
 MLDEnumerate
@@ -23,9 +22,6 @@ MLEProcessOutput
 MLEQueryFrameBeingEncoded
 MLEQuerySupportedInputFormats
 MLESetParameter
-ParseVC1FrameResolution
-ParseVC1FrameType
-ParseVC1SequenceHeaderResolution
 RtcPalFlushComponentStateTracker
 RtcPalGetComponentStateTrackerBlob
 RtcPalGetVirtualVideoSourceManager
@@ -61,12 +57,10 @@ RtcPalVideoSourceGetLastFrameInfo
 RtcPalVideoSourceGetStatistics
 RtcPalVideoSourceGetSupportedFormatList
 RtcPalVideoSourceIsScreenScraper
-RtcPalVideoSourceNotifyResolutionChangeComplete
 RtcPalVideoSourceQueryEncodeCapabilities
 RtcPalVideoSourceResetStatistics
 RtcPalVideoSourceRestart
 RtcPalVideoSourceSetCurrentFormat
-RtcPalVideoSourceSetFramerateDynamic
 RtcPalVideoSourceSetRotationAngle
 RtcPalVideoSourceSetVideoCropInfo
 RtcPalVideoSourceStart
@@ -82,6 +76,7 @@ RtcVscaDestroyEncodedUnit
 RtcVscaDestroyTranscoderManager
 RtcVscaGetDecodingMetrics
 RtcVscaGetEncodingMetrics
+RtcVscaGetFrameInfoFromPACSI
 RtcVscaGetStreamCountStatistics
 RtcVscaPltfmGetTranscodeBWLadder
 RtcVscaPltfmGetTranscodeMode
@@ -102,6 +97,7 @@ RtmCodecsCreateMjpegDec
 RtmCodecsCreateVideoMomentConverter
 RtmCodecsDecodeMjpegFrame
 RtmCodecsDestroyMjpegDec
+RtmCodecsGetGfxMetrics
 RtmCodecsGetMjpegFrameInfo
 RtmCodecsMjpegGetOutSize
 RtmCodecsMjpegIsFormatSupported

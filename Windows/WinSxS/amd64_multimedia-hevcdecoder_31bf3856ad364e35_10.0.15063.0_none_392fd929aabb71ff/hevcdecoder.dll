@@ -1,6 +1,0 @@
-DllCanUnloadNow
-DllGetActivationFactory
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-GetH265DecoderFunctionTable

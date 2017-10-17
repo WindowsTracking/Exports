@@ -1,3 +1,5 @@
 DllCanUnloadNow
 DllGetClassObject
 GetProxyDllInfo
+UiaInitCrossMachineConnection
+UiaInitCrossMachineConnectionW

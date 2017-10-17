@@ -1,6 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-HandleWebDavMeetingResponseForAppointment
-HandleWebDavMeetingResponseForMeetingNotification
-UpdateCalDavTrackingSchema
-UpdateGMailContactSyncPartner

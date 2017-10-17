@@ -1,7 +1,10 @@
 _purecall
 _wcsicmp
+BlDeviceClose
 BlDeviceEnumerateDeviceClass
 BlDeviceGetInformation
+BlDeviceGetParent
+BlDeviceOpen
 BlDeviceRead
 BlDeviceReadAtOffsetEx
 BlDeviceSetInformation
@@ -13,6 +16,7 @@ BlFileOpen
 BlFileReadAtOffsetEx
 BlFileWriteAtOffset
 BlGetApplicationAttributes
+BlGetBootDevice
 BlGetFilePath
 BlMmAllocateHeap
 BlMmAllocatePages
@@ -28,9 +32,13 @@ BlockIoGetMbrDiskSignature
 BlockIoInitializeFunctionTable
 BlockIoOpen
 BlockIopFreeAllocations
+BlpDeviceGetEntry
 BlpDeviceOpen
 BlpDeviceRegisterDeviceClass
+BlPdSaveData
 BlpIoRegisterDestroyRoutine
+BlpPdFreeDataList
+BlpPdQueryDataList
 BlpReplaceBootDevice
 BlTblSetEntry
 BlUtlCheckSum

@@ -18,6 +18,7 @@ HttpFlushResponseCache
 HttpGetCounters
 HttpInitialize
 HttpPrepareUrl
+HttpQueryRequestProperty
 HttpQueryRequestQueueProperty
 HttpQueryServerSessionProperty
 HttpQueryServiceConfiguration

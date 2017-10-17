@@ -16,6 +16,7 @@ AuditSetSystemPolicy
 BuildSecurityDescriptorForSharingAccess
 BuildSecurityDescriptorForSharingAccessEx
 CapabilityCheck
+CapabilityCheckForSingleSessionSku
 ChangeServiceConfig2A
 ChangeServiceConfig2W
 ChangeServiceConfigA
@@ -27,11 +28,16 @@ ControlServiceExA
 ControlServiceExW
 ControlTraceA
 ControlTraceW
+ConvertSDToStringSDRootDomainW
 ConvertSecurityDescriptorToStringSecurityDescriptorW
 ConvertSidToStringSidW
+ConvertStringSDToSDDomainA
+ConvertStringSDToSDDomainW
+ConvertStringSDToSDRootDomainW
 ConvertStringSecurityDescriptorToSecurityDescriptorW
 ConvertStringSidToSidW
 CreateServiceA
+CreateServiceEx
 CreateServiceW
 CredBackupCredentials
 CredDeleteA
@@ -112,6 +118,8 @@ I_ScValidatePnPService
 LocalGetConditionForString
 LocalGetReferencedTokenTypesForCondition
 LocalGetStringForCondition
+LocalRpcBindingCreateWithSecurity
+LocalRpcBindingSetAuthInfoEx
 LookupAccountNameLocalA
 LookupAccountNameLocalW
 LookupAccountSidLocalA
@@ -167,6 +175,7 @@ QueryServiceDynamicInformation
 QueryServiceObjectSecurity
 QueryServiceStatus
 QueryServiceStatusEx
+QueryTraceProcessingHandle
 QueryTransientObjectSecurityDescriptor
 QueryUserServiceName
 QueryUserServiceNameForContext
@@ -178,6 +187,8 @@ RegisterTraceGuidsA
 ReleaseIdentityProviderEnumContext
 RemoveTraceCallback
 RpcClientCapabilityCheck
+SetLocalRpcServerInterfaceSecurity
+SetLocalRpcServerProtseqSecurity
 SetServiceObjectSecurity
 SetServiceStatus
 SetTraceCallback

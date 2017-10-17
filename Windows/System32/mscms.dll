@@ -70,6 +70,7 @@ InternalSetDeviceConfig
 InternalSetDeviceGammaRamp
 InternalSetDeviceTemperature
 InternalWcsAssociateColorProfileWithDevice
+InternalWcsDisassociateColorProfileWithDevice
 IsColorProfileTagPresent
 IsColorProfileValid
 OpenColorProfileA

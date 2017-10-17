@@ -7,6 +7,7 @@ PimIMClient_CacheAggregateCacheFileMapping
 PimIMClient_Free
 PimIMClient_LoadAggregateCache
 PimIMClient_RebuildAggregateCache
+PimIMClient_ResetInprocService
 PimIMClient_Resume
 PimIMClient_Suspend
 PimIMClient_UpdateItems

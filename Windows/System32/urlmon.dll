@@ -257,7 +257,6 @@ HlinkNavigateString
 HlinkSimpleNavigateToMoniker
 HlinkSimpleNavigateToString
 IECompatLogCSSFix
-IEDllLoader
 IEGetUserPrivateNamespaceName
 IEInstallScope
 IntlPercentEncodeNormalize

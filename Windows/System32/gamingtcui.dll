@@ -8,6 +8,12 @@ DllGetClassObject
 ProcessPendingGameUI
 ShowChangeFriendRelationshipUI
 ShowChangeFriendRelationshipUIForUser
+ShowCustomizeUserProfileUI
+ShowCustomizeUserProfileUIForUser
+ShowFindFriendsUI
+ShowFindFriendsUIForUser
+ShowGameInfoUI
+ShowGameInfoUIForUser
 ShowGameInviteUI
 ShowGameInviteUIForUser
 ShowGameInviteUIWithContext
@@ -18,4 +24,6 @@ ShowProfileCardUI
 ShowProfileCardUIForUser
 ShowTitleAchievementsUI
 ShowTitleAchievementsUIForUser
+ShowUserSettingsUI
+ShowUserSettingsUIForUser
 TryCancelPendingGameUI

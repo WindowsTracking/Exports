@@ -143,6 +143,7 @@ CreateProcessWithLogonW
 CreateProcessWithTokenW
 CreateRestrictedToken
 CreateServiceA
+CreateServiceEx
 CreateServiceW
 CreateTraceInstanceId
 CreateWellKnownSid
@@ -593,6 +594,7 @@ QueryServiceObjectSecurity
 QueryServiceStatus
 QueryServiceStatusEx
 QueryTraceA
+QueryTraceProcessingHandle
 QueryTraceW
 QueryUserServiceName
 QueryUserServiceNameForContext
@@ -695,6 +697,8 @@ RegUnLoadKeyW
 RemoteRegEnumKeyWrapper
 RemoteRegEnumValueWrapper
 RemoteRegQueryInfoKeyWrapper
+RemoteRegQueryMultipleValues2Wrapper
+RemoteRegQueryMultipleValuesWrapper
 RemoteRegQueryValueWrapper
 RemoveTraceCallback
 RemoveUsersFromEncryptedFile

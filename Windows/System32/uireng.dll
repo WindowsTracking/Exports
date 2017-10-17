@@ -1,5 +1,7 @@
 UirGetScreenComment
 UirInitializeEngine
+UirIsRecordingActive
+UirOutCreateOutputFile
 UirPauseRecordingSession
 UirResumeRecordingSession
 UirStartRecordingSession

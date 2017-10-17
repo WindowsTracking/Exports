@@ -1,3 +1,4 @@
+CoreUICallComputeMaximumMessageSize
 CoreUICallCreateConversationHost
 CoreUICallCreateEndpointHost
 CoreUICallReceive
@@ -13,7 +14,7 @@ CoreUICreateWindowValidator
 CoreUIFailFastOOM
 CoreUIOpenExisting
 CoreUIRouteToTestRegistrar
-CreateDedicatedDispatcherQueue
+CreateDispatcherQueueController
 CreateDispatcherQueueForCurrentThread
 DllCanUnloadNow
 DllGetActivationFactory

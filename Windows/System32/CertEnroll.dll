@@ -41,3 +41,4 @@ LogCertExport
 LogCertImport
 LogCertInstall
 LogCertReplace
+UpdateMachinePolicyConfigurationForTemplate

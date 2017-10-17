@@ -3,4 +3,3 @@ CreateRecurrencePatternFromProperties
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject
-SetLocalRpcConnection

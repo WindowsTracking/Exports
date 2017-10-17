@@ -1,6 +1,0 @@
-AwaitContactPickerResults
-ContactToVCardString
-DeserializeContactFromString
-SerializeContactToString
-ShowContactPickerAsync
-VCardStringToContact

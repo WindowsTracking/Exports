@@ -3,6 +3,7 @@ DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject
 GetDependencyLocatorStorage
+SendTelemetryOnSuspend
 XamlControlsCalculateFlyoutPlacement
 XamlControlsGetDatePickerSelection
 XamlControlsGetListPickerSelection

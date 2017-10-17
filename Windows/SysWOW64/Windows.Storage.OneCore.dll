@@ -1,0 +1,12 @@
+BrokeredCreateDirectoryW
+BrokeredCreateFile2
+BrokeredDeleteFileW
+BrokeredFindFirstFileExW
+BrokeredGetFileAttributesExW
+BrokeredGetFileAttributesW
+BrokeredMoveFileExW
+BrokeredRemoveDirectoryW
+BrokeredReplaceFileW
+BrokeredSetFileAttributesW
+DllCanUnloadNow
+DllGetActivationFactory

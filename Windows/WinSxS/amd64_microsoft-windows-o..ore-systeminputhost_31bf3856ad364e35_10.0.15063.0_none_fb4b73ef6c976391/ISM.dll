@@ -1,6 +1,0 @@
-CreateSystemInputHost
-IsSystemInputHostStandalone
-Register3DCompositor
-RegisterManipulationThread
-SetManipulationInputTarget
-Unregister3DCompositor

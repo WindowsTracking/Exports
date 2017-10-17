@@ -1,8 +1,10 @@
 AdtBackupPolicy
+AdtBackupPolicyGeneralized
 AdtClearPolicy
 AdtConstructAllCategoryGuids
 AdtConvertGuidStringToGuid
 AdtConvertGuidToString
+AdtDisableSinglePrivilege
 AdtEnableSinglePrivilege
 AdtGetOption
 AdtGetPerUserPolicy
@@ -15,6 +17,7 @@ AdtParseGuidOrNameArray
 AdtRemoveAllUsers
 AdtRemoveBasePolicy
 AdtRestorePolicy
+AdtRestorePolicyGeneralized
 AdtSetOption
 AdtSetPerUserPolicy
 AdtSetSystemPolicy

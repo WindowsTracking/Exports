@@ -3,4 +3,6 @@ DllGetActivationFactory
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+FixDisabledComponentsForTeredo
+RefreshTeredoClientState
 SetHostNameMediaStreamingMode

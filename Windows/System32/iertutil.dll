@@ -1,5 +1,6 @@
 #100
 #101
+#102
 #110
 #111
 #112
@@ -51,6 +52,7 @@
 #175
 #176
 #177
+#178
 #18
 #19
 #20
@@ -120,6 +122,7 @@
 #57
 #58
 #59
+#594
 #595
 #596
 #597
@@ -281,7 +284,6 @@ GetIUriPriv2
 GetPortFromUrlScheme
 GetPropertyFromName
 GetPropertyName
-IEDllLoader
 IEGetFrameUtilExports
 IEGetProcessModule
 IEGetTabWindowExports
@@ -290,6 +292,9 @@ IntlPercentEncodeNormalize
 IsDWORDProperty
 IsStringProperty
 IUriBuilderInternalCreateDomain
+OutOfProcessExceptionEventCallback
+OutOfProcessExceptionEventDebuggerLaunchCallback
+OutOfProcessExceptionEventSignatureCallback
 PrivateCoInternetCanonicalizeIUri
 PrivateCoInternetCombineIUri
 PrivateCoInternetParseIUri

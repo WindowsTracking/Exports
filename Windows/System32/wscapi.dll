@@ -38,3 +38,4 @@ wscUnRegisterChangeNotification
 WscUnRegisterChanges
 wscUnregisterSecurityProduct
 wscUpdateProductStatus
+wscUpdateProductSubStatus

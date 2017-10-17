@@ -2,6 +2,7 @@ AddDWORDPropertyRestrictions
 AppRevisionBlobToUSBlob
 ClearUSCache
 CreateStoreManager
+DetectExistingCorruption
 DisableLocalUnistore
 EnableLocalUnistore
 EndUnifiedStoreWorkForClient
@@ -11,6 +12,7 @@ GetDeviceStoreDefaultName
 GetRealStoreManager
 GetUnistoreJetInstance
 GetUSDataFolderPath
+GetUSDeviceStoreCorruptedVolumeFolderPath
 GetUSDeviceStoreFolderPath
 GetUSDeviceStoreVolumePath
 GetUSFileStreamPath

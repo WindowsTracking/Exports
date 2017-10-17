@@ -1,5 +1,4 @@
 CreateDefaultWindowsLiveAccount
-CreateSsoPartnership
 DllCanUnloadNow
 DllGetClassObject
 FindMatchingPartnership
@@ -12,6 +11,7 @@ LoadGoldenPartnershipAccessor
 SetConversationSyncDateFilter
 SetConversationSyncEnabled
 SetUnifiedInboxEnabled
+UnenrollAndMarkAccountForDeletion
 UpdateGoogleAccountConversationFlags
 UpdateGoogleAccountServerSendsMeetingProp
 UpdateWebDavAccountProperties

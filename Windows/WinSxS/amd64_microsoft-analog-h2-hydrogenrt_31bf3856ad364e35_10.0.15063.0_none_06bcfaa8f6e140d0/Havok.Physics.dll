@@ -1,7 +1,0 @@
-DllCanUnloadNow
-DllGetActivationFactory
-DllGetClassObject
-GetIWorldFromNpWorld
-GetNpShapeFromIShape
-ReplaceMemoryRouter
-ReplaceSingletons

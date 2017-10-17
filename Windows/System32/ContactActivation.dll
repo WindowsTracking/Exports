@@ -2,5 +2,6 @@ AwaitContactPickerResults
 ContactToVCardString
 DeserializeContactFromString
 SerializeContactToString
+SerializeContactToVCard
 ShowContactPickerAsync
 VCardStringToContact
