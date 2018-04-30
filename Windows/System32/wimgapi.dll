@@ -37,6 +37,7 @@ WIMLoadImage
 WIMMountImage
 WIMMountImageHandle
 WIMProcessCustomImage
+WIMReadFileEx
 WIMReadImageFile
 WIMRedirectFolderBeforeApply
 WIMRegisterLogFile
@@ -56,3 +57,4 @@ WIMUnmountImageHandle
 WIMUnregisterLogFile
 WIMUnregisterMessageCallback
 WIMUpdateWIMBootEntry
+WIMWriteFileWithIntegrity

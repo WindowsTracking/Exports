@@ -1,3 +1,5 @@
+DllCanUnloadNow
+DllGetActivationFactory
 PicAmiClose
 PicAmiInitialize
 PicFreeFileInfo

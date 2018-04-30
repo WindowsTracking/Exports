@@ -1,4 +1,6 @@
 EdpAllowFileAccessForProcess
+EdpConsumerCredentialCreate
+EdpConsumerCredentialQuery
 EdpContainerizeFile
 EdpCredentialCreate
 EdpCredentialDelete
@@ -15,6 +17,8 @@ EdpDplUserUnlockStart
 EdpFree
 EdpGetContainerIdentity
 EdpGetCredServiceState
+EdpIsConsumerDataProtectionEnforced
+EdpIsConsumerDataProtectionSupported
 EdpPurgeAppLearningEvents
 EdpQueryCredServiceInfo
 EdpQueryDplEnforcedPolicyOwnerIds
@@ -38,6 +42,7 @@ EfsClientQueryProtectors
 EfsClientReadFileRaw
 EfsClientWriteFileRaw
 EfsClientWriteFileWithHeaderRaw
+EfsReprotectFile
 EfsUtilGetCurrentKey
 FeClientInitialize
 GetLockSessionUnwrappedKey

@@ -1,3 +1,4 @@
 DllCanUnloadNow
 DllGetClassObject
+DownloadAndInstallOptionalFontsAsync
 InstallFontFile

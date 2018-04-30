@@ -185,6 +185,7 @@ DnsServiceRegisterCancel
 DnsServiceResolve
 DnsServiceResolveCancel
 DnsSetConfigDword
+DnsSetConfigValue
 DnsSetQueryRetryTimeouts
 DnsStartMulticastQuery
 DnsStatusString

@@ -1,6 +1,7 @@
 CoreUICallComputeMaximumMessageSize
 CoreUICallCreateConversationHost
 CoreUICallCreateEndpointHost
+CoreUICallCreateEndpointHostWithSendPriority
 CoreUICallReceive
 CoreUICallSend
 CoreUIConfigureTestHost
@@ -19,6 +20,7 @@ CreateDispatcherQueueForCurrentThread
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject
+GetDispatcherQueueForCurrentThread
 InitializeServices
 MsgBlobCreateShared
 MsgBlobCreateStack

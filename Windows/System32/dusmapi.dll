@@ -1,4 +1,5 @@
 DusmEnumConnectionList
+DusmEnumProfileList
 DusmFlushCostCache
 DusmFree
 DusmGetAttributedNetworkUsage

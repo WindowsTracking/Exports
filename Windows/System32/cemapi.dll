@@ -29,7 +29,6 @@ MAPILogonEx
 MAPIUninitialize
 ReadMailVolumeNameEx
 SetConversationId
-SetStoreManagerCache
 TranslateSPlusV1MessageClassToV2
 USOIDfromCEENTRYID
 USOIDtoCEENTRYID

@@ -38,13 +38,16 @@ MpElevationHandleOpen
 MpErrorMessageFormat
 MpFastMemoryScan
 MpFastMemoryScanOpen
+MpFlushLowfiCache
 MpForcedReboot
 MpFreeMemory
 MpGenerateSignature
+MpGenerateSignatureEx
 MpGenerateThreatReport
 MpGetCallistoDetections
 MpGetEngineVersion
 MpGetHIPSRuleInfo
+MpGetMAPSConnectivityStatusInfo
 MpGetRunningMode
 MpGetSampleChunk
 MpGetSampleListRequiringConsent

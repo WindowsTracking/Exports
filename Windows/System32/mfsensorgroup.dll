@@ -1,11 +1,14 @@
 MFCheckProcessCapabilities
-MFConvertBlobToRSMTCollection
+MFCloneSensorProfile
 MFCreatePackageFamilyNameTag
 MFCreateSensorActivityMonitor
 MFCreateSensorGroup
 MFCreateSensorGroupById
 MFCreateSensorGroupCollection
 MFCreateSensorGroupIdManager
+MFCreateSensorProfile
+MFCreateSensorProfileCollection
+MFCreateSensorProfileWithFlags
 MFCreateSensorStream
 MFCreateTranslatedMediaType
 MFDeleteSensorGroupById
@@ -17,3 +20,7 @@ MFGetSensorGroupAttributesFromId
 MFInitializeSensorGroupStore
 MFIsSensorGroupName
 MFIsStreamAvailableToAppPackage
+MFLoadSensorProfiles
+MFPublishSensorProfiles
+MFSensorProfileParseFilterSetString
+MFValidateSensorProfile

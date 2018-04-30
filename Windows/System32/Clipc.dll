@@ -16,6 +16,7 @@ ClipOpen
 ClipQueryAssociateId
 ClipRefreshLicense
 ClipUninstallLicense
+GetExchangeDeviceUniqueID
 GetOfflineDeviceUniqueID
 SLQueryLicenseValueFromApp
 SLQueryLicenseValueFromApp2

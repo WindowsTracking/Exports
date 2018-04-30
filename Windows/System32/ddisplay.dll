@@ -1,1 +1,4 @@
-CreateDDisplayFactory
+CreateDDisplayDevice
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

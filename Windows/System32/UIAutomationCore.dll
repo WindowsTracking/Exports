@@ -1,7 +1,5 @@
 DllCanUnloadNow
 DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
 DockPattern_SetDockPosition
 ExpandCollapsePattern_Collapse
 ExpandCollapsePattern_Expand

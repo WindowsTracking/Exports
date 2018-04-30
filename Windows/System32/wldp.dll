@@ -3,4 +3,8 @@ WldpGetLockdownPolicy
 WldpIsAllowedEntryPoint
 WldpIsClassInApprovedList
 WldpIsDebugAllowed
-WldpIsRundll32Allowed
+WldpIsDynamicCodePolicyEnabled
+WldpQueryDynamicCodeTrust
+WldpQuerySecurityPolicy
+WldpQueryWindowsLockdownMode
+WldpSetDynamicCodeTrust

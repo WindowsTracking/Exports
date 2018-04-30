@@ -29,6 +29,7 @@ DetectMultiPrefix
 DuplicateSidIfValid
 FindAreaCode
 FormatPhoneNumberWithLeftToRightMarker
+FreeTextReplyPresetMessages
 Get3GGPInCallToneDefaultForRegion
 Get3GPPInCallToneDefault
 Get3GPPInCallToneForTypeAndMcc
@@ -45,12 +46,12 @@ GetDialingPrefixes
 GetDialStringFromTelUri
 GetDisplayNameFromCallInformation
 GetDisplayNumberWithLeftToRightMarker
+GetDtmfInCallToneTypeString
 GetIddPrefix
 GetIddPrefixTable
 GetMethodFromPropId
 GetNationalNumberLength
 GetNddPrefix
-GetRegistryStringData
 GetRpcClientUser
 GetSignedInUserForAppActivation
 GetTelUriFromDialString
@@ -58,6 +59,7 @@ GetTextReplyPresetMessages
 GetTimeDeltaFormat
 GetUserTokenForUser
 GetZerothCellularPhoneLineId
+ImpersonateSignedInUser
 InitDialingPrefixTable
 IsDialableChar
 IsDialableCharEx
@@ -77,7 +79,6 @@ Phone_FmtText_NonDialerFormat
 PhoneLineIdToString
 PhoneLineIdToUrlEscapedString
 RemoveMetadataFromNumber
-ShouldSupportLineSecurity
 ShouldSupportUdmCallHistory
 StringToPhoneLineId
 StripExtraneousNDD

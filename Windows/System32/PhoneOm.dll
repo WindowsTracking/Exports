@@ -5,6 +5,7 @@ DllGetClassObject
 DTMFModeListener_CreateInstance
 PhoneAcceptIncoming
 PhoneAcceptIncomingEx
+PhoneAcceptUpgradingRealTimeTextCall
 PhoneAcceptVideo
 PhoneActivateVisualVoicemail
 PhoneAddListener
@@ -49,6 +50,8 @@ PhoneGetCallsInConference
 PhoneGetCallState
 PhoneGetCellularApiComponentInfo
 PhoneGetDefaultOutgoingLine
+PhoneGetDeviceRealTimeTextAutomaticEnabled
+PhoneGetDeviceRealTimeTextEnabled
 PhoneGetDeviceSupportsVideoCalling
 PhoneGetElapsedTime
 PhoneGetLinePublicInfo
@@ -109,6 +112,7 @@ PhoneSaveVvmPassword
 PhoneSendDTMF
 PhoneSendDTMFStart
 PhoneSendDTMFStop
+PhoneSendRealTimeTextData
 PhoneSetActiveAppByType
 PhoneSetActiveSpamFilterApp
 PhoneSetBlockPrivateNumbersSetting
@@ -140,5 +144,7 @@ PhoneStartRecording
 PhoneStartVisualVoicemailSync
 PhoneSupportsLocalVvmConfig
 PhoneSwap
+PhoneUpgradeToRealTimeTextCall
 PhoneWaitForAPIReady
+RetrieveSystemNotificationCallbackPayload
 ShouldPlayCallWaitingTone

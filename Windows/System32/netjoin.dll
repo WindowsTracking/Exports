@@ -12,6 +12,7 @@ NetpGetLsaPrimaryDomain
 NetpGetMachineAccountName
 NetpIsSetupInProgress
 NetpJoinProvider2Initialize
+NetpJoinProvider3Initialize
 NetpJoinProviderInitialize
 NetpLogPrintHelper
 NetpMachineValidToJoin

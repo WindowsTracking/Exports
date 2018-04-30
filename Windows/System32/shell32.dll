@@ -266,6 +266,7 @@
 #850
 #851
 #852
+#853
 #854
 #856
 #857
@@ -346,6 +347,7 @@
 #943
 #944
 #945
+#946
 #95
 #96
 #97
@@ -576,14 +578,12 @@ SHELL32_CMountPoint_ProcessAutoRunFile
 SHELL32_CMountPoint_WantAutorunUI
 SHELL32_CMountPoint_WantAutorunUIGetReady
 SHELL32_CommandLineFromMsiDescriptor
-SHELL32_CopyExtrinsicPropertyStore
 SHELL32_CopyFilePlaceholderToNewFile
 SHELL32_CopySecondaryTiles
 SHELL32_CPL_CategoryIdArrayFromVariant
 SHELL32_CPL_IsLegacyCanonicalNameListedUnderKey
 SHELL32_CPL_ModifyWowDisplayName
 SHELL32_Create_IEnumUICommand
-SHELL32_CreateAlternateStreamFileName
 SHELL32_CreateConfirmationInterrupt
 SHELL32_CreateConflictInterrupt
 SHELL32_CreateDefaultOperationDataProvider

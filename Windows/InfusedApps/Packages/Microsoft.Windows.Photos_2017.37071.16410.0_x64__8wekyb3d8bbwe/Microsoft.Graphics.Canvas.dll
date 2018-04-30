@@ -1,5 +1,0 @@
-CreateDirect3D11DeviceFromDXGIDevice
-CreateDirect3D11SurfaceFromDXGISurface
-DllCanUnloadNow
-DllGetActivationFactory
-DllGetClassObject

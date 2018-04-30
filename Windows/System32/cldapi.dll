@@ -9,6 +9,7 @@ CfDisconnectSyncRoot
 CfEnumAppPolicy
 CfExecute
 CfGetCorrelationVector
+CfGetLastSyncStatus
 CfGetPlaceholderInfo
 CfGetPlaceholderRangeInfo
 CfGetPlaceholderStateFromAttributeTag
@@ -31,6 +32,7 @@ CfRegisterSyncRoot
 CfReleaseProtectedHandle
 CfReleaseTransferKey
 CfReportProviderProgress
+CfReportSyncStatus
 CfRetrieveProperties
 CfRevertPlaceholder
 CfSetAppPolicy

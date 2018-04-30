@@ -1,8 +1,5 @@
 #105
 #106
-#121
-#124
-#125
 #128
 #129
 #130
@@ -10,10 +7,10 @@
 #132
 #133
 #134
-#135
-#136
-#137
 #138
+#139
+#140
+#141
 CIGTestHookLoadLibraryWorkerThread
 ClearPhishingFilterData
 ClearTemporaryWebDataAsync
@@ -25,6 +22,7 @@ CreateWebDriverAdapter
 DllCanUnloadNow
 DllEnumClassObjects
 DllGetClassObject
+Fetch_CreateOriginAgnosticFetch
 GetColorValueFromString
 GetWebPlatformObject
 InitializeLocalHtmlEngine
@@ -41,6 +39,6 @@ Streams_CreateReadableStream
 Streams_CreateReadableStreamFromFileHandle
 Streams_CreateReadableStreamFromFilePath
 Streams_CreateWideCharChunk
+Streams_CreateWritableStream
 TravelLogCreateInstance
 UninitializeLocalHtmlEngine
-ValidateURLSyntax

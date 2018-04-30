@@ -10,5 +10,3 @@ USBDevicePropPageProvider
 USBErrorHandler
 USBHubPowerPage
 USBHubPropPageProvider
-UsbNotificationCallback
-UsbNotificationShutdown

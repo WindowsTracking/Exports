@@ -1,5 +1,6 @@
 #1
 #16
+AppInstallerUpdateAllTask
 AppxAddPackageToAllUserStoreForPbr
 AppxCleanupOrphanPackages
 AppxCleanupSystemAppsMigratedToFOD
@@ -25,6 +26,7 @@ AppxValidatePackages
 AppxValidatePackagesWithOptions
 CheckComCallerHasCapabilities
 CreateCanonicalPriFile
+DeleteApplicabilityInfoArray
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject
@@ -34,10 +36,14 @@ GeneratePreInstalledPriFiles
 GetApplicability
 GetApplicability2
 GetApplicability4
+GetApplicability5
+GetBundleApplicablePackages
 GetNotificationPayload
 GetNotificationPayloadForUser
 GetPackageApplicabilityForUserLogon
+GetPackageRegistrationStatusForUser
 IsPackageInstalled
+IsSharedAppsEnabled
 NotifyPackageStatusChanged
 PopulateProtocolAndFTA
 RDSRecoverRequests
@@ -49,4 +55,11 @@ RequestContentGroups
 RequestContentGroupsForFullTrust
 UnregisterNotification
 UnregisterNotificationForUser
+UpdateAgentCancelAllDownloads
+UpdateAgentCreateDownload
+UpdateAgentGetDownloadRanges
+UpdateDataSourceAddRange
+UpdateDataSourceCancelRun
+UpdateDataSourceRegister
+UpdateDataSourceRun
 VerifyPackage

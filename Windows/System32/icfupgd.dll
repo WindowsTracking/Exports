@@ -3,4 +3,3 @@ DllGetClassObject
 DllMain
 DllRegisterServer
 DllUnregisterServer
-MigrateSettingsW

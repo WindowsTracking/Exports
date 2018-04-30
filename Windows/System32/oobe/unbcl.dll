@@ -1694,6 +1694,7 @@
 ?Delete@?$CStringT@GV?$StrTraitATL@GV?$ChTraitsCRT@G@ATL@@@ATL@@@ATL@@QEAAHHH@Z
 ?Delete@Directory@UnBCL@@SAXPEBVString@2@H@Z
 ?Delete@File@UnBCL@@SAXPEBVString@2@@Z
+?DeleteInternal@Directory@UnBCL@@CAXPEBVString@2@HH@Z
 ?DeleteNE@Directory@UnBCL@@SAHPEBVString@2@H@Z
 ?DeleteRange@?$ArrayList@G@UnBCL@@AEAAXHH@Z
 ?DeleteRange@?$ArrayList@PEAVString@UnBCL@@@UnBCL@@AEAAXHH@Z
@@ -2516,6 +2517,7 @@
 ?SGetCharCount@UnicodeEncoding@UnBCL@@CAHPEBV?$Array@E@2@HH@Z
 ?SGetChars@ASCIIEncoding@UnBCL@@CAHPEBV?$Array@E@2@HHPEAV?$Array@G@2@H@Z
 ?SGetChars@UnicodeEncoding@UnBCL@@CAHPEBV?$Array@E@2@HHPEAV?$Array@G@2@HH@Z
+?ShouldEnumerateReparsePoint@Directory@UnBCL@@SAHPEBVString@2@@Z
 ?SleepFor@Thread@UnBCL@@SAXI@Z
 ?Sort@?$Array@E@UnBCL@@SAXPEAV12@@Z
 ?Sort@?$Array@G@UnBCL@@SAXPEAV12@@Z

@@ -46,7 +46,9 @@ TpmCheckCreateWindowsAIK
 TpmCheckIFXRSAKeyGenVulnerability
 TpmClear
 TpmClearUsingPhysicalPresence
+TpmClearWithPolicyOrPPI
 TpmConvertToOwnerAuth
+TpmCopyFirmwareVersionFromNvToRegistry
 TpmCreateEndorsementKeyPair
 TpmCreateHealthAttestationClaim
 TpmCreateHealthStatusClaim
@@ -56,6 +58,7 @@ TpmDisableAutoProvisioning
 TpmEKCertValidateAndCleanup
 TpmEnable
 TpmEnableAutoProvisioning
+TpmGatherLogs
 TpmGatherTpmData
 TpmGet_IsActivated_InitialValue
 TpmGet_IsEnabled_InitialValue
@@ -70,6 +73,7 @@ TpmGet_PhysicalPresenceVersionInfo
 TpmGet_SpecVersion
 TpmGet_TpmVersionInfo
 TpmGetCapLockoutInfo
+TpmGetDeviceInformation
 TpmGetDictionaryAttackParameters
 TpmGetEndorsementKeyCertificateState
 TpmGetHealthCertRequest
@@ -82,12 +86,15 @@ TpmGetPhysicalPresenceConfirmationStatus
 TpmGetPhysicalPresenceRequest
 TpmGetPhysicalPresenceResponse
 TpmGetPhysicalPresenceTransition
+TpmGetPPIVersion
 TpmGetRandomAuthValue
 TpmGetSignedEKFromVendorCommand
 TpmGetSrkADThumbprint
 TpmGetSrkPublicKeyModulus
 TpmGetTcgLog
+TpmGetTpmVersion
 TpmGetVerificationRequest
+TpmHasVulnerableFW
 TpmHealthCertGetAndVerify
 TpmImportOwnerAuth
 TpmIsActivated
@@ -132,3 +139,4 @@ TpmSpecVersion_From_TpmVersionInfo
 TpmTakeOwnership
 TpmUnattendedSetup
 TpmVerifyDeviceHealth
+TpmWriteInformationSnapshotFile

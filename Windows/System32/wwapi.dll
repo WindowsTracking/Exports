@@ -37,6 +37,7 @@ WwanGetProfileList
 WwanGetProfileListByPurpose
 WwanGetProfileMetaData
 WwanGetProfileState
+WwanModemLogging
 WwanOpenHandle
 WwanQueryInterface
 WwanQueryInterfaceEx

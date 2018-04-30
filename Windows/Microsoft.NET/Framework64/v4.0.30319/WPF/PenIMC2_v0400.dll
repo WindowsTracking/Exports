@@ -8,4 +8,6 @@ GetLastSystemEventData
 GetPenEvent
 GetPenEventMultiple
 GetProxyDllInfo
+LockWispObjectFromGit
 RaiseResetEvent
+UnlockWispObjectFromGit

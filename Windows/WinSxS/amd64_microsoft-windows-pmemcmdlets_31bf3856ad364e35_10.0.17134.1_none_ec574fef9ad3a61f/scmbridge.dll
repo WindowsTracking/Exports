@@ -1,0 +1,10 @@
+ScmDeletePmemDisk
+ScmGetLogicalPmemDiskByDiskNumber
+ScmGetLogicalPmemDisks
+ScmGetPhysicalNvdimmByNfitHandle
+ScmGetPhysicalNvdimms
+ScmGetUnusedPmemRegionById
+ScmGetUnusedPmemRegions
+ScmInitializePmemPhysicalDevice
+ScmNewPmemDiskFromUnusedRegion
+ScmRebuildStacks

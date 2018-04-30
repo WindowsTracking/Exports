@@ -5,6 +5,8 @@
 #13
 #14
 #15
+#16
+#17
 #2
 #3
 #4
@@ -20,6 +22,7 @@ DllGetClassObject
 EnrollEngineInitialize
 GetCertificatePolicy
 GetEnrollmentAadResourceUrl
+GetEnrollmentAadSendDeviceToken
 GetEnrollmentCertStore
 GetEnrollmentClientCertThumbprint
 GetEnrollmentDiscoveryService

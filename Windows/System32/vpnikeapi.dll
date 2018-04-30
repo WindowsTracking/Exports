@@ -8,6 +8,7 @@ FreeIDPayloadBuffer
 FreeTrafficSelectors
 GetConfigurationPayloadRequest
 GetIDPayload
+GetOptionalIDrPayload
 GetServerEapAuthRequestPacket
 GetTrafficSelectorsRequest
 NewRasIncomingCall

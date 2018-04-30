@@ -22,7 +22,6 @@ WerpAuxmdFreeCopyBuffer
 WerpAuxmdHashVaRanges
 WerpAuxmdInitialize
 WerpAuxmdMapFile
-WerpCancelResponseDownload
 WerpCancelUpload
 WerpCleanWer
 WerpCloseStore
@@ -30,9 +29,6 @@ WerpCreateIntegratorReportId
 WerpCreateMachineStore
 WerpDeleteReport
 WerpDestroyWerString
-WerpDownloadResponse
-WerpDownloadResponseOnly
-WerpDownloadResponseTemplate
 WerpEnumerateStoreNext
 WerpEnumerateStoreStart
 WerpExtractReportFiles
@@ -56,12 +52,12 @@ WerpGetReportConsent
 WerpGetReportCount
 WerpGetReportFinalConsent
 WerpGetReportFlags
+WerpGetReportId
 WerpGetReportInformation
 WerpGetReportSettings
 WerpGetReportTime
 WerpGetReportType
 WerpGetResponseId
-WerpGetResponseUrl
 WerpGetSigParamByIndex
 WerpGetStoreLocation
 WerpGetStorePath
@@ -76,7 +72,6 @@ WerpInitializeImageCache
 WerpIsDisabled
 WerpIsOnBattery
 WerpIsTransportAvailable
-WerpLaunchResponse
 WerpLoadReport
 WerpLoadReportFromBuffer
 WerpOpenMachineArchive
@@ -95,10 +90,13 @@ WerpSetDefaultUserConsent
 WerpSetDynamicParameter
 WerpSetEventName
 WerpSetIntegratorReportId
+WerpSetIptEnabled
 WerpSetProcessTimelines
+WerpSetQuickDumpType
 WerpSetReportApplicationIdentity
 WerpSetReportFlags
 WerpSetReportInformation
+WerpSetReportIsFatal
 WerpSetReportNamespaceParameter
 WerpSetReportOption
 WerpSetReportTime
@@ -119,7 +117,6 @@ WerpTraceSnapshotStatistics
 WerpTraceStitchedDumpWriterStatistics
 WerpTraceUnmappedVaRangesStatistics
 WerpUnmapProcessViews
-WerpUpdateReportResponse
 WerpValidateReportKey
 WerpWalkGatherBlocks
 WerRemoveExcludedApplication
@@ -142,5 +139,4 @@ WerStoreQueryReportMetadataV2
 WerStoreUploadReport
 WerSysprepCleanup
 WerSysprepGeneralize
-WerSysprepSpecialize
 WerUnattendedSetup

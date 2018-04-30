@@ -1,9 +1,0 @@
-?GetHashPrime@@YAKK@Z
-?RatCleanup@@YAHXZ
-?RatDllAttach@@YAXXZ
-?RatDllDetach@@YAXXZ
-?RatFindFlag@@YAPEAKKPEBD@Z
-?RatInitialize@@YAJXZ
-?RatReloadSymbols@@YAXXZ
-?RatSetUngracefulProcessTermination@@YAXXZ
-?RatWaitForSingleObject@@YAKPEAXKK@Z

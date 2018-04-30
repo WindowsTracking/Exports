@@ -32,6 +32,7 @@
 ??ACHString@@QEBAGH@Z
 ??ACHStringArray@@QEAAAEAVCHString@@H@Z
 ??ACHStringArray@@QEBA?AVCHString@@H@Z
+??BCHString@@QEBAPEBGXZ
 ??H@YA?AVCHString@@AEBV0@0@Z
 ??H@YA?AVCHString@@AEBV0@G@Z
 ??H@YA?AVCHString@@AEBV0@PEBG@Z
@@ -121,6 +122,7 @@
 ?GetSize@CHStringArray@@QEBAHXZ
 ?GetUpperBound@CHPtrArray@@QEBAHXZ
 ?GetUpperBound@CHStringArray@@QEBAHXZ
+?GetValueCount@CRegistry@@QEAAKXZ
 ?Init@CHString@@IEAAXXZ
 ?InsertAt@CHPtrArray@@QEAAXHPEAV1@@Z
 ?InsertAt@CHPtrArray@@QEAAXHPEAXH@Z

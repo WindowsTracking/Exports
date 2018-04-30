@@ -30,6 +30,7 @@ SensorGetRangeResolution
 SensorGetSupportedDataFields
 SensorGetThresholds
 SensorGetTypeFromInterfacePath
+SensorIsWakeEnabled
 SensorNotificationConfigure
 SensorNotificationStart
 SensorNotificationStop

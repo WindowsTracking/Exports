@@ -7,6 +7,7 @@ NetpDoDomainJoinLicensingCheck
 NetpFreeJoinStateContents
 NetpGenerateDefaultPassword
 NetpGetLsaHandle
+NetpGetLsaMachineAccountInfo
 NetpGetLsaPrimaryDomain
 NetpHandleJoinedStateInfo
 NetpLoadFullJoinState
@@ -20,6 +21,7 @@ NetpQueryService
 NetpRemoveInitialDcRecord
 NetpSaveFullJoinStateInternal
 NetpSetLsaHandle
+NetpSetLsaMachineAccountInfo
 NetpSetLsaPrimaryDomain
 NetpSetWinlogonCAD
 NetpStopService

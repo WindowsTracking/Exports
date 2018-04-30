@@ -28,7 +28,6 @@ SLIsWindowsGenuineLocal
 SLOpen
 SLpCheckProductKey
 SLpGetGenuineLocal
-SLpProcessOemProductKey
 SLpUpdateComponentTokens
 SLReArmWindows
 SLRegisterEvent

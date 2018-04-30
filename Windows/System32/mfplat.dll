@@ -48,6 +48,7 @@ MFCreateDXGIDeviceManager
 MFCreateDXGISurfaceBuffer
 MFCreateDXSurfaceBuffer
 MFCreateEventQueue
+MFCreateFence
 MFCreateFile
 MFCreateFileFromHandle
 MFCreateLegacyMediaBufferOnMFMediaBuffer

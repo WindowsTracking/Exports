@@ -19,6 +19,7 @@ MsvpPutClearOwfsInPrimaryCredential
 MsvpUpdateSharedConfiguration
 MsvpValidateSupplementalCreds
 MsvpValidateSupplementalCredsBuffer
+NtLmAlterRtlEqualUnicodeString
 NtlmSharedAllocate
 NtlmSharedAllocatePrivateHeap
 NtlmSharedCleanup

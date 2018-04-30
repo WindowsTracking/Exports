@@ -67,6 +67,7 @@ SceSvcSetInfo
 SceSvcSetInformationTemplate
 SceSvcUpdateInfo
 SceSysPrep
+SceSysPrepOffline
 SceUpdateObjectInfo
 SceUpdateSecurityProfile
 SceWrapperExportSecurityProfile

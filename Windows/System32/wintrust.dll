@@ -56,6 +56,7 @@ DriverInitializePolicy
 FindCertsByIssuer
 GenericChainCertificateTrust
 GenericChainFinalProv
+GetAuthenticodeSha256Hash
 HTTPSCertificateTrust
 HTTPSFinalProv
 IsCatalogFile

@@ -2,6 +2,7 @@ AddDWORDPropertyRestrictions
 AppRevisionBlobToUSBlob
 ClearUSCache
 CreateStoreManager
+CreateStoreManagerWithToken
 DetectExistingCorruption
 DisableLocalUnistore
 EnableLocalUnistore

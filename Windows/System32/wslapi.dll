@@ -1,0 +1,7 @@
+WslConfigureDistribution
+WslGetDistributionConfiguration
+WslIsDistributionRegistered
+WslLaunch
+WslLaunchInteractive
+WslRegisterDistribution
+WslUnregisterDistribution

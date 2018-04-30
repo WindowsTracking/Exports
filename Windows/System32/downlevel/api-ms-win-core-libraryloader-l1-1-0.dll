@@ -1,3 +1,4 @@
+AddDllDirectory
 DisableThreadLibraryCalls
 FindResourceExW
 FindStringOrdinal
@@ -14,5 +15,9 @@ GetProcAddress
 LoadLibraryExA
 LoadLibraryExW
 LoadResource
+LoadStringA
+LoadStringW
 LockResource
+RemoveDllDirectory
+SetDefaultDllDirectories
 SizeofResource

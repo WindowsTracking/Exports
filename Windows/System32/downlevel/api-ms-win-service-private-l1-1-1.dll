@@ -5,10 +5,12 @@ I_ScPnPGetServiceName
 I_ScQueryServiceConfig
 I_ScRegisterDeviceNotification
 I_ScRegisterPreshutdownRestart
-I_ScRpcBind
+I_ScRpcBindA
+I_ScRpcBindW
 I_ScSendPnPMessage
 I_ScSendTSMessage
-I_ScSetServiceBits
+I_ScSetServiceBitsA
+I_ScSetServiceBitsW
 I_ScUnregisterDeviceNotification
 I_ScValidatePnPService
 SubscribeServiceChangeNotifications

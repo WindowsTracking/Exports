@@ -1,3 +1,4 @@
+AddLookaside
 CheckAppXPackageBreakaway
 CloseAppExecutionAlias
 CompleteAppExecutionAliasProcessCreation
@@ -31,6 +32,7 @@ PrepareDesktopAppXActivation
 RegisterDesktopAppXPackageFamily
 RegisterDesktopAppXPackageFamilyIfNecessary
 RemoveDesktopAppXMetadataForFolder
+RemoveLookaside
 SetDesktopAppXMetadataForFolder
 SetDesktopAppXMetadataForPackage
 TryActivateDesktopAppXApplication

@@ -8,6 +8,8 @@ DmCancelGetUserPermissionAsync
 DmCopyDirectoryRecursive
 DmCreateTask
 DmDeleteTask
+DmEnumUsers
+DmGetAadDeviceToken
 DmGetAadUserToken
 DmGetActiveUserSid
 DMGetClientHardwareUID
@@ -19,6 +21,7 @@ DmGetIMEI
 DmGetUserEditFieldInput
 DmGetUserPermission
 DmGetUserPermissionAsync
+DmGetUserSidFromToken
 DmGetUserTokenFromSid
 DmImpersonate
 DmInformUser

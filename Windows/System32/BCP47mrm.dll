@@ -1,0 +1,13 @@
+CompareBcp47Tags
+FormatLanguageList
+FormatLanguageTag
+GetApplicationLanguagesWithUserLanguagesFallback
+GetApplicationLayoutDirection
+GetClosenessOfUnIsoRegionTags
+GetCompositeRegionCode
+GetDistanceOfClosestLanguageInList
+GetLanguageDirectionality
+GetParentCompositeRegionCode
+IsValidTag
+IsValidUnIsoRegionTag
+IsWellFormedTag

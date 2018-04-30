@@ -1,7 +1,0 @@
-GetEnterprisePolicyName
-GetSkuUpdateManagementGroup
-GetUpdatePolicyName
-ReadPolicy
-ReadPolicyWithFallback
-ReleaseEnterprisePolicyValue
-ReleaseUpdatePolicyValue

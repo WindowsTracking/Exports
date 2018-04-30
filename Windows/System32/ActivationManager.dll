@@ -1,3 +1,9 @@
+DisableAppXDebuggingForPackage
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject
+EnableAppXDebuggingForPackage
+FreeAppXLaunchContext
+PostCreateProcessAppXActivation
+PrepareAppXActivation
+RegisterAppXPackageIfNecessary

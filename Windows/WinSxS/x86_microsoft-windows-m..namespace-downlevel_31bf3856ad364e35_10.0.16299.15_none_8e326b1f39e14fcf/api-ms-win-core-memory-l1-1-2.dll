@@ -1,8 +1,0 @@
-AllocateUserPhysicalPages
-AllocateUserPhysicalPagesNuma
-FreeUserPhysicalPages
-GetMemoryErrorHandlingCapabilities
-MapUserPhysicalPages
-RegisterBadMemoryNotification
-UnregisterBadMemoryNotification
-VirtualAllocExNuma

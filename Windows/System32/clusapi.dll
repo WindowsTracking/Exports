@@ -36,6 +36,7 @@ CluGetFaultDomainObjects
 CluRemoveFaultDomainObject
 ClusterAddGroupToGroupSet
 ClusterCaptureLiveDump
+ClusterChangeVMSettings
 ClusterCloseEnum
 ClusterCloseEnumEx
 ClusterControl

@@ -1,5 +1,0 @@
-DllCanUnloadNow
-DllGetActivationFactory
-GetModuleHandleA_stub
-GetModuleHandleExW_stub
-GetModuleHandleW_stub

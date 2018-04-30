@@ -46,6 +46,10 @@ WinBioLocateSensorWithCallback
 WinBioLockUnit
 WinBioLogonIdentifiedUser
 WinBioMonitorPresence
+WinBioNgcAuthorizeEnrollment
+WinBioNgcCloseAuthorizationSession
+WinBioNgcGetAuthorizationWithTicket
+WinBioNgcOpenAuthorizationSession
 WinBioNotifyPasswordChange
 WinBioOpenSession
 WinBioProtectData

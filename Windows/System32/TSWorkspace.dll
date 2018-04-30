@@ -1,3 +1,4 @@
+CreateClaimsAuthResponseHeader
 DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
@@ -8,6 +9,7 @@ RADCUISupportCreateSubscriptionClient
 TaskUpdateWorkspaces
 TaskUpdateWorkspaces2
 TaskUpdateWorkspacesIfNeeded
+TryParseClaimsAuthnHeader
 WorkspaceSilentSetupW
 WorkspaceStatusNotify
 WorkspaceStatusNotify2

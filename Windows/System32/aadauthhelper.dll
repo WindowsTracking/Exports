@@ -4,6 +4,6 @@ CreateTokenAuthBuffer
 CreateTokenAuthBufferEx
 GetFidoAuthenticationSessionStatus
 GetSerializedAuthBuffer
-StartAuthenticateFidoClientData
+StartChangingFidoPin
 StartFidoAuthenticationSession
 StartSigningFidoClientData

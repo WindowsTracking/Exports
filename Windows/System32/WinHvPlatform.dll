@@ -1,0 +1,15 @@
+WHvCancelRunVirtualProcessor
+WHvCreatePartition
+WHvCreateVirtualProcessor
+WHvDeletePartition
+WHvDeleteVirtualProcessor
+WHvGetCapability
+WHvGetPartitionProperty
+WHvGetVirtualProcessorRegisters
+WHvMapGpaRange
+WHvRunVirtualProcessor
+WHvSetPartitionProperty
+WHvSetupPartition
+WHvSetVirtualProcessorRegisters
+WHvTranslateGva
+WHvUnmapGpaRange

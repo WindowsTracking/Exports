@@ -7,6 +7,7 @@ CheckForReadOnlyResourceFilter
 CheckPerUserCrossProcessThrottle
 DllCanUnloadNow
 DllGetClassObject
+ReportCoreHang
 ReportFault
 ReportHang
 UpdatePerUserLastCrossProcessCollectionTime

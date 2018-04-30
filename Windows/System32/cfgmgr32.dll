@@ -150,6 +150,7 @@ CM_Get_Version_Ex
 CM_Import_PowerScheme
 CM_Install_DevNode_ExW
 CM_Install_DevNodeW
+CM_Install_DriverW
 CM_Intersect_Range_List
 CM_Invert_Range_List
 CM_Is_Dock_Station_Present

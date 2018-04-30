@@ -1,6 +1,0 @@
-WldpCheckRetailConfiguration
-WldpGetLockdownPolicy
-WldpIsAllowedEntryPoint
-WldpIsClassInApprovedList
-WldpIsDebugAllowed
-WldpIsRundll32Allowed

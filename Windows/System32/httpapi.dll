@@ -16,6 +16,7 @@ HttpDeleteServiceConfiguration
 HttpEvaluateRequest
 HttpFlushResponseCache
 HttpGetCounters
+HttpGetExtension
 HttpInitialize
 HttpPrepareUrl
 HttpQueryRequestProperty

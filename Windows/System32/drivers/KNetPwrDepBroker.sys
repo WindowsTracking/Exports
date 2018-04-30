@@ -1,0 +1,5 @@
+DllInitialize
+DllUnload
+NpdBrokerAcquireWithTimeout
+NpdBrokerInitialize
+NpdBrokerUninitialize

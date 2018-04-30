@@ -1,0 +1,3 @@
+CreateRdpUdpStreamWrapper
+DllMain
+FreeRdpUdpStreamWrapper

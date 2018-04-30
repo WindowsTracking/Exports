@@ -2,6 +2,7 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+DumpDiagInfo
 JsAddRef
 JsBooleanToBool
 JsBoolToBoolean
@@ -27,6 +28,7 @@ JsCreateReferenceError
 JsCreateRuntime
 JsCreateSymbol
 JsCreateSyntaxError
+JsCreateThreadService
 JsCreateTypedArray
 JsCreateTypeError
 JsCreateURIError
@@ -141,3 +143,15 @@ MemProtectHeapRootReallocLeaf
 MemProtectHeapSynchronizeWithCollector
 MemProtectHeapUnprotectCurrentThread
 MemProtectHeapUnrootAndZero
+RecyclerNativeHeapAddExternalMemoryUsage
+RecyclerNativeHeapAllocLeaf
+RecyclerNativeHeapAllocLeafFinalized
+RecyclerNativeHeapAllocTraced
+RecyclerNativeHeapAllocTracedFinalized
+RecyclerNativeHeapCollectGarbageInThread
+RecyclerNativeHeapCreateWeakReference
+RecyclerNativeHeapGetRealAddressFromInterior
+RecyclerNativeHeapGetStrongReference
+RecyclerNativeHeapHasWeakReferenceCleanupOccurred
+RecyclerNativeHeapRootAddRef
+RecyclerNativeHeapRootRelease

@@ -29,6 +29,7 @@ SensorGetPropertiesV2
 SensorGetPrxDataV2
 SensorGetRangeResolutionV2
 SensorGetSupportedDataFieldsV2
+SensorIsWakeEnabledV2
 SensorNotificationConfigureV2
 SensorNotificationStartV2
 SensorNotificationStopV2

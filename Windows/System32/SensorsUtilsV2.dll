@@ -31,10 +31,13 @@ GetFileTimeDifference
 GetFileTimeFromTimeStamp
 GetPerformanceTime
 GetTimeStampFromFileTime
+InitPropVariantFromCLSIDArray
 InitPropVariantFromFloat
 IsCollectionListSame
+IsGUIDPresentInList
 IsKeyPresentInCollectionList
 IsKeyPresentInPropertyList
+IsSensorSubscribed
 MapActivityConfidenceToState
 PropertiesListCopy
 PropertiesListGetFillableCount

@@ -6,3 +6,5 @@ DllUnregisterServer
 FixDisabledComponentsForTeredo
 RefreshTeredoClientState
 SetHostNameMediaStreamingMode
+TeredoExtAcquireTeredoConsumerHandle
+TeredoExtReleaseTeredoConsumerHandle

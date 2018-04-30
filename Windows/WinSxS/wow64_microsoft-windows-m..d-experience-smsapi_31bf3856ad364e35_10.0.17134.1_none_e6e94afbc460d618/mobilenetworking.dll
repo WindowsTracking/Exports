@@ -1,0 +1,9 @@
+GetPersistentRegPath
+GetPersistentRegPathFromRegPath
+PersistentRegPathCreateKey
+PersistentRegPathGetDWORD
+PersistentRegPathGetValue
+PersistentRegPathOpenKey
+PersistentRegPathSetDWORD
+PersistentRegPathSetString
+PersistentRegPathSetValue

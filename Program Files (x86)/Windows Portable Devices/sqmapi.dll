@@ -51,7 +51,6 @@ SqmStartUpload
 SqmStartUploadEx
 SqmSysprepCleanup
 SqmSysprepGeneralize
-SqmSysprepSpecialize
 SqmTimerAccumulate
 SqmTimerAddToAverage
 SqmTimerRecord
