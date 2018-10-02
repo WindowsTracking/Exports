@@ -24,6 +24,7 @@ MFCallStackTracingRestoreSnapshot
 MFCallStackTracingTakeSnapshot
 MFCancelCreateFile
 MFCancelWorkItem
+MFCheckEnabledViaAppService
 MFClearLocalMFTs
 MFCompareFullToPartialMediaType
 MFCompareSockaddrAddresses
@@ -44,11 +45,11 @@ MFCreateByteStreamHandlerAppServiceActivate
 MFCreateCollection
 MFCreateContentDecryptorContext
 MFCreateContentProtectionDevice
+MFCreateD3D12SyncObject
 MFCreateDXGIDeviceManager
 MFCreateDXGISurfaceBuffer
 MFCreateDXSurfaceBuffer
 MFCreateEventQueue
-MFCreateFence
 MFCreateFile
 MFCreateFileFromHandle
 MFCreateLegacyMediaBufferOnMFMediaBuffer

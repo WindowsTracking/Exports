@@ -31,3 +31,4 @@ GetEnrollmentSID
 GetEnrollmentState
 GetEnrollmentType
 GetEnrollmentUPN
+SetEnrollmentPartnerOpaqueID

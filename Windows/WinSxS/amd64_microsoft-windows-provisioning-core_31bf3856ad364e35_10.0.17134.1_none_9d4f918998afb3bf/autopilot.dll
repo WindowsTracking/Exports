@@ -1,9 +1,0 @@
-AutoPilotDisable
-AutoPilotGetOobeSettingsOverride
-AutoPilotGetPolicyDwordByName
-AutoPilotGetPolicyStringByName
-AutoPilotGetProfileState
-AutoPilotIsDisabled
-AutoPilotPerformDeviceEnrollment
-AutoPilotRetrieveSettings
-DllCanUnloadNow

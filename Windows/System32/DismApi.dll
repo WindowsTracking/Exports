@@ -1,6 +1,7 @@
 _DismAddCapabilityEx
 _DismAddDriverEx
 _DismAddPackage2
+_DismAddPackageFamilyToUninstallBlocklist
 _DismAddProvisionedAppxPackage
 _DismApplyCustomDataImage
 _DismApplyFfuImage
@@ -21,6 +22,7 @@ _DismGetKCacheBinaryValue
 _DismGetKCacheDwordValue
 _DismGetKCacheStringValue
 _DismGetLastCBSSessionID
+_DismGetNonRemovableAppsPolicy
 _DismGetOsInfo
 _DismGetOSUninstallWindow
 _DismGetProductKeyInfo
@@ -36,6 +38,7 @@ _DismInitiateOSUninstall
 _DismOptimizeImage
 _DismOptimizeProvisionedAppxPackages
 _DismRemoveOSUninstall
+_DismRemovePackageFamilyFromUninstallBlocklist
 _DismRemoveProvisionedAppxPackage
 _DismRemoveProvisionedAppxPackageAllUsers
 _DismRevertPendingActions

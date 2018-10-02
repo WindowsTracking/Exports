@@ -28,7 +28,9 @@ SensorSetAlsWithColorThresholdsCOM
 SensorSetBarThresholdsCOM
 SensorSetFusThresholdsCOM
 SensorSetGyrThresholdsCOM
+SensorSetIntervalCOM
 SensorSetMagThresholdsCOM
+SensorSetThresholdsCOM
 SensorStartCollectionCOM
 SensorStopCOM
 SensorUnregisterEventCOM

@@ -1,5 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-EnableUpdateLogging
-ServiceMain
-SvchostPushServiceGlobals

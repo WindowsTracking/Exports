@@ -13,6 +13,7 @@ SensorGetAlsDataWithColor
 SensorGetBarData
 SensorGetCapabilities
 SensorGetCapabilitiesCollection
+SensorGetCurrentReading
 SensorGetData
 SensorGetDataCollection
 SensorGetDataDeliveryMode
@@ -44,11 +45,13 @@ SensorSetAlsThresholds
 SensorSetAlsWithColorThresholds
 SensorSetBarThresholds
 SensorSetDataDeliveryMode
+SensorSetDataInterval
 SensorSetFusThresholds
 SensorSetGyrThresholds
 SensorSetMagThresholds
 SensorSetRangeResolution
 SensorSetReportLatency
+SensorSetThresholds
 SensorStart
 SensorStartCollection
 SensorStartHistory

@@ -269,7 +269,6 @@ pSetupDoesUserHavePrivilege
 pSetupDoLastKnownGoodBackup
 pSetupDuplicateString
 pSetupEnablePrivilege
-pSetupEnumRelatedDriverPackages
 pSetupFree
 pSetupGetCurrentDriverSigningPolicy
 pSetupGetDriverDate

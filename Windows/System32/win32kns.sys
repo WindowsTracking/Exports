@@ -1,0 +1,9 @@
+DllInitialize
+DllUnload
+IVFreeIVSRContext
+IVInitialize
+IVRecv
+IVRegisterChildNotification
+IVSend
+IVUninitialize
+IVUnregisterChildNotification

@@ -1,5 +1,9 @@
+CdplGetFileProtectionLevel
+CdplIsAppAllowedToRun
 CdplIsAppDataProtectionSupported
+CdplIsSupported
 CdplProtectFileToLevel
+CdplProtectFileToLevelWithResult
 CdplProtectSecretToLevel
 CdplUnprotectSecret
 DllCanUnloadNow

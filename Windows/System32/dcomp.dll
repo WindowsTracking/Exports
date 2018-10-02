@@ -11,6 +11,7 @@
 #2000
 #2001
 #2002
+#2003
 DCompositionAttachMouseDragToHwnd
 DCompositionAttachMouseWheelToHwnd
 DCompositionCreateDevice

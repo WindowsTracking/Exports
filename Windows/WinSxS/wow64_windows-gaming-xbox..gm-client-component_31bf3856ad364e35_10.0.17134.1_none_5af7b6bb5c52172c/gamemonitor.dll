@@ -1,7 +1,0 @@
-DllCanUnloadNow
-DllGetActivationFactory
-DllGetClassObject
-EnableActiveGameMonitoring
-GetGameMonitoringPermissionState
-ReportGameActivity
-SetGameActivityCorrelationId

@@ -2,6 +2,7 @@ AddPersonalTrustDBPages
 CatalogCompactHashDatabase
 ComputeFirstPageHash
 ConfigCiFinalPolicy
+ConfigCiPackageFamilyNameCheck
 CryptCATAdminAcquireContext
 CryptCATAdminAcquireContext2
 CryptCATAdminAddCatalog

@@ -1,10 +1,11 @@
-CfAbortHydration
+CfAbortOperation
 CfCloseAppPolicy
 CfCloseHandle
 CfConnectSyncRoot
 CfConvertToPlaceholder
 CfCreatePlaceholders
 CfDehydratePlaceholder
+CfDehydratePlaceholderEx
 CfDisconnectSyncRoot
 CfEnumAppPolicy
 CfExecute
@@ -32,6 +33,7 @@ CfRegisterSyncRoot
 CfReleaseProtectedHandle
 CfReleaseTransferKey
 CfReportProviderProgress
+CfReportProviderProgress2
 CfReportSyncStatus
 CfRetrieveProperties
 CfRevertPlaceholder

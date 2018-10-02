@@ -6,6 +6,7 @@ CoreUICreateICoreWindowFactory
 CoreUIFactoryCreate
 CoreUIServerCreate
 CoreUIServerTestCreate
+CreateNavClient
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject
@@ -17,6 +18,7 @@ MinUserInputInitialize
 MinUserNotifyOneCoreTransformMode
 MinUserRegisterPointerInputTarget
 MinUserRequestViewHitTest
+MinUserReregisterPointerInputTargets
 MinUserUnregisterPointerInputTarget
 ServiceMain
 SvchostPushServiceGlobals

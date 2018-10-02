@@ -1,5 +1,4 @@
 D3D10CheckLevel9Hardware
-D3D10CreateDeviceExternalImplementation
 D3D10Level9DumpJournal
 D3D11CreateDeviceExternalImplementation
 D3DKMTAcquireKeyedMutex

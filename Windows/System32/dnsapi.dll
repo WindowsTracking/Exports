@@ -103,15 +103,19 @@ DnsFlushResolverCacheEntry_A
 DnsFlushResolverCacheEntry_UTF8
 DnsFlushResolverCacheEntry_W
 DnsFree
+DnsFreeAdaptersInfo
 DnsFreeConfigStructure
+DnsFreeNrptRuleNamesList
 DnsFreePolicyConfig
 DnsFreeProxyName
+DnsGetAdaptersInfo
 DnsGetApplicationIdentifier
 DnsGetBufferLengthForStringCopy
 DnsGetCacheDataTable
 DnsGetDnsServerList
 DnsGetDomainName
 DnsGetLastFailedUpdateInfo
+DnsGetNrptRuleNamesList
 DnsGetPolicyTableInfo
 DnsGetPolicyTableInfoPrivate
 DnsGetPrimaryDomainName_A
@@ -167,6 +171,7 @@ DnsRecordStringForWritableType
 DnsRecordTypeForName
 DnsRegisterLocal
 DnsReleaseContextHandle
+DnsRemoveNrptRule
 DnsRemoveRegistrations
 DnsReplaceRecordSetA
 DnsReplaceRecordSetUTF8
@@ -186,6 +191,7 @@ DnsServiceResolve
 DnsServiceResolveCancel
 DnsSetConfigDword
 DnsSetConfigValue
+DnsSetNrptRule
 DnsSetQueryRetryTimeouts
 DnsStartMulticastQuery
 DnsStatusString

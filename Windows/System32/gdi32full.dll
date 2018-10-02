@@ -414,9 +414,17 @@ ModifyWorldTransform
 MoveToEx
 MoveToExImpl
 NamedEscape
+NtDxgkCreateTrackedWorkload
+NtDxgkDestroyTrackedWorkload
+NtDxgkEndTrackedWorkload
+NtDxgkGetAvailableTrackedWorkloadIndex
 NtDxgkGetProcessList
+NtDxgkGetTrackedWorkloadStatistics
 NtDxgkRegisterVailProcess
+NtDxgkResetTrackedWorkload
 NtDxgkSubmitPresentBltToHwQueue
+NtDxgkSubmitPresentToHwQueue
+NtDxgkUpdateTrackedWorkload
 NtDxgkVailConnect
 NtDxgkVailDisconnect
 NtDxgkVailPromoteCompositionSurface
@@ -1140,7 +1148,6 @@ SetBrushOrgEx
 SetColorAdjustment
 SetColorSpace
 SetDCBrushColor
-SetDCDpiScaleValue
 SetDCPenColor
 SetDeviceGammaRamp
 SetDIBColorTable

@@ -1,8 +1,0 @@
-DismissSEMgrServiceDialog
-GetPrivateRegistryLocation
-GetSEMgrServiceDialogResult
-LaunchModernNfcSession
-PlayEventNotification
-ResetScreenIdleTime
-ShowSEMgrServiceDialog
-StopEventNotification

@@ -26,6 +26,7 @@ MpConveyUserChoiceForSampleList
 MpCreateComInstance
 MpDbgAllocMemory
 MpDebugExportFunctions
+MpDeleteAsrHistory
 MpDetectionEnumerate
 MpDetectionQuery
 MpDynamicSignatureEnumerate
@@ -44,6 +45,8 @@ MpFreeMemory
 MpGenerateSignature
 MpGenerateSignatureEx
 MpGenerateThreatReport
+MpGetAsrBlockedActions
+MpGetAsrBlockedProcesses
 MpGetCallistoDetections
 MpGetEngineVersion
 MpGetHIPSRuleInfo

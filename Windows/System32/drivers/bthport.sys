@@ -1,0 +1,12 @@
+BthAcquireBipCancelLock
+BthAcquireBipCancelLockAtDpcLevel
+BthInitializeBip
+BTHPORT_AllocateBip
+BTHPORT_FatalHardwareError
+BTHPORT_FreeBip
+BTHPORT_RecvMpBip
+BTHPORT_RegisterMiniport
+BthReleaseBipCancelLock
+BthReleaseBipCancelLockFromDpcLevel
+DllInitialize
+DllUnload

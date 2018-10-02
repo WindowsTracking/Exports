@@ -1,3 +1,4 @@
+CreateCoreWebViewComponentAndUninitializedCoreWebViewComponentCallbackForWebInstance
 CreateCoreWebViewControl
 CreateCoreWebViewHostProcess
 CreateCoreWebViewOOP
@@ -6,6 +7,7 @@ CreateWebRuntimeDebugTargetClient
 CreateWebRuntimeDebugTargetManager
 CreateWebRuntimeDiagnosticsTarget
 CreateWebViewControlAcceleratorKeyPressedEventArgs
+CreateWebViewControlAndInitializeCoreWebViewComponentCallback
 CreateWebViewControlMoveFocusRequestedEventArgs
 DllCanUnloadNow
 DllGetActivationFactory
@@ -13,4 +15,7 @@ DllGetClassObject
 DllInstall
 DllRegisterServer
 DllUnregisterServer
+EnsureServiceWorkerEnvironmentForWebView
+EnsureWebDriverForWebViewHost
 GetProxyDllInfo
+GetWebDriverHostInstance

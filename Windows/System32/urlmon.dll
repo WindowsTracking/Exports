@@ -174,7 +174,14 @@
 #574
 #575
 #576
+#577
+#578
 #580
+#601
+#602
+#603
+#604
+#605
 AsyncGetClassBits
 AsyncInstallDistributionUnit
 BindAsyncMoniker
@@ -268,7 +275,6 @@ IsLoggingEnabledA
 IsLoggingEnabledW
 IsStringProperty
 IsValidURL
-LaunchEdgeForDebug
 MkParseDisplayNameEx
 ObtainUserAgentString
 PrivateCoInstall

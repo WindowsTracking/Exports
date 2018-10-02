@@ -1,8 +1,0 @@
-BatteryClassInitializeDevice
-BatteryClassIoctl
-BatteryClassQueryWmiDataBlock
-BatteryClassStatusNotify
-BatteryClassSystemControl
-BatteryClassUnload
-DllInitialize
-DllUnload

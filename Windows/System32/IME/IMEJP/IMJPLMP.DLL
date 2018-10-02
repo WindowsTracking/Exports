@@ -10,5 +10,6 @@ DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
 GetSegmentedStr
+IMECFM_AddJpnWordInfoAndLmContextForWatsonReport
 InitGetSegmentedStr
 UnInitGetSegmentedStr

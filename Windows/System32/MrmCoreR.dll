@@ -3,6 +3,7 @@ DllGetActivationFactory
 DllGetClassObject
 GetInternalReferenceBlobForManifestValue
 GetMergedSystemPri
+GetMergedSystemPriEx
 GetStringValueForManifestField
 MergeResourcePackPri
 MergeSystemPriFiles
@@ -14,3 +15,4 @@ ResourceManagerQueueGetStringDirect
 ResourceManagerQueueIsResourceReference
 ResourceManagerQueueReset
 ResourceManagerQueueSetGlobalFlags
+ShouldMergeInproc

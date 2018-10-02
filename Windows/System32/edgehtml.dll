@@ -18,7 +18,6 @@ ConvertAndEscapePostData
 CreateCoreWebView
 CreateDiagnosticsToolObject
 CreateHTMLPropertyPage
-CreateWebDriverAdapter
 DllCanUnloadNow
 DllEnumClassObjects
 DllGetClassObject

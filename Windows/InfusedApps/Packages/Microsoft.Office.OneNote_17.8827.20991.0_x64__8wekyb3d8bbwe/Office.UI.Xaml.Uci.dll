@@ -1,6 +1,0 @@
-?CreateXamlMetadataProvider@Uci@Xaml@UI@Office@@YA?AV?$ComPtr@UIXamlMetadataProvider@Markup@Xaml@UI@Windows@ABI@@@WRL@Microsoft@@XZ
-?ResultBindingWrapper_Data_Get@TellMe@Uci@Xaml@UI@Office@@YA?AUResultBinding@1Mso@@PE$AAVResultBindingWrapper@12345@@Z
-?ResultBindingWrapper_Query_Get@TellMe@Uci@Xaml@UI@Office@@YA?AV?$TCntPtr@UQueryInfo@TellMe@Uci@Xaml@UI@Office@@@Mso@@PE$AAVResultBindingWrapper@12345@@Z
-?ShowInsightsPane@@YAXAEBUSelection@Insights@Mso@@AEBUAppProperties@23@@Z
-DllCanUnloadNow
-DllGetActivationFactory

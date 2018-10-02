@@ -3,9 +3,7 @@ DllGetActivationFactory
 DllGetClassObject
 JpIs3DSupported
 JpIsUnifiedMapsStack
-JpMapControl_CaptureSnapshot
 JpMapControl_Create
-JpMapControl_Invalidate
 JpMapControlSettings_Create
 JpMapFactory_Create
 JpMapModel3DFrom3MFStreamOperation_Create

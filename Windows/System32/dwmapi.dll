@@ -50,6 +50,9 @@
 #176
 #177
 #178
+#179
+#180
+#190
 DllCanUnloadNow
 DllGetClassObject
 DwmAttachMilContent

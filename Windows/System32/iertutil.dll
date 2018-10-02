@@ -264,6 +264,7 @@
 #911
 #913
 #914
+#915
 #92
 #93
 #94
@@ -310,5 +311,4 @@ ResetIEExtensibility
 ResetIERegistrySettings
 RetiredOrdinal
 RevertImpersonate
-SetEdgeAppProfileForVSDebug
 UriFromHostAndScheme

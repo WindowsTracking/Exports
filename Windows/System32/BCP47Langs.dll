@@ -40,6 +40,7 @@ GetFontFallbackLanguageList
 GetHttpAcceptLanguageOptOut
 GetInputMethodOverrideForUser
 GetPendingUserDisplayLanguage
+GetRelevantLocalesFromLanguageTags
 GetSerializedUserLanguageProfile
 GetUnIsoRegionCode
 GetUserDisplayLanguageOverride

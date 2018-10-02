@@ -143,6 +143,7 @@ D3DKMTCreateProtectedSession
 D3DKMTCreateSwapChain
 D3DKMTCreateSynchronizationObject
 D3DKMTCreateSynchronizationObject2
+D3DKMTCreateTrackedWorkload
 D3DKMTDDisplayEnum
 D3DKMTDestroyAllocation
 D3DKMTDestroyAllocation2
@@ -157,9 +158,11 @@ D3DKMTDestroyOverlay
 D3DKMTDestroyPagingQueue
 D3DKMTDestroyProtectedSession
 D3DKMTDestroySynchronizationObject
+D3DKMTDestroyTrackedWorkload
 D3DKMTDispMgrCreate
 D3DKMTDispMgrSourceOperation
 D3DKMTDispMgrTargetOperation
+D3DKMTEndTrackedWorkload
 D3DKMTEnumAdapters
 D3DKMTEnumAdapters2
 D3DKMTEscape
@@ -169,6 +172,7 @@ D3DKMTFlipOverlay
 D3DKMTFlushHeapTransitions
 D3DKMTFreeGpuVirtualAddress
 D3DKMTGetAllocationPriority
+D3DKMTGetAvailableTrackedWorkloadIndex
 D3DKMTGetCachedHybridQueryValue
 D3DKMTGetContextInProcessSchedulingPriority
 D3DKMTGetContextSchedulingPriority
@@ -192,6 +196,7 @@ D3DKMTGetScanLine
 D3DKMTGetSetSwapChainMetadata
 D3DKMTGetSharedPrimaryHandle
 D3DKMTGetSharedResourceAdapterLuid
+D3DKMTGetTrackedWorkloadStatistics
 D3DKMTGetYieldPercentage
 D3DKMTInvalidateActiveVidPn
 D3DKMTInvalidateCache
@@ -263,6 +268,7 @@ D3DKMTReleaseSwapChain
 D3DKMTRemoveSurfaceFromSwapChain
 D3DKMTRender
 D3DKMTReserveGpuVirtualAddress
+D3DKMTResetTrackedWorkload
 D3DKMTSetAllocationPriority
 D3DKMTSetContextInProcessSchedulingPriority
 D3DKMTSetContextSchedulingPriority
@@ -297,6 +303,7 @@ D3DKMTSignalSynchronizationObjectFromGpu2
 D3DKMTSubmitCommand
 D3DKMTSubmitCommandToHwQueue
 D3DKMTSubmitPresentBltToHwQueue
+D3DKMTSubmitPresentToHwQueue
 D3DKMTSubmitSignalSyncObjectsToHwQueue
 D3DKMTSubmitWaitForSyncObjectsToHwQueue
 D3DKMTTrimProcessCommitment
@@ -308,6 +315,7 @@ D3DKMTUnregisterTrimNotification
 D3DKMTUpdateAllocationProperty
 D3DKMTUpdateGpuVirtualAddress
 D3DKMTUpdateOverlay
+D3DKMTUpdateTrackedWorkload
 D3DKMTVailConnect
 D3DKMTVailDisconnect
 D3DKMTVailPromoteCompositionSurface
@@ -891,7 +899,6 @@ SetBrushOrgEx
 SetColorAdjustment
 SetColorSpace
 SetDCBrushColor
-SetDCDpiScaleValue
 SetDCPenColor
 SetDeviceGammaRamp
 SetDIBColorTable

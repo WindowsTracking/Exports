@@ -37,6 +37,7 @@ WinHttpGetProxySettingsVersion
 WinHttpGetTunnelSocket
 WinHttpOpen
 WinHttpOpenRequest
+WinHttpPacJsWorkerMain
 WinHttpProbeConnectivity
 WinHttpQueryAuthSchemes
 WinHttpQueryDataAvailable

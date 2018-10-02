@@ -1,5 +1,11 @@
-EngHostExecuteNextAssertions
+EngHostAttest
+EngHostCreateAttestationClient
+EngHostDestroyAttestationClient
+EngHostDispatchThread
 EngHostGetReport
+EngHostGetRuntimeReport
+EngHostGetSessionCertificate
+EngHostGetSessionReport
 EngHostInitialize
 EngHostNotify
 EngHostShutdown

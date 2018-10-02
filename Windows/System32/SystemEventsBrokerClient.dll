@@ -1,6 +1,7 @@
 SebCreateApplicationTriggerEvent
 SebCreateAuthenticatorDeviceAuthEvent
 SebCreateBackgroundDownloadEvent
+SebCreateBackgroundDownloadEventEx
 SebCreateBackgroundTransferCompletionEvent
 SebCreateBroadcastNotificationEvent
 SebCreateCachedFileUpdatedEvent
@@ -33,6 +34,8 @@ SebCreateUserPresentEvent
 SebDeleteEvent
 SebEnumerateEvents
 SebEnumerateEventsByType
+SebEnumerateEventsByTypeEx
+SebGetStatusStateName
 SebGetUserPresenceHistory
 SebQueryEventData
 SebQueryEventPackage
@@ -48,3 +51,4 @@ SebSignalLevelEvent
 SebSignalMediaProcessingTriggerEvent
 SebSignalOEMPreInstallEvent
 SebSignalSyncEvent
+SebSignalSyncEventEx

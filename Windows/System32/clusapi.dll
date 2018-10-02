@@ -35,6 +35,7 @@ CluGetFaultDomainObject
 CluGetFaultDomainObjects
 CluRemoveFaultDomainObject
 ClusterAddGroupToGroupSet
+ClusterAddGroupToGroupSetWithDomains
 ClusterCaptureLiveDump
 ClusterChangeVMSettings
 ClusterCloseEnum
@@ -44,6 +45,7 @@ ClusterCreateClusterStorageEnclosure
 ClusterCreateFaultDomain
 ClusterCreateFaultDomainFromXML
 ClusterCreateVMReservation
+ClusterCreateVMReservationWithDomains
 ClusterEnum
 ClusterEnumEx
 ClusterFreeMemory
@@ -218,6 +220,7 @@ GetClusterResourceNetworkName
 GetClusterResourceState
 GetClusterResourceTypeKey
 GetClusterSharedVolumeNameForFile
+GetNodeCloudTypeDW
 GetNodeClusterState
 GetNotifyEventHandle
 InitializeClusFaultDomainInfo

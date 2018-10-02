@@ -229,6 +229,7 @@ SetPrinterDataExA
 SetPrinterDataExW
 SetPrinterDataW
 SetPrinterW
+SetSplwow64AppCompat
 SplDriverUnloadComplete
 SpoolerDevQueryPrintW
 SpoolerPrinterEvent

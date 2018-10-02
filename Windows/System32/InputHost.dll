@@ -22,6 +22,7 @@ CreateViewHitTestRequestClient
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject
+SetInputButtonEnabledOnIdle
 SetInputDeviceIndicatorState
 SetInputDeviceRepeatParameters
 SetInputFocus

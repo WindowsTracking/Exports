@@ -1,6 +1,4 @@
 EdpAllowFileAccessForProcess
-EdpConsumerCredentialCreate
-EdpConsumerCredentialQuery
 EdpContainerizeFile
 EdpCredentialCreate
 EdpCredentialDelete
@@ -44,7 +42,11 @@ EfsClientWriteFileRaw
 EfsClientWriteFileWithHeaderRaw
 EfsReprotectFile
 EfsUtilGetCurrentKey
+EfsValidateTokenForConsumer
+EfsValidateUserForConsumer
+FeClClearCaches
 FeClientInitialize
+FeClQueryInfo
 GetLockSessionUnwrappedKey
 GetLockSessionWrappedKey
 OefsCheckSupport

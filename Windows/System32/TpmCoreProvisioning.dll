@@ -4,6 +4,7 @@ Tpm20ClearUsingAuthPolicy
 Tpm20GetCompleteManufacturerVersion
 Tpm20IsResetLockoutCountNeeded
 Tpm20ResetLockoutCountIfNeeded
+Tpm2CreateWindowsNvBits
 Tpm2ReadWindowsNvBit
 Tpm2SetWindowsNvBit
 TpmAddBlockedCommand
@@ -87,6 +88,7 @@ TpmGetPhysicalPresenceRequest
 TpmGetPhysicalPresenceResponse
 TpmGetPhysicalPresenceTransition
 TpmGetPPIVersion
+TpmGetPssSalt
 TpmGetRandomAuthValue
 TpmGetSignedEKFromVendorCommand
 TpmGetSrkADThumbprint

@@ -1,9 +1,0 @@
-ISCCheckSequence
-ISCCreateObject
-ISCDecodeCommandEx
-ISCDestroyObject
-ISCGetContext
-ISCGetCurrentState
-ISCMacroSequenceCheck
-ISCSetCurrentState
-ISCSupportLCID

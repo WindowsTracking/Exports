@@ -112,6 +112,7 @@ GetProtocolProperty
 GetPublisherCacheFolder
 GetPublisherRootFolder
 GetRoamingLastObservedChangeTime
+GetSecureSystemAppDataFolder
 GetSerializedAtomBytes
 GetSharedLocalFolder
 GetStagedPackageOrigin

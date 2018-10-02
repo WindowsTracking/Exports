@@ -36,6 +36,7 @@ WerpFlushImageCache
 WerpForceDeferredCollection
 WerpFreeString
 WerpFreeUnmappedVaRanges
+WerpGetAADTenantInfo
 WerpGetBucketId
 WerpGetDynamicParameter
 WerpGetEventType
@@ -84,6 +85,7 @@ WerpReportSprintfParameter
 WerpReserveMachineQueueReportDir
 WerpResetTransientImageCacheStatistics
 WerpRestartApplication
+WerpSetAADTenantInfo
 WerpSetAuxiliaryArchivePath
 WerpSetCallBack
 WerpSetDefaultUserConsent
@@ -136,6 +138,7 @@ WerStoreOpen
 WerStorePurge
 WerStoreQueryReportMetadataV1
 WerStoreQueryReportMetadataV2
+WerStoreQueryReportMetadataV3
 WerStoreUploadReport
 WerSysprepCleanup
 WerSysprepGeneralize

@@ -3,4 +3,5 @@ DllGetActivationFactory
 DllGetActivationFactoryMirage
 DllGetClassObject
 DllGetClassObjectMirage
+InjectDependency
 IsRemotingEnabled

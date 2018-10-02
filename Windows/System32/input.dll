@@ -14,6 +14,7 @@ InputDll_DownlevelInitialize
 InputDll_DownlevelSetUILanguage
 InputDll_DownlevelUninitialize
 InstallLayoutOrTip
+InstallLayoutOrTipOffline
 InstallLayoutOrTipPrivate
 InstallLayoutOrTipUserReg
 QueryLayoutOrTipString

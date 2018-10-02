@@ -1,11 +1,13 @@
 SRCache_AllocStringBuffer
 SRCache_DuplicateString
 SRCache_Free
+SRCache_GetDefaultAccountSid
 SRCacheContext_Close
 SRCacheContext_Create
 SRCacheContext_CreateSubContext
 SRCacheContext_Delete
 SRCacheContext_DeleteField
+SRCacheContext_DeleteIfEmpty
 SRCacheContext_EnumerateData
 SRCacheContext_EnumerateIndex
 SRCacheContext_GetField_MultiString

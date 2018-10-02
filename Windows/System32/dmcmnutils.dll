@@ -18,6 +18,7 @@ DmGetCurrentUserToken
 DMGetDeviceClientID
 DmGetFileSize
 DmGetIMEI
+DmGetSmbiosSerialNumber
 DmGetUserEditFieldInput
 DmGetUserPermission
 DmGetUserPermissionAsync
@@ -77,6 +78,7 @@ OmaDmRegistryGetAllValues
 OmaDmRegistryGetBinary
 OmaDmRegistryGetDWORD
 OmaDmRegistryGetString
+OmaDmRegistryRetrieveCurrentUsersHKCU
 OmaDmRegistrySetBinary
 OmaDmRegistrySetDWORD
 OmaDmRegistrySetString

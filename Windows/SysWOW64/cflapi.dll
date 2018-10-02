@@ -1,9 +1,0 @@
-CflClearScenarioData
-CflClearTempUserAccount
-CflFreeBuffer
-CflGetScenarioData
-CflGetTransitionScenarioData
-CflSecureFreeBuffer
-CflSetScenarioData
-CflSetupTempUserAccount
-CflSetupTransitionToUserAccount

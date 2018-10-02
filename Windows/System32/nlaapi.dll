@@ -15,6 +15,7 @@ NlaDeletePluginRequests
 NlaDeleteTypeSet
 NlaEqual
 NlaEqualNetSignatures
+NlaGetCaptivePortalHosts
 NlaGetInternetCapability
 NlaGetIntranetCapability
 NlaIndicateReprobe

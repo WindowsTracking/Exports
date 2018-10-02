@@ -1,0 +1,4 @@
+InjectThread
+ntdllLdrInitializeThunk
+ParametersBlock
+StubDllEntry

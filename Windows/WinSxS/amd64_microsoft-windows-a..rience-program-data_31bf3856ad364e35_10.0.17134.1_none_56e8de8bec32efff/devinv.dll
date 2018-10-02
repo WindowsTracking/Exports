@@ -1,7 +1,0 @@
-CreateDeviceInventory
-CreateDeviceInventoryTC
-GetDevInventory
-ReportDeviceAdd
-ReportDeviceRemove
-RunDeviceInventoryW
-SetDevInvDebugCorrelationVector

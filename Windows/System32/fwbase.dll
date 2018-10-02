@@ -41,6 +41,7 @@ FwFieldNameMatchStringBegining
 FwFinalHash
 FwFree
 FwFreeCertCriteria
+FwFreeRpcCallersProcessInfo
 FwGetAppBlockList
 FwGetAuthorizedApp
 FwGetExpandedCanonicalLongPathName
@@ -50,6 +51,7 @@ FwGetProfileIndexFromProfileType
 FwGetProfileTypeFromProfileIndex
 FwGetRemoteAdminSettings
 FwGetRpcCallersProcessImageName
+FwGetRpcCallersProcessInfo
 FwGetService
 FwGetServices
 FwGetServiceTypes

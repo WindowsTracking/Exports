@@ -30,6 +30,7 @@ EvaluateActivityThresholds
 GetFileTimeDifference
 GetFileTimeFromTimeStamp
 GetPerformanceTime
+GetSetting
 GetTimeStampFromFileTime
 InitPropVariantFromCLSIDArray
 InitPropVariantFromFloat

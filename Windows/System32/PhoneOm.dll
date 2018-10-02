@@ -20,6 +20,7 @@ PhoneConference
 PhoneConfirmNonSeamlessUpgrade
 PhoneDeactivateVisualVoicemail
 PhoneDial
+PhoneDowngradeFromRealTimeTextCall
 PhoneDropAccept
 PhoneDropAcceptEx
 PhoneDropVideo
@@ -77,9 +78,7 @@ PhoneGetVoicemailNumberAndOverrideInfo
 PhoneGetWiredHeadsetState
 PhoneHandleAppUninstallByType
 PhoneInitiateCallUpgrade
-PhoneInitiateDeactivatePerso
 PhoneInitiateRetrievalOfCIDRestrictionSupport
-PhoneInitiateSimPinOperation
 PhoneIsActionAvailable
 PhoneIsDtmfWaitPending
 PhoneIsEmergencyNumber
@@ -130,15 +129,6 @@ PhoneSetReminderInfo
 PhoneSetSpeaker
 PhoneSetVideoCapabilitySharingSettings
 PhoneSetVideoPaused
-PhoneSimChangePin
-PhoneSimChangePin2
-PhoneSimDisablePinLock
-PhoneSimEnablePinLock
-PhoneSimGetPin2
-PhoneSimNotifyPin2Available
-PhoneSimUIClosed
-PhoneSimUnlock
-PhoneSimUnlockDebug
 PhoneSpamFilteringEnabled
 PhoneStartRecording
 PhoneStartVisualVoicemailSync

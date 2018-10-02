@@ -1,5 +1,3 @@
-DllCanUnloadNow
-DllGetClassObject
 QueryNetconStatus
 QueryNetconVirtualCharacteristic
 WFDAbortSessionInt
@@ -165,6 +163,7 @@ WlanHostedNetworkStopUsing
 WlanIhvControl
 WlanInitPlapParams
 WlanInternalNonDisruptiveScan
+WlanInternalNonDisruptiveScanEx
 WlanInternalScan
 WlanIsActiveConsoleUser
 WlanIsNetworkSuppressed
@@ -180,6 +179,7 @@ WlanNotifyVsIeProviderExInt
 WlanNotifyVsIeProviderInt
 WlanOpenHandle
 WlanParseProfileXmlBasicSettings
+WlanPrivateCanDeleteProfile
 WlanPrivateClearAnqpCache
 WlanPrivateDeleteProfile
 WlanPrivateEnableAnqpOsuRegistration
@@ -204,6 +204,7 @@ WlanQueryPreConnectInput
 WlanQueryVirtualInterfaceType
 WlanReasonCodeToString
 WlanRefreshConnections
+WlanRegisterDeviceServiceNotification
 WlanRegisterNotification
 WlanRegisterVirtualStationNotification
 WlanRemoveUIForwardingNetworkList
@@ -223,6 +224,7 @@ WlanSetProfileList
 WlanSetProfileListForOffload
 WlanSetProfileMetadata
 WlanSetProfilePosition
+WlanSetProtectedScenario
 WlanSetPsdIEDataList
 WlanSetSecuritySettings
 WlanSetUIForwardingNetworkList
@@ -230,7 +232,9 @@ WlanSignalValueToBar
 WlanSignalValueToBarEx
 WlanSsidToDisplayName
 WlanStartAP
+WlanStartMovementDetector
 WlanStopAP
+WlanStopMovementDetector
 WlanStoreRadioStateOnEnteringAirPlaneMode
 WlanStringToSsid
 WlanStringToUtf8Ssid

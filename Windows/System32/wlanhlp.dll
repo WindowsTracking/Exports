@@ -123,6 +123,7 @@ WlanHostedNetworkQueryWCNSettings
 WlanHostedNetworkSetWCNSettings
 WlanInitPlapParams
 WlanInternalNonDisruptiveScan
+WlanInternalNonDisruptiveScanEx
 WlanInternalScan
 WlanIsNetworkSuppressed
 WlanIsUIRequestPending
@@ -153,9 +154,12 @@ WlanRemoveUIForwardingNetworkList
 WlanSendUIResponse
 WlanSetAllUserProfileRestricted
 WlanSetProfileMetadata
+WlanSetProtectedScenario
 WlanSetUIForwardingNetworkList
 WlanStartAP
+WlanStartMovementDetector
 WlanStopAP
+WlanStopMovementDetector
 WlanStoreRadioStateOnEnteringAirPlaneMode
 WlanTryUpgradeCurrentConnectionAuthCipher
 WlanUpdateProfileWithAuthCipher

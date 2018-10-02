@@ -12,6 +12,7 @@ SensorGetAlsDataWithColorV2
 SensorGetBarDataV2
 SensorGetCapabilitiesCollectionV2
 SensorGetCapabilitiesV2
+SensorGetCurrentReadingV2
 SensorGetDataCollectionV2
 SensorGetDataDeliveryModeV2
 SensorGetDataFieldPropertiesV2
@@ -40,6 +41,8 @@ SensorSetAlsThresholdsV2
 SensorSetAlsWithColorThresholdsV2
 SensorSetBarThresholdsV2
 SensorSetDataDeliveryModeV2
+SensorSetDataIntervalV2
+SensorSetDataThresholdsV2
 SensorSetFusThresholdsV2
 SensorSetGyrThresholdsV2
 SensorSetMagThresholdsV2

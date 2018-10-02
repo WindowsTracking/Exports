@@ -6,14 +6,12 @@ CreateDXGIFactory1
 CreateDXGIFactory2
 DXGID3D10CreateDevice
 DXGID3D10CreateLayeredDevice
-DXGID3D10ETWRundown
 DXGID3D10GetLayeredDeviceSize
 DXGID3D10RegisterLayers
 DXGIDeclareAdapterRemovalSupport
 DXGIDumpJournal
 DXGIGetDebugInterface1
 DXGIReportAdapterConfiguration
-DXGIRevertToSxS
 PIXBeginCapture
 PIXEndCapture
 PIXGetCaptureState

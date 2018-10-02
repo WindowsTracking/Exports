@@ -1,3 +1,4 @@
+CreateChakraEngine
 DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
@@ -36,6 +37,7 @@ JsDefineProperty
 JsDeleteIndexedProperty
 JsDeleteProperty
 JsDisableRuntimeExecution
+JsDiscardBackgroundParse
 JsDisposeRuntime
 JsDoubleToNumber
 JsEnableRuntimeExecution
@@ -95,6 +97,7 @@ JsParseSerializedScriptWithCallback
 JsPointerToString
 JsPreventExtension
 JsProjectWinRTNamespace
+JsQueueBackgroundParse
 JsRelease
 JsRunScript
 JsRunSerializedScript

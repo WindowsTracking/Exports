@@ -1,5 +1,4 @@
 FidoCreateCredential
-FidoDeleteCredentials
 FidoGetCredential
 FidoSignWithCredential
 NgcAddBioProtector
@@ -26,12 +25,6 @@ NgcEncryptWithAsymmetricKey
 NgcEncryptWithSymmetricPopKey
 NgcEnumContainers
 NgcEnumUserIdKeys
-NgcFidoAuthenticatorDeleteCredential
-NgcFidoAuthenticatorGetAAGUID
-NgcFidoAuthenticatorGetAccountInformation
-NgcFidoAuthenticatorGetCredentials
-NgcFidoAuthenticatorMakeCredential
-NgcFidoAuthenticatorSignAssertion
 NgcFreeEnumState
 NgcGetDefaultDecryptionKeyName
 NgcGetEventInterface
@@ -57,6 +50,7 @@ NgcNotifyVscProvisioned
 NgcOpenUserIdKey
 NgcPackAuthBuffer
 NgcPackPasswordChangeAuthBuffer
+NgcQueryEffectiveCertPolicy
 NgcQueryEnabled
 NgcQueryHardwarePolicy
 NgcRemoveBioProtector

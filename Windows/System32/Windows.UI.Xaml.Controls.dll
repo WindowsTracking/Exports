@@ -4,3 +4,4 @@ DllGetClassObject
 DllMain
 GetDependencyLocatorStorage
 SendTelemetryOnSuspend
+XamlTestHookFreeControlsResourceLibrary

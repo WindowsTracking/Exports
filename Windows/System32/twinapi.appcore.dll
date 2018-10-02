@@ -2,6 +2,7 @@
 #10
 #11
 #12
+#13
 #2
 #3
 #4
@@ -50,6 +51,7 @@ BiPtEnumerateBrokeredEventsEx
 BiPtEnumerateWorkItemsForPackageName
 BiPtEnumerateWorkItemsForPackageNameEx
 BiPtFreeMemory
+BiPtGetStatusStateNameFromBrokerEventId
 BiPtQueryBrokeredEvent
 BiPtQueryBrokerEventId
 BiPtQuerySystemStateBroadcastChannels
@@ -136,3 +138,4 @@ RegisterAppStateChangeNotification
 TryGetTitleBarIslandId
 TryGetTitleBarIslandSelectedHost
 UnregisterAppStateChangeNotification
+ValidateSystemShutdown

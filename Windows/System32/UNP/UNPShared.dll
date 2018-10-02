@@ -1,5 +1,0 @@
-?CreateQueryStringBuilder@UNPShared@@YAJPEAPEAUIQueryStringBuilder@@@Z
-?MapExceptionToHResult@UNPShared@@YAJAEBVexception@std@@@Z
-?SubmitRequestForData@UNPShared@@YAJPEBG00PEAPEAG@Z
-?SubmitRequestForSettings@UNPShared@@YAJPEBG00PEAPEAG1@Z
-LoadJsonFromFile

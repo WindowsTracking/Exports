@@ -52,6 +52,7 @@ WinStationConnectAndLockDesktop
 WinStationConnectCallback
 WinStationConnectEx
 WinStationConnectW
+WinStationConsumeCacheSession
 WinStationCreateChildSessionTransport
 WinStationDisconnect
 WinStationEnableChildSessions
@@ -96,6 +97,7 @@ WinStationGetUserCertificates
 WinStationGetUserCredentials
 WinStationGetUserProfile
 WinStationInstallLicense
+WinStationIsBoundToCacheTerminal
 WinStationIsChildSessionsEnabled
 WinStationIsCurrentSessionRemoteable
 WinStationIsHelpAssistantSession

@@ -1,0 +1,10 @@
+?CoreInitialize@HxAccounts@Xaml@UI@Office@@YAXXZ
+?CoreUninitialize@HxAccounts@Xaml@UI@Office@@YAXXZ
+?CreateFrameOperationCreateAccount@HxAccounts@Xaml@UI@Office@@YAPE$AAVFrame@Controls@23Windows@@PE$AAUIOperationCompletedHandler@1234@PE$AAVUserDataAccountProviderAddAccountOperation@Provider@UserDataAccounts@ApplicationModel@7@W4ElementTheme@237@@Z
+?CreateFrameOperationCreateProviderAccount@HxAccounts@Xaml@UI@Office@@YAPE$AAVFrame@Controls@23Windows@@PE$AAUIOperationCompletedHandler@1234@W4ElementTheme@237@W4PartnershipType@1234@@Z
+?CreateFrameOperationFixAccount@HxAccounts@Xaml@UI@Office@@YAPE$AAVFrame@Controls@23Windows@@PE$AAUIOperationCompletedHandler@1234@PE$AAVString@Platform@@W4ElementTheme@237@@Z
+?CreateFrameOperationManageAccount@HxAccounts@Xaml@UI@Office@@YAPE$AAVFrame@Controls@23Windows@@PE$AAUIOperationCompletedHandler@1234@PE$AAVString@Platform@@W4ElementTheme@237@@Z
+?CreateXamlMetadataProvider@HxAccounts@Xaml@UI@Office@@YA?AV?$ComPtr@UIXamlMetadataProvider@Markup@Xaml@UI@Windows@ABI@@@WRL@Microsoft@@XZ
+?FlushETWTrace@HxAccounts@Xaml@UI@Office@@YAXXZ
+DllCanUnloadNow
+DllGetActivationFactory
