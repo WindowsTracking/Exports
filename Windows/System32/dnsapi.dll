@@ -59,6 +59,8 @@ DnsAsyncRegisterHostAddrs
 DnsAsyncRegisterInit
 DnsAsyncRegisterTerm
 DnsCancelQuery
+DnsCheckNrptRuleIntegrity
+DnsCheckNrptRules
 DnsConnectionDeletePolicyEntries
 DnsConnectionDeletePolicyEntriesPrivate
 DnsConnectionDeleteProxyInfo
@@ -105,6 +107,7 @@ DnsFlushResolverCacheEntry_W
 DnsFree
 DnsFreeAdaptersInfo
 DnsFreeConfigStructure
+DnsFreeNrptRule
 DnsFreeNrptRuleNamesList
 DnsFreePolicyConfig
 DnsFreeProxyName
@@ -112,8 +115,10 @@ DnsGetAdaptersInfo
 DnsGetApplicationIdentifier
 DnsGetBufferLengthForStringCopy
 DnsGetCacheDataTable
+DnsGetCacheDataTableEx
 DnsGetDnsServerList
 DnsGetDomainName
+DnsGetInterfaceSettings
 DnsGetLastFailedUpdateInfo
 DnsGetNrptRuleNamesList
 DnsGetPolicyTableInfo
@@ -122,6 +127,7 @@ DnsGetPrimaryDomainName_A
 DnsGetProxyInfoPrivate
 DnsGetProxyInformation
 DnsGetQueryRetryTimeouts
+DnsGetSettings
 DnsGlobals
 DnsIpv6AddressToString
 DnsIpv6StringToAddress
@@ -178,6 +184,7 @@ DnsReplaceRecordSetUTF8
 DnsReplaceRecordSetW
 DnsResetQueryRetryTimeouts
 DnsResolverOp
+DnsResolverQueryHvsi
 DnsScreenLocalAddrsForRegistration
 DnsServiceBrowse
 DnsServiceBrowseCancel
@@ -191,8 +198,11 @@ DnsServiceResolve
 DnsServiceResolveCancel
 DnsSetConfigDword
 DnsSetConfigValue
+DnsSetInterfaceSettings
 DnsSetNrptRule
+DnsSetNrptRules
 DnsSetQueryRetryTimeouts
+DnsSetSettings
 DnsStartMulticastQuery
 DnsStatusString
 DnsStopMulticastQuery
@@ -275,3 +285,4 @@ Trace_Reset
 Update_ReplaceAddressRecordsW
 Util_IsIp6Running
 Util_IsRunningOnXboxOne
+WriteDnsNrptRulesToRegistry

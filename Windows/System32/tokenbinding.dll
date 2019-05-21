@@ -2,6 +2,7 @@ TokenBindingDeleteAllBindings
 TokenBindingDeleteBinding
 TokenBindingGenerateBinding
 TokenBindingGenerateID
+TokenBindingGenerateIDForUri
 TokenBindingGenerateMessage
 TokenBindingGetHighestSupportedVersion
 TokenBindingGetKeyTypesClient

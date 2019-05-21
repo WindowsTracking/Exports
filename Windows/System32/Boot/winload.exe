@@ -8,9 +8,6 @@ _wcsicmp
 _wcsnicmp
 _wcstoui64
 _wcsupr
-A_SHAFinal
-A_SHAInit
-A_SHAUpdate
 AhCreateLoadOptionsString
 AhGetArcDevice
 ArchBuildKernelGdt
@@ -22,6 +19,7 @@ BlAppendBootOptionString
 BlAppendUnicodeToString
 BlAppSetDependency
 BlArchCpuId
+BlArchDetectSmt
 BlArchGetCpuVendor
 BlArchGetPerformanceCounter
 BlArchIsCpuIdFunctionSupported
@@ -69,6 +67,7 @@ BlFileReadAtOffsetEx
 BlFileReadEx
 BlFileSetInformation
 BlFileWrite
+BlFveCheckPermission
 BlFwGetAcpiMemoryMap
 BlFwGetSystemTable
 BlFwQueryEfiRuntimeVaRange
@@ -84,6 +83,8 @@ BlGetBootOptionString
 BlGetDevice
 BlGetDeviceIdentifier
 BlGetExecutionEnvironment
+BlGetLogicalProcessorCount
+BlGetProcessorApicIds
 BlImgFindSection
 BlImgGetNtHeader
 BlImgGetPEImageSize
@@ -168,6 +169,7 @@ BlResourceFindMessage
 BlResourceGetLanguageMapping
 BlSealSecretToCurrentPcrValues
 BlSecureBootGetNonVolatilePrivateVariable
+BlSecureBootIgnoreSingleBootOption
 BlSecureBootSetVolatilePrivateVariable
 BlSetVirtualizationLaunched
 BlSiAppLosingTpmAccess
@@ -182,13 +184,16 @@ BlSiPaRecordConfigEvent
 BlSiPaRecordDrtmConfigEvent
 BlSiPaRecordEvent
 BlSIPolicyCheckPolicyOnDevice
+BlSIPolicyDoesActivePolicyGrantPermission
 BlSIPolicyLoadAndActivateTemporalPolicy
+BlSiSetDrtmEnvironmentUnsafe
 BlStatusError
 BlStatusPrint
 BlStatusRegisterErrorHandler
 BlSvnGetApplicationSvn
 BlSvnGetChainStatus
 BlSymCryptGetAesBlockCipher
+BlSymCryptGetHmacSha256Algorithm
 BlTblSetEntry
 BlTcgFwSetAndLockMemoryOverwriteRequestControl
 BlTimeGetRelativeTime
@@ -226,8 +231,13 @@ memset
 MinCrypL_HashMemory
 MincryptSetWeakCryptoPolicy
 OslGenRandomBytes
+OslGetControlSubkey
 OslGetDrtmSvn
+OslGetExportRoutineInModule
 OslGetLocalApicId
+OslGetStringValueAtKey
+OslGetValueAtKey
+OslIsRunningInSecureKernel
 OslLoadMicrocodeUpdate
 qsort
 rsa_construction_fips186_3
@@ -266,6 +276,7 @@ RtlStringFromGUID
 RtlUnicodeStringToAnsiString
 RtlUpcaseUnicodeChar
 SbArePolicyOptionsSet
+SbDoesActivePolicyGrantPermission
 SbFreeFileData
 SbGetKernelPolicyPackage
 SbGetSizeOfKernelPolicyPackage
@@ -328,6 +339,7 @@ SymCryptRngAesFips140_2Uninstantiate
 SymCryptRngAesGenerateSelftest
 SymCryptRngAesInstantiateSelftest
 SymCryptRngAesReseedSelftest
+SymCryptSha1
 SymCryptSha256
 SymCryptSha256Append
 SymCryptSha256Init
@@ -336,6 +348,7 @@ SymCryptSha512
 SymCryptSha512Append
 SymCryptSha512Init
 SymCryptSha512Result
+SymCryptSp800_108
 TpmApiCheckSecureNVIndex20
 TpmApiCreateSecureNVIndex20
 TpmApiCreateSrk20

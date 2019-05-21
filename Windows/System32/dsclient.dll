@@ -4,9 +4,6 @@ DSDelegateSharingToken
 DSFreeString
 DSGetSharedFileName
 DSGetSharingTokenInformation
-DSGetSharingTokenOwner
-DSMoveFromSharedFile
-DSMoveToSharedFile
 DSOpenSharedFile
 DSRemoveExpiredTokens
 DSRemoveSharingToken

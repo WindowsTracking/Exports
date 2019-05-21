@@ -5,3 +5,5 @@ DllGetActivationFactory
 DllGetClassObject
 ProcessTrackerInsertOrWait
 ProcessTrackerRemove
+ServiceMain
+SvchostPushServiceGlobals

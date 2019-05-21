@@ -577,6 +577,7 @@ SHELL32_CMountPoint_IsAutoRunDriveAndEnabledByPolicy
 SHELL32_CMountPoint_ProcessAutoRunFile
 SHELL32_CMountPoint_WantAutorunUI
 SHELL32_CMountPoint_WantAutorunUIGetReady
+SHELL32_CNetFolderUI_CreateInstance
 SHELL32_CommandLineFromMsiDescriptor
 SHELL32_CopyFilePlaceholderToNewFile
 SHELL32_CopySecondaryTiles
@@ -807,6 +808,7 @@ SHUpdateImageW
 SHUpdateRecycleBinIcon
 SHValidateUNC
 SignalFileOpen
+StateRepoNewMenuCache_RebuildCacheAsync
 StgMakeUniqueName
 StrChrA
 StrChrIA

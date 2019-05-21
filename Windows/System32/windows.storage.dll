@@ -161,6 +161,7 @@ PathIsExe
 PathMakeUniqueName
 PathYetAnotherMakeUniqueName
 QueryStorageAccess_FullTrustCaller_ForPackage
+QueryStorageAccess_FullTrustCaller_ForToken
 RebaseOnDriveLetter
 RebaseOnVolumeID
 RegistryVerbs_GetHandlerMultiSelectModel
@@ -260,6 +261,7 @@ STORAGE_CStorageItem_GetValidatedStorageItemObject
 STORAGE_FillResultWithNullForKeys
 STORAGE_GetShellItemFromStorageItem
 STORAGE_GetSystemPersistedStorageItemList
+Storage_Internal_GetAccessListForPackage
 STORAGE_MakeDestinationItem
 STORAGE_SHAddToRecentDocs
 STORAGE_SHAddToRecentDocsEx
@@ -279,3 +281,4 @@ STORAGE_SHGetPathFromMsUri
 STORAGE_SHPathPrepareForWriteA
 STORAGE_SHPathPrepareForWriteW
 STORAGE_SHValidateMSUri
+StorageItemHelpers_IsSupportedRemovablePath

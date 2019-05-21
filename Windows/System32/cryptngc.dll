@@ -41,6 +41,7 @@ NgcGetPregenUserKey
 NgcGetSymmetricPopKeyTransportKey
 NgcGetSymmetricPopKeyTransportKeyName
 NgcGetUserIdKeyCertificate
+NgcGetUserIdKeyContainerStatus
 NgcGetUserIdKeyName
 NgcGetUserIdKeyPublicKey
 NgcImportSymmetricPopKey

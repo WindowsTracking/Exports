@@ -1,5 +1,0 @@
-DllRegisterServer
-DllUnregisterServer
-ProcessConfigCIPolicyGroupPolicy
-ProcessVirtualizationBasedSecurityGroupPolicy
-ProcessVirtualizationBasedSecurityMDMPolicy

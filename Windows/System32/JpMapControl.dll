@@ -13,7 +13,5 @@ JpOverviewMapControl_Create
 JpRestrictedApiAccessCheck
 JpStreetsideExperience_Create
 JpStreetsidePanoramaOperation_Create
-MapSettings_GetMosAppId
 MapSettings_GetMosBingMapsKey
-MapSettings_GetMosServiceToken
 MapSettings_ResetMosKeys

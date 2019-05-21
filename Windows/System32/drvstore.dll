@@ -23,6 +23,7 @@ DriverStoreDriverPackageResolveCallbackW
 DriverStoreEnumDeviceDriversW
 DriverStoreEnumNodesW
 DriverStoreEnumObjectsW
+DriverStoreEnumRelatedDriversW
 DriverStoreEnumW
 DriverStoreFindW
 DriverStoreGetObjectPropertyKeysW

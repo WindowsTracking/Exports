@@ -1,7 +1,0 @@
-DllCanUnloadNow
-DllGetActivationFactory
-DllGetClassObject
-SRCheckIntegrity
-SRGetPackageOriginForUser
-SRGetStagedPackageOrigin
-SRRepair

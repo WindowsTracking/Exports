@@ -1,0 +1,4 @@
+?CreateInkOnTextExperience@InkingExperience@@YAJAEAV?$shared_ptr@VIInkOnTextExperience@InkingExperience@@@std@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@3@@Z
+?CreateInkOnTextExperienceConfiguration@InkingExperience@@YA?AUConfiguration@IInkOnTextExperience@1@AEBUSettings@31@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@W4CoreTextInputScope@Core@Text@UI@Windows@ABI@@_N@Z
+?GetCurrentSettings@InkingExperienceSettingsManager@InkingExperience@@SA?AUSettings@IInkOnTextExperience@2@XZ
+?IsEnabled@InkingExperienceSettingsManager@InkingExperience@@SA_NXZ

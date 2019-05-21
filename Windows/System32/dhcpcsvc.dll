@@ -8,6 +8,7 @@ DhcpDeRegisterConnectionStateNotification
 DhcpDeRegisterOptions
 DhcpDeRegisterParamChange
 DhcpEnableDhcp
+DhcpEnableDhcpAdvanced
 DhcpEnableTracing
 DhcpEnumClasses
 DhcpEnumInterfaces

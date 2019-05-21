@@ -1,0 +1,14 @@
+?CreateAppointmentLoadCancellationUI@HxCalendar@Xaml@UI@Office@@YAPE$AAUIAppointmentLoadCancellationUI@1234@XZ
+?CreateXamlMetadataProvider@HxCalendar@Xaml@UI@Office@@YA?AV?$ComPtr@UIXamlMetadataProvider@Markup@Xaml@UI@Windows@ABI@@@WRL@Microsoft@@XZ
+?Initialize@HxCalendar@Xaml@UI@Office@@YAXAEBUConfig@Telemetry@Hx@@@Z
+?LaunchMail@NavigationPaneActionsUtility@HxCalendar@Xaml@UI@Office@@YAXW4NavigationPaneActionsUtilitySource@Hx@@@Z
+?LaunchMicrosoftToDo@NavigationPaneActionsUtility@HxCalendar@Xaml@UI@Office@@YAXW4NavigationPaneActionsUtilitySource@Hx@@@Z
+?LaunchPeople@NavigationPaneActionsUtility@HxCalendar@Xaml@UI@Office@@YAXW4NavigationPaneActionsUtilitySource@Hx@@@Z
+?RegisterXamlETWProviders@HxCalendar@Xaml@UI@Office@@YAXXZ
+?SetUseAirSpaceRendering@HxCalendar@Xaml@UI@Office@@YAX_N@Z
+?ShowAccountsSettings@NavigationPaneActionsUtility@HxCalendar@Xaml@UI@Office@@YAXW4NavigationPaneActionsUtilitySource@Hx@@@Z
+?ShowSettings@NavigationPaneActionsUtility@HxCalendar@Xaml@UI@Office@@YAXW4NavigationPaneActionsUtilitySource@Hx@@@Z
+?StartXamlETWLogging@HxCalendar@Xaml@UI@Office@@YAX_K@Z
+?UnregisterXamlETWProviders@HxCalendar@Xaml@UI@Office@@YAXXZ
+DllCanUnloadNow
+DllGetActivationFactory

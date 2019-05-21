@@ -66,5 +66,7 @@ PARTITION_SYSTEM_GUID
 SyspartDirectGetSystemDisk
 SyspartDirectGetSystemPartition
 SyspartDirectSetSystemDevice
+SyspartGetPhysicalPartitions
 SyspartGetSystemDisk
 SyspartGetSystemPartition
+SyspartIsSpace

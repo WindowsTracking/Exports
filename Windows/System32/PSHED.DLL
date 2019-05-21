@@ -20,4 +20,5 @@ PshedRegisterPlugin
 PshedRetrieveErrorInfo
 PshedSetErrorSourceInfo
 PshedSynchronizeExecution
+PshedUnregisterPlugin
 PshedWriteErrorRecord

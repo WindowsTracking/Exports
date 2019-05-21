@@ -45,15 +45,19 @@ MpFreeMemory
 MpGenerateSignature
 MpGenerateSignatureEx
 MpGenerateThreatReport
+MpGetAsrBlockedActionInfos
 MpGetAsrBlockedActions
 MpGetAsrBlockedProcesses
 MpGetCallistoDetections
+MpGetDevMode
 MpGetEngineVersion
 MpGetHIPSRuleInfo
 MpGetMAPSConnectivityStatusInfo
 MpGetRunningMode
 MpGetSampleChunk
 MpGetSampleListRequiringConsent
+MpGetTaskSchedulerStrings
+MpGetTPStateInfo
 MpHandleClose
 MpIsGivenRunningModeSupported
 MpIsRtpAutoEnable
@@ -84,6 +88,7 @@ MpScanControl
 MpScanResult
 MpScanStart
 MpScanStartEx
+MpSetTPState
 MpSetUacElevationDefaultWindowHandle
 MpSmartLockerEnable
 MpTelemetryAddToAverageDWORD
@@ -122,6 +127,7 @@ MpTriggerErrorHeartbeatReport
 MpTriggerHeartbeatOnUninstall
 MpTriggerStatusRefreshNotification
 MpUpdateControl
+MpUpdateDevMode
 MpUpdateEngine
 MpUpdatePlatform
 MpUpdateStart

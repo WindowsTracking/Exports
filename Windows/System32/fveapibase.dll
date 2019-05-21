@@ -46,9 +46,11 @@ FveOpenVolumeExW
 FveOpenVolumeW
 FveQuery
 FveRevertVolume
+FveSelectBestRecoveryPasswordByBackupInformation
 FveSetAllowKeyExport
 FveSetFipsAllowDisabled
 FveSetFveMethod
+FveSetRecoveryPasswordBackupInformation
 FveSetUserFlags
 FveUpgradeVolume
 InternalFveIsVolumeEncrypted

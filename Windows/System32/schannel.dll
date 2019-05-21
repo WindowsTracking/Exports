@@ -28,6 +28,7 @@ SslEmptyCacheW
 SslFreeCertificate
 SslFreeCustomBuffer
 SslGenerateRandomBits
+SslGetExtensions
 SslGetMaximumKeySize
 SslGetServerIdentity
 SslLoadCertificate

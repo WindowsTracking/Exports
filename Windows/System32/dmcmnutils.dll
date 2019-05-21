@@ -26,6 +26,8 @@ DmGetUserSidFromToken
 DmGetUserTokenFromSid
 DmImpersonate
 DmInformUser
+DmInvalidateAadDeviceToken
+DmInvalidateAadUserToken
 DmIsDeviceConnected
 DmIsDeviceRoaming
 DmIsRunningInSystemContext
@@ -38,6 +40,7 @@ DmRaiseToastNotification
 DmRaiseToastNotificationAndWait
 DmRegisterRoamingNotification
 DmRemoveToastNotification
+DmRemoveToastNotificationByExecutablePath
 DmRequestAadUserToken
 DmRevertToSelf
 DmRunTask

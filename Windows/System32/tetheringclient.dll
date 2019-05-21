@@ -5,6 +5,7 @@ TetheringFreePeerList
 TetheringGetClientCount
 TetheringGetDefaultInterface
 TetheringGetErrorString
+TetheringGetIsPeerlessTimeoutEnabled
 TetheringGetLastApiError
 TetheringGetMaxClientCount
 TetheringGetPeerList
@@ -17,6 +18,7 @@ TetheringInitApi
 TetheringIs5GHzSupported
 TetheringIsAllowed
 TetheringRegisterNotification
+TetheringSetIsPeerlessTimeoutEnabled
 TetheringSetPreferredInterface
 TetheringSetPrivateConnectionSettings
 TetheringSetPrivateConnectionSettingsAsync

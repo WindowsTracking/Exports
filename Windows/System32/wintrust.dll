@@ -8,6 +8,7 @@ CryptCATAdminAcquireContext2
 CryptCATAdminAddCatalog
 CryptCATAdminCalcHashFromFileHandle
 CryptCATAdminCalcHashFromFileHandle2
+CryptCATAdminCalcHashFromFileHandle3
 CryptCATAdminEnumCatalogFromHash
 CryptCATAdminPauseServiceForBackup
 CryptCATAdminReleaseCatalogContext
@@ -98,8 +99,10 @@ WintrustLoadFunctionPointers
 WintrustRemoveActionID
 WintrustSetDefaultIncludePEPageHashes
 WintrustSetRegPolicyFlags
+WintrustUserWriteabilityCheck
 WinVerifyTrust
 WinVerifyTrustEx
+WTConvertCertCtxToChainInfo
 WTGetBioSignatureInfo
 WTGetPluginSignatureInfo
 WTGetSignatureInfo
@@ -120,6 +123,9 @@ WTHelperIsChainedToMicrosoftFromStateData
 WTHelperIsInRootStore
 WTHelperOpenKnownStores
 WTHelperProvDataFromStateData
+WTIsFirstConfigCiResultPreferred
+WTLogConfigCiScriptEvent
+WTLogConfigCiSignerEvent
 WTValidateBioSignaturePolicy
 WVTAsn1CatMemberInfo2Decode
 WVTAsn1CatMemberInfo2Encode

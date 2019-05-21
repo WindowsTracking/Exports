@@ -6,4 +6,5 @@ X3DAudioCalculate
 X3DAudioInitialize
 XAudio2Create
 XAudio2CreateV2_9
+XAudio2CreateWithSharedContexts
 XAudio2CreateWithVersionInfo

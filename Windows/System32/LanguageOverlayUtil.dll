@@ -4,8 +4,11 @@ EnumerateInstalledLocalExperiencePacks
 EnumerateInstalledMachineLanguagePacks
 EnumerateSupportedUILanguages
 EnumOverlayPaths
+FetchLanguageOverlayPackageForFirstLogon
 GetBcp47TagFromPackageFamilyName
 GetLanguageOverlayPackageFamilyName
+GetLanguagesInUse
+GetLanguagesNotInUse
 GetOverlayFilePath
 GetWindowsUpdateServer
 GroupUserLanguages
@@ -17,5 +20,5 @@ IsLocalExperiencePackReadyForRemoval
 OnMachineUILanguageInit
 OnMachineUILanguageSwitch
 OpenOverlayPaths
+OverlaySetPreferredUILanguages
 RemoveLanguageFromMachineLanguageList
-StartFetchLegacyLanguageResources

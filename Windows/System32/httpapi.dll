@@ -12,8 +12,10 @@ HttpCreateServerSession
 HttpCreateUrlGroup
 HttpDeclarePush
 HttpDelegateRequest
+HttpDelegateRequestEx
 HttpDeleteServiceConfiguration
 HttpEvaluateRequest
+HttpFindUrlGroupId
 HttpFlushResponseCache
 HttpGetCounters
 HttpGetExtension

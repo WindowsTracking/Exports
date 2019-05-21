@@ -23,6 +23,7 @@ TdhGetWppMessage
 TdhGetWppProperty
 TdhLoadManifest
 TdhLoadManifestFromBinary
+TdhLoadManifestFromMemory
 TdhOpenDecodingHandle
 TdhpFindMatchClassFromWBEM
 TdhpGetBestTraceEventInfoWBEM
@@ -31,4 +32,5 @@ TdhQueryProviderFieldInformation
 TdhQueryRemoteWBEMProviderFieldInformation
 TdhSetDecodingParameter
 TdhUnloadManifest
+TdhUnloadManifestFromMemory
 TdhValidatePayloadFilter

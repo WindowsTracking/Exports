@@ -2,3 +2,4 @@ DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject
 GetDependencyLocatorStorage
+XamlTestHookFreeInkControlsResourceLibrary

@@ -105,6 +105,7 @@ CreateRectRgnIndirect
 CreateRoundRectRgn
 CreateScalableFontResourceA
 CreateScalableFontResourceW
+CreateScaledCompatibleBitmap
 CreateSessionMappedDIBSection
 CreateSolidBrush
 D3DKMTAbandonSwapChain
@@ -160,6 +161,7 @@ D3DKMTDestroyProtectedSession
 D3DKMTDestroySynchronizationObject
 D3DKMTDestroyTrackedWorkload
 D3DKMTDispMgrCreate
+D3DKMTDispMgrOperation
 D3DKMTDispMgrSourceOperation
 D3DKMTDispMgrTargetOperation
 D3DKMTEndTrackedWorkload
@@ -212,7 +214,6 @@ D3DKMTNetDispStartMiracastDisplayDevice
 D3DKMTNetDispStartMiracastDisplayDevice2
 D3DKMTNetDispStartMiracastDisplayDeviceEx
 D3DKMTNetDispStopMiracastDisplayDevice
-D3DKMTNetDispStopSessions
 D3DKMTOfferAllocations
 D3DKMTOpenAdapterFromDeviceName
 D3DKMTOpenAdapterFromGdiDisplayName
@@ -236,6 +237,7 @@ D3DKMTOutputDuplGetFrameInfo
 D3DKMTOutputDuplGetMetaData
 D3DKMTOutputDuplGetPointerShapeData
 D3DKMTOutputDuplPresent
+D3DKMTOutputDuplPresentToHwQueue
 D3DKMTOutputDuplReleaseFrame
 D3DKMTPinDirectFlipResources
 D3DKMTPollDisplayChildren
@@ -406,7 +408,6 @@ DeviceCapabilitiesExW
 DPtoLP
 DrawEscape
 DwmCreatedBitmapRemotingOutput
-DxTrimNotificationListHead
 Ellipse
 EnableEUDC
 EndDoc
@@ -885,7 +886,6 @@ SelectClipRgn
 SelectFontLocal
 SelectObject
 SelectPalette
-semDxTrimNotification
 SetAbortProc
 SetArcDirection
 SetBitmapAttributes

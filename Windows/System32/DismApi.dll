@@ -6,7 +6,7 @@ _DismAddProvisionedAppxPackage
 _DismApplyCustomDataImage
 _DismApplyFfuImage
 _DismApplyProvisioningPackage
-_DismCleanupSession
+_DismCleanImage
 _DismEnableDisableFeature
 _DismExportDriver
 _DismExportSource

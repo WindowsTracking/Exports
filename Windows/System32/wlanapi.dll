@@ -162,8 +162,11 @@ WlanHostedNetworkStartUsing
 WlanHostedNetworkStopUsing
 WlanIhvControl
 WlanInitPlapParams
+WlanInternalCancelFTMRequest
+WlanInternalGetNetworkBssListWithFTMData
 WlanInternalNonDisruptiveScan
 WlanInternalNonDisruptiveScanEx
+WlanInternalRequestFTM
 WlanInternalScan
 WlanIsActiveConsoleUser
 WlanIsNetworkSuppressed

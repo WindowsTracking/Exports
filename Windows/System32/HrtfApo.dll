@@ -1,4 +1,4 @@
 CreateHrtfApo
-CreateHrtfApoWithOptions
+CreateHrtfApoWithDatasetType
 CreateHrtfEngineFactory
 IsHrtfApoAvailable

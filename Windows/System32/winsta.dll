@@ -29,6 +29,7 @@ ServerGetInternetConnectorStatus
 ServerLicensingClose
 ServerLicensingDeactivateCurrentPolicy
 ServerLicensingFreePolicyInformation
+ServerLicensingGetAadInfo
 ServerLicensingGetAvailablePolicyIds
 ServerLicensingGetPolicy
 ServerLicensingGetPolicyInformationA
@@ -36,6 +37,7 @@ ServerLicensingGetPolicyInformationW
 ServerLicensingLoadPolicy
 ServerLicensingOpenA
 ServerLicensingOpenW
+ServerLicensingSetAadInfo
 ServerLicensingSetPolicy
 ServerLicensingUnloadPolicy
 ServerQueryInetConnectorInformationA

@@ -3,8 +3,4 @@ CreateModernVoipPolicy
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject
-PlmGetHostIdForDesktopAppxProcess
-PlmGetHostIdForDynamicProcess
-PlmGetHostIdForMixedHost
-PlmGetHostIdForPple
 TestHook_CancelShutdown

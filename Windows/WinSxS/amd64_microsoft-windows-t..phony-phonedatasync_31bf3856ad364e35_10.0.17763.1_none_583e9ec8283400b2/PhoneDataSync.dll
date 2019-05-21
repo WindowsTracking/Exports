@@ -1,5 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-DoesUserAccountSupportCloudSync
-InitializePhoneDataSync
-UninitializePhoneDataSync

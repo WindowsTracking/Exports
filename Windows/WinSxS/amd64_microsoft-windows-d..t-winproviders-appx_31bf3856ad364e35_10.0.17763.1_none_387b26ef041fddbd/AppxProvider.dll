@@ -1,8 +1,0 @@
-AddProvisionedAppxPackageForCSP
-DllCanUnloadNow
-DllGetClassObject
-DLLGetDISMProviderCLSID
-DllRegisterServer
-DllUnregisterServer
-RemoveProvisionedAppxPackageForAllUsersForCSP
-RemoveProvisionedAppxPackageForCSP

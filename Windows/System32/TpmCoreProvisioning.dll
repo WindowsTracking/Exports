@@ -13,6 +13,7 @@ TpmCertDeleteHealthCert
 TpmCertDeleteHealthEndpoint
 TpmCertGetCurrentProtocolVersion
 TpmCertGetEkCertFromWeb
+TpmCertGetFormattedHASUrl
 TpmCertGetFormattedUrl
 TpmCertGetFwLinkId
 TpmCertGetHASProtocolVersion
@@ -49,7 +50,6 @@ TpmClear
 TpmClearUsingPhysicalPresence
 TpmClearWithPolicyOrPPI
 TpmConvertToOwnerAuth
-TpmCopyFirmwareVersionFromNvToRegistry
 TpmCreateEndorsementKeyPair
 TpmCreateHealthAttestationClaim
 TpmCreateHealthStatusClaim
@@ -128,6 +128,7 @@ TpmRemoveRegisteredWindowsAIK
 TpmResetAuthLockOut
 TpmResetSrkAuth
 TpmRetrieveEkCertificate
+TpmRetrieveEkCertificateURL
 TpmRetrieveEkCertOrReschedule
 TpmRetrieveHealthCertificate
 TpmRetrieveHealthCertOrReschedule

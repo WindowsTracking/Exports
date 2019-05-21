@@ -1,9 +1,0 @@
-?ConvertStreamToCharset@ExSmime@Hx@@YAJPEAUIStream@@I0I@Z
-?CreateCertificateUtilities@ExSmime@Hx@@YA?AV?$unique_ptr@UICertificateUtilities@ExSmime@Hx@@U?$default_delete@UICertificateUtilities@ExSmime@Hx@@@std@@@std@@XZ
-?CreateExsMimeProxy@ExSmime@Hx@@YA?AV?$unique_ptr@UISmimeMessageProxy@ExSmime@Hx@@U?$default_delete@UISmimeMessageProxy@ExSmime@Hx@@@std@@@std@@PEAUHWND__@@_NPEB_W@Z
-?CreateExsMimeProxy@ExSmime@Hx@@YA?AV?$unique_ptr@UISmimeMessageProxy@ExSmime@Hx@@U?$default_delete@UISmimeMessageProxy@ExSmime@Hx@@@std@@@std@@PEAUIStream@@_NPEAUHWND__@@PEB_W@Z
-?CreateMimeProxy@ExSmime@Hx@@YA?AV?$unique_ptr@UIMimeMessageProxy@ExSmime@Hx@@U?$default_delete@UIMimeMessageProxy@ExSmime@Hx@@@std@@@std@@PEB_W@Z
-?CreateSmimeComposeData@ExSmime@Hx@@YA?AV?$unique_ptr@UISmimeComposeData@ExSmime@Hx@@U?$default_delete@UISmimeComposeData@ExSmime@Hx@@@std@@@std@@PEBUIMessageHeader@HxOutlook@@PEBUIMessageData@6@PEBUICertificateUtilities@12@AEBV?$vector@EV?$allocator@E@std@@@4@_N44@Z
-?Decode2047Header@ExSmime@Hx@@YAJPEBDIAEAV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z
-?DecodeStream@ExSmime@Hx@@YAJPEAUIStream@@PEBDPEAPEAU3@@Z
-?LookupCharset@ExSmime@Hx@@YAJPEB_WAEAI@Z

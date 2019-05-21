@@ -1,0 +1,5 @@
+FreeTimeStatusInfo
+GetTimeStatusInfo
+SetNTPSync
+StartTimeService
+SyncW32Time

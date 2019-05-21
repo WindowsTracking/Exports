@@ -27,8 +27,6 @@ PowerCloseLimitsMitigation
 PowerCloseLimitsPolicy
 PowerCreatePossibleSetting
 PowerCreateSetting
-PowerCustomizePlatformPowerSettingsOffline
-PowerCustomizePlatformPowerSettingsOnline
 PowerDebugDifPowerPolicies
 PowerDebugDifSystemPowerPolicies
 PowerDebugDumpPowerPolicy
@@ -40,7 +38,6 @@ PowerDeterminePlatformRole
 PowerDeterminePlatformRoleEx
 PowerDuplicateScheme
 PowerEnumerate
-PowerGeneralizePlatformSettings
 PowerGetActiveScheme
 PowerGetActualOverlayScheme
 PowerGetAdaptiveStandbyDiagnostics

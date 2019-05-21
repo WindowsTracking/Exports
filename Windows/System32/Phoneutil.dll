@@ -22,7 +22,6 @@ CreateDialAssist
 CreatePerUserSecurityPolicy
 CreatePerUserSecurityToken
 CreatePerUserSecurityTokenForRpcClient
-CreateUdmDataSessionForSignedInUser
 CreateUdmDataSessionForSignedInUserContext
 DeinitDialingPrefixTable
 DetectMultiPrefix

@@ -79,7 +79,6 @@ WerpOpenMachineArchive
 WerpOpenMachineQueue
 WerpPromptUser
 WerpPruneStore
-WerpQueueHasBypassPowerReports
 WerpReportCancel
 WerpReportSprintfParameter
 WerpReserveMachineQueueReportDir
@@ -91,6 +90,7 @@ WerpSetCallBack
 WerpSetDefaultUserConsent
 WerpSetDynamicParameter
 WerpSetEventName
+WerpSetExitListeners
 WerpSetIntegratorReportId
 WerpSetIptEnabled
 WerpSetProcessTimelines
@@ -106,7 +106,7 @@ WerpSetReportUploadContextToken
 WerpSetTelemetryAppParams
 WerpSetTelemetryKernelParams
 WerpSetTelemetryServiceParams
-WerpSetTimedTask
+WerpSetTtdStatus
 WerpShowUpsellUI
 WerpStitchedMinidumpVmPostReadCallback
 WerpStitchedMinidumpVmPreReadCallback

@@ -10,6 +10,7 @@ TdhGetManifestEventInformation
 TdhGetProperty
 TdhGetPropertySize
 TdhLoadManifest
+TdhLoadManifestFromMemory
 TdhpAllocAndGetTraceEventInfoArray
 TdhpCacheFreeEntry
 TdhpCacheLockEntry
@@ -29,3 +30,4 @@ TdhpPopulateCacheWithFilterInfo
 TdhpSetWbemExtensionBlock
 TdhQueryProviderFieldInformation
 TdhUnloadManifest
+TdhUnloadManifestFromMemory

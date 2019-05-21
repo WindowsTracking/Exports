@@ -1,7 +1,0 @@
-ConvertJsonValueToVariant
-CreateQueryStringBuilder
-LoadJsonFromFile
-MapExceptionToHResult
-ParseJson
-SubmitRequestForData
-SubmitRequestForSettings

@@ -1,9 +1,3 @@
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject
-IsBackupAppDataEnabled
-IsBackupEnabled
-IsRoamingEnabled
-IsSettingSyncAllowedByGroupPolicy
-IsSettingSyncEnabled
-IsSettingSyncEnabledSkipUserPolicyCheck

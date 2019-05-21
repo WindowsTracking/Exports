@@ -38,6 +38,7 @@ DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject
 EnsurePackageFamilyIsRegisteredBeforeActivation
+EnsurePackageFamilyRegisteredInContainer
 FixJunctionsForAppsIfNecessary
 GeneratePreInstalledPriFiles
 GetApplicability
@@ -56,6 +57,7 @@ IsPackageMetadataUnderSystemMetadata
 IsSharedAppsEnabled
 NotifyPackageStatusChanged
 PopulateProtocolAndFTA
+PreRegisterPackageInContainer
 RDSRecoverRequests
 ReArmAppxPreStageCleanupTask
 RegisterNotification

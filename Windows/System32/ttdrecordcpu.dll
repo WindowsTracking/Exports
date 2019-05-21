@@ -6,7 +6,7 @@ GetClientTlsValueForThreadId
 GetInstructionCounts
 GetRandomSampleSequence
 GetRegisterOffsets
-InitializeSmartCpu
+InitializeNirvanaClient
 InitializeSmartCpuClient
 IsEmulatingCurrentThread
 IsSimulating

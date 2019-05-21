@@ -1,8 +1,0 @@
-HdvCreateDeviceInstance
-HdvCreateGuestMemoryAperture
-HdvDeliverGuestInterrupt
-HdvDestroyGuestMemoryAperture
-HdvInitializeDeviceHost
-HdvReadGuestMemory
-HdvTeardownDeviceHost
-HdvWriteGuestMemory

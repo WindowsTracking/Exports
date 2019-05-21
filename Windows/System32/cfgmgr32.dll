@@ -237,6 +237,7 @@ CM_Setup_DevNode_Ex
 CM_Test_Range_Available
 CM_Uninstall_DevNode
 CM_Uninstall_DevNode_Ex
+CM_Uninstall_DriverW
 CM_Unregister_Device_Interface_ExA
 CM_Unregister_Device_Interface_ExW
 CM_Unregister_Device_InterfaceA

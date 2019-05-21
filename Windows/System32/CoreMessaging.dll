@@ -4,6 +4,7 @@ CoreUICallCreateEndpointHost
 CoreUICallCreateEndpointHostWithSendPriority
 CoreUICallReceive
 CoreUICallSend
+CoreUICallSendVaList
 CoreUIConfigureTestHost
 CoreUIConfigureUserIntegration
 CoreUICreate
@@ -11,17 +12,16 @@ CoreUICreateAnonymousStream
 CoreUICreateClientWindowIDManager
 CoreUICreateEx
 CoreUICreateSystemWindowIDManager
-CoreUICreateWindowValidator
-CoreUIFailFastOOM
+CoreUIInitializeTestService
 CoreUIOpenExisting
 CoreUIRouteToTestRegistrar
+CoreUIUninitializeTestService
 CreateDispatcherQueueController
 CreateDispatcherQueueForCurrentThread
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject
 GetDispatcherQueueForCurrentThread
-InitializeServices
 MsgBlobCreateShared
 MsgBlobCreateStack
 MsgBufferShare
@@ -30,4 +30,3 @@ MsgStringCreateShared
 MsgStringCreateStack
 ServiceMain
 SvchostPushServiceGlobals
-UninitializeServices

@@ -1,0 +1,8 @@
+ForcePrepareTIForReserveInitialization
+ForceUntagFilesAndDeleteReserves
+GetUpdateReserveManager
+GetUpdateReserveManagerCBS
+InitializeReservesAndUpdatePolicy
+PrepareMachineForAuditMode
+PrepareMachineForSysprepCleanup
+ValidateMachineForSysprep

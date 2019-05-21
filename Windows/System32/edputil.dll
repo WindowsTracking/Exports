@@ -18,6 +18,7 @@ EdpGetContextForPackageFullName
 EdpGetContextForProcess
 EdpGetContextForWindow
 EdpGetDataInfoFromDataObject
+EdpGetDataInfoFromWin32Clipboard
 EdpGetEnterpriseIdForClipboard
 EdpGetEnterpriseIdForDataObject
 EdpGetEnterpriseIdForUIEnforcement

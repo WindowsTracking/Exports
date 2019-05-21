@@ -2,6 +2,7 @@ SsCoreAliasAdd
 SsCoreAliasAddEx
 SsCoreAliasDel
 SsCoreAliasDelEx
+SsCoreCertificatesUpdate
 SsCoreCloseInstance
 SsCoreCompleteCsvVolumeDrain
 SsCoreDeregisterNetnameForMultichannel

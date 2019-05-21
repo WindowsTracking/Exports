@@ -19,10 +19,8 @@ Bcp47GetNlsForm
 Bcp47GetSubtagMapInternal
 Bcp47GetUnIsoRegionCode
 Bcp47IsInstalledAndLicensedAsSystemLanguage
-Bcp47IsValid
 Bcp47IsWellFormed
 Bcp47Normalize
-Bcp47RequiresTransientLcid
 ClearApplicationLanguageOverride
 ClearApplicationManifestLanguages
 ClearHttpAcceptLanguageOptOut
@@ -35,7 +33,7 @@ GetApplicationLanguages
 GetApplicationLanguagesIntoBuffer
 GetApplicationManifestLanguages
 GetAppropriateUserLocaleForUserLanguages
-GetAvailableTransientLcidCount
+GetClosestMatchingUserLanguage
 GetFontFallbackLanguageList
 GetHttpAcceptLanguageOptOut
 GetInputMethodOverrideForUser

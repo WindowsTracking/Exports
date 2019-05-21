@@ -66,7 +66,9 @@ GetCurrentPackageFamilyName
 GetCurrentPackageFullName
 GetCurrentPackageId
 GetCurrentPackageInfo
+GetCurrentPackageInfo2
 GetCurrentPackagePath
+GetCurrentPackagePath2
 GetCurrentPackageResourcesContext
 GetCurrentPackageSecurityContext
 GetCurrentTargetPlatformContext
@@ -90,10 +92,12 @@ GetPackageFullName
 GetPackageFullNameFromToken
 GetPackageId
 GetPackageInfo
+GetPackageInfo2
 GetPackageInstallTime
 GetPackageOSMaxVersionTested
 GetPackagePath
 GetPackagePathByFullName
+GetPackagePathByFullName2
 GetPackagePathOnVolume
 GetPackageProperty
 GetPackagePropertyString
@@ -117,6 +121,7 @@ GetSerializedAtomBytes
 GetSharedLocalFolder
 GetStagedPackageOrigin
 GetStagedPackagePathByFullName
+GetStagedPackagePathByFullName2
 GetStateContainerDepth
 GetStateFolder
 GetStateRootFolder
@@ -138,6 +143,7 @@ IsOnDemandRegistrationSupportedForExtensionCategory
 IsSideloadingEnabled
 IsSideloadingPolicyApplied
 OpenPackageInfoByFullName
+OpenPackageInfoByFullNameForMachine
 OpenPackageInfoByFullNameForUser
 OpenState
 OpenStateAtom

@@ -1,9 +1,0 @@
-TokenBindingDeleteAllBindings
-TokenBindingDeleteBinding
-TokenBindingGenerateBinding
-TokenBindingGenerateID
-TokenBindingGenerateMessage
-TokenBindingGetHighestSupportedVersion
-TokenBindingGetKeyTypesClient
-TokenBindingGetKeyTypesServer
-TokenBindingVerifyMessage
