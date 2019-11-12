@@ -49,6 +49,7 @@ WerpGetLoadedModuleByIndex
 WerpGetNumFiles
 WerpGetNumLoadedModules
 WerpGetNumSigParams
+WerpGetPathOfWERTempDirectory
 WerpGetReportConsent
 WerpGetReportCount
 WerpGetReportFinalConsent

@@ -1,8 +1,0 @@
-WcDetachFilter
-WciConfigureVolume
-WciReadReparsePointData
-WciRemoveRoot
-WciSetReparsePointData
-WciSetupFilter
-WcRemoveReparseData
-WcRemoveTombstoneReparseData

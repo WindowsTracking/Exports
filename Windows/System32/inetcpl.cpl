@@ -1,6 +1,7 @@
 AddInternetPropertySheets
 AddInternetPropertySheetsEx
 ClearMyTracksByProcessW
+ClearTracksWithUserPreference
 CPlApplet
 DisplayPopupWindowManagementDialog
 DllInstall

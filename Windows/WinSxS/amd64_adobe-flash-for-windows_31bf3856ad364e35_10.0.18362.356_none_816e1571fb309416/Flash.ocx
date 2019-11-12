@@ -1,0 +1,8 @@
+AdobeCPGetAPI
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+IAEModule_AEModule_PutKernel
+IAEModule_IAEKernel_LoadModule
+IAEModule_IAEKernel_UnloadModule
