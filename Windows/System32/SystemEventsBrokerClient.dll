@@ -37,7 +37,6 @@ SebEnumerateEvents
 SebEnumerateEventsByType
 SebEnumerateEventsByTypeEx
 SebGetStatusStateName
-SebGetUserPresenceHistory
 SebQueryEventData
 SebQueryEventPackage
 SebRegisterPrivateEvent

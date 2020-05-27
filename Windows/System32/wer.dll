@@ -36,7 +36,7 @@ WerpFlushImageCache
 WerpForceDeferredCollection
 WerpFreeString
 WerpFreeUnmappedVaRanges
-WerpGetAADTenantInfo
+WerpGetAADDeviceToken
 WerpGetBucketId
 WerpGetDynamicParameter
 WerpGetEventType
@@ -81,11 +81,12 @@ WerpOpenMachineQueue
 WerpPromptUser
 WerpPruneStore
 WerpReportCancel
+WerpReportSetMaxProcessHoldMilliseconds
 WerpReportSprintfParameter
 WerpReserveMachineQueueReportDir
 WerpResetTransientImageCacheStatistics
 WerpRestartApplication
-WerpSetAADTenantInfo
+WerpSetAADDeviceToken
 WerpSetAuxiliaryArchivePath
 WerpSetCallBack
 WerpSetDefaultUserConsent

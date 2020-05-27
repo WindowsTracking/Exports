@@ -4,14 +4,19 @@ PshedAttemptErrorRecovery
 PshedBugCheckSystem
 PshedClearErrorRecord
 PshedDisableErrorSource
+PshedDoPfa
 PshedEnableErrorSource
 PshedFinalizeErrorRecord
 PshedFreeMemory
 PshedGetAllErrorSources
 PshedGetBootErrorPacket
 PshedGetErrorSourceInfo
+PshedGetHalEnlightenments
 PshedGetInjectionCapabilities
+PshedInitAvailable
+PshedInitGlobal
 PshedInitialize
+PshedInitProc
 PshedInjectError
 PshedIsSystemWheaEnabled
 PshedMarkHiberPhase
@@ -19,6 +24,7 @@ PshedReadErrorRecord
 PshedRegisterPlugin
 PshedRetrieveErrorInfo
 PshedSetErrorSourceInfo
+PshedSetHalEnlightenments
 PshedSynchronizeExecution
 PshedUnregisterPlugin
 PshedWriteErrorRecord

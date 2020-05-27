@@ -13,6 +13,7 @@ AhGetArcDevice
 ArchBuildKernelGdt
 ArchGetGdtRegister
 BlAllocateSlabPages
+BlAmdSlGetTaCommands
 BlAppCheckDependency
 BlAppendBootOptionBoolean
 BlAppendBootOptionString
@@ -24,6 +25,7 @@ BlArchGetCpuVendor
 BlArchGetPerformanceCounter
 BlArchIsCpuIdFunctionSupported
 BlArchIsFiveLevelPagingActive
+BlArchIsShadowStackSupported
 BlArchKernelSetup
 BlArchQueryIoPortAccessSupported
 BlArchSetSecrets
@@ -60,6 +62,7 @@ BlDisplayInvalidateOemBitmap
 BlEnNotifyEvent
 BlFileClose
 BlFileCopyFile
+BlFileExists
 BlFileGetInformation
 BlFileLoad
 BlFileOpen
@@ -133,6 +136,7 @@ BlMmAllocatePages
 BlMmAllocatePagesInRange
 BlMmAllocatePhysicalPages
 BlMmAllocatePhysicalPagesInRange
+BlMmAllocatePhysicalPagesInRangeNuma
 BlMmAllocateVirtualPages
 BlMmEnumerateAllocations
 BlMmFlushTlb
@@ -142,6 +146,7 @@ BlMmFreePhysicalPages
 BlMmFreeVirtualPages
 BlMmGetAllocationPages
 BlMmGetMemoryMap
+BlMmInitMemoryMapHandle
 BlMmMapPhysicalAddress
 BlMmMapPhysicalAddressEx
 BlMmQueryLargePageSize
@@ -152,6 +157,7 @@ BlMmTranslateEfiMemoryType
 BlMmTranslateVirtualAddress
 BlMmUnmapVirtualAddress
 BlMmUnmapVirtualAddressEx
+BlNumaGetNumaMemoryRanges
 BlObtainUnusedSlabPages
 BlPdAllocateData
 BlPdDestroyData
@@ -210,6 +216,7 @@ BlUtlPopulateAcpiTableCache
 BlUtlReleaseAcpiTable
 BlUtlSetAcpiTableOverrides
 BlUtlValidateMemoryRange
+BlValidateAmeCertChain
 BlVsmCheckSystemPolicy
 BlVsmGetSystemPolicy
 BlVsmKeysFindKeyMapByType

@@ -1,4 +1,5 @@
 AcquireStateLock
+AddDependencyToProcessPackageGraph
 AddExtensionProgId
 AddPackageToFamilyXref
 AppContainerDeriveSidFromMoniker
@@ -64,9 +65,11 @@ GetCurrentPackageApplicationResourcesContext
 GetCurrentPackageContext
 GetCurrentPackageFamilyName
 GetCurrentPackageFullName
+GetCurrentPackageGlobalizationContext
 GetCurrentPackageId
 GetCurrentPackageInfo
 GetCurrentPackageInfo2
+GetCurrentPackageInfo3
 GetCurrentPackagePath
 GetCurrentPackagePath2
 GetCurrentPackageResourcesContext
@@ -90,9 +93,12 @@ GetPackageFamilyNameFromProgId
 GetPackageFamilyNameFromToken
 GetPackageFullName
 GetPackageFullNameFromToken
+GetPackageGlobalizationContext
+GetPackageGlobalizationProperty
 GetPackageId
 GetPackageInfo
 GetPackageInfo2
+GetPackageInfo3
 GetPackageInstallTime
 GetPackageOSMaxVersionTested
 GetPackagePath
@@ -139,6 +145,7 @@ IncrementPackageStatusVersion
 InvalidateAppModelVersionCache
 IsDeveloperModeEnabled
 IsDeveloperModePolicyApplied
+IsMrtResourceRedirectionEnabled
 IsOnDemandRegistrationSupportedForExtensionCategory
 IsSideloadingEnabled
 IsSideloadingPolicyApplied
@@ -182,6 +189,7 @@ PsmRegisterApplicationProcess
 PsmRegisterDesktopProcess
 PsmRegisterDesktopProcessWithAppContainerToken
 PsmRegisterServiceProcess
+PublisherFromPackageFullName
 PublishStateChangeNotification
 QueryStateAtomValueInfo
 QueryStateContainerCreatedNew
@@ -221,6 +229,8 @@ VerifyPackageFullName
 VerifyPackageFullNameA
 VerifyPackageId
 VerifyPackageIdA
+VerifyPackagePublisher
+VerifyPackagePublisherA
 VerifyPackageRelativeApplicationId
 VerifyPackageRelativeApplicationIdA
 WriteStateAtomValue

@@ -1,0 +1,9 @@
+DllMain
+EnumerateFeatures
+FreeEnumerateFeaturesResult
+FreeInstallFeaturesResult
+FreeUninstallFeaturesResult
+GetFeatureState
+InstallFeatures
+IsFeatureInstalled
+UninstallFeatures

@@ -6,6 +6,7 @@ SRDictionaryFree
 SRDictionaryToPropertySet
 SRGetEffectivePackageStatusForUserFromToken
 SRGetEffectivePackageStatusForUserSid
+SRGetExternalLocation
 SRGetIsEffectiveSupportedUsersMultiple
 SRGetPackageOriginForUser
 SRGetPackageStatus

@@ -1,9 +1,0 @@
-ConvertJsonValueToVariant
-CreateQueryStringBuilder
-ExpandCabFile
-LoadJsonFromFile
-MapExceptionToHResult
-ParseJson
-SubmitRequestForData
-SubmitRequestForSettings
-VerifySelfSignedImageFile

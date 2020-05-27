@@ -10,6 +10,7 @@ ORGetKeySecurity
 ORGetValue
 ORGetVersion
 ORGetVirtualFlags
+ORMergeHives
 OROpenHive
 OROpenHiveByHandle
 OROpenKey

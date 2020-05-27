@@ -22,7 +22,6 @@ RegDenyTSConnectionsPolicy
 RegFreeUtilityCommandList
 RegGetLicensePolicyID
 RegGetLicensingModePolicy
-RegGetMachinePolicy
 RegGetMachinePolicyEx
 RegGetMachinePolicyNew
 RegGetTServerVersion
@@ -33,7 +32,8 @@ RegIsMachinePolicyAllowHelp
 RegIsSrcAcceptingConnections
 RegIsTimeZoneRedirectionEnabled
 RegIsTServer
-RegMergeMachinePolicy
+RegMergeMachineAndProtocolPolicy
+RegMergeOnlyMachinePolicy
 RegMergeUserConfigWithUserParameters
 RegOpenServerA
 RegOpenServerW

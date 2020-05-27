@@ -10,6 +10,7 @@ EnableLogging
 EnrollEngineInitialize
 FindDiscoveryService
 FindDiscoveryServiceEx
+FreeMmpcDiscoveryResultsData
 GetCertificatePolicy
 GetDatabaseManagerInstance
 GetEnrollmentAadResourceUrl
@@ -24,6 +25,7 @@ GetEnrollmentState
 GetEnrollmentType
 GetEnrollmentUPN
 GetProviderID
+MmpcDiscoverEndpoint
 OpenEnrollmentsHKEY
 SetEnrollmentAadResourceUrl
 SetEnrollmentAadSendDeviceToken

@@ -2,6 +2,7 @@ CoreUICallComputeMaximumMessageSize
 CoreUICallCreateConversationHost
 CoreUICallCreateEndpointHost
 CoreUICallCreateEndpointHostWithSendPriority
+CoreUICallGetAddressOfParameterInBuffer
 CoreUICallReceive
 CoreUICallSend
 CoreUICallSendVaList

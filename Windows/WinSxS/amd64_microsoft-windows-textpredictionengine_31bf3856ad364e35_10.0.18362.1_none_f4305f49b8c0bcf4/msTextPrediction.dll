@@ -1,8 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-NIFTE_AbortTrainer
-NIFTE_CreateTrainer
-NIFTE_DestroyTrainer
-NIFTE_TextTrain

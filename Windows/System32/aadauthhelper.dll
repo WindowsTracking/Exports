@@ -1,5 +1,6 @@
 CloseFidoAuthenticationSession
 CreateAuthBuffer
+CreateResourceAccountAuthBuffer
 CreateTokenAuthBuffer
 CreateTokenAuthBufferEx
 GetFidoAuthenticationSessionStatus

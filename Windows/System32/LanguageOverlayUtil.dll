@@ -6,6 +6,7 @@ EnumerateSupportedUILanguages
 EnumOverlayPaths
 FetchLanguageOverlayPackageForFirstLogon
 GetBcp47TagFromPackageFamilyName
+GetLanguageDataForLogging
 GetLanguageOverlayPackageFamilyName
 GetLanguagesInUse
 GetLanguagesNotInUse
@@ -14,7 +15,6 @@ GetWindowsUpdateServer
 GroupUserLanguages
 InvalidateLanguageResourceCaches
 IsGroupingUserLanguagesNeeded
-IsLanguageOverlayBlockedByPolicy
 IsLegacyLanguagePackInstalledForLanguage
 IsLocalExperiencePackReadyForRemoval
 OnMachineUILanguageInit

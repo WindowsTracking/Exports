@@ -29,6 +29,7 @@ DhcpGlobalServiceSyncEvent
 DhcpGlobalTerminateEvent
 DhcpHandlePnPEvent
 DhcpIsEnabled
+DhcpIsMeteredDetected
 DhcpLeaseIpAddress
 DhcpLeaseIpAddressEx
 DhcpNotifyConfigChange

@@ -19,6 +19,7 @@ CCHlpGetClusterServiceSecret
 CCHlpGetDNSHostLabel
 CCHlpRestoreClusterVirtualObjectToInitialState
 ChangeClusterResourceGroup
+ChangeClusterResourceGroupEx
 CloseCluster
 CloseClusterGroup
 CloseClusterGroupSet
@@ -34,13 +35,16 @@ CluGetDriveInfo
 CluGetFaultDomainObject
 CluGetFaultDomainObjects
 CluRemoveFaultDomainObject
+ClusterAddGroupToAffinityRule
 ClusterAddGroupToGroupSet
 ClusterAddGroupToGroupSetWithDomains
+ClusterAffinityRuleControl
 ClusterCaptureLiveDump
 ClusterChangeVMSettings
 ClusterCloseEnum
 ClusterCloseEnumEx
 ClusterControl
+ClusterCreateAffinityRule
 ClusterCreateClusterStorageEnclosure
 ClusterCreateFaultDomain
 ClusterCreateFaultDomainFromXML
@@ -133,8 +137,10 @@ ClusterRegSetKeySecurity
 ClusterRegSetValue
 ClusterRegSetValueForceSync
 ClusterRegSyncDatabase
+ClusterRemoveAffinityRule
 ClusterRemoveClusterStorageEnclosure
 ClusterRemoveFaultDomain
+ClusterRemoveGroupFromAffinityRule
 ClusterRemoveGroupFromGroupSet
 ClusterResourceCloseEnum
 ClusterResourceCloseEnumEx

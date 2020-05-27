@@ -1,0 +1,7 @@
+?HxOutlookBackgroundEnsureInitialized@HxOutlook@@YAXXZ
+?HxOutlookBackgroundInitialize@HxOutlook@@YAXAEAUConfig@Telemetry@Hx@@_N@Z
+?HxOutlookBackgroundUninitialize@HxOutlook@@YAXXZ
+?UseHxOutlookBackgroundAccess@HxOutlook@@YAAEAUIHxOutlookBackgroundAccess@1@XZ
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

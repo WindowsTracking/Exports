@@ -1,9 +1,0 @@
-BiRtCreateEventForApp
-BiRtDeleteEventForApp
-BiRtEnumerateBrokeredEvents
-BiRtQueryBrokerEventId
-BiRtRegisterWorkItem
-DllCanUnloadNow
-DllGetActivationFactory
-DllGetClassObject
-DllMain

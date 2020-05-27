@@ -8,6 +8,11 @@
 #4
 #5
 #500
+#501
+#502
+#503
+#504
+#505
 #6
 #7
 #8
@@ -136,8 +141,6 @@ PsmUnregisterAppStateChangeNotification
 PsmWaitForAppResume
 RegisterAppConstrainedChangeNotification
 RegisterAppStateChangeNotification
-TryGetTitleBarIslandId
-TryGetTitleBarIslandSelectedHost
 UnregisterAppConstrainedChangeNotification
 UnregisterAppStateChangeNotification
 ValidateSystemShutdown

@@ -45,6 +45,7 @@ FreeClusterHealthFaultArray
 InitializeClusterHealthFault
 InitializeClusterHealthFaultArray
 OpenClusterCryptProvider
+OpenClusterCryptProviderEx
 ResUtilAddUnknownProperties
 ResUtilCreateDirectoryTree
 ResUtilDupGroup

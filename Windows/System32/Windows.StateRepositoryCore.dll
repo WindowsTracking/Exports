@@ -15,6 +15,7 @@ SRCacheContext_GetField_String
 SRCacheContext_GetField_UInt32
 SRCacheContext_GetField_UInt64
 SRCacheContext_HasSubKeys
+SRCacheContext_IsEmpty
 SRCacheContext_Open
 SRCacheContext_OpenSubContext
 SRCacheContext_SetField_MultiString

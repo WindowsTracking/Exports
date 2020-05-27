@@ -1,8 +1,6 @@
-#1017
 #1019
 #1028
 #1031
-#1033
 #1038
 #1039
 #1040
@@ -19,6 +17,7 @@
 #2002
 #2003
 #2004
+#2005
 DCompositionAttachMouseDragToHwnd
 DCompositionAttachMouseWheelToHwnd
 DCompositionCreateDevice

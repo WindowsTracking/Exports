@@ -61,6 +61,7 @@ WinStationEnableChildSessions
 WinStationEnumerate_IndexedA
 WinStationEnumerate_IndexedW
 WinStationEnumerateA
+WinStationEnumerateContainerSessions
 WinStationEnumerateExW
 WinStationEnumerateLicenses
 WinStationEnumerateProcesses
@@ -87,6 +88,7 @@ WinStationGetDeviceId
 WinStationGetInitialApplication
 WinStationGetLanAdapterNameA
 WinStationGetLanAdapterNameW
+WinStationGetLastWinlogonNotification
 WinStationGetLoggedOnCount
 WinStationGetMachinePolicy
 WinStationGetParentSessionId
@@ -138,6 +140,7 @@ WinStationRegisterNotificationEvent
 WinStationRemoveLicense
 WinStationRenameA
 WinStationRenameW
+WinStationReportLoggedOnCompleted
 WinStationReportUIResult
 WinStationReset
 WinStationRevertFromServicesSession
@@ -148,6 +151,7 @@ WinStationServerPing
 WinStationSetAutologonPassword
 WinStationSetInformationA
 WinStationSetInformationW
+WinStationSetLastWinlogonNotification
 WinStationSetPoolCount
 WinStationSetRenderHint
 WinStationShadow

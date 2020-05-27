@@ -21,6 +21,7 @@ MpConfigRegisterForNotifications
 MpConfigSetValue
 MpConfigUninitialize
 MpConfigUnregisterNotifications
+MpConveyDlpBypass
 MpConveySampleSubmissionResult
 MpConveyUserChoiceForSampleList
 MpCreateComInstance
@@ -70,6 +71,7 @@ MpManagerVersionQuery
 MpManagerXBGMDisable
 MpManagerXBGMEnable
 MpMemoryScanStart
+MpNetworkCapture
 MpNotificationRegister
 MpOfflineScanInstall
 MpOfflineScanStatusQuery
@@ -88,6 +90,7 @@ MpScanControl
 MpScanResult
 MpScanStart
 MpScanStartEx
+MpSetBreakTheGlassStatus
 MpSetTPState
 MpSetUacElevationDefaultWindowHandle
 MpSmartLockerEnable

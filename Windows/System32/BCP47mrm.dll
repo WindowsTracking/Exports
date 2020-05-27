@@ -10,8 +10,8 @@ GetClosenessOfUnIsoRegionTags
 GetCompositeRegionCode
 GetDistanceOfClosestLanguageInList
 GetLanguageDirectionality
+GetMrtDisplayLanguageList
 GetParentCompositeRegionCode
-GetUserLanguagesForUserOrSystem
 IsValidTag
 IsValidUnIsoRegionTag
 IsWellFormedTag

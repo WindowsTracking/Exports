@@ -1,3 +1,5 @@
+DllCanUnloadNow
+DllGetClassObject
 TdhAggregatePayloadFilters
 TdhApplyPayloadFilter
 TdhCleanupPayloadEventFilterDescriptor
@@ -25,9 +27,6 @@ TdhLoadManifest
 TdhLoadManifestFromBinary
 TdhLoadManifestFromMemory
 TdhOpenDecodingHandle
-TdhpFindMatchClassFromWBEM
-TdhpGetBestTraceEventInfoWBEM
-TdhpGetEventMapInfoWBEM
 TdhQueryProviderFieldInformation
 TdhQueryRemoteWBEMProviderFieldInformation
 TdhSetDecodingParameter

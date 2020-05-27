@@ -410,6 +410,8 @@ MaskBlt
 MF16_DeleteObject
 MF_DeleteObject
 MirrorRgn
+ModerncoreCreateICW
+ModerncoreDeleteDC
 ModerncoreGdiInit
 ModifyWorldTransform
 MoveToEx

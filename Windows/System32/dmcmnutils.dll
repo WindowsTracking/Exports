@@ -5,7 +5,9 @@ CopyString
 CreateBstrArray
 DecodeBase64W
 DmCancelGetUserPermissionAsync
+DmCheckIfAadAccountLoggedOn
 DmCopyDirectoryRecursive
+DmCreateFileSafe
 DmCreateTask
 DmDeleteTask
 DmEnumUsers
@@ -26,6 +28,7 @@ DmGetUserSidFromToken
 DmGetUserTokenFromSid
 DmImpersonate
 DmInformUser
+DmInitializeContainer
 DmInvalidateAadDeviceToken
 DmInvalidateAadUserToken
 DmIsDeviceConnected
@@ -39,12 +42,15 @@ DmPlayNotificationSound
 DmRaiseToastNotification
 DmRaiseToastNotificationAndWait
 DmRegisterRoamingNotification
+DmReleaseContainer
 DmRemoveToastNotification
 DmRemoveToastNotificationByExecutablePath
 DmRequestAadUserToken
 DmRevertToSelf
 DmRunTask
 DMSetDeviceClientID
+DmStartContainerActivity
+DmStopContainerActivity
 DmUnregisterRoamingNotification
 DmWnfGetNotification
 DmWnfPublish

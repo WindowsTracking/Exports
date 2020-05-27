@@ -1,0 +1,11 @@
+DisableReserves
+EnableReserves
+ForcePrepareForUninstall
+ForcePrepareTIForReserveInitialization
+GetReserveState
+GetUpdateReserveManager
+GetUpdateReserveManagerCBS
+InitializeReservesAndUpdatePolicy
+PrepareMachineForAuditMode
+PrepareMachineForSysprepCleanup
+ValidateMachineForSysprep

@@ -57,7 +57,6 @@
 #200
 #2000
 #2001
-#2002
 #201
 #202
 #203
@@ -358,6 +357,7 @@
 #99
 AppCompat_RunDLLW
 AssocCreateForClasses
+AssocElemCreateForKey
 AssocGetDetailsOfPropKey
 CDefFolderMenu_Create2
 CheckEscapesW
@@ -542,7 +542,6 @@ SheGetDirA
 SHELL32_AddToBackIconTable
 SHELL32_AddToFrontIconTable
 SHELL32_AreAllItemsAvailable
-SHELL32_BindToFilePlaceholderHandler
 SHELL32_CallFileCopyHooks
 SHELL32_CanDisplayWin8CopyDialog
 SHELL32_CCommonPlacesFolder_CreateInstance
@@ -580,7 +579,6 @@ SHELL32_CMountPoint_WantAutorunUI
 SHELL32_CMountPoint_WantAutorunUIGetReady
 SHELL32_CNetFolderUI_CreateInstance
 SHELL32_CommandLineFromMsiDescriptor
-SHELL32_CopyFilePlaceholderToNewFile
 SHELL32_CopySecondaryTiles
 SHELL32_CPL_CategoryIdArrayFromVariant
 SHELL32_CPL_IsLegacyCanonicalNameListedUnderKey
@@ -591,18 +589,14 @@ SHELL32_CreateConflictInterrupt
 SHELL32_CreateDefaultOperationDataProvider
 SHELL32_CreateFileFolderContextMenu
 SHELL32_CreateLinkInfoW
-SHELL32_CreatePlaceholderFile
 SHELL32_CreateQosRecorder
 SHELL32_CreateSharePointView
 SHELL32_CRecentDocsContextMenu_CreateInstance
-SHELL32_CSyncRootManager_CreateInstance
 SHELL32_CTransferConfirmation_CreateInstance
 SHELL32_DestroyLinkInfo
 SHELL32_EncryptDirectory
 SHELL32_EncryptedFileKeyInfo
 SHELL32_EnumCommonTasks
-SHELL32_FilePlaceholder_BindToPrimaryStream
-SHELL32_FilePlaceholder_CreateInstance
 SHELL32_FreeEncryptedFileKeyInfo
 SHELL32_GenerateAppID
 SHELL32_GetAppIDRoot
@@ -612,9 +606,7 @@ SHELL32_GetDPIAdjustedLogicalSize
 SHELL32_GetFileNameFromBrowse
 SHELL32_GetIconOverlayManager
 SHELL32_GetLinkInfoData
-SHELL32_GetPlaceholderStatesFromFileAttributesAndReparsePointTag
 SHELL32_GetRatingBucket
-SHELL32_GetSkyDriveNetworkStates
 SHELL32_GetSqmableFileName
 SHELL32_GetThumbnailAdornerFromFactory
 SHELL32_GetThumbnailAdornerFromFactory2
@@ -648,8 +640,6 @@ SHELL32_RefreshOverlayImages
 SHELL32_ResolveLinkInfoW
 SHELL32_SendToMenu_InvokeTargetedCommand
 SHELL32_SendToMenu_VerifyTargetedCommand
-SHELL32_SetPlaceholderReparsePointAttribute
-SHELL32_SetPlaceholderReparsePointAttribute2
 SHELL32_SHAddSparseIcon
 SHELL32_SHCreateByValueOperationInterrupt
 SHELL32_SHCreateDefaultContextMenu
@@ -671,7 +661,6 @@ SHELL32_SimpleRatingToFilterCondition
 SHELL32_StampIconForFile
 SHELL32_SuspendUndo
 SHELL32_TryVirtualDiscImageDriveEject
-SHELL32_UpdateFilePlaceholderStates
 SHELL32_VerifySaferTrust
 Shell_GetCachedImageIndex
 Shell_GetCachedImageIndexA
@@ -701,6 +690,7 @@ SHEnableServiceObject
 SHEnumerateUnreadMailAccountsW
 SheSetCurDrive
 SHEvaluateSystemCommandTemplate
+SHExecuteErrorMessageBox
 SHExtractIconsW
 SHFileOperation
 SHFileOperationA
@@ -809,6 +799,7 @@ SHUpdateImageW
 SHUpdateRecycleBinIcon
 SHValidateUNC
 SignalFileOpen
+StateRepoNewMenuCache_EnsureCacheAsync
 StateRepoNewMenuCache_RebuildCacheAsync
 StgMakeUniqueName
 StrChrA

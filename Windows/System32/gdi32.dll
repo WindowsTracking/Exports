@@ -160,13 +160,15 @@ D3DKMTDestroyPagingQueue
 D3DKMTDestroyProtectedSession
 D3DKMTDestroySynchronizationObject
 D3DKMTDestroyTrackedWorkload
+D3DKMTDisplayPortOperation
 D3DKMTDispMgrCreate
 D3DKMTDispMgrOperation
 D3DKMTDispMgrSourceOperation
 D3DKMTDispMgrTargetOperation
-D3DKMTEndTrackedWorkload
+D3DKMTDuplicateHandle
 D3DKMTEnumAdapters
 D3DKMTEnumAdapters2
+D3DKMTEnumAdapters3
 D3DKMTEscape
 D3DKMTEvict
 D3DKMTExtractBundleObject
@@ -240,6 +242,7 @@ D3DKMTOutputDuplPresent
 D3DKMTOutputDuplPresentToHwQueue
 D3DKMTOutputDuplReleaseFrame
 D3DKMTPinDirectFlipResources
+D3DKMTPinResources
 D3DKMTPollDisplayChildren
 D3DKMTPresent
 D3DKMTPresentMultiPlaneOverlay
@@ -270,7 +273,7 @@ D3DKMTReleaseSwapChain
 D3DKMTRemoveSurfaceFromSwapChain
 D3DKMTRender
 D3DKMTReserveGpuVirtualAddress
-D3DKMTResetTrackedWorkload
+D3DKMTResetTrackedWorkloadStatistics
 D3DKMTSetAllocationPriority
 D3DKMTSetContextInProcessSchedulingPriority
 D3DKMTSetContextSchedulingPriority
@@ -313,6 +316,7 @@ D3DKMTUnlock
 D3DKMTUnlock2
 D3DKMTUnOrderedPresentSwapChain
 D3DKMTUnpinDirectFlipResources
+D3DKMTUnpinResources
 D3DKMTUnregisterTrimNotification
 D3DKMTUpdateAllocationProperty
 D3DKMTUpdateGpuVirtualAddress
@@ -408,6 +412,7 @@ DeviceCapabilitiesExW
 DPtoLP
 DrawEscape
 DwmCreatedBitmapRemotingOutput
+DxTrimNotificationListHead
 Ellipse
 EnableEUDC
 EndDoc
@@ -758,6 +763,7 @@ hGetPEBHandle
 HT_Get8BPPFormatPalette
 HT_Get8BPPMaskPalette
 InternalDeleteDC
+InternalDeleteObject
 IntersectClipRect
 InvertRgn
 IsValidEnhMetaRecord
@@ -780,6 +786,8 @@ LpkUseGDIWidthCache
 LPtoDP
 MaskBlt
 MirrorRgn
+ModerncoreCreateICW
+ModerncoreDeleteDC
 ModerncoreGdiInit
 ModifyWorldTransform
 MoveToEx
@@ -886,6 +894,7 @@ SelectClipRgn
 SelectFontLocal
 SelectObject
 SelectPalette
+semDxTrimNotification
 SetAbortProc
 SetArcDirection
 SetBitmapAttributes

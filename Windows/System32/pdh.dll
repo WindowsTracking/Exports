@@ -1,12 +1,8 @@
-PdhAdd009CounterA
-PdhAdd009CounterW
 PdhAddCounterA
 PdhAddCounterW
 PdhAddEnglishCounterA
 PdhAddEnglishCounterW
 PdhAddRelogCounter
-PdhAddV1Counter
-PdhAddV2Counter
 PdhBindInputDataSourceA
 PdhBindInputDataSourceW
 PdhBrowseCountersA
@@ -65,15 +61,12 @@ PdhGetFormattedCounterArrayA
 PdhGetFormattedCounterArrayW
 PdhGetFormattedCounterValue
 PdhGetLogFileSize
-PdhGetLogFileTypeA
 PdhGetLogFileTypeW
 PdhGetLogSetGUID
 PdhGetRawCounterArrayA
 PdhGetRawCounterArrayW
 PdhGetRawCounterValue
 PdhIsRealTimeQuery
-PdhListLogFileHeaderA
-PdhListLogFileHeaderW
 PdhLookupPerfIndexByNameA
 PdhLookupPerfIndexByNameW
 PdhLookupPerfNameByIndexA
@@ -91,7 +84,6 @@ PdhParseCounterPathW
 PdhParseInstanceNameA
 PdhParseInstanceNameW
 PdhReadRawLogRecord
-PdhRelogA
 PdhRelogW
 PdhRemoveCounter
 PdhResetRelogCounterValues
@@ -102,9 +94,7 @@ PdhSetCounterValue
 PdhSetDefaultRealTimeDataSource
 PdhSetLogSetRunID
 PdhSetQueryTimeRange
-PdhTranslate009CounterA
 PdhTranslate009CounterW
-PdhTranslateLocaleCounterA
 PdhTranslateLocaleCounterW
 PdhUpdateLogA
 PdhUpdateLogFileCatalog

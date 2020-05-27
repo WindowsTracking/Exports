@@ -1,8 +1,0 @@
-IsEsimPresent
-ResetEsim
-ResetGetEngineInterface
-ResetInitializeEngine
-ResetRebootSystem
-ResetReleaseEngine
-UninstallFinalize
-UninstallGetInterface

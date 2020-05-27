@@ -466,6 +466,7 @@ udatpg_getBestPattern
 udatpg_getBestPatternWithOptions
 udatpg_getDateTimeFormat
 udatpg_getDecimal
+udatpg_getFieldDisplayName
 udatpg_getPatternForSkeleton
 udatpg_getSkeleton
 udatpg_open
@@ -658,6 +659,16 @@ unum_setDoubleAttribute
 unum_setSymbol
 unum_setTextAttribute
 unum_toPattern
+unumf_close
+unumf_closeResult
+unumf_formatDecimal
+unumf_formatDouble
+unumf_formatInt
+unumf_openForSkeletonAndLocale
+unumf_openResult
+unumf_resultGetAllFieldPositions
+unumf_resultNextFieldPosition
+unumf_resultToString
 unumsys_close
 unumsys_getDescription
 unumsys_getName

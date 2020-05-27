@@ -1,5 +1,6 @@
-CreateDDisplayDevice
-CreateDDisplayIndirectDevice
+#100
+#101
+#102
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject

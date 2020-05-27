@@ -29,11 +29,3 @@ PerfSetULongLongCounterValue
 PerfStartProvider
 PerfStartProviderEx
 PerfStopProvider
-StmAlignSize
-StmAllocateFlat
-StmCoalesceChunks
-StmDeinitialize
-StmInitialize
-StmReduceSize
-StmReserve
-StmWrite

@@ -4,6 +4,7 @@ SensorClearHistory
 SensorClose
 SensorDetermineStackByPropertyStore
 SensorDeviceIoControl
+SensorDisableIoPathForDataNotifications
 SensorDisableWake
 SensorEnableIdleOperation
 SensorEnableWake
@@ -49,6 +50,7 @@ SensorSetDataInterval
 SensorSetFusThresholds
 SensorSetGyrThresholds
 SensorSetMagThresholds
+SensorSetOrientationSensorThresholds
 SensorSetRangeResolution
 SensorSetReportLatency
 SensorSetThresholds

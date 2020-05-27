@@ -3,6 +3,7 @@ DllGetClassObject
 Private1
 SvchostPushServiceGlobals
 WinHttpAddRequestHeaders
+WinHttpAddRequestHeadersEx
 WinHttpAutoProxySvcMain
 WinHttpCheckPlatform
 WinHttpCloseHandle
@@ -53,6 +54,7 @@ WinHttpSendRequest
 WinHttpSetCredentials
 WinHttpSetDefaultProxyConfiguration
 WinHttpSetOption
+WinHttpSetProxySettingsPerUser
 WinHttpSetStatusCallback
 WinHttpSetTimeouts
 WinHttpTimeFromSystemTime

@@ -1,8 +1,11 @@
 DllCanUnloadNow
 DllGetActivationFactory
+GetAppInventoryCore
 PicAmiClose
 PicAmiInitialize
 PicFreeFileInfo
 PicRetrieveFileInfo
 PicRetrieveFileInfoAppx
+PicRetrieveFileLastRunTime
+PicUpdateFileLastRunTime
 UpdateSoftwareInventoryTC2

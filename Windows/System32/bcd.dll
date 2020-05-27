@@ -19,6 +19,7 @@ BcdFlushStore
 BcdForciblyUnloadStore
 BcdGetElementData
 BcdGetElementDataWithFlags
+BcdGetSystemStorePath
 BcdImportStore
 BcdImportStoreWithFlags
 BcdMarkAsSystemStore

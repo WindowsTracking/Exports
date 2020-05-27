@@ -112,12 +112,16 @@ SslCreateEphemeralKey
 SslCreateHandshakeHash
 SslDecrementProviderReferenceCount
 SslDecryptPacket
+SslDuplicateTranscriptHash
 SslEncryptPacket
 SslEnumCipherSuites
 SslEnumCipherSuitesEx
 SslEnumEccCurves
 SslEnumProtocolProviders
+SslExpandBinderKey
 SslExpandExporterMasterKey
+SslExpandPreSharedKey
+SslExpandResumptionMasterKey
 SslExpandTrafficKeys
 SslExpandWriteKey
 SslExportKey

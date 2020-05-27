@@ -26,6 +26,7 @@ MFCancelCreateFile
 MFCancelWorkItem
 MFCheckEnabledViaAppService
 MFClearLocalMFTs
+MFCombineSamples
 MFCompareFullToPartialMediaType
 MFCompareSockaddrAddresses
 MFConvertColorInfoFromDXVA
@@ -49,6 +50,7 @@ MFCreateD3D12SynchronizationObject
 MFCreateDXGIDeviceManager
 MFCreateDXGISurfaceBuffer
 MFCreateDXSurfaceBuffer
+MFCreateEMEStoreObject
 MFCreateEventQueue
 MFCreateFile
 MFCreateFileFromHandle
@@ -199,6 +201,7 @@ MFSetMinimumMemoryAlignment
 MFSetSockaddrAny
 MFSetWindowForContentProtection
 MFShutdown
+MFSplitSample
 MFStartup
 MFStreamDescriptorProtectMediaType
 MFTEnum

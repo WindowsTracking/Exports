@@ -30,6 +30,7 @@ SensorSetFusThresholdsCOM
 SensorSetGyrThresholdsCOM
 SensorSetIntervalCOM
 SensorSetMagThresholdsCOM
+SensorSetOrientationSensorThresholdsCOM
 SensorSetThresholdsCOM
 SensorStartCollectionCOM
 SensorStopCOM

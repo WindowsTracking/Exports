@@ -1,8 +1,0 @@
-GetBestMediaParameters
-LoadMediaManager
-MMCreateMediaPlatform
-MMFree
-MMFreeDiagnosticBlob
-MMFreeMediaParameters
-MMFreeSessionData
-UnloadMediaManager

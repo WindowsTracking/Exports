@@ -137,6 +137,7 @@ FveValidateExistingPassphraseW
 FveValidateExistingPinW
 InternalFveIsVolumeEncrypted
 NgscbCheckDmaSecurity
+NgscbCheckDmaSecurityEx
 NgscbCheckHSTIPrerequisitesVerified
 NgscbCheckIsAOACDevice
 NgscbCheckIsHSTIVerified

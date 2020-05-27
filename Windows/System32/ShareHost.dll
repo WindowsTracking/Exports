@@ -2,4 +2,3 @@ DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject
 ResolveConnectedSharePlatformToken
-SerializePropertyBag

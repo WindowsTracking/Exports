@@ -1,0 +1,11 @@
+SclAcquireRequiredPrivileges
+SclClearPendedRequest
+SclExecutePendedRequests
+SclExecuteRequest
+SclFreeRequest
+SclGetPendedRequest
+SclLoadStringResource
+SclPendedRequestExists
+SclPendRequest
+SclPreCompilePendedRequests
+SclReleasePrivileges

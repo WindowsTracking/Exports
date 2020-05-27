@@ -1,9 +1,15 @@
 WerUICreate
 WerUIDelete
 WerUIGetUserSelection
+WerUIpCheckWindow
+WerUIpDefSubclassProc
+WerUIpHeadlessOrImersive
+WerUIpRemoveWindowSubclass
 WerUIPromptForSecondLevel
 WerUIPromptUser
-WerUIReportHang
+WerUIpSetWindowSubclass
+WerUIpTaskDialogIndirect
+WerUIpUIHandleWERWindowMsg
 WerUIReportSilentProcessExit
 WerUIShowUpsell
 WerUIStart

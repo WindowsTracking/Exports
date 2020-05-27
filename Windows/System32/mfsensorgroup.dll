@@ -2,6 +2,7 @@ MFCheckProcessCapabilities
 MFCloneSensorProfile
 MFCreatePackageFamilyNameTag
 MFCreatePassthroughTranslatedMediaType
+MFCreateRelativePanelWatcher
 MFCreateSensorActivityMonitor
 MFCreateSensorGroup
 MFCreateSensorGroupById
@@ -18,7 +19,9 @@ MFGetDeviceFromSGHash
 MFGetSensorDeviceProperty
 MFGetSensorDeviceRegistryProperty
 MFGetSensorGroupAttributesFromId
+MFGetSensorGroupPropertyName
 MFGetSensorOrientation
+MFGetSGCH
 MFInitializeSensorGroupStore
 MFIsSensorGroupName
 MFIsStreamAvailableToAppPackage

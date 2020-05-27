@@ -1,0 +1,3 @@
+DllGetActivationFactory
+DllGetClassObject
+RHBinder__ShimExeMain

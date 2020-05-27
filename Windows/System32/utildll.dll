@@ -4,7 +4,6 @@ CalculateDiffTime
 CalculateElapsedTime
 CompareElapsedTime
 ConfigureModem
-CtxGetAnyDCName
 CurrentDateTimeString
 DateTimeString
 ElapsedTimeString
@@ -25,7 +24,6 @@ ParseDecoratedAsyncDeviceName
 QueryCurrentWinStation
 RegGetNetworkDeviceName
 RegGetNetworkServiceName
-SetupAsyncCdConfig
 StandardErrorMessage
 StrAsyncConnectState
 StrConnectState

@@ -303,7 +303,6 @@ pSetupRealloc
 pSetupRegistryDelnode
 pSetupRetrieveServiceConfig
 pSetupSetArrayToMultiSzValue
-pSetupSetDriverPackageRestorePoint
 pSetupSetGlobalFlags
 pSetupSetQueueFlags
 pSetupShouldDeviceBeExcluded
@@ -324,7 +323,6 @@ pSetupStringTableStringFromIdEx
 pSetupUnicodeToMultiByte
 pSetupUninstallCatalog
 pSetupUnmapAndCloseFile
-pSetupValidateDriverPackage
 pSetupVerifyCatalogFile
 pSetupVerifyQueuedCatalogs
 pSetupWriteLogEntry

@@ -18,6 +18,7 @@ MFCreateAudioRenderer
 MFCreateAudioRendererActivate
 MFCreateDeviceSource
 MFCreateDeviceSourceActivate
+MFCreateEncryptedMediaExtensionsStoreActivate
 MFCreateExtendedCameraIntrinsicModel
 MFCreateExtendedCameraIntrinsics
 MFCreateFileSchemePlugin

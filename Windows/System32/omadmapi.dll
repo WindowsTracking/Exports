@@ -59,6 +59,7 @@ OmaDmIsNodePresent
 OmaDmIsNodeValuePresent
 OmaDmSaveAcctInfoToKey
 OmaDmSendAlertNotification
+OmaDmSendAlertNotificationEx
 OmaDmSetAcctInfo
 OmaDmSetAcctInfo_Impl
 OmaDmSetAcctInfoAllowed_Impl

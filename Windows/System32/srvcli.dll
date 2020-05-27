@@ -7,6 +7,10 @@ LocalFileEnum
 LocalFileEnumEx
 LocalFileGetInfo
 LocalFileGetInfoEx
+LocalServerCertificateMappingAdd
+LocalServerCertificateMappingEnum
+LocalServerCertificateMappingGet
+LocalServerCertificateMappingRemove
 LocalSessionDel
 LocalSessionEnum
 LocalSessionEnumEx

@@ -1695,6 +1695,7 @@
 ?Delete@Directory@UnBCL@@SAXPEBVString@2@H@Z
 ?Delete@File@UnBCL@@SAXPEBVString@2@@Z
 ?DeleteInternal@Directory@UnBCL@@CAXPEBVString@2@HH@Z
+?DeleteInternal@File@UnBCL@@CAXPEBVString@2@@Z
 ?DeleteNE@Directory@UnBCL@@SAHPEBVString@2@H@Z
 ?DeleteRange@?$ArrayList@G@UnBCL@@AEAAXHH@Z
 ?DeleteRange@?$ArrayList@PEAVString@UnBCL@@@UnBCL@@AEAAXHH@Z
@@ -1775,6 +1776,7 @@
 ?FromMultiSz@MultiSz@UnBCL@@SAPEAV?$Array@PEAVString@UnBCL@@@2@PEBG@Z
 ?FromMultiSzEx@MultiSz@UnBCL@@SA?AV?$SmartPtr@V?$Array@VStringPtr@UnBCL@@@UnBCL@@@2@PEBG@Z
 ?FromSeconds@TimeSpan@UnBCL@@SA?AV12@N@Z
+?FromString@MultiSz@UnBCL@@SAPEAV12@PEBGG@Z
 ?get_Architecture@OperatingSystem@UnBCL@@QEBAKXZ
 ?get_Arguments@ProcessStartInfo@UnBCL@@QEBAPEBVString@2@XZ
 ?get_Attributes@XmlNode@UnBCL@@QEAAPEAVXmlAttributeCollection@2@XZ
@@ -2603,6 +2605,7 @@
 ?ToString@DateTime@UnBCL@@UEBAPEAVString@2@XZ
 ?ToString@Exception@UnBCL@@UEBAPEAVString@2@XZ
 ?ToString@Int32Ops@UnBCL@@SAPEAVString@2@H@Z
+?ToString@MultiSz@UnBCL@@QEBAPEAVString@2@G@Z
 ?ToString@MultiSz@UnBCL@@UEBAPEAVString@2@XZ
 ?ToString@Object@UnBCL@@UEBAPEAVString@2@XZ
 ?ToString@String@UnBCL@@UEBAPEAV12@XZ

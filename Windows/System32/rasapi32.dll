@@ -104,6 +104,7 @@ RasQuerySharedConnection
 RasRegisterEntryChangeNotification
 RasRenameEntryA
 RasRenameEntryW
+RasRestoreDefaultLegacyProxySettings
 RasScriptExecute
 RasScriptGetIpAddress
 RasScriptInit

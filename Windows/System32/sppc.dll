@@ -49,6 +49,7 @@ SLpGetMachineUGUID
 SLpGetMSPidInformation
 SLpGetTokenActivationGrantInfo
 SLpIAActivateProduct
+SLpIsCurrentInstalledProductKeyDefaultKey
 SLpProcessVMPipeMessage
 SLpSetActivationInProgress
 SLpTriggerServiceWorker

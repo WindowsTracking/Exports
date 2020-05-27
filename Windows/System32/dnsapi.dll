@@ -61,6 +61,7 @@ DnsAsyncRegisterTerm
 DnsCancelQuery
 DnsCheckNrptRuleIntegrity
 DnsCheckNrptRules
+DnsCleanupTcpConnections
 DnsConnectionDeletePolicyEntries
 DnsConnectionDeletePolicyEntriesPrivate
 DnsConnectionDeleteProxyInfo

@@ -1,0 +1,8 @@
+?CreateGraphicsResources@VideoEditEngine@MediaExpression@@YA?AV?$shared_ptr@VIDeviceResources@VideoEditEngine@MediaExpression@@@std@@XZ
+?CreateLightWeightGifEncoder@VideoEditEngine@MediaExpression@@YA?AV?$shared_ptr@VIWicEncoder@VideoEditEngine@MediaExpression@@@std@@AEBV?$shared_ptr@VIEncodeOutputFile@VideoEditEngine@MediaExpression@@@4@AEBV?$shared_ptr@VIDeviceResources@VideoEditEngine@MediaExpression@@@4@G@Z
+?CreateLightWeightMp4Encoder@VideoEditEngine@MediaExpression@@YA?AV?$shared_ptr@VIMFEncoder@VideoEditEngine@MediaExpression@@@std@@AEBV?$shared_ptr@VIEncodeOutputFile@VideoEditEngine@MediaExpression@@@4@AEBV?$shared_ptr@VIDeviceResources@VideoEditEngine@MediaExpression@@@4@AEBV?$shared_ptr@$$CBVMediaProperties@VideoEditEngine@MediaExpression@@@4@$$QEAUMp4EncodeConfig@2@@Z
+?CreateMediaProperties@VideoEditEngine@MediaExpression@@YA?AV?$shared_ptr@$$CBVMediaProperties@VideoEditEngine@MediaExpression@@@std@@IIIIII@Z
+?CreateMediaSample@VideoEditEngine@MediaExpression@@YA?AV?$shared_ptr@VMediaSample@VideoEditEngine@MediaExpression@@@std@@AEBV?$shared_ptr@V?$vector@EV?$allocator@E@std@@@std@@@4@IW4DXGI_FORMAT@@IAEBV?$shared_ptr@$$CBVMediaProperties@VideoEditEngine@MediaExpression@@@4@@Z
+?OpenEncodeOutputFileAsync@VideoEditEngine@MediaExpression@@YA?AV?$task@V?$shared_ptr@VIEncodeOutputFile@VideoEditEngine@MediaExpression@@@std@@@Concurrency@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@0AEBVcancellation_token@4@@Z
+DllCanUnloadNow
+DllGetActivationFactory

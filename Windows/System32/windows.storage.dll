@@ -33,6 +33,7 @@
 #866
 #873
 #880
+#887
 #897
 #898
 #910
@@ -54,6 +55,7 @@ CFileOperationRecorder_CreateInstance
 CFreeThreadedItemContainer_CreateInstance
 CFSFolder_AdjustForSlowColumn
 CFSFolder_CreateFolder
+CFSFolder_IsCommonItem
 CMruLongList_CreateInstance
 CopyDefaultLibrariesFromGroupPolicy
 CPrivateProfileCache_Save
@@ -263,6 +265,7 @@ STORAGE_GetShellItemFromStorageItem
 STORAGE_GetSystemPersistedStorageItemList
 Storage_Internal_GetAccessListForPackage
 STORAGE_MakeDestinationItem
+STORAGE_PathIsEqualOrSubFolderOfKnownFolders
 STORAGE_SHAddToRecentDocs
 STORAGE_SHAddToRecentDocsEx
 STORAGE_SHConfirmOperation

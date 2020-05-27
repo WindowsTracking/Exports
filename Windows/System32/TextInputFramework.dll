@@ -4,6 +4,7 @@ DllGetClassObject
 InputFocusChanged
 NavigateFocusInfoCreate
 TextInputClientCreate
+TextInputClientCreate2
 TextInputHostCreate
 TextInputHostCreate2
 TextInputHostCreateEx
@@ -13,3 +14,4 @@ TextInputServerCreate
 tsfGetAsyncKeyState
 tsfGetKeyboardState
 tsfGetKeyState
+TsfOneCreate

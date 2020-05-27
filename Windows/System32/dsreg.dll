@@ -1,20 +1,9 @@
-??0DsregBehaviors@@AEAA@XZ
-??4DsregBehaviors@@QEAAAEAV0@$$QEAV0@@Z
-??4DsregBehaviors@@QEAAAEAV0@AEBV0@@Z
-?Disable@DsregBehaviors@@SAJW4DsregBehavior@1@@Z
-?Enable@DsregBehaviors@@SAJW4DsregBehavior@1@@Z
-?GetBitset@DsregBehaviors@@CAAEAV?$bitset@$01@std@@XZ
-?GetStatus@DsregBehaviors@@SA_NW4DsregBehavior@1@@Z
 DsrBeginDelegatedWorkplaceJoin
 DsrBeginDeviceAndResourceAccountJoin
-DsrBeginDeviceAutoJoin
-DsrBeginDeviceAutoJoinFederated
 DsrBeginDeviceJoin
 DsrBeginDeviceUnjoin
 DsrBeginDeviceUpdate
 DsrBeginDiscover
-DsrBeginDiscoverEnterprise
-DsrBeginDiscoverEx
 DsrBeginPreprovisionedDeviceJoin
 DsrBeginRecovery
 DsrBeginWorkplaceJoin
@@ -22,6 +11,7 @@ DsrBeginWorkplaceUnjoin
 DsrBeginWorkplaceUpdate
 DsrCanCurrentUserProvisionNgcKey
 DsrCanCurrentUserResetNgcKey
+DsrCLI
 DsrEndRecovery
 DsrFreeCxhScenarioInfo
 DsrFreeDiscoveryMetadata
@@ -39,7 +29,6 @@ DsrIsDeviceJoinedEx
 DsrIsWorkplaceJoined
 DsrSaveDeviceTokenProperties
 DsrSaveWorkplaceTokenProperties
-DsrTriggerDeviceUpdateTaskIfNeeded
 DsrWriteAutoJoinSvcAdminEvent
 DsrWriteAutoJoinSvcDebugEvent
 DsrWriteAutoJoinSvcTriggerEvent
@@ -54,10 +43,6 @@ NgcNeedProvision
 NgcNeedProvisionForAccount
 NgcReadRegistryValue
 NgcRegisterKey
-NgcRegisterKeyEx
-NgcRegisterKeyInternal
-NgcRemoveAllRegistrationsLocal
-NgcRemoveRegistrationLocal
 NgcResetPinRetryAttempts
 NgcUpdateCertEnrollStatistics
 NgcUpdateStatistics

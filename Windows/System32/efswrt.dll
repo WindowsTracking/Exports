@@ -4,6 +4,7 @@ CdplIsAppDataProtectionSupported
 CdplIsSupported
 CdplProtectFileToLevel
 CdplProtectFileToLevelWithResult
+CdplProtectKnownUserFolders
 CdplProtectSecretToLevel
 CdplUnprotectSecret
 DllCanUnloadNow

@@ -33,6 +33,7 @@ MFCreateCredentialCache
 MFCreateDeviceSource
 MFCreateDeviceSourceActivate
 MFCreateDrmNetNDSchemePlugin
+MFCreateEncryptedMediaExtensionsStoreActivate
 MFCreateFileBlockMap
 MFCreateFileSchemePlugin
 MFCreateFMPEG4MediaSink

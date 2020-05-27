@@ -1,9 +1,0 @@
-DllMain
-EnsureIntlDll
-HinstGetIntlDll
-HrCreateIWordMailProcess
-HrGetIWordActivationHandler
-HrGetIWordCore
-HrGetIWordMailUI
-HrSetWordHost
-SpcmdusrCreate

@@ -8,6 +8,7 @@ MI_Main
 PreShutdown
 SetShutdownCallback
 SmpUnload
+WspCheckMinimumSubsystemVersion
 WspCompleteMethod
 WspCreateJob
 WspEnumerateRemoteInstances

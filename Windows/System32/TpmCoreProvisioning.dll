@@ -28,8 +28,6 @@ TpmCertGetIsActiveZeroExhaust
 TpmCertGetMaximumSupportedProtocolVersion
 TpmCertGetPreferredMaximumProtocolVersion
 TpmCertGetTpmManufacturerId
-TpmCertGetTpmManufacturerId12
-TpmCertGetUrlForFwlinkId
 TpmCertGetWindowsAik
 TpmCertInstallEkCertInRegistry
 TpmCertInstallNvEkCerts
@@ -61,9 +59,6 @@ TpmEnable
 TpmEnableAutoProvisioning
 TpmGatherLogs
 TpmGatherTpmData
-TpmGet_IsActivated_InitialValue
-TpmGet_IsEnabled_InitialValue
-TpmGet_IsOwned_InitialValue
 TpmGet_IsPpiVersion12
 TpmGet_IsTpmPresent
 TpmGet_IsTpmVersion20
@@ -76,6 +71,7 @@ TpmGet_TpmVersionInfo
 TpmGetCapLockoutInfo
 TpmGetDeviceInformation
 TpmGetDictionaryAttackParameters
+TpmGetEffectiveGroupPolicyOwnerAuthLevel
 TpmGetEndorsementKeyCertificateState
 TpmGetHealthCertRequest
 TpmGetOrderlyShutdownInfo
@@ -101,6 +97,7 @@ TpmHealthCertGetAndVerify
 TpmImportOwnerAuth
 TpmIsActivated
 TpmIsAutoProvisioningEnabled
+TpmIsAutoProvisioningEnabledEx
 TpmIsCommandBlocked
 TpmIsCommandPresent
 TpmIsEnabled

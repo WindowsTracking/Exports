@@ -85,6 +85,7 @@ sqlite3_db_readonly
 sqlite3_db_release_memory
 sqlite3_db_status
 sqlite3_declare_vtab
+sqlite3_deserialize
 sqlite3_enable_load_extension
 sqlite3_enable_shared_cache
 sqlite3_errcode
@@ -100,6 +101,7 @@ sqlite3_file_control
 sqlite3_finalize
 sqlite3_free
 sqlite3_free_table
+sqlite3_fts3_may_be_corrupt
 sqlite3_get_autocommit
 sqlite3_get_auxdata
 sqlite3_get_table
@@ -172,6 +174,7 @@ sqlite3_result_zeroblob64
 sqlite3_rollback_hook
 sqlite3_rtree_geometry_callback
 sqlite3_rtree_query_callback
+sqlite3_serialize
 sqlite3_set_authorizer
 sqlite3_set_auxdata
 sqlite3_set_last_insert_rowid
@@ -186,6 +189,7 @@ sqlite3_status
 sqlite3_status64
 sqlite3_step
 sqlite3_stmt_busy
+sqlite3_stmt_isexplain
 sqlite3_stmt_readonly
 sqlite3_stmt_status
 sqlite3_str_append
@@ -224,6 +228,7 @@ sqlite3_value_bytes16
 sqlite3_value_double
 sqlite3_value_dup
 sqlite3_value_free
+sqlite3_value_frombind
 sqlite3_value_int
 sqlite3_value_int64
 sqlite3_value_nochange

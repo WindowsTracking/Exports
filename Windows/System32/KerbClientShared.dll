@@ -16,6 +16,7 @@ KerbClientFreeStoredCred
 KerbClientFreeSupplementalCredentials
 KerbClientPackApReply
 KerbClientPackAsn1Buffer
+KerbClientParseKeyListReplyPaData
 KerbClientSharedCleanup
 KerbClientSharedInit
 KerbClientUnpackAsn1BufferVoid

@@ -81,6 +81,7 @@ DismGetMountedImageInfo
 DismGetPackageInfo
 DismGetPackageInfoEx
 DismGetPackages
+DismGetReservedStorageState
 DismInitialize
 DismMountImage
 DismOpenSession
@@ -89,5 +90,6 @@ DismRemoveCapability
 DismRemoveDriver
 DismRemovePackage
 DismRestoreImageHealth
+DismSetReservedStorageState
 DismShutdown
 DismUnmountImage
