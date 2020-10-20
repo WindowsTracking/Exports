@@ -1,4 +1,5 @@
 KerbClientAlloc
+KerbClientAllocateStoredCred
 KerbClientBuildAsReqAuthenticator
 KerbClientBuildEncryptedAuthData
 KerbClientBuildExplicitArmorKey
@@ -11,6 +12,7 @@ KerbClientComputeTgsChecksum
 KerbClientDecryptApReply
 KerbClientDecryptPacCredentials
 KerbClientDeriveFastChallengeKey
+KerbClientDuplicateStoredCred
 KerbClientFree
 KerbClientFreeStoredCred
 KerbClientFreeSupplementalCredentials
@@ -19,6 +21,7 @@ KerbClientPackAsn1Buffer
 KerbClientParseKeyListReplyPaData
 KerbClientSharedCleanup
 KerbClientSharedInit
+KerbClientTransformStoredCred
 KerbClientUnpackAsn1BufferVoid
 KerbClientUnpackKdcReplyBody
 KerbClientUpdateSharedConfiguration

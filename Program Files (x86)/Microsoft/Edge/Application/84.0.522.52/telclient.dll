@@ -1,0 +1,7 @@
+DecodePayload
+DecodeUkmPayload
+DecodeUmaPayload
+FreePayload
+GetDecoderCreateFunc
+GetHandleVerifier
+GetLogSplitterCreateFunc

@@ -1,0 +1,7 @@
+ApplyContainerChanges
+CreateImageManifest
+GetIServicingCommitter
+GetIServicingFileHashProvider
+GetIServicingQuerier
+GetIServicingStager
+InstallPackagesToFolder
