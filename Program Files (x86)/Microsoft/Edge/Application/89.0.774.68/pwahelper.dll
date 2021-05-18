@@ -1,0 +1,14 @@
+??0PwaHelperImpl@edge_pwahelper@@QEAA@XZ
+??1PwaHelperImpl@edge_pwahelper@@UEAA@XZ
+??_7PwaHelperImpl@edge_pwahelper@@6B@
+?AppendMojoServerBindingInfo@PwaHelperImpl@edge_pwahelper@@AEAAXXZ
+?BadgeNotification@PwaHelperImpl@edge_pwahelper@@UEAAXW4BadgeNotificationType@mojom@2@AEBV?$basic_string@DU?$char_traits@D@__1@std@@V?$allocator@D@23@@__1@std@@@Z
+?InitializeAppUserModelIdForCurrentProcess@PwaHelperImpl@edge_pwahelper@@QEAA_NXZ
+?SetSingletonProcessId@PwaHelperImpl@edge_pwahelper@@UEAAXI@Z
+?Shutdown@PwaHelperImpl@edge_pwahelper@@AEAAXI@Z
+?StartAppWithPlatformChannel@PwaHelperImpl@edge_pwahelper@@QEAAXXZ
+?StartProcessWithMojoIPC@PwaHelperImpl@edge_pwahelper@@QEAAKPEAX0V?$unique_ptr@VCommandLine@base@@U?$default_delete@VCommandLine@base@@@__1@std@@@__1@std@@V?$unique_ptr@VScopedTempDir@base@@U?$default_delete@VScopedTempDir@base@@@__1@std@@@45@@Z
+?TryActivateInstance@PwaHelperImpl@edge_pwahelper@@AEAAXXZ
+?ValidateHandShake@PwaHelperImpl@edge_pwahelper@@AEAAXXZ
+GetHandleVerifier
+StartAppWithParameter

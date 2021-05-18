@@ -1,6 +1,7 @@
 DllCanUnloadNow
 DllGetActivationFactory
 GetAppInventoryCore
+GetPrivacyLevel
 PicAmiClose
 PicAmiInitialize
 PicFreeFileInfo

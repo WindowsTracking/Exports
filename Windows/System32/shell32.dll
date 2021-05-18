@@ -358,6 +358,7 @@ AppCompat_RunDLLW
 AssocCreateForClasses
 AssocElemCreateForKey
 AssocGetDetailsOfPropKey
+CallFileCopyHook
 CDefFolderMenu_Create2
 CheckEscapesW
 CIDLData_CreateFromIDArray

@@ -1,9 +1,0 @@
-MigrateWinsockConfigurationEx
-WSCDeinstallProviderEx
-WSCEnumProtocolsEx
-WSCGetApplicationCategoryEx
-WSCInstallNameSpaceEx2
-WSCInstallProviderEx
-WSCSetApplicationCategoryEx
-WSCUnInstallNameSpaceEx2
-WSCWriteProviderOrderEx

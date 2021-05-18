@@ -11,7 +11,9 @@ DmCreateFileSafe
 DmCreateTask
 DmDeleteTask
 DmEnumUsers
+DmGetAadDeviceMdmEnrollmentResourceUrlWithDiscovery
 DmGetAadDeviceToken
+DmGetAadDeviceTokenWithDiscovery
 DmGetAadUserToken
 DmGetActiveUserSid
 DMGetClientHardwareUID
