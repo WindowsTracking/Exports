@@ -1,6 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-RFX_CreateGFXService
-RFX_CreatePluginFactory

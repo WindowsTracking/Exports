@@ -1,8 +1,0 @@
-crc32
-deflate
-deflateEnd
-deflateInit2_
-inflate
-inflateEnd
-inflateInit2_
-zlibCompileFlags

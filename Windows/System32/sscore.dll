@@ -29,6 +29,7 @@ SsCoreSessionDelForInstance
 SsCoreSessionEnlist
 SsCoreSessionEnum
 SsCoreSessionEnumForInstance
+SsCoreSetInstanceProperties
 SsCoreSetMaxClusterDialect
 SsCoreShareAdd
 SsCoreShareAddEx

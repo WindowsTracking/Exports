@@ -1,6 +1,0 @@
-nativeAllocate
-nativeCopyFromByteArray
-nativeCopyToByteArray
-nativeFree
-nativeMemcpy
-nativeReadByte

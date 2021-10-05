@@ -20,7 +20,6 @@ wscIcfEnable
 wscIeSettingsFix
 wscInitiateOfflineCleaning
 wscIsDefenderAntivirusSupported
-wscLaunchAdminMakeDefaultUI
 wscLuaSettingsFix
 wscMakeDefaultProductRequest
 wscNotifyUserForNearExpiration
@@ -33,7 +32,6 @@ WscRegisterForChanges
 WscRegisterForUserNotifications
 wscRegisterSecurityProduct
 wscSetDefaultProduct
-wscShowAMSCN
 wscUnRegisterChangeNotification
 WscUnRegisterChanges
 wscUnregisterSecurityProduct

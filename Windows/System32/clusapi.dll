@@ -2,6 +2,7 @@ AddClusterGroupDependency
 AddClusterGroupSetDependency
 AddClusterGroupToGroupSetDependency
 AddClusterNode
+AddClusterNodeEx
 AddClusterResourceDependency
 AddClusterResourceNode
 AddClusterStorageNode
@@ -169,6 +170,12 @@ ClusterSharedVolumeSetSnapshotState
 ClusterStmFindDisk
 ClusterUpgradeFunctionalLevel
 ClusterUpgradeFunctionalLevelEx
+ClusterWprAddMarker
+ClusterWprCancel
+ClusterWprCaptureState
+ClusterWprFlush
+ClusterWprStart
+ClusterWprStop
 CreateCluster
 CreateClusterAvailabilitySet
 CreateClusterGroup

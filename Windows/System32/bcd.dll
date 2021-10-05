@@ -15,6 +15,7 @@ BcdEnumerateElementsWithFlags
 BcdEnumerateElementTypes
 BcdEnumerateObjects
 BcdExportStore
+BcdExportStoreEx
 BcdFlushStore
 BcdForciblyUnloadStore
 BcdGetElementData

@@ -143,3 +143,4 @@ ResUtilVerifyPrivatePropertyList
 ResUtilVerifyPropertyTable
 ResUtilVerifyResourceService
 ResUtilVerifyService
+ResUtilVerifyShutdownSafe

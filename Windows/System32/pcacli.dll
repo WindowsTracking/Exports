@@ -1,3 +1,6 @@
+PcaApiSamplingSetValue
+PcaApiSamplingStart
+PcaApiSamplingStop
 PcaGetFileInfoFromPath
 PcaIsPcaDisabled
 PcaLinkChildProcessToParent

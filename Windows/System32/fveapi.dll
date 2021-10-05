@@ -1,5 +1,6 @@
 FveAddAuthMethodInformation
 FveAddAuthMethodSid
+FveAddPredictiveTpmProtector
 FveApplyGroupPolicy
 FveApplyNkpCertChanges
 FveAttemptAutoUnlock
@@ -9,6 +10,7 @@ FveAuthElementFromRecoveryPasswordW
 FveAuthElementGetKeyFileNameW
 FveAuthElementReadExternalKeyW
 FveAuthElementToRecoveryPasswordW
+FveAuthElementWriteExternalKeyExW
 FveAuthElementWriteExternalKeyW
 FveBackupRecoveryInformationToAD
 FveBackupRecoveryInformationToADEx
@@ -25,6 +27,7 @@ FveCloseHandle
 FveCloseVolume
 FveCommitChanges
 FveCommitChangesEx
+FveControl
 FveConversionDecrypt
 FveConversionDecryptEx
 FveConversionEncrypt
@@ -116,6 +119,7 @@ FveSetFipsAllowDisabled
 FveSetFveMethod
 FveSetIdentificationFieldW
 FveSetRecoveryPasswordBackupInformation
+FveSetupTpmCallback
 FveSetUserFlags
 FveSysClearUserFlags
 FveSysCloseVolume

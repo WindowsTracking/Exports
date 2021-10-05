@@ -1,6 +1,8 @@
 CheckAppExecutionAliasApplicationType
 CloseAppExecutionAliasEx
 CompleteAppExecutionAliasProcessCreationEx
+CompletePackagedProcessCreationEx
+CreateAndPersistAppExecutionAliasEx
 CreateAppExecutionAliasEx
 CreateAppExecutionAliasEx2
 DllCanUnloadNow

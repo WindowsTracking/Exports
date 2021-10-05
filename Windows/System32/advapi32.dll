@@ -437,12 +437,17 @@ LsaAddAccountRights
 LsaAddPrivilegesToAccount
 LsaClearAuditLog
 LsaClose
+LsaConfigureAutoLogonCredentials
 LsaCreateAccount
 LsaCreateSecret
 LsaCreateTrustedDomain
 LsaCreateTrustedDomainEx
 LsaDelete
 LsaDeleteTrustedDomain
+LsaDisablePasswordLessCurrentUser
+LsaDisableUserArso
+LsaEnablePasswordLessCurrentUser
+LsaEnableUserArso
 LsaEnumerateAccountRights
 LsaEnumerateAccounts
 LsaEnumerateAccountsWithUserRight
@@ -452,6 +457,7 @@ LsaEnumerateTrustedDomains
 LsaEnumerateTrustedDomainsEx
 LsaFreeMemory
 LsaGetAppliedCAPIDs
+LsaGetDeviceRegistrationInfo
 LsaGetQuotasForAccount
 LsaGetRemoteUserName
 LsaGetSystemAccessAccount
@@ -460,6 +466,8 @@ LsaICLookupNames
 LsaICLookupNamesWithCreds
 LsaICLookupSids
 LsaICLookupSidsWithCreds
+LsaIsUserArsoAllowed
+LsaIsUserArsoEnabled
 LsaLookupNames
 LsaLookupNames2
 LsaLookupPrivilegeDisplayName
@@ -475,6 +483,7 @@ LsaOpenPolicySce
 LsaOpenSecret
 LsaOpenTrustedDomain
 LsaOpenTrustedDomainByName
+LsaProfileDeleted
 LsaQueryCAPs
 LsaQueryDomainInformationPolicy
 LsaQueryForestTrustInformation
@@ -499,6 +508,7 @@ LsaSetSystemAccessAccount
 LsaSetTrustedDomainInfoByName
 LsaSetTrustedDomainInformation
 LsaStorePrivateData
+LsaValidateProcUniqueLuid
 MakeAbsoluteSD
 MakeAbsoluteSD2
 MakeSelfRelativeSD

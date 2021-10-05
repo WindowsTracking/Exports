@@ -5,6 +5,7 @@ PshedBugCheckSystem
 PshedClearErrorRecord
 PshedDisableErrorSource
 PshedDoPfa
+PshedDoPluginCtl
 PshedEnableErrorSource
 PshedFinalizeErrorRecord
 PshedFreeMemory

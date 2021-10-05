@@ -208,6 +208,7 @@ PSRegisterPropertySchema
 PSSetPropertyValue
 PSStringFromPropertyKey
 PSUnregisterPropertySchema
+SHGetPropertyStoreForWindow
 StgDeserializePropVariant
 StgSerializePropVariant
 VariantCompare

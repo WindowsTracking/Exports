@@ -10,7 +10,10 @@ DmCopyDirectoryRecursive
 DmCreateFileSafe
 DmCreateTask
 DmDeleteTask
+DmDisableTask
+DmEnableTask
 DmEnumUsers
+DmExecuteProcessAndCollect
 DmGetAadDeviceMdmEnrollmentResourceUrlWithDiscovery
 DmGetAadDeviceToken
 DmGetAadDeviceTokenWithDiscovery
@@ -39,6 +42,7 @@ DmIsRunningInSystemContext
 DmIsSystemOrAdmin
 DmIsSystemOrUserIsAdmin
 DmIsTaskScheduled
+DmIsTaskScheduledAndEnabled
 DmMdmSign
 DmPlayNotificationSound
 DmRaiseToastNotification
@@ -53,6 +57,7 @@ DmRunTask
 DMSetDeviceClientID
 DmStartContainerActivity
 DmStopContainerActivity
+DmStringCchPrintfAllStrings
 DmUnregisterRoamingNotification
 DmWnfGetNotification
 DmWnfPublish
@@ -77,11 +82,15 @@ Hash_Get
 Hash_Insert
 Hash_SetBucketThreshold
 HexStringToBinary
+InitializeCVForLocalConfigSession
 InvStrCmpIW
 InvStrCmpNIW
 InvStrCmpNW
 InvStrCmpW
-IsPhoneOS
+IsDesktopSku
+IsServerVersionOrAbove
+IsWvdFeatureAllowed
+IsWvdSku
 MBToUnicode
 OmaDmRegistryDeleteValue
 OmaDmRegistryGetAllSubKeys

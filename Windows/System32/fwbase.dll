@@ -93,6 +93,7 @@ FwIsMachineLocalHost
 FwIsValidPorts
 FwLicensingIsIoT
 FwLicensingIsNetIsolationOnly
+FwLicensingIsVAILContainer
 FwLicensingIsXbox
 FwLoadIndirectString
 FwLoadString
@@ -139,6 +140,7 @@ FwSortAddresses
 FwSortInterfaceLUIDs
 FwStaticFwPortEncode
 FwStaticFwPortEncodeValueName
+FwStringArrayCopy
 FwStringBuild
 FwStringCanonicalizeCopy
 FwStringCopy

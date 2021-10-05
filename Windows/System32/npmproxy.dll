@@ -3,3 +3,5 @@ DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
 GetProxyDllInfo
+LANIdFreeCollection
+LANIdRetrieveCollection

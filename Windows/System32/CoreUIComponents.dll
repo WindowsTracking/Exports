@@ -3,6 +3,7 @@ CoreUIClientTestCreate
 CoreUIConfigureTestHost
 CoreUICreateDuplicateWindowFactory
 CoreUICreateICoreWindowFactory
+CoreUICreateICoreWindowFactoryEx
 CoreUIFactoryCreate
 CoreUIServerCreate
 CoreUIServerTestCreate
@@ -18,5 +19,6 @@ MinUserRegisterPointerInputTarget
 MinUserRequestViewHitTest
 MinUserReregisterPointerInputTargets
 MinUserUnregisterPointerInputTarget
+RegisterNavigationClientWindowAdapter
 ServiceMain
 SvchostPushServiceGlobals

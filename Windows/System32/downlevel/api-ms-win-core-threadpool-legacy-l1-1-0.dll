@@ -1,6 +1,7 @@
 ChangeTimerQueueTimer
 CreateTimerQueue
 CreateTimerQueueTimer
+DeleteTimerQueue
 DeleteTimerQueueEx
 DeleteTimerQueueTimer
 QueueUserWorkItem

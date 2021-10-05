@@ -4,6 +4,7 @@ NPAddConnection
 NPAddConnection3
 NPAddConnection4
 NPCancelConnection
+NPCancelConnection2
 NPCloseEnum
 NPEnumResource
 NPFormatNetworkName

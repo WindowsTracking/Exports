@@ -28,6 +28,7 @@ EdpGetIsManaged
 EdpGetPersonalEnterpriseIdString
 EdpGetPrimaryIdentities
 EdpGetPrimaryIdentityIfManaged
+EdpGetRevocationInfo
 EdpGetSourceAppIdForClipboard
 EdpGetSourceIsEnlightenedForClipboard
 EdpGetWindowFromThreadId
@@ -36,6 +37,9 @@ EdpIsContextExemptOrEnlightenedAllowed
 EdpIsFileAccessAllowed
 EdpIsUIPolicyEvaluationEnabledForThread
 EdpIsValidSubjectForEncryption
+EdpParseIdentityString
+EdpParseProtectorDescriptor
+EdpQueryIdentityWithProtectorDescriptor
 EdpRequestAccess
 EdpRequestAccessForContext
 EdpSetEnterpriseIdForClipboard

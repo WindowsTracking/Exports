@@ -2,6 +2,7 @@ CreateFileMappingFromApp
 CreateFileMappingNumaW
 CreateMemoryResourceNotification
 GetLargePageMinimum
+GetProcessWorkingSetSize
 GetProcessWorkingSetSizeEx
 GetSystemFileCacheSize
 GetWriteWatch
@@ -9,6 +10,7 @@ MapViewOfFileFromApp
 PrefetchVirtualMemory
 QueryMemoryResourceNotification
 ResetWriteWatch
+SetProcessWorkingSetSize
 SetProcessWorkingSetSizeEx
 SetSystemFileCacheSize
 UnmapViewOfFileEx

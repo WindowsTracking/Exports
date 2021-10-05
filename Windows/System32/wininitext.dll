@@ -1,4 +1,5 @@
 GetLoggedOnUserCount
+LaunchUmfdHostWithVirtualAccountWorker
 PrimaryTerminalAndHookWorker
 StartLoadingFontsWorker
 UIStartupWorker

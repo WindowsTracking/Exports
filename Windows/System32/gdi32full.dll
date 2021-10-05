@@ -639,7 +639,6 @@ NtGdiFrameRgn
 NtGdiFullscreenControl
 NtGdiGetAndSetDCDword
 NtGdiGetAppClipBox
-NtGdiGetAppliedDeviceGammaRamp
 NtGdiGetBitmapBits
 NtGdiGetBitmapDimension
 NtGdiGetBitmapDpiScaleValue
@@ -664,7 +663,6 @@ NtGdiGetDCObject
 NtGdiGetDCPoint
 NtGdiGetDeviceCaps
 NtGdiGetDeviceCapsAll
-NtGdiGetDeviceGammaRamp
 NtGdiGetDeviceWidth
 NtGdiGetDhpdev
 NtGdiGetDIBitsInternal
@@ -678,7 +676,6 @@ NtGdiGetFontFileData
 NtGdiGetFontFileInfo
 NtGdiGetFontResourceInfoInternalW
 NtGdiGetFontUnicodeRanges
-NtGdiGetGammaRampCapability
 NtGdiGetGlyphIndicesW
 NtGdiGetGlyphIndicesWInternal
 NtGdiGetGlyphOutline
@@ -786,7 +783,6 @@ NtGdiSetBrushAttributes
 NtGdiSetBrushOrg
 NtGdiSetColorAdjustment
 NtGdiSetColorSpace
-NtGdiSetDeviceGammaRamp
 NtGdiSetDIBitsToDeviceInternal
 NtGdiSetFontEnumeration
 NtGdiSetFontXform
@@ -799,7 +795,6 @@ NtGdiSetMiterLimit
 NtGdiSetOPMSigningKeyAndSequenceNumbers
 NtGdiSetPixel
 NtGdiSetPixelFormat
-NtGdiSetPrivateDeviceGammaRamp
 NtGdiSetPUMPDOBJ
 NtGdiSetRectRgn
 NtGdiSetSizeDevice

@@ -2,6 +2,7 @@ DllCanUnloadNow
 Tpm20CanClearUsingAuthPolicy
 Tpm20ClearUsingAuthPolicy
 Tpm20GetCompleteManufacturerVersion
+Tpm20GetResetResumeCount
 Tpm20IsResetLockoutCountNeeded
 Tpm20ResetLockoutCountIfNeeded
 Tpm2CreateWindowsNvBits
@@ -57,6 +58,8 @@ TpmDisableAutoProvisioning
 TpmEKCertValidateAndCleanup
 TpmEnable
 TpmEnableAutoProvisioning
+TpmEnrollWindowsAikCertificate
+TpmFetchEkCertificate
 TpmGatherLogs
 TpmGatherTpmData
 TpmGet_IsPpiVersion12
@@ -89,6 +92,7 @@ TpmGetRandomAuthValue
 TpmGetSignedEKFromVendorCommand
 TpmGetSrkADThumbprint
 TpmGetSrkPublicKeyModulus
+TpmGetTaskCompletionStatus
 TpmGetTcgLog
 TpmGetTpmVersion
 TpmGetVerificationRequest

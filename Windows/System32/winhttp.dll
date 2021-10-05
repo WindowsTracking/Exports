@@ -26,6 +26,7 @@ WinHttpDetectAutoProxyConfigUrl
 WinHttpFreeProxyResult
 WinHttpFreeProxyResultEx
 WinHttpFreeProxySettings
+WinHttpFreeQueryConnectionGroupResult
 WinHttpGetDefaultProxyConfiguration
 WinHttpGetIEProxyConfigForCurrentUser
 WinHttpGetProxyForUrl
@@ -41,10 +42,13 @@ WinHttpOpenRequest
 WinHttpPacJsWorkerMain
 WinHttpProbeConnectivity
 WinHttpQueryAuthSchemes
+WinHttpQueryConnectionGroup
 WinHttpQueryDataAvailable
 WinHttpQueryHeaders
+WinHttpQueryHeadersEx
 WinHttpQueryOption
 WinHttpReadData
+WinHttpReadDataEx
 WinHttpReadProxySettings
 WinHttpReadProxySettingsHvsi
 WinHttpReceiveResponse
@@ -55,6 +59,7 @@ WinHttpSetCredentials
 WinHttpSetDefaultProxyConfiguration
 WinHttpSetOption
 WinHttpSetProxySettingsPerUser
+WinHttpSetSecureLegacyServersAppCompat
 WinHttpSetStatusCallback
 WinHttpSetTimeouts
 WinHttpTimeFromSystemTime

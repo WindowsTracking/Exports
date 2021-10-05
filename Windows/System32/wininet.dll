@@ -253,6 +253,7 @@ InternetSetOptionExW
 InternetSetOptionW
 InternetSetPerSiteCookieDecisionA
 InternetSetPerSiteCookieDecisionW
+InternetSetSecureLegacyServersAppCompat
 InternetSetStatusCallback
 InternetSetStatusCallbackA
 InternetSetStatusCallbackW

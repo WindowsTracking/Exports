@@ -1,0 +1,11 @@
+BcdUtilGetDebuggerStartPolicy
+BcdUtilGetDebuggerType
+BcdUtilGetHypervisorDebuggerType
+BcdUtilsGetElementAppliesTo
+BcdUtilsGetElementFriendlyName
+BcdUtilsGetElementPolicyIndex
+BcdUtilsGetElementPolicyString
+BcdUtilsGetElementTypeId
+BcdUtilsGetNamedElements
+BcdUtilsGuidToString
+BcdUtilsStringToGuid

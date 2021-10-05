@@ -3,6 +3,7 @@ DeleteDecoder
 Detect
 EnableExtendedReadingDistance
 EnableFalsePositiveMitigation
+EnableInvertedReads
 GetActiveBarcodeTypes
 GetBarcodeAttributesSupport
 GetExceptions
@@ -12,6 +13,7 @@ GetPayloadBarcodeType
 GetPayloadCount
 GetPayloadData
 GetPayloadRawData
+GetRebarNV12BufferPtr
 GetStatus
 GetSupportedBarcodeTypes
 SetActiveBarcodeTypes

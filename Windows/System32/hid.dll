@@ -18,6 +18,7 @@ HidD_SetConfiguration
 HidD_SetFeature
 HidD_SetNumInputBuffers
 HidD_SetOutputReport
+HidP_GetButtonArray
 HidP_GetButtonCaps
 HidP_GetCaps
 HidP_GetData
@@ -31,9 +32,11 @@ HidP_GetUsagesEx
 HidP_GetUsageValue
 HidP_GetUsageValueArray
 HidP_GetValueCaps
+HidP_GetVersionInternal
 HidP_InitializeReportForID
 HidP_MaxDataListLength
 HidP_MaxUsageListLength
+HidP_SetButtonArray
 HidP_SetData
 HidP_SetScaledUsageValue
 HidP_SetUsages

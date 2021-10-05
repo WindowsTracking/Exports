@@ -9,3 +9,9 @@ EngHostInitialize
 EngHostNotify
 EngHostReinitialize
 EngHostShutdown
+EngHostStoreSessionSequenceNumber
+OctagonEnclaveAttestationAttest
+OctagonEnclaveAttestationCloseSession
+OctagonEnclaveAttestationConfigure
+OctagonEnclaveAttestationCreateSession
+OctagonEnclaveAttestationGetReport

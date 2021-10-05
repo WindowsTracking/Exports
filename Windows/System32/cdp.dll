@@ -4,6 +4,7 @@ CDPCreateAccountInternalForUser
 CDPCreateAccountInternalWithStableUserId
 CDPCreateAccountProviderInternal
 CDPCreateActivity
+CDPCreateActivityAsset
 CDPCreateActivityInternal
 CDPCreateActivityStoreInfoInternal
 CDPCreateActivityStoreInfoWatcher
@@ -66,6 +67,7 @@ CDPCreateTask
 CDPCreateTaskInternal
 CDPCreateTelemetryTask
 CDPCreateTelemetryTaskInternal
+CDPCreateTestActivityAsset
 CDPCreateUserInternal
 CDPCreateUserNotificationClientInternal
 CDPCreateUserServiceNotificationClient
@@ -89,6 +91,7 @@ CDPGetCoreInitializer
 CDPGetDeviceCache
 CDPGetDeviceCacheInternal
 CDPGetHost
+CDPGetInProcActivityStoreForUserToken
 CDPGetLogger
 CDPGetNearShareAuthorizationPolicyOfInteractiveUser
 CDPGetRelayInitializer

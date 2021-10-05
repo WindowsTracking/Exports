@@ -17,6 +17,7 @@ PhoneAPIUninitialize
 PhoneCallCapabilityAccessCheck
 PhoneCallVoicemail
 PhoneCancelNonSeamlessUpgrade
+PhoneCheckLineOwnership
 PhoneClearIdleCallsFromController
 PhoneConference
 PhoneConfirmNonSeamlessUpgrade
@@ -108,7 +109,6 @@ PhonePublicDial
 PhoneRefreshCallForwardingState
 PhoneRefreshEcbmState
 PhoneRefreshVideoCallingSetting
-PhoneReinitiateCallerIdLookup
 PhoneRejectIncoming
 PhoneRejectIncomingForTextReply
 PhoneRejectVideo

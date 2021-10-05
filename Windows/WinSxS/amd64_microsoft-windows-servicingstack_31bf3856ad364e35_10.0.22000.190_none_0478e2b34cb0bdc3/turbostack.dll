@@ -1,0 +1,16 @@
+AnalyzeContainerPackages
+ApplyContainerChanges
+CreateGlobbedPackage
+CreateImageManifest
+DoesPackageContainAIs
+GenerateTransformerList
+GetIServicingAcrHelper
+GetIServicingCommitter
+GetIServicingFileHashProvider
+GetIServicingFusionInstaller
+GetIServicingFusionStore
+GetIServicingQuerier
+GetIServicingStager
+InstallPackagesToFolder
+SetTestMode
+UpdateContainerCim

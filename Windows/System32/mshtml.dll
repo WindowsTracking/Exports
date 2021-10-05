@@ -20,6 +20,12 @@
 #131
 #134
 #138
+#140
+#141
+#142
+#143
+#144
+#145
 ClearPhishingFilterData
 ConvertAndEscapePostData
 CreateCoreWebView

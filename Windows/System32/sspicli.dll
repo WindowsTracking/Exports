@@ -33,6 +33,7 @@ InitSecurityInterfaceA
 InitSecurityInterfaceW
 LogonUserExExW
 LsaCallAuthenticationPackage
+LsaConnectLocalUser
 LsaConnectUntrusted
 LsaDeregisterLogonProcess
 LsaEnumerateLogonSessions
@@ -42,6 +43,7 @@ LsaLogonUser
 LsaLookupAuthenticationPackage
 LsaRegisterLogonProcess
 LsaRegisterPolicyChangeNotification
+LsaSetMachineCertificate
 LsaUnregisterPolicyChangeNotification
 MakeSignature
 QueryContextAttributesA

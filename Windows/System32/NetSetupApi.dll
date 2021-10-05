@@ -14,6 +14,7 @@ NetSetupInitialize
 NetSetupOpenAdvancedPropertyKey
 NetSetupRollback
 NetSetupSerializeFilter
+NetSetupSetKeywordValue
 NetSetupSetObjectProperties
 NetSetupSynchronizeDevices
 NetSetupValidateTransaction

@@ -1,7 +1,7 @@
 AcquireStateLock
 AddDependencyToProcessPackageGraph
 AddExtensionProgId
-AddPackageToFamilyXref
+AddPackageDependency
 AppContainerDeriveSidFromMoniker
 AppContainerFreeMemory
 AppContainerLookupDisplayNameMrtReference
@@ -29,6 +29,7 @@ AppXLookupMoniker
 AppXUpdatePackageCapabilities
 BuildProcThreadAttributeListFromBlob
 CheckIfStateChangeNotificationExists
+CheckIsMSIXPackage
 ClosePackageInfo
 CloseState
 CloseStateAtom
@@ -37,15 +38,19 @@ CloseStateContainer
 CloseStateLock
 CommitStateAtom
 CouldMultiUserAppsBehaviorBePossibleForPackage
+CreateNewAdvertisingId
 CreateStateAtom
 CreateStateChangeNotification
 CreateStateContainer
 CreateStateLock
 CreateStateSubcontainer
+DeletePackageDependency
 DeleteStateAtomValue
 DeleteStateContainer
 DeleteStateContainerValue
 DuplicateStateContainerHandle
+EnableAdvertisingId
+EnableAdvertisingIdForUser
 EnumerateExtensionNames
 EnumerateStateAtomValues
 EnumerateStateContainerItems
@@ -82,6 +87,7 @@ GetExtensionProgIds
 GetExtensionProperty
 GetExtensionProperty2
 GetHivePath
+GetIdForPackageDependencyContext
 GetPackageApplicationContext
 GetPackageApplicationIds
 GetPackageApplicationProperty
@@ -89,6 +95,7 @@ GetPackageApplicationPropertyString
 GetPackageApplicationResourcesContext
 GetPackageContext
 GetPackageFamilyName
+GetPackageFamilyNameFromFilePath
 GetPackageFamilyNameFromProgId
 GetPackageFamilyNameFromToken
 GetPackageFullName
@@ -99,7 +106,6 @@ GetPackageId
 GetPackageInfo
 GetPackageInfo2
 GetPackageInfo3
-GetPackageInstallTime
 GetPackageOSMaxVersionTested
 GetPackagePath
 GetPackagePathByFullName
@@ -121,6 +127,7 @@ GetProtocolAumid
 GetProtocolProperty
 GetPublisherCacheFolder
 GetPublisherRootFolder
+GetResolvedPackageFullNameForPackageDependency
 GetRoamingLastObservedChangeTime
 GetSecureSystemAppDataFolder
 GetSerializedAtomBytes
@@ -169,8 +176,10 @@ PackageFullNameFromProductId
 PackageIdFromFullName
 PackageIdFromFullNameA
 PackageIdFromProductId
+PackageIsEffectiveSupportedUsersMultiple
 PackageNameAndPublisherIdFromFamilyName
 PackageNameAndPublisherIdFromFamilyNameA
+PackagePublisherIdFromPublisher
 PackageRelativeApplicationIdFromProductId
 PackageSidFromFamilyName
 PackageSidFromProductId
@@ -180,6 +189,7 @@ ProductIdFromPackageFamilyName
 PsmActivateApplicationByToken
 PsmAdjustActivationToken
 PsmAdjustActivationTokenEx
+PsmAdjustActivationTokenEx2
 PsmAdjustActivationTokenPkgClaim
 PsmAdjustActivationTokenWithDynamicId
 PsmCreateBrokerToken
@@ -187,10 +197,12 @@ PsmCreateMatchToken
 PsmQueryBackgroundActivationType
 PsmRegisterApplicationProcess
 PsmRegisterDesktopProcess
-PsmRegisterDesktopProcessWithAppContainerToken
 PsmRegisterServiceProcess
 PublisherFromPackageFullName
 PublishStateChangeNotification
+QueryAdvertisingId
+QueryAdvertisingIdStatus
+QueryAdvertisingIdStatusForUser
 QueryStateAtomValueInfo
 QueryStateContainerCreatedNew
 QueryStateContainerItemInfo
@@ -201,7 +213,7 @@ RegisterStateChangeNotification
 RegisterStateLock
 ReleaseStateLock
 RemoveExtensionProgIds
-RemovePackageFromFamilyXref
+RemovePackageDependency
 RemovePackageStatus
 RemovePackageStatusForUser
 ResetState
@@ -215,6 +227,7 @@ SetRoamingLastObservedChangeTime
 SetStateVersion
 SharedLocalIsEnabled
 SubscribeStateChangeNotification
+TryCreatePackageDependency
 UnregisterStateChangeNotification
 UnregisterStateLock
 UnsubscribeStateChangeNotification

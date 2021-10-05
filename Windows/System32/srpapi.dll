@@ -12,6 +12,8 @@ SrpGetAllowedEnterprises
 SrpGetAppxFqbnFromPackageFullName
 SrpGetEnterpriseIds
 SrpGetEnterprisePolicy
+SrpHostingInitialize
+SrpHostingTerminate
 SrpInheritEnterpriseContext
 SrpInheritOriginClaim
 SrpIsAllowed

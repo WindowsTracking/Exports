@@ -4,6 +4,7 @@ LuiCloseHandle
 LuiDeleteProfile
 LuiDisableProfile
 LuiDiscoverProfiles
+LuiDownloadServer
 LuiEnableProfile
 LuiInstallProfile
 LuiOpenHandle

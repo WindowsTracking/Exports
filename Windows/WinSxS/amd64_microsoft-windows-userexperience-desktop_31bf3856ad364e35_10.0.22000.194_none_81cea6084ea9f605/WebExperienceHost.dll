@@ -1,0 +1,4 @@
+DllGetActivationFactory
+StartApplication
+VSDesignerCanUnloadNow
+VSDesignerDllMain

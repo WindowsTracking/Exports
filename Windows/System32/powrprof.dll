@@ -21,6 +21,7 @@ MergeLegacyPwrScheme
 PowerApplyPowerRequestOverride
 PowerApplySettingChanges
 PowerCanRestoreIndividualDefaultPowerScheme
+PowerCleanupOverrides
 PowerClearUserAwayPrediction
 PowerCloseEnvironmentalMonitor
 PowerCloseLimitsMitigation
@@ -38,11 +39,13 @@ PowerDeterminePlatformRole
 PowerDeterminePlatformRoleEx
 PowerDuplicateScheme
 PowerEnumerate
+PowerEnumerateSettings
 PowerGetActiveScheme
 PowerGetActualOverlayScheme
 PowerGetAdaptiveStandbyDiagnostics
 PowerGetEffectiveOverlayScheme
 PowerGetOverlaySchemes
+PowerGetProfiles
 PowerGetUserAwayMinPredictionConfidence
 PowerImportPowerScheme
 PowerInformationWithPrivileges
@@ -64,6 +67,7 @@ PowerReadIconResourceSpecifier
 PowerReadPossibleDescription
 PowerReadPossibleFriendlyName
 PowerReadPossibleValue
+PowerReadProfileAlias
 PowerReadSecurityDescriptor
 PowerReadSettingAttributes
 PowerReadValueIncrement
@@ -71,6 +75,7 @@ PowerReadValueMax
 PowerReadValueMin
 PowerReadValueUnitsSpecifier
 PowerReapplyActiveScheme
+PowerRefreshProfileSettings
 PowerRegisterEnvironmentalMonitor
 PowerRegisterForEffectivePowerModeNotifications
 PowerRegisterLimitsMitigation
@@ -81,7 +86,9 @@ PowerReplaceDefaultPowerSchemes
 PowerReportLimitsEvent
 PowerReportThermalEvent
 PowerRestoreACDefaultIndex
+PowerRestoreACProfileIndex
 PowerRestoreDCDefaultIndex
+PowerRestoreDCProfileIndex
 PowerRestoreDefaultPowerSchemes
 PowerRestoreIndividualDefaultPowerScheme
 PowerSetActiveOverlayScheme
@@ -100,8 +107,10 @@ PowerUpdateEnvironmentalMonitorState
 PowerUpdateEnvironmentalMonitorThresholds
 PowerUpdateLimitsMitigation
 PowerWriteACDefaultIndex
+PowerWriteACProfileIndex
 PowerWriteACValueIndex
 PowerWriteDCDefaultIndex
+PowerWriteDCProfileIndex
 PowerWriteDCValueIndex
 PowerWriteDescription
 PowerWriteFriendlyName

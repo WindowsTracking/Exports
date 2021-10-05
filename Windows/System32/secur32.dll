@@ -8,8 +8,6 @@ AddSecurityPackageW
 ApplyControlToken
 ChangeAccountPasswordA
 ChangeAccountPasswordW
-CloseLsaPerformanceData
-CollectLsaPerformanceData
 CompleteAuthToken
 CredMarshalTargetInfo
 CredUnmarshalTargetInfo
@@ -47,7 +45,6 @@ LsaRegisterLogonProcess
 LsaRegisterPolicyChangeNotification
 LsaUnregisterPolicyChangeNotification
 MakeSignature
-OpenLsaPerformanceData
 QueryContextAttributesA
 QueryContextAttributesW
 QueryCredentialsAttributesA

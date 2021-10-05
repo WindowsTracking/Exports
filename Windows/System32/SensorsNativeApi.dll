@@ -39,7 +39,9 @@ SensorNotificationStop
 SensorOpen
 SensorOpenByInterface
 SensorOpenByType
+SensorRegisterDeviceRemovalNotification
 SensorRegisterEvent
+SensorRegisterPowerNotifications
 SensorSelectBestDevice
 SensorSetAccThresholds
 SensorSetAlsThresholds
@@ -59,4 +61,6 @@ SensorStartCollection
 SensorStartHistory
 SensorStop
 SensorStopHistory
+SensorsUnregisterPowerNotifications
+SensorUnregisterDeviceRemovalNotification
 SensorUnregisterEvent

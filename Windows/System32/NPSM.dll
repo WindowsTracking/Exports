@@ -1,7 +1,5 @@
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject
-RegisterNowPlayingSessionManagerFactory
 ServiceMain
 SvchostPushServiceGlobals
-UnregisterNowPlayingSessionManagerFactory

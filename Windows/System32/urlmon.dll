@@ -183,6 +183,8 @@
 #603
 #604
 #605
+#606
+#607
 AsyncGetClassBits
 AsyncInstallDistributionUnit
 BindAsyncMoniker

@@ -13,8 +13,6 @@ FwpiVpnTriggerRemoveSecurityDescriptor
 FwpiVpnTriggerResetNrptTriggering
 FwpiVpnTriggerSetStateDisconnected
 FwpiVpnTriggerUninitializeNrptTriggering
-FwpmBitmapIndexFree0
-FwpmBitmapIndexGet0
 FwpmCalloutAdd0
 FwpmCalloutCreateEnumHandle0
 FwpmCalloutDeleteById0
@@ -37,6 +35,8 @@ FwpmConnectionSetSecurityInfo0
 FwpmConnectionSubscribe0
 FwpmConnectionUnsubscribe0
 FwpmDiagnoseNetFailure0
+FwpmDynamicKeywordSubscribe0
+FwpmDynamicKeywordUnsubscribe0
 FwpmEngineClose0
 FwpmEngineGetOption0
 FwpmEngineGetSecurityInfo0
@@ -46,6 +46,7 @@ FwpmEngineSetSecurityInfo0
 FwpmEventProviderCreate0
 FwpmEventProviderDestroy0
 FwpmEventProviderFireNetEvent0
+FwpmEventProviderFireNetEventEx0
 FwpmEventProviderIsNetEventTypeEnabled0
 FwpmFilterAdd0
 FwpmFilterCreateEnumHandle0
@@ -82,6 +83,7 @@ FwpmLayerGetByKey0
 FwpmLayerGetSecurityInfoByKey0
 FwpmLayerSetSecurityInfoByKey0
 FwpmNetEventCreateEnumHandle0
+FwpmNetEventCreateEnumHandleEx
 FwpmNetEventDestroyEnumHandle0
 FwpmNetEventEnum0
 FwpmNetEventEnum1

@@ -1,4 +1,2 @@
-DllCanUnloadNow
-DllGetClassObject
 ServiceMain
 SvchostPushServiceGlobals

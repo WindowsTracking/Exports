@@ -157,4 +157,5 @@ MprInfoDelete
 MprInfoDuplicate
 MprInfoRemoveAll
 MprPortSetUsage
+MprUpgradeRouterConfigHelper
 RasPrivilegeAndCallBackNumber

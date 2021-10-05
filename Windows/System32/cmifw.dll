@@ -1,4 +1,4 @@
 DllCanUnloadNow
-DllGetClassObject
+DllCsiGetHandler
 EnableGroupW
 unattendW

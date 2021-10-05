@@ -21,6 +21,7 @@ DusmSetAttributionMapping
 DusmSetBackgroundRestriction
 DusmSetOperatorCost
 DusmSetOperatorDataPlan
+DusmSetProperty
 DusmSetSource
 DusmSetUserCost
 DusmSetUserDataPlan

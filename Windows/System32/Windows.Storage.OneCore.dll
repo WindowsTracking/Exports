@@ -1,3 +1,14 @@
+BrokeredCopyFileW
+BrokeredCreateDirectoryW
+BrokeredCreateFile2
+BrokeredDeleteFileW
+BrokeredFindFirstFileExW
+BrokeredGetFileAttributesExW
+BrokeredGetFileAttributesW
+BrokeredMoveFileExW
+BrokeredRemoveDirectoryW
+BrokeredReplaceFileW
+BrokeredSetFileAttributesW
 CopyFileFromAppW
 CreateDirectoryFromAppW
 CreateFile2FromAppW

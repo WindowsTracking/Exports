@@ -18,6 +18,7 @@ MigrateWinsockConfiguration
 MigrateWinsockConfigurationEx
 NPLoadNameSpaces
 NSPStartup
+ProcessSocketNotifications
 rcmd
 rexec
 rresvport

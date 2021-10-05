@@ -1,5 +1,6 @@
 AddLocalAlternateComputerNameW
 BackupRead
+BackupSeek
 BackupWrite
 BindIoCompletionCallback
 CopyFileA
@@ -34,6 +35,7 @@ GetTapeParameters
 GetTempPathA
 GetThreadSelectorEntry
 GlobalMemoryStatus
+IsSystemResumeAutomatic
 LoadLibraryA
 LoadLibraryW
 MoveFileA
@@ -44,10 +46,12 @@ OpenFile
 PulseEvent
 RaiseFailFastException
 RegisterWaitForSingleObject
+RequestWakeupLatency
 SetConsoleTitleA
 SetFileCompletionNotificationModes
 SetHandleCount
 SetMailslotInfo
+SetSystemPowerState
 SetVolumeLabelW
 UnregisterWait
 WaitForMultipleObjects

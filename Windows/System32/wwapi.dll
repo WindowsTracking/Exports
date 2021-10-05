@@ -11,6 +11,7 @@ Wwan2RegisterNotification
 Wwan2SendDeviceServiceCommand
 Wwan2SubscribePowerStateEvents
 Wwan2WriteDeviceServiceData
+WwanAcquireOnDemandConnection
 WwanActivateNotification
 WwanAllocateMemory
 WwanAuthChallenge
@@ -44,6 +45,7 @@ WwanQueryInterfaceEx
 WwanQueryIPv6eHRPDControl
 WwanRegister
 WwanRegisterNotification
+WwanReleaseOnDemandConnection
 WwanScan
 WwanSearchProfile
 WwanSetDMConfigBinary

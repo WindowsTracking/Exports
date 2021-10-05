@@ -1,7 +1,0 @@
-DwmInitializeEngine
-DwmInitializePort
-DwmRedirectionManagerInitialize
-DwmRedirectionManagerShutdown
-DwmRenderDesktopForDDA
-DwmShutdownEngine
-DwmVersionCheck

@@ -115,6 +115,7 @@ D3DKMTAcquireSwapChain
 D3DKMTAddSurfaceToSwapChain
 D3DKMTAdjustFullscreenGamma
 D3DKMTCacheHybridQueryValue
+D3DKMTCancelPresents
 D3DKMTChangeVideoMemoryReservation
 D3DKMTCheckExclusiveOwnership
 D3DKMTCheckMonitorPowerState
@@ -123,6 +124,7 @@ D3DKMTCheckMultiPlaneOverlaySupport2
 D3DKMTCheckMultiPlaneOverlaySupport3
 D3DKMTCheckOcclusion
 D3DKMTCheckSharedResourceAccess
+D3DKMTCheckSinglePlaneForMultiPlaneOverlaySupport
 D3DKMTCheckVidPnExclusiveOwnership
 D3DKMTCloseAdapter
 D3DKMTConfigureSharedResource
@@ -194,12 +196,14 @@ D3DKMTGetProcessDeviceRemovalSupport
 D3DKMTGetProcessList
 D3DKMTGetProcessSchedulingPriorityBand
 D3DKMTGetProcessSchedulingPriorityClass
+D3DKMTGetProperties
 D3DKMTGetResourcePresentPrivateDriverData
 D3DKMTGetRuntimeData
 D3DKMTGetScanLine
 D3DKMTGetSetSwapChainMetadata
 D3DKMTGetSharedPrimaryHandle
 D3DKMTGetSharedResourceAdapterLuid
+D3DKMTGetSwapChainSurfacePhysicalAddress
 D3DKMTGetTrackedWorkloadStatistics
 D3DKMTGetYieldPercentage
 D3DKMTInvalidateActiveVidPn
@@ -288,6 +292,7 @@ D3DKMTSetMonitorColorSpaceTransform
 D3DKMTSetProcessDeviceRemovalSupport
 D3DKMTSetProcessSchedulingPriorityBand
 D3DKMTSetProcessSchedulingPriorityClass
+D3DKMTSetProperties
 D3DKMTSetQueuedLimit
 D3DKMTSetStablePowerState
 D3DKMTSetStereoEnabled
@@ -412,7 +417,6 @@ DeviceCapabilitiesExW
 DPtoLP
 DrawEscape
 DwmCreatedBitmapRemotingOutput
-DxTrimNotificationListHead
 Ellipse
 EnableEUDC
 EndDoc
@@ -507,6 +511,7 @@ fpClosePrinter
 FrameRgn
 ftsWordBreak
 g_systemCallFilterId
+gCookie
 Gdi32DllInitialize
 GdiAddFontResourceW
 GdiAddGlsBounds
@@ -894,7 +899,6 @@ SelectClipRgn
 SelectFontLocal
 SelectObject
 SelectPalette
-semDxTrimNotification
 SetAbortProc
 SetArcDirection
 SetBitmapAttributes

@@ -4,6 +4,7 @@ DllRegisterServer
 DllUnregisterServer
 InitAACAudioStream_
 InitAC3AudioStream_
+InitAC4AudioStream_
 InitBDAVLPCMAudioStream_
 InitDDPlusAudioStream_
 InitDTSAudioStream_

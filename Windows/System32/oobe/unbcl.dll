@@ -467,6 +467,8 @@
 ??0Win32Exception@UnBCL@@QEAA@$$QEAV01@@Z
 ??0Win32Exception@UnBCL@@QEAA@AEBV01@@Z
 ??0Win32Exception@UnBCL@@QEAA@K@Z
+??0Win32Exception@UnBCL@@QEAA@KHPEBG@Z
+??0Win32Exception@UnBCL@@QEAA@KHPEBVString@1@@Z
 ??0Win32Exception@UnBCL@@QEAA@KPEBG@Z
 ??0Win32Exception@UnBCL@@QEAA@KPEBGPEAVException@1@@Z
 ??0Win32Exception@UnBCL@@QEAA@KPEBVString@1@@Z
@@ -1694,11 +1696,14 @@
 ?Delete@?$CStringT@GV?$StrTraitATL@GV?$ChTraitsCRT@G@ATL@@@ATL@@@ATL@@QEAAHHH@Z
 ?Delete@Directory@UnBCL@@SAXPEBVString@2@H@Z
 ?Delete@File@UnBCL@@SAXPEBVString@2@@Z
-?DeleteInternal@Directory@UnBCL@@CAXPEBVString@2@HH@Z
-?DeleteInternal@File@UnBCL@@CAXPEBVString@2@@Z
+?DeleteEx@Directory@UnBCL@@SAHPEBVString@2@HPEAUIDeleteDelegate@12@@Z
+?DeleteInternal2@Directory@UnBCL@@CAKPEBVString@2@HKKPEAGAEAKPEAUIDeleteDelegate@12@@Z
+?DeleteInternal@Directory@UnBCL@@CAXPEBVString@2@HKK@Z
+?DeleteInternal@File@UnBCL@@CAXPEBVString@2@H@Z
 ?DeleteNE@Directory@UnBCL@@SAHPEBVString@2@H@Z
 ?DeleteRange@?$ArrayList@G@UnBCL@@AEAAXHH@Z
 ?DeleteRange@?$ArrayList@PEAVString@UnBCL@@@UnBCL@@AEAAXHH@Z
+?DeleteSegment@Directory@UnBCL@@CAXPEBVString@2@H@Z
 ?DeleteSubKey@RegistryKey@UnBCL@@QEAAXPEBVString@2@@Z
 ?DeleteSubKey@RegistryKey@UnBCL@@QEAAXPEBVString@2@H@Z
 ?DeleteSubKeyTree@RegistryKey@UnBCL@@QEAAXPEBVString@2@@Z
@@ -2139,6 +2144,7 @@
 ?GetTypeName@?$SerializableBase@VOperatingSystem@UnBCL@@$00V?$DefaultInstanceFactory@VOperatingSystem@UnBCL@@@2@@UnBCL@@UEBAPEBVString@2@XZ
 ?GetTypeName@?$SerializableBase@VVersion@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?OperatorNew@?$StaticOps@VVersion@UnBCL@@@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@UEBAPEBVString@2@XZ
 ?GetUnicode@Encoding@UnBCL@@SAPEAV12@XZ
+?GetUsers@Registry@UnBCL@@SAPEAVRegistryKey@2@XZ
 ?GetValue@?$Array@E@UnBCL@@UEBAEH@Z
 ?GetValue@?$Array@G@UnBCL@@UEBAGH@Z
 ?GetValue@?$Array@H@UnBCL@@UEBAHH@Z

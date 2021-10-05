@@ -1,9 +1,0 @@
-DllRegisterServer
-DllUnregisterServer
-HrGetPnpDeviceStatus
-HrLanConnectionNameFromGuidOrPath
-HrPnpInstanceIdFromGuid
-HrQueryLanMediaState
-NetManDiagFromCommandArgs
-ServiceMain
-SvchostPushServiceGlobals

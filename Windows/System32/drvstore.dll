@@ -4,6 +4,7 @@ DriverPackageEnumComponentsW
 DriverPackageEnumConfigurationsW
 DriverPackageEnumDevicesW
 DriverPackageEnumDriversW
+DriverPackageEnumEventAutoLoggersW
 DriverPackageEnumEventProvidersW
 DriverPackageEnumFilesW
 DriverPackageEnumFiltersW

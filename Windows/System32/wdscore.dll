@@ -3,6 +3,8 @@ ConstructPartialMsgIfW
 ConstructPartialMsgVA
 ConstructPartialMsgVW
 CurrentIP
+DecrementPartialMsgIndent
+DestructPartialMsg
 EndMajorTask
 EndMinorTask
 g_bEnableDiagnosticMode
@@ -11,6 +13,8 @@ GetMajorTask
 GetMajorTaskA
 GetMinorTask
 GetMinorTaskA
+GetPartialMsgIndent
+IncrementPartialMsgIndent
 StartMajorTask
 StartMinorTask
 WdsAbortBlackboardItemEnum

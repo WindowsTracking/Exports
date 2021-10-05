@@ -1,8 +1,0 @@
-DifLoadPlugins
-DifUpdatePluginState
-GetXdvDDIWrappers
-GetXdvDriverEntryWrappers
-SetXdvKernelUtilities
-XdvHibernationNotification
-XdvNotifyExtensions
-XdvQueryDispatchTable

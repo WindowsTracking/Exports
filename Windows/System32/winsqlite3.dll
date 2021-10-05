@@ -68,6 +68,7 @@ sqlite3_context_db_handle
 sqlite3_create_collation
 sqlite3_create_collation16
 sqlite3_create_collation_v2
+sqlite3_create_filename
 sqlite3_create_function
 sqlite3_create_function16
 sqlite3_create_function_v2
@@ -76,6 +77,7 @@ sqlite3_create_module_v2
 sqlite3_create_window_function
 sqlite3_data_count
 sqlite3_data_directory
+sqlite3_database_file_object
 sqlite3_db_cacheflush
 sqlite3_db_config
 sqlite3_db_filename
@@ -86,6 +88,7 @@ sqlite3_db_release_memory
 sqlite3_db_status
 sqlite3_declare_vtab
 sqlite3_deserialize
+sqlite3_drop_modules
 sqlite3_enable_load_extension
 sqlite3_enable_shared_cache
 sqlite3_errcode
@@ -98,14 +101,19 @@ sqlite3_expired
 sqlite3_extended_errcode
 sqlite3_extended_result_codes
 sqlite3_file_control
+sqlite3_filename_database
+sqlite3_filename_journal
+sqlite3_filename_wal
 sqlite3_finalize
 sqlite3_free
+sqlite3_free_filename
 sqlite3_free_table
 sqlite3_fts3_may_be_corrupt
 sqlite3_get_autocommit
 sqlite3_get_auxdata
 sqlite3_get_table
 sqlite3_global_recover
+sqlite3_hard_heap_limit64
 sqlite3_initialize
 sqlite3_interrupt
 sqlite3_keyword_check
@@ -217,9 +225,12 @@ sqlite3_total_changes
 sqlite3_trace
 sqlite3_trace_v2
 sqlite3_transfer_bindings
+sqlite3_txn_state
+sqlite3_unsupported_selecttrace
 sqlite3_update_hook
 sqlite3_uri_boolean
 sqlite3_uri_int64
+sqlite3_uri_key
 sqlite3_uri_parameter
 sqlite3_user_data
 sqlite3_value_blob

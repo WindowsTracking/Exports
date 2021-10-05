@@ -1,5 +1,6 @@
 AmsiCloseSession
 AmsiInitialize
+AmsiNotifyOperation
 AmsiOpenSession
 AmsiScanBuffer
 AmsiScanString

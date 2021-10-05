@@ -44,6 +44,7 @@ CM_Enumerate_Enumerators_ExA
 CM_Enumerate_Enumerators_ExW
 CM_Enumerate_EnumeratorsA
 CM_Enumerate_EnumeratorsW
+CM_Export_Pnp_StateW
 CM_Find_Range
 CM_First_Range
 CM_Free_Log_Conf

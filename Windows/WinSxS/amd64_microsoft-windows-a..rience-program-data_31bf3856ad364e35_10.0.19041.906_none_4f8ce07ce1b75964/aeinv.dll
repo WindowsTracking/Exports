@@ -1,9 +1,0 @@
-CreateAppxPackageInventory
-CreateAppxPackageInventoryExtracted
-CreateSoftwareInventory
-GetAppInfo
-GetAppInventory
-GetCachedAppInventory
-GetDetailedAppInventory
-GetDetailedAppInventoryFile
-UpdateSoftwareInventoryW

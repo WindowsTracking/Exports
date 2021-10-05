@@ -1,10 +1,13 @@
 DsrBeginDelegatedWorkplaceJoin
 DsrBeginDeviceAndResourceAccountJoin
+DsrBeginDeviceAndResourceAccountJoinEx
 DsrBeginDeviceJoin
+DsrBeginDeviceJoinEx
 DsrBeginDeviceUnjoin
 DsrBeginDeviceUpdate
 DsrBeginDiscover
 DsrBeginPreprovisionedDeviceJoin
+DsrBeginPreprovisionedDeviceJoinEx
 DsrBeginRecovery
 DsrBeginWorkplaceJoin
 DsrBeginWorkplaceUnjoin
@@ -15,6 +18,7 @@ DsrCLI
 DsrEndRecovery
 DsrFreeCxhScenarioInfo
 DsrFreeDiscoveryMetadata
+DsrFreeDomainRegistrationData
 DsrFreeJoinInfo
 DsrFreeJoinInfoEx
 DsrGetCurrentUserNgcProvisionStatus

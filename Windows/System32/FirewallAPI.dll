@@ -6,6 +6,8 @@ FwActivate
 FWAddAuthenticationSet
 FWAddConnectionSecurityRule
 FWAddCryptoSet
+FWAddDynamicKeywordAddress0
+FWAddDynamicKeywordAddress_Int
 FWAddFirewallRule
 FWAddMainModeRule
 FWAddSecurityRealm
@@ -17,6 +19,7 @@ FwAnalyzeFirewallPolicy
 FwAnalyzeFirewallPolicyOnProfile
 FwApiHelperFree
 FwApiHelperInit
+FwBstrToIcmp
 FwBstrToInterfaceTypes
 FwBstrToPorts
 FWChangeNotificationCreate
@@ -39,6 +42,8 @@ FWDeleteAllMainModeRules
 FWDeleteAuthenticationSet
 FWDeleteConnectionSecurityRule
 FWDeleteCryptoSet
+FWDeleteDynamicKeywordAddress0
+FWDeleteDynamicKeywordAddress_Int
 FWDeleteFirewallRule
 FWDeleteMainModeRule
 FWDeletePhase1SAs
@@ -50,6 +55,9 @@ FWEnumAdapters
 FWEnumAuthenticationSets
 FWEnumConnectionSecurityRules
 FWEnumCryptoSets
+FWEnumDynamicKeywordAddressById0
+FWEnumDynamicKeywordAddresses_Int
+FWEnumDynamicKeywordAddressesByType0
 FWEnumFirewallRules
 FWEnumMainModeRules
 FWEnumNetworks
@@ -70,6 +78,7 @@ FWFreeCryptoSet
 FWFreeCryptoSets
 FWFreeCryptoSetsByHandle
 FWFreeDiagAppList
+FWFreeDynamicKeywordAddressData0
 FWFreeFirewallRule
 FWFreeFirewallRules
 FWFreeFirewallRulesByHandle
@@ -93,6 +102,7 @@ FWGetIndicatedPortInUse
 FwGetVersionField
 FwIcmpSettingsEnum
 FwIcmpSettingsSet
+FwIcmpToBstr
 FWImportPolicy
 FWIndicatePortInUse
 FWIndicateProxyForUrl
@@ -144,6 +154,8 @@ FWStatusMessageFromStatusCode
 FwStringToAddresses
 FwStringToPorts
 FWUnregisterProduct
+FWUpdateDynamicKeywordAddress0
+FWUpdateDynamicKeywordAddress_Int
 FWVerifyAuthenticationSet
 FWVerifyAuthenticationSetQuery
 FWVerifyConnectionSecurityRule

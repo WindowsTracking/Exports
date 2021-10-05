@@ -1,3 +1,4 @@
 IsWow64Process
 Wow64DisableWow64FsRedirection
+Wow64EnableWow64FsRedirection
 Wow64RevertWow64FsRedirection

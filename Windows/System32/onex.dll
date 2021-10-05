@@ -3,6 +3,7 @@ OneXAddTLV
 OneXCompareAuthParams
 OneXCopyAuthParams
 OneXCreateDefaultProfile
+OneXCreateDefaultProfileWithEapMethodId
 OneXCreateDiscoveryProfiles
 OneXCreateSupplicantPort
 OneXDeInitialize

@@ -29,6 +29,7 @@ MFCreatePMPHost
 MFCreatePMPMediaSession
 MFCreatePMPServer
 MFCreatePresentationClock
+MFCreatePresentationClockAsyncTimeSource
 MFCreateSampleCopierMFT
 MFCreateSampleGrabberSinkActivate
 MFCreateSequencerSegmentOffset

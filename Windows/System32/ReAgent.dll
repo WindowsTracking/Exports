@@ -35,6 +35,7 @@ WinReQueueRecoveryBoot
 WinReReinstall
 WinReRemoveTrustedBootApp
 WinReRepair
+WinReRepairEx
 WinReRestoreConfigAfterPBR
 WinReRestoreLogFiles
 WinReSetBootApp

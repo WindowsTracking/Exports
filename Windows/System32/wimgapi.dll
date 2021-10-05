@@ -17,6 +17,7 @@ WIMEnumImageFiles
 WIMExportImage
 WIMExtractImageDirectory
 WIMExtractImagePath
+WIMExtractImagePathByWimHandle
 WIMFindFirstImageFile
 WIMFindNextImageFile
 WIMGetAttributes
@@ -29,11 +30,13 @@ WIMGetMountedImageInfoFromHandle
 WIMGetMountedImages
 WIMGetWIMBootEntries
 WIMGetWIMBootWIMPath
+WIMGetWimFileSize
 WIMInitFileIOCallbacks
 WIMInitializeWofDriver
 WIMIsCurrentSystemWimboot
 WIMIsReferenceWim
 WIMLoadImage
+WIMLoadOSInformation
 WIMMountImage
 WIMMountImageHandle
 WIMProcessCustomImage
@@ -44,6 +47,7 @@ WIMRegisterLogFile
 WIMRegisterMessageCallback
 WIMRemountImage
 WIMSetBootImage
+WIMSetCachedSigningLevel
 WIMSetFileIOCallbackTemporaryPath
 WIMSetImageInformation
 WIMSetImageUserSpecifiedCreationTime

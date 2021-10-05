@@ -8,6 +8,7 @@ HttpCloseUrlGroup
 HttpControlService
 HttpCreateHttpHandle
 HttpCreateRequestQueue
+HttpCreateRequestQueueEx
 HttpCreateServerSession
 HttpCreateUrlGroup
 HttpDeclarePush
@@ -20,6 +21,7 @@ HttpFlushResponseCache
 HttpGetCounters
 HttpGetExtension
 HttpInitialize
+HttpIsFeatureSupported
 HttpPrepareUrl
 HttpQueryRequestProperty
 HttpQueryRequestQueueProperty
@@ -34,6 +36,7 @@ HttpRemoveUrl
 HttpRemoveUrlFromUrlGroup
 HttpSendHttpResponse
 HttpSendResponseEntityBody
+HttpSetRequestProperty
 HttpSetRequestQueueProperty
 HttpSetServerSessionProperty
 HttpSetServiceConfiguration

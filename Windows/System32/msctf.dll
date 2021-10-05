@@ -31,6 +31,7 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+GetLogonUserSid
 HasDeferredInputForCoreDispatcher
 InputFocusMonitorCreate
 SetInputScope
@@ -43,7 +44,6 @@ TF_CleanUpPrivateMessages
 TF_CreateCategoryMgr
 TF_CreateCicLoadMutex
 TF_CreateCicLoadWinStaMutex
-TF_CreateCTFWatchdogMutex
 TF_CreateDisplayAttributeMgr
 TF_CreateInputProcessorProfiles
 TF_CreateLangBarItemMgr

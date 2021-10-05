@@ -12,6 +12,7 @@ FreeCorruptionInfo
 GetCorruptionInfoClose
 GetDefaultFileSystem
 GetFirstCorruptionInfo
+GetFsFormatOptions
 GetNextCorruptionInfo
 QueryAvailableFileSystemFormat
 QueryCorruptionState

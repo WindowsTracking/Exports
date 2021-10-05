@@ -1,5 +1,0 @@
-CreateRdpUdpStreamWrapper
-CreateRdpWebSocketStreamWrapper
-DllMain
-FreeRdpUdpStreamWrapper
-FreeRdpWebSocketStreamWrapper

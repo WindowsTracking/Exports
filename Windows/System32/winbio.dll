@@ -41,6 +41,8 @@ WinBioGetProtectionPolicy
 WinBioIdentify
 WinBioIdentifyAndReleaseTicket
 WinBioIdentifyWithCallback
+WinBioImproveBegin
+WinBioImproveEnd
 WinBioLocateSensor
 WinBioLocateSensorWithCallback
 WinBioLockUnit

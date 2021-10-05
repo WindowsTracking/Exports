@@ -1,0 +1,16 @@
+?CanRenderAsSVG@SVG@Mso@@YA_NAEAV?$set@W4SVGUnsupportedProps@SVG@Mso@@U?$less@W4SVGUnsupportedProps@SVG@Mso@@@std@@V?$allocator@W4SVGUnsupportedProps@SVG@Mso@@@5@@std@@AEAUISceneIterator@Gfx@@_N@Z
+?CanRenderAsSVG@SVG@Mso@@YA_NAEAV?$set@W4SVGUnsupportedProps@SVG@Mso@@U?$less@W4SVGUnsupportedProps@SVG@Mso@@@std@@V?$allocator@W4SVGUnsupportedProps@SVG@Mso@@@5@@std@@AEBUISceneGraph@Gfx@@_N@Z
+?CanRenderAsSVG@SVG@Mso@@YA_NAEAV?$set@W4SVGUnsupportedProps@SVG@Mso@@U?$less@W4SVGUnsupportedProps@SVG@Mso@@@std@@V?$allocator@W4SVGUnsupportedProps@SVG@Mso@@@5@@std@@AEBUIShape@Gfx@@_N2@Z
+?CanRenderAsSVG@SVG@Mso@@YA_NAEAV?$set@W4SVGUnsupportedProps@SVG@Mso@@U?$less@W4SVGUnsupportedProps@SVG@Mso@@@std@@V?$allocator@W4SVGUnsupportedProps@SVG@Mso@@@5@@std@@AEBUITopLevelEffect@GEL@@_N@Z
+?CanRenderAsSVG@SVG@Mso@@YA_NAEBUSVGCreationParams@12@AEAV?$set@W4SVGUnsupportedProps@SVG@Mso@@U?$less@W4SVGUnsupportedProps@SVG@Mso@@@std@@V?$allocator@W4SVGUnsupportedProps@SVG@Mso@@@5@@std@@AEAUISceneIterator@Gfx@@_N@Z
+?CanRenderAsSVG@SVG@Mso@@YA_NAEBUSVGCreationParams@12@AEAV?$set@W4SVGUnsupportedProps@SVG@Mso@@U?$less@W4SVGUnsupportedProps@SVG@Mso@@@std@@V?$allocator@W4SVGUnsupportedProps@SVG@Mso@@@5@@std@@AEBUISceneGraph@Gfx@@_N@Z
+?CanRenderAsSVG@SVG@Mso@@YA_NAEBUSVGCreationParams@12@AEAV?$set@W4SVGUnsupportedProps@SVG@Mso@@U?$less@W4SVGUnsupportedProps@SVG@Mso@@@std@@V?$allocator@W4SVGUnsupportedProps@SVG@Mso@@@5@@std@@AEBUIShape@Gfx@@_N3@Z
+?CanRenderAsSVG@SVG@Mso@@YA_NAEBUSVGCreationParams@12@AEAV?$set@W4SVGUnsupportedProps@SVG@Mso@@U?$less@W4SVGUnsupportedProps@SVG@Mso@@@std@@V?$allocator@W4SVGUnsupportedProps@SVG@Mso@@@5@@std@@AEBUITopLevelEffect@GEL@@_N@Z
+?Create@ISVGImageFactory@GEL@@SA?AV?$TCntPtr@UISVGImageFactory@GEL@@@Mso@@AEAUIStream@@@Z
+?Create@ISVGImageFactory@GEL@@SA?AV?$TCntPtr@UISVGImageFactory@GEL@@@Mso@@AEAUIStream@@_N@Z
+?CreateSVGImage@ISVGImageFactory@GEL@@SA?AV?$TCntPtr@UISVGImage@GEL@@@Mso@@AEAUIStream@@@Z
+?CreateSVGImage@ISVGImageFactory@GEL@@SA?AV?$TCntPtr@UISVGImage@GEL@@@Mso@@AEAUIStream@@_N@Z
+?CreateSVGImage@ISVGImageFactory@GEL@@SA?AV?$TCntPtr@UISVGImage@GEL@@@Mso@@AEBUICommandList@ARC@@PEBURect@2@@Z
+?CreateSVGImage@ISVGImageFactory@GEL@@SA?AV?$TCntPtr@UISVGImage@GEL@@@Mso@@AEBUICommandList@ARC@@PEBURect@2@AEBU?$TVector2@V?$TUnits@MU?$TUnitsRatioTag@UDevicePixels@Math@@UInches@2@@Math@@@Math@@@Math@@@Z
+?CreateSVGImage@ISVGImageFactory@GEL@@SA?AV?$TCntPtr@UISVGImage@GEL@@@Mso@@AEBUICommandList@ARC@@PEBURect@2@AEBUSVGCreationParams@SVG@4@@Z
+?GetSVGUnsupportedPropName@SVG@Mso@@YAPEB_WW4SVGUnsupportedProps@12@@Z

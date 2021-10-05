@@ -1,5 +1,0 @@
-#3
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer

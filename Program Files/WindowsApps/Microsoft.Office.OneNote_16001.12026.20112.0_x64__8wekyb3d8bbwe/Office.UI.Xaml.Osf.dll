@@ -1,8 +1,0 @@
-?CreateOsfInfobarViewControl@Osf@Xaml@UI@Office@@YA?AV?$TCntPtr@VOsfInfobarViewFMApp@FM@Model@OsfUiXAML@@@Mso@@V?$ComPtr@UIPanel@Controls@Xaml@UI@Windows@ABI@@@WRL@Microsoft@@PEAX@Z
-?CreateOsfLoadingStateViewControl@Osf@Xaml@UI@Office@@YA?AV?$TCntPtr@VOsfLoadingStateViewFMApp@FM@Model@OsfUiXAML@@@Mso@@V?$ComPtr@UIPanel@Controls@Xaml@UI@Windows@ABI@@@WRL@Microsoft@@PEAX@Z
-?CreateOsfTaskPane@Osf@Xaml@UI@Office@@YAXPEAX@Z
-?CreateOsfWebDialog@Osf@Xaml@UI@Office@@YA?AV?$TCntPtr@VOsfWebDialogFMUI@FM@Model@OsfUiXAML@@@Mso@@PEB_W0IIHV?$function@$$A6AJXZ@std@@PEA_K@Z
-?CreateXamlMetadataProvider@Osf@Xaml@UI@Office@@YA?AV?$ComPtr@UIXamlMetadataProvider@Markup@Xaml@UI@Windows@ABI@@@WRL@Microsoft@@XZ
-?ShowOsfTaskPane@Osf@Xaml@UI@Office@@YAXPEAUISilhouette@Core@234ABI@@AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z
-DllCanUnloadNow
-DllGetActivationFactory

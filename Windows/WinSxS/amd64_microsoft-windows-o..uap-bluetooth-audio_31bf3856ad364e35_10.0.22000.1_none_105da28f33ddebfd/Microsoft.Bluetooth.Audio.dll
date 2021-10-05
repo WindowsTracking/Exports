@@ -1,0 +1,4 @@
+#100
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

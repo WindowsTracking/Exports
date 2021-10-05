@@ -11,6 +11,7 @@ DestroyRecognizer
 DestroyTrainer
 DestroyWordList
 GetBestResultString
+GetContextPropertyValue
 GetEnabledUnicodeRanges
 GetGuide
 GetLatticePtr
