@@ -9,6 +9,7 @@ FWAddCryptoSet
 FWAddDynamicKeywordAddress0
 FWAddDynamicKeywordAddress_Int
 FWAddFirewallRule
+FWAddHyperVRule0
 FWAddMainModeRule
 FWAddSecurityRealm
 FwAlloc
@@ -34,6 +35,7 @@ FWCopyCryptoSet
 FWCopyFirewallRule
 FwCopyMainModeRule
 FwCopyWFAddressesContents
+FWCreateHyperVPort0
 FWDeleteAllAuthenticationSets
 FWDeleteAllConnectionSecurityRules
 FWDeleteAllCryptoSets
@@ -45,6 +47,8 @@ FWDeleteCryptoSet
 FWDeleteDynamicKeywordAddress0
 FWDeleteDynamicKeywordAddress_Int
 FWDeleteFirewallRule
+FWDeleteHyperVPort0
+FWDeleteHyperVRule0
 FWDeleteMainModeRule
 FWDeletePhase1SAs
 FWDeletePhase2SAs
@@ -59,6 +63,9 @@ FWEnumDynamicKeywordAddressById0
 FWEnumDynamicKeywordAddresses_Int
 FWEnumDynamicKeywordAddressesByType0
 FWEnumFirewallRules
+FWEnumHyperVPorts0
+FWEnumHyperVRules0
+FWEnumHyperVVMCreators0
 FWEnumMainModeRules
 FWEnumNetworks
 FWEnumPhase1SAs
@@ -83,6 +90,9 @@ FWFreeFirewallRule
 FWFreeFirewallRules
 FWFreeFirewallRulesByHandle
 FWFreeFirewallRulesOld
+FWFreeHyperVPorts0
+FWFreeHyperVRules0
+FWFreeHyperVVMCreators0
 FWFreeMainModeRule
 FWFreeMainModeRules
 FWFreeMainModeRulesByHandle
@@ -98,6 +108,7 @@ FwGetCurrentProfile
 FWGetGlobalConfig
 FWGetGlobalConfig2
 FWGetGlobalConfig3
+FWGetHyperVVMConfig0
 FWGetIndicatedPortInUse
 FwGetVersionField
 FwIcmpSettingsEnum
@@ -132,6 +143,7 @@ FWQueryCryptoSets
 FWQueryFirewallRules
 FWQueryIsolationType
 FWQueryMainModeRules
+FWRegisterHyperVVMCreator0
 FWRegisterProduct
 FWResetIndicatedPortInUse
 FWResetIndicatedTupleInUse
@@ -139,6 +151,7 @@ FWRestoreDefaults
 FwRestoreDefaults
 FWRestoreGPODefaults
 FWRevertTransaction
+FWRuleDuplicateStatusByRuleID
 FWSelectConSecRule
 FwServicesEnum
 FwServicesSet
@@ -149,10 +162,14 @@ FWSetCryptoSet
 FWSetFirewallRule
 FWSetGlobalConfig
 FWSetGlobalConfig2
+FWSetHyperVPort0
+FWSetHyperVRule0
+FWSetHyperVVMConfig0
 FWSetMainModeRule
 FWStatusMessageFromStatusCode
 FwStringToAddresses
 FwStringToPorts
+FWUnregisterHyperVVMCreator0
 FWUnregisterProduct
 FWUpdateDynamicKeywordAddress0
 FWUpdateDynamicKeywordAddress_Int

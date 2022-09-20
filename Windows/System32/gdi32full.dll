@@ -94,6 +94,7 @@ DeleteColorSpace
 DeleteDC
 DeleteEMFSpoolData
 DeleteEnhMetaFile
+DeleteFont
 DeleteMetaFile
 DescribePixelFormat
 DeviceCapabilitiesExA
@@ -185,6 +186,7 @@ GdiCurrentProcessSplWow64
 GdiDeleteLocalDC
 GdiDeleteSpoolFileHandle
 GdiDescribePixelFormat
+GdiDisableUMPDSandboxing
 GdiDllInitialize
 GdiDllInitializeWrapper
 GdiDrawStream
@@ -249,10 +251,14 @@ GdiStartDocEMF
 GdiStartPageEMF
 GdiSupportsFontChangeEvent
 GdiSwapBuffers
+GditGetCallerTLStorage
+GditPopCallerInfo
+GditPushCallerInfo
 GdiTrackHCreate
 GdiTrackHDelete
 GdiTransparentBlt
 GdiValidateHandle
+GdiWaitForTextReady
 GetArcDirection
 GetAspectRatioFilterEx
 GetBitmapAttributes
@@ -407,8 +413,7 @@ LpkTabbedTextOut
 LpkUseGDIWidthCache
 LPtoDP
 MaskBlt
-MF16_DeleteObject
-MF_DeleteObject
+MF_DeleteObjectHelper
 MirrorRgn
 ModerncoreCreateICW
 ModerncoreDeleteDC
@@ -840,7 +845,6 @@ PlayEnhMetaFileRecord
 PlayMetaFile
 PlayMetaFileRecord
 PlgBlt
-plinkGet
 PolyBezier
 PolyBezierTo
 PolyBezierToImpl
@@ -1006,7 +1010,6 @@ UpdateICMRegKeyW
 UspAllocCache
 UspAllocTemp
 UspFreeMem
-vDeleteLOCALFONT
 vFreeUFIHashTable
 WidenPath
 XLATEOBJ_piVector

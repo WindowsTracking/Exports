@@ -14,6 +14,7 @@ NgcCreateTicketForSmartCardVpn
 NgcCreateUserIdKey
 NgcCreateUserIdKeyEx
 NgcCreateUserIdKeyHandle
+NgcDecryptWithSymmetricGcmPopKey
 NgcDecryptWithSymmetricPopKey
 NgcDecryptWithUserIdKey
 NgcDecryptWithUserIdKeySilent
@@ -22,6 +23,7 @@ NgcDeleteContainerEx
 NgcDeleteSymmetricPopKeyTransportKey
 NgcDeleteUserIdKey
 NgcEncryptWithAsymmetricKey
+NgcEncryptWithSymmetricGcmPopKey
 NgcEncryptWithSymmetricPopKey
 NgcEnumContainers
 NgcEnumUserIdKeys

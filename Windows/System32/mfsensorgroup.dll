@@ -1,6 +1,7 @@
 MFCheckProcessCapabilities
 MFCleanupVirtualCameraEntries
 MFCloneSensorProfile
+MFCreateCameraControlMonitor
 MFCreateCameraOcclusionStateMonitor
 MFCreateConfigurationEntry
 MFCreatePackageFamilyNameTag
@@ -12,6 +13,7 @@ MFCreateSensorGroup
 MFCreateSensorGroupById
 MFCreateSensorGroupCollection
 MFCreateSensorGroupIdManager
+MFCreateSensorGroupWithOptions
 MFCreateSensorProfile
 MFCreateSensorProfileCollection
 MFCreateSensorProfileWithFlags

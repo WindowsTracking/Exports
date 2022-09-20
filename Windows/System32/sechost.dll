@@ -191,8 +191,15 @@ OpenSCManagerA
 OpenSCManagerW
 OpenServiceA
 OpenServiceW
+OpenTraceFromBufferStream
+OpenTraceFromFile
+OpenTraceFromRealTimeLogger
+OpenTraceFromRealTimeLoggerWithAllocationOptions
 OpenTraceW
 ProcessTrace
+ProcessTraceAddBufferToBufferStream
+ProcessTraceBufferDecrementReference
+ProcessTraceBufferIncrementReference
 QueryAllTracesA
 QueryAllTracesW
 QueryLocalUserServiceName
@@ -215,6 +222,7 @@ RegisterServiceCtrlHandlerW
 RegisterTraceGuidsA
 ReleaseIdentityProviderEnumContext
 RemoveTraceCallback
+ReparseServiceConfig
 RpcClientCapabilityCheck
 SetLocalRpcServerInterfaceSecurity
 SetLocalRpcServerProtseqSecurity

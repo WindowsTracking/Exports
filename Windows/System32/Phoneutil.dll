@@ -27,7 +27,6 @@ CreatePerUserSecurityTokenForRpcClient
 CreateUdmDataSessionForSignedInUserContext
 DeinitDialingPrefixTable
 DetectMultiPrefix
-DetermineCallControlOwnershipByUserAndApp
 DuplicateSidIfValid
 FindAreaCode
 FormatPhoneNumberWithLeftToRightMarker

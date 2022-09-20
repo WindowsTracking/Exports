@@ -1,4 +1,5 @@
 CdplGetFileProtectionLevel
+CdplGetFileProtectionLevelAndUser
 CdplIsAppAllowedToRun
 CdplIsAppDataProtectionSupported
 CdplIsSupported
@@ -6,6 +7,8 @@ CdplProtectFileToLevel
 CdplProtectFileToLevelWithResult
 CdplProtectKnownUserFolders
 CdplProtectSecretToLevel
+CdplSetIsPolicyEnabledForCurrentUser
+CdplSetIsPolicyEnabledForUser
 CdplUnprotectSecret
 DllCanUnloadNow
 DllGetActivationFactory

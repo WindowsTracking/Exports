@@ -5,3 +5,5 @@ DllUnregisterServer
 GetProxyDllInfo
 LANIdFreeCollection
 LANIdRetrieveCollection
+NlmDiagSendWlanConnectionAttemptDiagnostics
+NlmDiagSendWlanDisconnectionDiagnostics

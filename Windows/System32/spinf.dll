@@ -2,13 +2,13 @@ SpInfDetermineInfStyle
 SpInfDoesInfContainString
 SpInfEnumInfSections
 SpInfFileFullPathFromLineContext
+SpInfFilenameFromHandle
 SpInfFindFirstLine
 SpInfFindNextMatchLine
 SpInfFindValueInSectionList
 SpInfFreeInfFile
 SpInfGetBestInstallSection
 SpInfGetBestModelsSection
-SpInfGetDirIdHandler
 SpInfGetDriverVer
 SpInfGetField
 SpInfGetIndirectString
@@ -43,7 +43,6 @@ SpInfQueryInfFileInformation
 SpInfQueryInfVersionInformation
 SpInfSectionNameFromLineContext
 SpInfSetDirectoryId
-SpInfSetDirIdHandler
 SpInfSourcePathFromHandle
 SpInfUnlockInf
 SpInfVersionNodeFromInfInformation

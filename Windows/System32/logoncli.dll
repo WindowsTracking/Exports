@@ -63,6 +63,7 @@ I_NetQuerySecureChannelDCInfo
 I_NetServerAuthenticate
 I_NetServerAuthenticate2
 I_NetServerAuthenticate3
+I_NetServerAuthenticateKerberos
 I_NetServerGetTrustInfo
 I_NetServerPasswordGet
 I_NetServerPasswordSet

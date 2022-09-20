@@ -1,7 +1,0 @@
-PsmBiExtInitialize
-PsmBiExtNotifyAppState
-PsmBiExtNotifySessionStateChange
-PsmBiExtNotifySessionUserStateChange
-PsmBiExtNotifyWerReportProgress
-PsmBiExtPrepareToSuspendPackage
-PsmBiExtResumePackage

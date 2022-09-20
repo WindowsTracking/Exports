@@ -1,7 +1,10 @@
 #2000
 #2001
+#2002
+#2003
 ApplyProviderSettings
 DllCanUnloadNow
+DllGetActivationFactory
 DllGetClassObject
 FECommon_BindToFilePlaceholderHandler
 FECommon_CreatePlaceholderFile

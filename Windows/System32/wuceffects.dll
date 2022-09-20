@@ -1,6 +1,9 @@
 CompileEffectDescription
+CreateAcrylicBrush
+CreateCrossfadeEffectFactory
+CreateCustomBrush
 CreateEffectDescription
-CreateInternalWallpaperBrush
+CreateMicaBrush
 CrossFadeToNewBrush
 DeserializeEffectDescription
 SerializeEffectDescription

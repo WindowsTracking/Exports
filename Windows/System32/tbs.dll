@@ -10,6 +10,7 @@ Tbsi_Get_TCG_Log
 Tbsi_Get_TCG_Log_Ex
 Tbsi_Get_TCG_Logs
 Tbsi_GetDeviceInfo
+Tbsi_Is_Tpm_Present
 Tbsi_Physical_Presence_Command
 Tbsi_Revoke_Attestation
 Tbsi_ShaHash

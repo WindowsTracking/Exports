@@ -69,6 +69,7 @@ WerpGetUploadTime
 WerpGetWerStringData
 WerpGetWow64Process
 WerpHashApplicationParameters
+WerpHasOobeCompleted
 WerpInitializeImageCache
 WerpIsDisabled
 WerpIsOnBattery

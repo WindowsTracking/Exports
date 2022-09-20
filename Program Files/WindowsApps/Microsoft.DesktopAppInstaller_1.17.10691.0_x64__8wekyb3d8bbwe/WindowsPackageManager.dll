@@ -1,0 +1,5 @@
+WindowsPackageManagerCLIMain
+WindowsPackageManagerServerInitialize
+WindowsPackageManagerServerModuleCreate
+WindowsPackageManagerServerModuleRegister
+WindowsPackageManagerServerModuleUnregister

@@ -23,6 +23,9 @@ ExAcquirePushLockExclusiveEx
 ExAcquirePushLockSharedEx
 ExAcquireResourceExclusiveLite
 ExAcquireResourceSharedLite
+ExAllocateFromLookasideListEx
+ExAllocateFromNPagedLookasideList
+ExAllocateFromPagedLookasideList
 ExAllocatePool2
 ExAllocatePoolWithTag
 ExAllocateTimer
@@ -31,6 +34,9 @@ ExDeletePagedLookasideList
 ExDeleteResourceLite
 ExEventObjectType
 ExFreePoolWithTag
+ExFreeToLookasideListEx
+ExFreeToNPagedLookasideList
+ExFreeToPagedLookasideList
 ExInitializePagedLookasideList
 ExInitializeResourceLite
 ExIsResourceAcquiredSharedLite
@@ -198,10 +204,13 @@ SkFreePool
 SkGetIdkSignatureForData
 SkInitializePushLock
 SkIsSecureKernel
+SkmmCancelPreRegisterHvImage
+SkmmCommitPreRegisterHvImage
 SkmmFreeReservedMapping
 SkmmFreeSecureAllocation
 SkmmMapMdl
 SkmmMapMdlWithReservedMapping
+SkmmPreRegisterHvImage
 SkmmReleasePageRestriction
 SkmmReserveMappingAddress
 SkmmRestrictPage

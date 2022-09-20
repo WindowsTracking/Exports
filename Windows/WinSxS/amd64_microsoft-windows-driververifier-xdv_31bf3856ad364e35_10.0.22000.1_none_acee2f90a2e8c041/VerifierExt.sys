@@ -1,8 +1,0 @@
-AutoFailInject
-GetXdvDDIWrappers
-GetXdvDriverEntryWrappers
-SetXdvKernelUtilities
-XdvHibernationNotification
-XdvLoadDifPlugins
-XdvNotifyExtensions
-XdvQueryDispatchTable

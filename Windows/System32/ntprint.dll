@@ -2,6 +2,7 @@
 #104
 #106
 #107
+#108
 ClassInstall32
 PSetupAssociateICMProfiles
 PSetupBuildDriverList
@@ -24,6 +25,7 @@ PSetupDriverStoreFindDriverPackageW
 PSetupElevateAndCallDriverStoreAddDriverPackage
 PSetupElevatedDriverStoreAddDriverPackageW
 PSetupElevatedInstallDownloadedLegacyDriverW
+PSetupElevatedInstallDriverPackageFromConnectionW
 PSetupElevatedInstallPrinterDriverFromTheWebW
 PSetupElevatedLegacyPrintDriverInstallW
 PSetupEnumMonitor
@@ -37,6 +39,7 @@ PSetupGetInfDriverStoreLocation
 PSetupGetLocalDataField
 PSetupGetPathToSearch
 PSetupGetSelectedDriverInfo
+PSetupInstallDriverPackageFromConnection
 PSetupInstallICMProfiles
 PSetupInstallInboxDriverSilently
 PSetupInstallMonitor

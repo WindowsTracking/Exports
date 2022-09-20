@@ -128,6 +128,7 @@ D3DKMTCheckSinglePlaneForMultiPlaneOverlaySupport
 D3DKMTCheckVidPnExclusiveOwnership
 D3DKMTCloseAdapter
 D3DKMTConfigureSharedResource
+D3DKMTConnectDoorbell
 D3DKMTCreateAllocation
 D3DKMTCreateAllocation2
 D3DKMTCreateBundleObject
@@ -135,10 +136,12 @@ D3DKMTCreateContext
 D3DKMTCreateContextVirtual
 D3DKMTCreateDCFromMemory
 D3DKMTCreateDevice
+D3DKMTCreateDoorbell
 D3DKMTCreateHwContext
 D3DKMTCreateHwQueue
 D3DKMTCreateKeyedMutex
 D3DKMTCreateKeyedMutex2
+D3DKMTCreateNativeFence
 D3DKMTCreateOutputDupl
 D3DKMTCreateOverlay
 D3DKMTCreatePagingQueue
@@ -153,6 +156,7 @@ D3DKMTDestroyAllocation2
 D3DKMTDestroyContext
 D3DKMTDestroyDCFromMemory
 D3DKMTDestroyDevice
+D3DKMTDestroyDoorbell
 D3DKMTDestroyHwContext
 D3DKMTDestroyHwQueue
 D3DKMTDestroyKeyedMutex
@@ -171,6 +175,7 @@ D3DKMTDuplicateHandle
 D3DKMTEnumAdapters
 D3DKMTEnumAdapters2
 D3DKMTEnumAdapters3
+D3DKMTEnumProcesses
 D3DKMTEscape
 D3DKMTEvict
 D3DKMTExtractBundleObject
@@ -220,6 +225,7 @@ D3DKMTNetDispStartMiracastDisplayDevice
 D3DKMTNetDispStartMiracastDisplayDevice2
 D3DKMTNetDispStartMiracastDisplayDeviceEx
 D3DKMTNetDispStopMiracastDisplayDevice
+D3DKMTNotifyWorkSubmission
 D3DKMTOfferAllocations
 D3DKMTOpenAdapterFromDeviceName
 D3DKMTOpenAdapterFromGdiDisplayName
@@ -229,6 +235,7 @@ D3DKMTOpenBundleObjectNtHandleFromName
 D3DKMTOpenKeyedMutex
 D3DKMTOpenKeyedMutex2
 D3DKMTOpenKeyedMutexFromNtHandle
+D3DKMTOpenNativeFenceFromNtHandle
 D3DKMTOpenNtHandleFromName
 D3DKMTOpenProtectedSessionFromNtHandle
 D3DKMTOpenResource
@@ -540,6 +547,7 @@ GdiCurrentProcessSplWow64
 GdiDeleteLocalDC
 GdiDeleteSpoolFileHandle
 GdiDescribePixelFormat
+GdiDisableUMPDSandboxing
 GdiDllInitialize
 GdiDrawStream
 GdiEndDocEMF
@@ -612,10 +620,14 @@ GdiStartDocEMF
 GdiStartPageEMF
 GdiSupportsFontChangeEvent
 GdiSwapBuffers
+GditGetCallerTLStorage
+GditPopCallerInfo
+GditPushCallerInfo
 GdiTrackHCreate
 GdiTrackHDelete
 GdiTransparentBlt
 GdiValidateHandle
+GdiWaitForTextReady
 GetArcDirection
 GetAspectRatioFilterEx
 GetBitmapAttributes

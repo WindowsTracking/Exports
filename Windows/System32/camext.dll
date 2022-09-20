@@ -1,0 +1,10 @@
+CamCleanupDisardedCandidateAccounts
+CamConnectCandidateUser
+CamFreeAuthBuffer
+CamFreeBuffer
+CamGetCandidateAccountCredz
+CamGetCandidateUserSessionIds
+CamGetNonCandidateUserSessionIds
+CamIsCandidateUser
+CamIsEphemeralCandidateUser
+CamRefreshCandidateUser

@@ -13,6 +13,7 @@ CfGetCorrelationVector
 CfGetLastSyncStatus
 CfGetPlaceholderInfo
 CfGetPlaceholderRangeInfo
+CfGetPlaceholderRangeInfoForHydration
 CfGetPlaceholderStateFromAttributeTag
 CfGetPlaceholderStateFromFileInfo
 CfGetPlaceholderStateFromFindData
@@ -43,6 +44,7 @@ CfSetCorrelationVector
 CfSetInSyncState
 CfSetPinState
 CfStoreProperties
+CfTestToggleSyncMsgThreadWaitEvent
 CfUnlockProperties
 CfUnregisterSyncRoot
 CfUpdatePlaceholder

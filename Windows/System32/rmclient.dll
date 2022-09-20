@@ -1,5 +1,5 @@
 AppModelQueryLifecyclePolicy
-CreateResourceManagerClientProxy
+CreateActivityCoordinatorPolicy
 CrmActivityAllocate
 CrmActivityFree
 CrmActivityFreeWindowClosedReasons
@@ -17,13 +17,16 @@ CrmUnregister
 CrmUnsubscribe
 CrmWorkStart
 CrmWorkStop
-DeleteResourceManagerClientProxy
+DestroyActivityCoordinatorPolicy
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject
+GetActivityCoordinatorPolicyResourceCondition
 HamAddDependency
 HamAddHostDependency
+HamAssociateActivityContext
 HamCloseActivity
+HamCompleteActivityRestore
 HamCompleteExtendedExecution
 HamConnectForDebugging
 HamConnectForExtendedExecution
@@ -51,6 +54,7 @@ HamDisconnectForServicing
 HamDisconnectForSessionState
 HamDisconnectForStateChangeNotifications
 HamDisconnectFromServer
+HamFreeBuffer
 HamFullTrustClosePackageHandle
 HamFullTrustOpenPackageHandle
 HamFullTrustTerminatePackage
@@ -75,6 +79,7 @@ HamPopulateActivityPropertiesByClass
 HamQueryActivityPendDiagnostics
 HamQueryApplicationUsageInfo
 HamQueryCallerTerminateReason
+HamQueryHostStateSummary
 HamQueryPackageStateSummary
 HamQueryPackageUsageInfo
 HamQueryTaskCompletionsForTerminateGraph
@@ -100,6 +105,7 @@ HamTerminateApplicationHost
 HamTerminateHostOnProcessExit
 HamTerminateIfSuspendedByProcess
 HamTerminateSelf
+HamTerminateSelfEx
 HamTerminateSelfOnProcessExit
 HamTryEstimateRemainingQuiesceTime
 HamUpdateActivityProperties
@@ -147,3 +153,6 @@ RmUnregisterActivityHost
 RmUnregisterActivityHostCallbacks
 RmUnregisterForGameMode
 RmUpdateResourceSetProperties
+SetActivityCoordinatorPolicyResourceCondition
+SubscribeActivityCoordinatorPolicy
+UnsubscribeActivityCoordinatorPolicy

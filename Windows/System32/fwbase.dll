@@ -66,6 +66,7 @@ FwHashtableEmpty
 FwHashtableFind
 FwHashtableGetNext
 FwHashtableInsert
+FwHashtableIsEmpty
 FwHashtableRemove
 FwHResultToWindowsError
 FwIcfAuthBypassServicesDestroy
@@ -105,6 +106,7 @@ FwMetaDataCopy
 FwMetaDataFree
 FwMetaDataIsEnforcementStatePresent
 FwMultiByteToWideChar
+FwNtStatusToHResult
 FwParseEdpCloudResourceStringToNrptRuleList
 FwPortsToString
 FwProfileTypesToString
@@ -180,6 +182,7 @@ Int_FWVerifyAuthenticationSet
 Int_FWVerifyConnectionSecurityRule
 Int_FWVerifyCryptoSet
 Int_FWVerifyFirewallRule
+Int_FWVerifyHyperVRule
 Int_FWVerifyMainModeRule
 IsAddressesEmpty
 IsCSRuleTunnelMode

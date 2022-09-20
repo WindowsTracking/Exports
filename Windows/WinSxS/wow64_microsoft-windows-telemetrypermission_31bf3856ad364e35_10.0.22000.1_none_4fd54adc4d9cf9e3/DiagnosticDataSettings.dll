@@ -1,7 +1,0 @@
-TelEvaluateActiveSettingAuthority
-TelGetAllAllowedTelemetryTypes
-TelGetLocalAllowTelemetryRegPath
-TelGetMaximumAllowedTelemetryLevel
-TelGetWerTelemetryMode
-TelIsTelemetryTypeAllowed
-TelSetLocalTelemetrySetting

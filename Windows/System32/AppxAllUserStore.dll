@@ -11,7 +11,6 @@ AddStagedPackageToRegistryStore
 AddUpgradePackageAndStubPreferenceToPreinstalledVolume
 AddUpgradePackageToPreinstalledVolume
 AddUpgradePackageToRegistryStore
-ApplyDependencyTargetPackageRootFolderACLs
 ApplyFrameworkPackageRootFolderACLs
 ApplyPackageRootFolderACLs
 ApplySharedFileACLs
@@ -51,6 +50,7 @@ HasStagedPackages
 IsCleanupTaskComplete
 IsEnterprisePolicyEnabled
 IsInboxPackage
+IsInboxPackageAndPath
 IsNonInboxAllUserPackage
 IsNonInboxAllUserPackageSpecificPackage
 IsPackageEndOfLife
@@ -64,7 +64,9 @@ IsPackageInUpgradeKey
 IsPackageInUsersUpgradeKey
 IsPackageOnPreinstalledVolume
 IsSystemInAuditBoot
+MarkPackageAsRequiringAllUserStoreRefresh
 MarkStatusOfMainPackageForUser
+MoveEndOfLifePackageToDeletedStoreExternal
 PackageFamilyNameFromId
 PackageIdBasicFromFullName
 PackageSidToPackageCapabilitySid

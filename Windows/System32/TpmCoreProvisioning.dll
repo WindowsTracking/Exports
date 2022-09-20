@@ -77,6 +77,8 @@ TpmGetDictionaryAttackParameters
 TpmGetEffectiveGroupPolicyOwnerAuthLevel
 TpmGetEndorsementKeyCertificateState
 TpmGetHealthCertRequest
+TpmGetInstalledEkCertificateCount
+TpmGetNumberOfEkCertsInNV
 TpmGetOrderlyShutdownInfo
 TpmGetOwnerAuth
 TpmGetOwnerAuthForEscrow

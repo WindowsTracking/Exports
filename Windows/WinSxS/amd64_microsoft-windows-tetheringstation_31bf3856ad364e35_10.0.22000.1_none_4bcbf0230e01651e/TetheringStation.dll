@@ -1,9 +1,0 @@
-TetheringStationConnect
-TetheringStationDeinitialize
-TetheringStationDisconnect
-TetheringStationEnumerate
-TetheringStationFreeMemory
-TetheringStationInitialize
-TetheringStationRefresh
-TetheringStationRegisterForNotification
-TetheringStationUnregisterForNotification

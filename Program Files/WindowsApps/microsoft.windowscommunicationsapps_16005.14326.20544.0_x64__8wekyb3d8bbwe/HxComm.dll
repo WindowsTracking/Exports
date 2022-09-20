@@ -1,0 +1,15 @@
+?Create@CommandingMapFactory@Commands@Hx@@YA?AV?$RefPtr@UICommandingMap@Hx@@@3@XZ
+?Create@FlagAccessorFactory@Commands@Hx@@YA?AV?$RefPtr@UIFlagAccessor@Hx@@@3@XZ
+?Create@TargetFactoryFactory@Commands@Hx@@YA?AV?$RefPtr@UITargetFactory@Commands@Hx@@@3@XZ
+?CreateActorHostNodeFinder@NodeFinderFactory@Commands@Hx@@YA?AV?$RefPtr@UINodeFinder@Hx@@@3@XZ
+?CreateCertificateUtilities@ExSmime@Hx@@YA?AV?$unique_ptr@UICertificateUtilities@ExSmime@Hx@@U?$default_delete@UICertificateUtilities@ExSmime@Hx@@@std@@@std@@XZ
+?CreateExsMimeProxy@ExSmime@Hx@@YA?AV?$unique_ptr@UISmimeMessageProxy@ExSmime@Hx@@U?$default_delete@UISmimeMessageProxy@ExSmime@Hx@@@std@@@std@@PEAUIStream@@_NPEAUHWND__@@@Z
+?GetHxCommAccessHub@Hx@@YAAEAUIHxCommAccessHub@1@XZ
+?HxCommEnsureInitialized@Hx@@YAXXZ
+?HxCommInitialize@Hx@@YAXW4ProcessIdentifier@1@IAEAUIHxCoreHostServices@1@AEAUIImmersiveHostServices@1@PEAUConfig@Telemetry@1@AEBUGlobalDefaultPreferences@Commands@1@@Z
+?HxCommInitializeWithOverrides@Hx@@YAXW4ProcessIdentifier@1@IAEAUIHxCoreHostServices@1@AEAUIImmersiveHostServices@1@PEAUConfig@Telemetry@1@PEAUIHxCoreOverrides@1@@Z
+?HxCommUninitialize@Hx@@YAXI@Z
+?HxTsrFlushLog@Hx@@YAXXZ
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

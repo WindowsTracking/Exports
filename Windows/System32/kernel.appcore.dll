@@ -102,6 +102,7 @@ GetPackageFullName
 GetPackageFullNameFromToken
 GetPackageGlobalizationContext
 GetPackageGlobalizationProperty
+GetPackageGraphRevisionId
 GetPackageId
 GetPackageInfo
 GetPackageInfo2

@@ -4,4 +4,3 @@ DoesActionRequireElevation
 ExecuteSecurityActionHandler
 ExecuteSecurityActionHandlerById
 GetSecondaryListViewHwnd
-ShowAMSCNEx2

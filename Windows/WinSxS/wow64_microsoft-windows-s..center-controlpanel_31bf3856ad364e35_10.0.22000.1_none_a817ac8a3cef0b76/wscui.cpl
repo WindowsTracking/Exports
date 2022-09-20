@@ -1,7 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-DoesActionRequireElevation
-ExecuteSecurityActionHandler
-ExecuteSecurityActionHandlerById
-GetSecondaryListViewHwnd
-ShowAMSCNEx2

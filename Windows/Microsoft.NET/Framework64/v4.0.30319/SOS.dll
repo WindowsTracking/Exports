@@ -19,6 +19,7 @@ DebugExtensionInitialize
 DebugExtensionNotify
 DebugExtensionUninitialize
 dgc
+dlog
 do
 dso
 DumpArray
@@ -36,6 +37,8 @@ DumpGCConfigLog
 dumpgcconfiglog
 DumpGCData
 dumpgcdata
+DumpGCLog
+dumpgclog
 DumpHeap
 dumpheap
 DumpIL

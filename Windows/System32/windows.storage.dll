@@ -1,6 +1,7 @@
 #1001
 #1002
 #1003
+#172
 #2000
 #2001
 #2002
@@ -188,6 +189,8 @@ RegistryVerbs_GetHandlerMultiSelectModel
 SendNotificationsForLibraryItem
 SerializeLinkToText
 SetThreadFlags
+SHAssocEnumHandlers
+SHAssocEnumHandlersForProtocolByApplication
 SHBindToFolderIDListParent
 SHBindToFolderIDListParentEx
 SHBindToObject
@@ -210,6 +213,7 @@ SHCreateDirectoryExA
 SHCreateDirectoryExW
 SHCreateItemFromIDList
 SHCreateItemFromParsingName
+SHCreateItemFromRelativeName
 SHCreateItemInKnownFolder
 SHCreateItemWithParent
 SHCreateItemWithParentAndChildId

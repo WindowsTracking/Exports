@@ -23,6 +23,7 @@ SealMessage
 SpLsaModeInitialize
 SpUserModeInitialize
 SslCrackCertificate
+SslDeserializeCertificateStore
 SslEmptyCacheA
 SslEmptyCacheW
 SslFreeCertificate

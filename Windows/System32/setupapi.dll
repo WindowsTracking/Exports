@@ -280,6 +280,8 @@ pSetupGetIndirectStringsFromDriverInfo
 pSetupGetInfSections
 pSetupGetQueueFlags
 pSetupGetRealSystemTime
+pSetupGetSourceInfFilename
+pSetupGetUniqueServiceName
 pSetupGuidFromString
 pSetupHandleFailedVerification
 pSetupInfGetDigitalSignatureInfo

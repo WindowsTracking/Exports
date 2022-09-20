@@ -1,0 +1,9 @@
+aadFreeMemory
+aadGetDeviceJoinState
+aadGetDeviceOnlyAccessToken
+aadGetDevicePreprovisioningBlob
+aadHybridJoinDevice
+aadJoinPreprovisionedDevice
+aadMaintenanceTasks
+aadSetHttpProxy
+aadUnjoinDevice

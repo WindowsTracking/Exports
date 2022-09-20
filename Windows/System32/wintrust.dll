@@ -72,6 +72,7 @@ OfficeCleanupPolicy
 OfficeInitializePolicy
 OpenPersonalTrustDBDialog
 OpenPersonalTrustDBDialogEx
+SetMessageDigestInfo
 SoftpubAuthenticode
 SoftpubCheckCert
 SoftpubCleanup

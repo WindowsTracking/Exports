@@ -2,6 +2,9 @@ TelEvaluateActiveSettingAuthority
 TelGetAllAllowedTelemetryTypes
 TelGetLocalAllowTelemetryRegPath
 TelGetMaximumAllowedTelemetryLevel
+TelGetNumericPolicy
+TelGetStringPolicy
 TelGetWerTelemetryMode
+TelIsRestrictivePolicySet
 TelIsTelemetryTypeAllowed
 TelSetLocalTelemetrySetting

@@ -1,6 +1,9 @@
+create_sqlite3_impersonation_vfs
+delete_sqlite3_impersonation_vfs
 sqlite3_aggregate_context
 sqlite3_aggregate_count
 sqlite3_auto_extension
+sqlite3_autovacuum_pages
 sqlite3_backup_finish
 sqlite3_backup_init
 sqlite3_backup_pagecount
@@ -32,6 +35,7 @@ sqlite3_busy_handler
 sqlite3_busy_timeout
 sqlite3_cancel_auto_extension
 sqlite3_changes
+sqlite3_changes64
 sqlite3_clear_bindings
 sqlite3_close
 sqlite3_close_v2
@@ -204,9 +208,11 @@ sqlite3_test_control
 sqlite3_thread_cleanup
 sqlite3_threadsafe
 sqlite3_total_changes
+sqlite3_total_changes64
 sqlite3_trace
 sqlite3_trace_v2
 sqlite3_transfer_bindings
+sqlite3_txn_state
 sqlite3_unicode_collations_extension_init
 sqlite3_update_hook
 sqlite3_uri_boolean

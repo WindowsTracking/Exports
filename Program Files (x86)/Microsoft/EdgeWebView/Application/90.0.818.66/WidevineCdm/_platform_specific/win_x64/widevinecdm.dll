@@ -1,6 +1,0 @@
-CreateCdmInstance
-DeinitializeCdmModule
-GetCdmVersion
-GetHandleVerifier
-InitializeCdmModule_4
-VerifyCdmHost_0

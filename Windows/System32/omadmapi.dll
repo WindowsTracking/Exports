@@ -1,3 +1,4 @@
+AcquireOmaDmClientMutex
 Base64StringToHexString
 CalcHash
 DmCreateSecurityAccount
@@ -83,6 +84,7 @@ ProcessCommandLineOption
 ReadBSTRFromStream
 ReadStringFromStream
 ReadVariantFromStream
+ReleaseOmaDmClientMutex
 SaveStructInRegistry
 SyncDmGroupMembershipToPolicy
 Trim

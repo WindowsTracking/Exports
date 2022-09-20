@@ -6,9 +6,9 @@ NavigateFocusInfoCreate
 TextInputClientCreate
 TextInputClientCreate2
 TextInputHostCreate
-TextInputHostCreate2
 TextInputHostCreateEx
 TextInputHostGetCurrent
+TextInputHostGetForHwnd
 TextInputHostSiteCreate
 TextInputServerCreate
 tsfGetAsyncKeyState

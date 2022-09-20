@@ -4,6 +4,7 @@ AddRefQueryBlobEx
 BreakRecordsIntoBlob
 Coalesce_UpdateNetVersion
 CombineRecordsInBlob
+CreateSendBlob
 DelaySortDAServerlist
 DeRefQueryBlobEx
 Dns_AddRecordsToMessage
@@ -80,6 +81,7 @@ DnsConnectionGetHandleForHostUrlPrivate
 DnsConnectionGetNameList
 DnsConnectionGetProxyInfo
 DnsConnectionGetProxyInfoForHostUrl
+DnsConnectionGetProxyInfoForHostUrlEx
 DnsConnectionGetProxyList
 DnsConnectionSetPolicyEntries
 DnsConnectionSetPolicyEntriesPrivate
@@ -129,6 +131,9 @@ DnsGetApplicationSettings
 DnsGetBufferLengthForStringCopy
 DnsGetCacheDataTable
 DnsGetCacheDataTableEx
+DnsGetDdrInfo
+DnsGetDdrInfoCancel
+DnsGetDdrInfoInternal
 DnsGetDnsServerList
 DnsGetDomainName
 DnsGetInterfaceSettings
@@ -281,6 +286,7 @@ NetInfo_UpdateDnsInterfaceConfigChange
 NetInfo_UpdateNetworkProperties
 NetInfo_UpdateServerReachability
 Query_Cancel
+Query_InProcSetCompletion
 Query_Main
 QueryDirectEx
 Reg_FreeUpdateInfo

@@ -15,6 +15,7 @@ DsrBeginWorkplaceUpdate
 DsrCanCurrentUserProvisionNgcKey
 DsrCanCurrentUserResetNgcKey
 DsrCLI
+DsrDeviceHostNameUpdate
 DsrEndRecovery
 DsrFreeCxhScenarioInfo
 DsrFreeDiscoveryMetadata
