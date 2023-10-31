@@ -1,5 +1,3 @@
 DllMain
 GeneralizeForImaging
-WUCreateExpressionEvaluator
-WUCreateUpdateHandler
 WUServiceMain

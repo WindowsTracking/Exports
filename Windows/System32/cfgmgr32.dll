@@ -245,6 +245,8 @@ CM_Unregister_Device_InterfaceA
 CM_Unregister_Device_InterfaceW
 CM_Unregister_Notification
 CM_Write_UserPowerKey
+CMP_Get_Device_ID_List
+CMP_Get_Device_ID_List_Size
 CMP_GetBlockedDriverInfo
 CMP_GetServerSideDeviceInstallFlags
 CMP_Init_Detection

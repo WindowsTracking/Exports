@@ -11,6 +11,7 @@ WinBioCaptureSample
 WinBioCaptureSampleWithCallback
 WinBioCloseFramework
 WinBioCloseSession
+WinBioConsumeFactorDeletedByService
 WinBioControlUnit
 WinBioControlUnitPrivileged
 WinBioDeleteTemplate
@@ -33,7 +34,9 @@ WinBioGetCredentialWithTicket
 WinBioGetDomainLogonSetting
 WinBioGetEnabledSetting
 WinBioGetEnrolledFactors
+WinBioGetFactorsDeletedByService
 WinBioGetGestureMetadata
+WinBioGetLastBioUseTime
 WinBioGetLogonSetting
 WinBioGetPolicyProtectionSupport
 WinBioGetProperty
@@ -62,6 +65,7 @@ WinBioReleaseFocus
 WinBioRemoveAllCredentials
 WinBioRemoveAllDomainCredentials
 WinBioRemoveCredential
+WinBioSendTelemetry
 WinBioSetCredential
 WinBioSetMSACredential
 WinBioSetProperty

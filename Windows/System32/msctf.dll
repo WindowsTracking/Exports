@@ -31,9 +31,11 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+GetHandwritingStrokeIdForPointer
 GetLogonUserSid
 HasDeferredInputForCoreDispatcher
 InputFocusMonitorCreate
+RegisterHandwritingInputRoutingCallback
 SetInputScope
 SetInputScopes
 SetInputScopes2

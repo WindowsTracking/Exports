@@ -1,0 +1,3 @@
+SecWfpAllowDriverUnload
+SecWfpClose
+SecWfpOpen

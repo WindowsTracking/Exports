@@ -35,6 +35,7 @@ SamiSetBootKeyInformation
 SamiSetDSRMPassword
 SamiSetDSRMPasswordOWF
 SamiSyncDSRMPasswordFromAccount
+SamiValidateComputerAccountReuseAttempt
 SamLookupDomainInSamServer
 SamLookupIdsInDomain
 SamLookupNamesInDomain

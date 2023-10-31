@@ -27,6 +27,7 @@ FwCleanupPhase1Sa
 FwClosePolicyStore
 FwCompareCSRule
 FwCompareFWRule
+FwConvertFwRuleToHyperVRule
 FwConvertIPv6SubNetToRange
 FwCopyAuthSetListToLowerVersion
 FwCopyAuthsetToHigherVersion
@@ -89,6 +90,7 @@ FwGetConfig
 FwGetDynamicKeywordOriginFromStoreType
 FwGetGlobalConfig
 FwGetGlobalConfigFromLocalTempStore
+FwGetHyperVProfileConfigFromRegistry
 FwGetHyperVVMConfigFromRegistry
 FwGetHyperVVMCreatorIdsFromRegistry
 FwGetRule
@@ -124,6 +126,7 @@ FwPolioCopyWFAddressesContents
 FwPolioEmptyWFAddresses
 FwPolioMergeAddresses
 FWPrimitivesSetGPHelperFnPtrs
+FwReduceHyperVRulesToVersion
 FwReduceObjectsToVersion
 FwRemoveDuplicateAddresses
 FWResolveGPONames
@@ -133,6 +136,7 @@ FwSetConfig
 FwSetGlobalConfig
 FwSetGlobalConfigInLocalTempStore
 FWSetGPHelperFnPtrs
+FwSetHyperVProfileConfigInRegistry
 FwSetHyperVVMConfigInRegistry
 FwSetResolveFlags
 FwSetRule
@@ -145,6 +149,7 @@ FwStringToSids
 FwSubtractAddresses
 FwUniteWFAddressesContents
 FwUpdateDynamicKeywordAddressInRegistry
+FwUpgradeHyperVVMConfigToProfileConfig
 FwVerifyWFRuleSemantics
 FwWfProtocolToICFProtocol
 GetOpenPortorAuthAppAddrAsString
@@ -153,6 +158,7 @@ GetOpenPortorAuthAppAsBSTR
 GetRemoteAdminSettings
 IsEqualAddresses
 IsEqualFwPorts
+IsFwRuleHyperVApplicable
 IsPortsEmpty
 IsRuleLegacyICMPSettings
 IsRulePerInterfaceIcmp

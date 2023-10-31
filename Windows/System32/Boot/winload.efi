@@ -60,6 +60,7 @@ BlDeviceCompare
 BlDeviceGetInformation
 BlDeviceGetIoInformation
 BlDeviceOpen
+BlDeviceSetInformation
 BlDisplayFreeOemBitmap
 BlDisplayGetOemBitmap
 BlDisplayInvalidateOemBitmap
@@ -185,6 +186,8 @@ BlMmUnpersistAllocations
 BlMmUnprotectAllocation
 BlMmUnregisterPledgedType
 BlMmUpdatesDisabled
+BlMmWalkPageTable
+BlMmWriteZeroPte
 BlNumaGetNumaMemoryRanges
 BlObtainUnusedSlabPages
 BlPdAllocateData
@@ -199,6 +202,7 @@ BlPltWritePciConfig
 BlpPdQueryData
 BlpPdReleaseData
 BlpVsmLKeyCheckBootmgrAuthorityInTcgLog
+BlRdUnmap
 BlRemoveBootOption
 BlResourceFindDataFromImage
 BlResourceFindMessage
@@ -325,6 +329,8 @@ RtlNumberOfSetBits
 RtlPrefixUnicodeString
 RtlQueryFeatureConfiguration
 RtlQueryFeatureConfigurationChangeStamp
+RtlRbInsertNodeEx
+RtlRbRemoveNode
 RtlRegisterFeatureConfigurationChangeNotification
 RtlSecureZeroMemory
 RtlSetBit

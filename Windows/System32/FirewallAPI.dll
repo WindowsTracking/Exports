@@ -10,6 +10,7 @@ FWAddDynamicKeywordAddress0
 FWAddDynamicKeywordAddress_Int
 FWAddFirewallRule
 FWAddHyperVRule0
+FWAddHyperVRule1
 FWAddMainModeRule
 FWAddSecurityRealm
 FwAlloc
@@ -36,6 +37,7 @@ FWCopyFirewallRule
 FwCopyMainModeRule
 FwCopyWFAddressesContents
 FWCreateHyperVPort0
+FWCreateHyperVPort1
 FWDeleteAllAuthenticationSets
 FWDeleteAllConnectionSecurityRules
 FWDeleteAllCryptoSets
@@ -64,7 +66,9 @@ FWEnumDynamicKeywordAddresses_Int
 FWEnumDynamicKeywordAddressesByType0
 FWEnumFirewallRules
 FWEnumHyperVPorts0
+FWEnumHyperVPorts1
 FWEnumHyperVRules0
+FWEnumHyperVRules1
 FWEnumHyperVVMCreators0
 FWEnumMainModeRules
 FWEnumNetworks
@@ -91,7 +95,9 @@ FWFreeFirewallRules
 FWFreeFirewallRulesByHandle
 FWFreeFirewallRulesOld
 FWFreeHyperVPorts0
+FWFreeHyperVPorts1
 FWFreeHyperVRules0
+FWFreeHyperVRules1
 FWFreeHyperVVMCreators0
 FWFreeMainModeRule
 FWFreeMainModeRules
@@ -108,6 +114,7 @@ FwGetCurrentProfile
 FWGetGlobalConfig
 FWGetGlobalConfig2
 FWGetGlobalConfig3
+FWGetHyperVProfileConfig0
 FWGetHyperVVMConfig0
 FWGetIndicatedPortInUse
 FwGetVersionField
@@ -143,6 +150,7 @@ FWQueryCryptoSets
 FWQueryFirewallRules
 FWQueryIsolationType
 FWQueryMainModeRules
+FWRefreshHyperVPorts0
 FWRegisterHyperVVMCreator0
 FWRegisterProduct
 FWResetIndicatedPortInUse
@@ -163,7 +171,10 @@ FWSetFirewallRule
 FWSetGlobalConfig
 FWSetGlobalConfig2
 FWSetHyperVPort0
+FWSetHyperVPort1
+FWSetHyperVProfileConfig0
 FWSetHyperVRule0
+FWSetHyperVRule1
 FWSetHyperVVMConfig0
 FWSetMainModeRule
 FWStatusMessageFromStatusCode

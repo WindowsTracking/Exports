@@ -67,6 +67,7 @@ DnsAsyncRegisterHostAddrs
 DnsAsyncRegisterInit
 DnsAsyncRegisterTerm
 DnsCancelQuery
+DnsCancelQueryRaw
 DnsCheckNrptRuleIntegrity
 DnsCheckNrptRules
 DnsCleanupTcpConnections
@@ -188,6 +189,8 @@ DnsQueryEx
 DnsQueryExA
 DnsQueryExUTF8
 DnsQueryExW
+DnsQueryRaw
+DnsQueryRawResultFree
 DnsRecordBuild_UTF8
 DnsRecordBuild_W
 DnsRecordCompare

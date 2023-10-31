@@ -13,6 +13,7 @@ NetpGetMachineAccountName
 NetpIsSetupInProgress
 NetpJoinProvider2Initialize
 NetpJoinProvider3Initialize
+NetpJoinProvider4Initialize
 NetpJoinProviderInitialize
 NetpLogPrintHelper
 NetpMachineValidToJoin

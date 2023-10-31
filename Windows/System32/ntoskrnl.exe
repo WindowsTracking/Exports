@@ -26,6 +26,7 @@
 #36
 #37
 #38
+#39
 #4
 #5
 #6
@@ -303,6 +304,7 @@ ExAcquireFastMutexUnsafe
 ExAcquireFastResourceExclusive
 ExAcquireFastResourceShared
 ExAcquireFastResourceSharedStarveExclusive
+ExAcquireFastResourceWithFlags
 ExAcquirePushLockExclusiveEx
 ExAcquirePushLockSharedEx
 ExAcquireResourceExclusiveLite
@@ -399,6 +401,7 @@ ExInitializeAutoExpandPushLock
 ExInitializeDeviceAts
 ExInitializeFastOwnerEntry
 ExInitializeFastResource
+ExInitializeFastResourceAcquired
 ExInitializeLookasideListEx
 ExInitializeNPagedLookasideList
 ExInitializePagedLookasideList
@@ -425,6 +428,7 @@ ExIsResourceAcquiredExclusiveLite
 ExIsResourceAcquiredSharedLite
 ExIsSoftBoot
 ExLocalTimeToSystemTime
+ExMoveFastResourceOwnershipWithFlags
 ExNotifyBootDeviceRemoval
 ExNotifyCallback
 ExpInterlockedFlushSList
@@ -563,6 +567,7 @@ FsRtlCheckLockForWriteAccess
 FsRtlCheckOplock
 FsRtlCheckOplockEx
 FsRtlCheckOplockEx2
+FsRtlCheckOplockForFsFilterCallback
 FsRtlCheckUpperOplock
 FsRtlCopyRead
 FsRtlCopyWrite
@@ -578,6 +583,7 @@ FsRtlDeleteExtraCreateParameterLookasideList
 FsRtlDeleteKeyFromTunnelCache
 FsRtlDeleteTunnelCache
 FsRtlDeregisterUncProvider
+FsRtlDisallowLegacyFilterOnDevice
 FsRtlDismountComplete
 FsRtlDissectDbcs
 FsRtlDissectName
@@ -691,6 +697,7 @@ FsRtlNotifyVolumeEventEx
 FsRtlNumberOfRunsInBaseMcb
 FsRtlNumberOfRunsInLargeMcb
 FsRtlNumberOfRunsInMcb
+FsRtlOpenFileSystemRegistryKeyFromFsGuid
 FsRtlOplockBreakH
 FsRtlOplockBreakH2
 FsRtlOplockBreakToNone

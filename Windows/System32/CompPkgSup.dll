@@ -4,6 +4,7 @@ GetMediaComponentPackageInfoInternal
 GetMediaExtensionCommunicationFactory
 GetNetworkRequestCount
 GetServerForPMP
+GetSystemNativeProcessorSignature
 InstantiateComponentFromPackage
 IsMediaBehaviorEnabled
 RegisterServerForPMP

@@ -36,6 +36,7 @@ WebAuthNCtapParseAuthenticatorData
 WebAuthNCtapResetDevice
 WebAuthNCtapRpcGetAssertionUserList
 WebAuthNCtapRpcGetCborCommand
+WebAuthNCtapRpcRenderQrCode
 WebAuthNCtapRpcSelectGetAssertion
 WebAuthNCtapSendCommand
 WebAuthNCtapSetClientPin

@@ -202,6 +202,7 @@ WlanPrivateClearAnqpCache
 WlanPrivateDeleteProfile
 WlanPrivateGetAnqpCacheResponse
 WlanPrivateGetAnqpOSUProviderList
+WlanPrivateGetAnqpVenueUrl
 WlanPrivateGetAvailableNetworkList
 WlanPrivateGetBssInfo
 WlanPrivateParseAnqpRawData

@@ -26,7 +26,6 @@ GetColorValueFromString
 GetWebPlatformObject
 InitializeLocalHtmlEngine
 MatchExactGetIDsOfNames
-PrintHTML
 ShowHTMLDialog
 ShowHTMLDialogEx
 ShowModalDialog

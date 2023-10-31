@@ -1,5 +1,6 @@
 AppendHiddenSearchContext
 CDBFolderUI_CreateInstance
+CDBFolderViewCB_CreateInstance
 CSearchDelegateFolderUI_CreateInstance
 DllCanUnloadNow
 DllGetClassObject

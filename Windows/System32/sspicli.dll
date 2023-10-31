@@ -99,6 +99,7 @@ SspiLocalFree
 SspiMarshalAuthIdentity
 SspiPrepareForCredRead
 SspiPrepareForCredWrite
+SspiSetChannelBindingFlags
 SspiUnmarshalAuthIdentity
 SspiUnmarshalAuthIdentityInternal
 SspiValidateAuthIdentity

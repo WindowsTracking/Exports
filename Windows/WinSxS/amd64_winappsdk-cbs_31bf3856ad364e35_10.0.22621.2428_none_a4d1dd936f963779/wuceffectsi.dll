@@ -1,0 +1,7 @@
+CompileEffectDescription
+CreateEffectDescription
+DeserializeEffectDescription
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+SerializeEffectDescription

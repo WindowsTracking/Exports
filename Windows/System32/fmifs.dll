@@ -1,6 +1,8 @@
 Chkdsk
 ChkdskEx
+ClearPerMachineFileSystemState
 ComputeFmMediaType
+CreatePerMachineFileSystemStateKey
 DiskCopy
 EnableVolumeCompression
 EnableVolumeIntegrity
@@ -11,6 +13,7 @@ FormatEx2
 FreeCorruptionInfo
 GetCorruptionInfoClose
 GetDefaultFileSystem
+GetDefaultFileSystem2
 GetFirstCorruptionInfo
 GetFsFormatOptions
 GetNextCorruptionInfo

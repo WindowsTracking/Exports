@@ -24,3 +24,4 @@ SHCreateScopeItemFromKnownFolder
 SHCreateScopeItemFromShellItem
 SHCreateSearchIDListFromAutoList
 SHCreateTransientVFolderIDList
+SHSaveBinaryAutoListToStream

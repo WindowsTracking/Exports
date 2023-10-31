@@ -587,13 +587,13 @@ GdiGetSpoolFileHandle
 GdiGetSpoolMessage
 GdiGetVariationStoreDelta
 GdiGradientFill
+GdiHandleBeingTracked
 GdiInitializeLanguagePack
 GdiInitSpool
 GdiIsMetaFileDC
 GdiIsMetaPrintDC
 GdiIsPlayMetafileDC
 GdiIsScreenDC
-GdiIsTrackingEnabled
 GdiIsUMPDSandboxingEnabled
 GdiLoadType1Fonts
 GdiPlayDCScript

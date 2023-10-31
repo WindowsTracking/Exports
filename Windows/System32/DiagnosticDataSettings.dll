@@ -3,8 +3,11 @@ TelGetAllAllowedTelemetryTypes
 TelGetLocalAllowTelemetryRegPath
 TelGetMaximumAllowedTelemetryLevel
 TelGetNumericPolicy
+TelGetRegionalSettingsValue
 TelGetStringPolicy
 TelGetWerTelemetryMode
+TelIsOsInProcessorMode
+TelIsProcessorModeAllowed
 TelIsRestrictivePolicySet
 TelIsTelemetryTypeAllowed
 TelSetLocalTelemetrySetting

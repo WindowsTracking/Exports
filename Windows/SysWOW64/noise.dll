@@ -1,0 +1,7 @@
+NoiseCloseHandle
+NoiseHandshakeGetHash
+NoiseHandshakeInitialize
+NoiseHandshakeProcessMessage
+NoiseOpenHandle
+NoiseTransportMesssageDecrypt
+NoiseTransportMesssageEncrypt
