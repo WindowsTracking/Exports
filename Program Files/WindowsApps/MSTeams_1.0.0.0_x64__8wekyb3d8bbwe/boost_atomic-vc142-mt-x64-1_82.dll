@@ -1,0 +1,15 @@
+?allocate_wait_state@lock_pool@detail@atomics@boost@@YAPEAXPEAXPEDX@Z
+?free_wait_state@lock_pool@detail@atomics@boost@@YAXPEAX0@Z
+?initialize_wait_functions@detail@atomics@boost@@YAXXZ
+?long_lock@lock_pool@detail@atomics@boost@@YAPEAX_K@Z
+?notify_all@lock_pool@detail@atomics@boost@@YAXPEAXPEDX@Z
+?notify_one@lock_pool@detail@atomics@boost@@YAXPEAXPEDX@Z
+?short_lock@lock_pool@detail@atomics@boost@@YAPEAX_K@Z
+?signal_fence@lock_pool@detail@atomics@boost@@YAXXZ
+?thread_fence@lock_pool@detail@atomics@boost@@YAXXZ
+?unlock@lock_pool@detail@atomics@boost@@YAXPEAX@Z
+?wait@lock_pool@detail@atomics@boost@@YAXPEAX0@Z
+?wait_functions_once_flag@detail@atomics@boost@@3Uonce_flag@123@A
+?wait_on_address@detail@atomics@boost@@3P6AHPECXPEAX_KK@ZEA
+?wake_by_address_all@detail@atomics@boost@@3P6AXPEAX@ZEA
+?wake_by_address_single@detail@atomics@boost@@3P6AXPEAX@ZEA

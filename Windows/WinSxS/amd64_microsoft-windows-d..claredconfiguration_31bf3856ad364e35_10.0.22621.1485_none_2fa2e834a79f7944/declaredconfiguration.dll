@@ -1,9 +1,0 @@
-DMOrchestratorConfig
-DMOrchestratorDelete
-DMOrchestratorGetStatus
-DMOrchestratorProcessPreviouslyRanDocs
-DMOrchestratorRefresh
-DMOrchestratorSvcDeinit
-DMOrchestratorSvcInit
-DMOrchestratorUpdate
-DMOrchestratorUpdateDocStatus

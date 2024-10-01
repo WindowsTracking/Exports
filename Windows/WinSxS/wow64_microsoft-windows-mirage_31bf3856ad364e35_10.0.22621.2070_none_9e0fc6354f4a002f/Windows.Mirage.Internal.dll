@@ -1,5 +1,0 @@
-DllCanUnloadNow
-DllGetActivationFactory
-DllGetActivationFactoryMirageInternal
-DllGetClassObject
-InjectDependencyInternal

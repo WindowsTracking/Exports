@@ -1,0 +1,4 @@
+CreateFPIEProcessor
+DeleteFPIEProcessor
+FPIEGetLastErrorMessage
+RunFPIEInference

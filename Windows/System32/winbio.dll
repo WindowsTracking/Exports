@@ -41,11 +41,13 @@ WinBioGetLogonSetting
 WinBioGetPolicyProtectionSupport
 WinBioGetProperty
 WinBioGetProtectionPolicy
+WinBioGetSetting
 WinBioIdentify
 WinBioIdentifyAndReleaseTicket
 WinBioIdentifyWithCallback
 WinBioImproveBegin
 WinBioImproveEnd
+WinBioIsESSCapable
 WinBioLocateSensor
 WinBioLocateSensorWithCallback
 WinBioLockUnit
@@ -69,6 +71,7 @@ WinBioSendTelemetry
 WinBioSetCredential
 WinBioSetMSACredential
 WinBioSetProperty
+WinBioSetSetting
 WinBioUnlockUnit
 WinBioUnprotectData
 WinBioUnregisterEventMonitor

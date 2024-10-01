@@ -1,7 +1,0 @@
-LAPSExtAcceptDSRMPasswordModification
-LAPSExtAcceptPasswordModification
-LAPSExtInitialize
-LAPSExtIsDSRMAccountManaged
-LAPSExtIsLocalAccountManaged
-LAPSExtNotifyLocalAccountAuthentication
-LAPSExtUninitialize

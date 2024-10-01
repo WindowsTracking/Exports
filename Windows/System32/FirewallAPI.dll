@@ -23,6 +23,7 @@ FwApiHelperFree
 FwApiHelperInit
 FwBstrToIcmp
 FwBstrToInterfaceTypes
+FwBstrToInterfaceTypesCsp
 FwBstrToPorts
 FWChangeNotificationCreate
 FWChangeNotificationDestroy
@@ -128,6 +129,7 @@ FWIndicateProxyResolverRefresh
 FWIndicateTupleInUse
 FWIndicateTupleInUse2
 FwInterfaceTypesToBstr
+FwInterfaceTypesToBstrCsp
 FwIsGroupPolicyEnforced
 FwIsRemoteManagementEnabled
 FWIsTargetAProxy

@@ -1,3 +1,4 @@
+PshedAddToDefectList
 PshedAllocateMemory
 PshedArePluginsPresent
 PshedAttemptErrorRecovery
@@ -14,6 +15,7 @@ PshedGetBootErrorPacket
 PshedGetErrorSourceInfo
 PshedGetHalEnlightenments
 PshedGetInjectionCapabilities
+PshedGetMemoryDetails
 PshedInitAvailable
 PshedInitGlobal
 PshedInitialize
@@ -27,5 +29,7 @@ PshedRetrieveErrorInfo
 PshedSetErrorSourceInfo
 PshedSetHalEnlightenments
 PshedSynchronizeExecution
+PshedTranslateDimmAddress
+PshedTranslatePhysicalAddress
 PshedUnregisterPlugin
 PshedWriteErrorRecord

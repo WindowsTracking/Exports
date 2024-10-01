@@ -1,0 +1,4 @@
+CompareBrowserVersions
+CreateCoreWebView2Environment
+CreateCoreWebView2EnvironmentWithOptions
+GetAvailableCoreWebView2BrowserVersionString

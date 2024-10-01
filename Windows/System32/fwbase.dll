@@ -28,6 +28,7 @@ FwChangeSourceSignalStart
 FwCloseHandle
 FwConstructRemoteMachineSPN
 FwCreateDirectory
+FwCreateSDDLStringFromPackageFamilyName
 FwCreateSDDLStringFromPolicyAppId
 FwCriticalSectionCreate
 FwCriticalSectionDestroy

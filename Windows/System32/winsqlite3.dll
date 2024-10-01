@@ -1,6 +1,7 @@
 sqlite3_aggregate_context
 sqlite3_aggregate_count
 sqlite3_auto_extension
+sqlite3_autovacuum_pages
 sqlite3_backup_finish
 sqlite3_backup_init
 sqlite3_backup_pagecount
@@ -32,6 +33,7 @@ sqlite3_busy_handler
 sqlite3_busy_timeout
 sqlite3_cancel_auto_extension
 sqlite3_changes
+sqlite3_changes64
 sqlite3_clear_bindings
 sqlite3_close
 sqlite3_close_v2
@@ -83,6 +85,7 @@ sqlite3_db_config
 sqlite3_db_filename
 sqlite3_db_handle
 sqlite3_db_mutex
+sqlite3_db_name
 sqlite3_db_readonly
 sqlite3_db_release_memory
 sqlite3_db_status
@@ -94,6 +97,7 @@ sqlite3_enable_shared_cache
 sqlite3_errcode
 sqlite3_errmsg
 sqlite3_errmsg16
+sqlite3_error_offset
 sqlite3_errstr
 sqlite3_exec
 sqlite3_expanded_sql
@@ -116,6 +120,7 @@ sqlite3_global_recover
 sqlite3_hard_heap_limit64
 sqlite3_initialize
 sqlite3_interrupt
+sqlite3_is_interrupted
 sqlite3_keyword_check
 sqlite3_keyword_count
 sqlite3_keyword_name
@@ -197,6 +202,7 @@ sqlite3_status
 sqlite3_status64
 sqlite3_step
 sqlite3_stmt_busy
+sqlite3_stmt_explain
 sqlite3_stmt_isexplain
 sqlite3_stmt_readonly
 sqlite3_stmt_status
@@ -222,6 +228,7 @@ sqlite3_test_control
 sqlite3_thread_cleanup
 sqlite3_threadsafe
 sqlite3_total_changes
+sqlite3_total_changes64
 sqlite3_trace
 sqlite3_trace_v2
 sqlite3_transfer_bindings
@@ -238,6 +245,7 @@ sqlite3_value_bytes
 sqlite3_value_bytes16
 sqlite3_value_double
 sqlite3_value_dup
+sqlite3_value_encoding
 sqlite3_value_free
 sqlite3_value_frombind
 sqlite3_value_int
@@ -259,8 +267,13 @@ sqlite3_vmprintf
 sqlite3_vsnprintf
 sqlite3_vtab_collation
 sqlite3_vtab_config
+sqlite3_vtab_distinct
+sqlite3_vtab_in
+sqlite3_vtab_in_first
+sqlite3_vtab_in_next
 sqlite3_vtab_nochange
 sqlite3_vtab_on_conflict
+sqlite3_vtab_rhs_value
 sqlite3_wal_autocheckpoint
 sqlite3_wal_checkpoint
 sqlite3_wal_checkpoint_v2

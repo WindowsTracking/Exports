@@ -304,6 +304,7 @@ pSetupQueryMultiSzValueToArray
 pSetupRealloc
 pSetupRegistryDelnode
 pSetupRetrieveServiceConfig
+pSetupScanFileQueue
 pSetupSetArrayToMultiSzValue
 pSetupSetGlobalFlags
 pSetupSetQueueFlags

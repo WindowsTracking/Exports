@@ -3,6 +3,7 @@
 #11
 #12
 #13
+#14
 #2
 #3
 #4
@@ -70,6 +71,8 @@ BiPtSignalTriggerEventEx
 BiQueryWorkItemForUser
 BiResetActiveSessionForPackage
 BiResetActiveUserForPackage
+BiSessionSinkCleanup
+BiSessionSinkCreate
 BiSetActiveSessionForPackage
 BiSetActiveUserForPackage
 BiTerminateApplicationHost

@@ -10,8 +10,6 @@ CellularApiHelper_FreeCountedSimArray
 CellularApiHelper_FreeCountedSimLineArray
 CellularApiHelper_FreeCountedSlotArray
 CellularApiHelper_FreeCountedSlotCanAssociationArray
-CellVoiceHelper_FreeUiccAppSet
-CellVoiceHelper_GetSingleInstance
 CheckIfShellReady
 ComparePhoneNumbers
 ConvertPhoneNumberToUINT64
@@ -24,7 +22,6 @@ CreateDialAssist
 CreatePerUserSecurityPolicy
 CreatePerUserSecurityToken
 CreatePerUserSecurityTokenForRpcClient
-CreateUdmDataSessionForSignedInUserContext
 DeinitDialingPrefixTable
 DetectMultiPrefix
 DuplicateSidIfValid
@@ -38,7 +35,6 @@ Get3GPPInCallToneTypeString
 GetAdjustCDMACallTimeSetting
 GetAppUserModelIdFromPkgFamilyNameAndUser
 GetCchTailMin
-GetCellvoiceLineIdAsString_LocalAlloc
 GetCountryCodeFromOperatorNum
 GetDefaultWiFiCallingBranding
 GetDialableNumber
@@ -86,7 +82,6 @@ Phone_FmtText_NonDialerFormat
 PhoneLineIdToString
 PhoneLineIdToUrlEscapedString
 RemoveMetadataFromNumber
-ShouldSupportUdmCallHistory
 StringToPhoneLineId
 StripExtraneousNDD
 StripNonDtmfChars

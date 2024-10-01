@@ -1,0 +1,4 @@
+FreeInstallMonitoringCallback
+StartInstallMonitoring
+StopInstallMonitoring
+UpdateInstallerInventoryCache

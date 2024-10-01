@@ -1,0 +1,6 @@
+InitHelperDll
+NshDnsAddDnsServer
+NshDnsDeleteDnsServer
+NshDnsSetDnsServer
+NshDnsShowDnsServers
+NshDnsShowInterfaceDnsServers

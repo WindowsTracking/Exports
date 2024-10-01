@@ -10,8 +10,6 @@
 #1044
 #1045
 #1046
-#1047
-#1048
 #1060
 #2000
 #2001
@@ -23,6 +21,7 @@
 #2502
 #2503
 #2504
+#2505
 CreatePresentationFactory
 DCompositionAttachMouseDragToHwnd
 DCompositionAttachMouseWheelToHwnd

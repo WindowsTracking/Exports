@@ -166,6 +166,9 @@ D3DKMTDestroyPagingQueue
 D3DKMTDestroyProtectedSession
 D3DKMTDestroySynchronizationObject
 D3DKMTDestroyTrackedWorkload
+D3DKMTDisplayMuxSwitchExecute
+D3DKMTDisplayMuxSwitchFinish
+D3DKMTDisplayMuxSwitchPrepare
 D3DKMTDisplayPortOperation
 D3DKMTDispMgrCreate
 D3DKMTDispMgrOperation
@@ -193,6 +196,7 @@ D3DKMTGetDWMVerticalBlankEvent
 D3DKMTGetMemoryBudgetTarget
 D3DKMTGetMultiPlaneOverlayCaps
 D3DKMTGetMultisampleMethodList
+D3DKMTGetNativeFenceLogDetail
 D3DKMTGetOverlayState
 D3DKMTGetPostCompositionCaps
 D3DKMTGetPresentHistory
@@ -213,6 +217,7 @@ D3DKMTGetTrackedWorkloadStatistics
 D3DKMTGetYieldPercentage
 D3DKMTInvalidateActiveVidPn
 D3DKMTInvalidateCache
+D3DKMTIsFeatureEnabled
 D3DKMTLock
 D3DKMTLock2
 D3DKMTMakeResident
@@ -596,6 +601,7 @@ GdiIsPlayMetafileDC
 GdiIsScreenDC
 GdiIsUMPDSandboxingEnabled
 GdiLoadType1Fonts
+GdipIsAssertEnabled
 GdiPlayDCScript
 GdiPlayEMF
 GdiPlayJournal
@@ -729,6 +735,7 @@ GetOutlineTextMetricsW
 GetPaletteEntries
 GetPath
 GetPhysicalMonitorDescription
+GetPhysicalMonitorFromTargetInternal
 GetPhysicalMonitors
 GetPixel
 GetPixelFormat

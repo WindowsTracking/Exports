@@ -1,0 +1,8 @@
+DllCanUnloadNow
+FreePScriptDevMode
+FreePsRedirectedDriverInfo
+GetPrinterDataForGpdDriver
+GetPScriptDevModeFromIppDevMode
+GetPsRedirectedDriverInfo
+LoadRawPScriptPpdConfigForGpdDriver
+UnloadRawPScriptPpdConfig

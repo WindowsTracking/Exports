@@ -93,8 +93,10 @@ TrustIsCertificateSelfSigned
 TrustOpenStores
 WintrustAddActionID
 WintrustAddDefaultForUsage
+WintrustAddProviderToProcess
 WintrustCertificateTrust
 WintrustGetDefaultForUsage
+WintrustGetHash
 WintrustGetRegPolicyFlags
 WintrustLoadFunctionPointers
 WintrustRemoveActionID
@@ -126,6 +128,7 @@ WTHelperOpenKnownStores
 WTHelperProvDataFromStateData
 WTIsFirstConfigCiResultPreferred
 WTLogConfigCiScriptEvent
+WTLogConfigCiScriptEvent2
 WTLogConfigCiSignerEvent
 WTValidateBioSignaturePolicy
 WVTAsn1CatMemberInfo2Decode

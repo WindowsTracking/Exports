@@ -15,10 +15,12 @@ FindFirstChangeNotificationW
 FindFirstFileA
 FindFirstFileExA
 FindFirstFileExW
+FindFirstFileNameW
 FindFirstFileW
 FindFirstVolumeW
 FindNextChangeNotification
 FindNextFileA
+FindNextFileNameW
 FindNextFileW
 FindNextVolumeW
 FindVolumeClose

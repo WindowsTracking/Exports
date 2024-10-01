@@ -12,6 +12,7 @@ DsrBeginRecovery
 DsrBeginWorkplaceJoin
 DsrBeginWorkplaceUnjoin
 DsrBeginWorkplaceUpdate
+DsrBeginWorkplaceUpdateAik
 DsrCanCurrentUserProvisionNgcKey
 DsrCanCurrentUserResetNgcKey
 DsrCLI
@@ -19,12 +20,11 @@ DsrDeviceHostNameUpdate
 DsrEndRecovery
 DsrFreeCxhScenarioInfo
 DsrFreeDiscoveryMetadata
-DsrFreeDomainRegistrationData
 DsrFreeJoinInfo
 DsrFreeJoinInfoEx
 DsrGetCurrentUserNgcProvisionStatus
 DsrGetCxhScenarioInfo
-DsrGetDomainRegistrationData
+DsrGetDomainRegistrationConfig
 DsrGetJoinInfo
 DsrGetJoinInfoEx
 DsrGetPrtAuthorityInfo

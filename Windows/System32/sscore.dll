@@ -6,6 +6,7 @@ SsCoreCertificatesUpdate
 SsCoreCloseInstance
 SsCoreCompleteCsvVolumeDrain
 SsCoreDeregisterNetnameForMultichannel
+SsCoreEnumAlternativePort
 SsCoreFileDel
 SsCoreFileDelForInstance
 SsCoreFileEnum
@@ -48,3 +49,4 @@ SsCoreStartInstance
 SsCoreStopInstance
 SsCoreUninitialize
 SsCoreUnlockVolumes
+SsCoreUpdateAlternativePort

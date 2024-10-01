@@ -15,9 +15,11 @@ DafCreateDeviceChallengeContext
 DafCreateDeviceInterfaceChallengeContext
 DafCreateImportExportContext
 DafCreateInboundContext
+DafGenerateProvider
 DafGetInboundAssociationResultForAppActivation
 DafMemFree
 DafRegisterForInboundAssociationsAppActivation
+DafRegisterProvider
 DafSelectCeremony
 DafStartAepExport
 DafStartAepImport
@@ -28,3 +30,4 @@ DafStartListenForInboundAssociations
 DafStartReadCeremonyData
 DafStartRemoveAssociation
 DafStartWriteCeremonyData
+DafUnregisterProvider

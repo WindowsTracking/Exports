@@ -4,6 +4,7 @@ CreateDefaultProviderResolver
 CreateResultSetFactory
 CreateSingleVisibleInList
 DllCanUnloadNow
+DllGetActivationFactory
 DllGetClassObject
 DllMain
 DllRegisterServer

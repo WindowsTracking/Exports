@@ -8,5 +8,6 @@ SetDisplayLanguageCore
 SetUserDisplayLanguageCore
 SyncLanguageDataFromCloud
 SyncLanguageDataToCloud
+SyncLanguageDataToCloudDirect
 SyncLanguageDataToCloudSynchronous
 UpdateDefaultGlobalizationSettings

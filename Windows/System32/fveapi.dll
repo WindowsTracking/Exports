@@ -12,6 +12,7 @@ FveAuthElementReadExternalKeyW
 FveAuthElementToRecoveryPasswordW
 FveAuthElementWriteExternalKeyExW
 FveAuthElementWriteExternalKeyW
+FveBackupRecoveryInformationToAAD
 FveBackupRecoveryInformationToAD
 FveBackupRecoveryInformationToADEx
 FveBindDataVolume
@@ -22,6 +23,7 @@ FveCheckADRecoveryInfoBackupPolicy
 FveCheckADRecoveryInfoBackupPolicyEx
 FveCheckPassphrasePolicy
 FveCheckTpmCapability
+FveClearRecoveryPasswordBackupInformation
 FveClearUserFlags
 FveCloseHandle
 FveCloseVolume
@@ -49,6 +51,10 @@ FveEnableRawAccessEx
 FveEnableRawAccessW
 FveEraseDrive
 FveEscrowEncryptedRecoveryKeyForRetailUnlock
+FveExternalDataCreateEntry
+FveExternalDataDeleteEntries
+FveExternalDataGetEntryInfo
+FveExternalDataGetEntryRawData
 FveFindFirstVolume
 FveFindNextVolume
 FveFlagsToProtectorType
@@ -61,6 +67,7 @@ FveGetAuthMethodSid
 FveGetAuthMethodSidInformation
 FveGetClearKeyCounter
 FveGetDataSet
+FveGetDataSetEx
 FveGetDescriptionW
 FveGetDeviceLockoutData
 FveGetExternalKeyBlob
@@ -71,6 +78,7 @@ FveGetFveMethodEx
 FveGetIdentificationFieldW
 FveGetIdentity
 FveGetKeyPackage
+FveGetRecoveryPasswordBackupAccountInformation
 FveGetRecoveryPasswordBackupInformation
 FveGetSecureBootBindingState
 FveGetStatus
@@ -118,6 +126,7 @@ FveSetDescriptionW
 FveSetFipsAllowDisabled
 FveSetFveMethod
 FveSetIdentificationFieldW
+FveSetRecoveryPasswordBackupAccountInformation
 FveSetRecoveryPasswordBackupInformation
 FveSetupTpmCallback
 FveSetUserFlags

@@ -1,8 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-OnSessionChange
-Refresh
-StartComponent
-StopComponent

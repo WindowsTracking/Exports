@@ -1,3 +1,9 @@
+ApplyDeltaB
+ApplyDeltaGetReverseB
+ApplyDeltaProvidedB
+CreateDeltaB
+DeltaFree
+DeltaNormalizeProvidedB
 DpxCheckJobExists
 DpxCheckJobExistsEx
 DpxDeleteJob
@@ -9,3 +15,5 @@ DpxRestoreJob
 DpxRestoreJobEx
 DpxRestoreOrNewJob
 DpxRestoreOrNewJobEx
+GetDeltaInfoB
+GetDeltaSignatureB

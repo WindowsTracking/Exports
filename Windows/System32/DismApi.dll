@@ -1,19 +1,23 @@
 _DismAddAppxPackageFamilyToUninstallBlocklist
-_DismAddCapabilityEx
 _DismAddDriverEx
+_DismAddGenericAppPackage
+_DismAddNetAdapter
 _DismAddPackageEx
 _DismAddPackageFamilyToUninstallBlocklist
 _DismAddProvisionedAppSharedPackageContainer
 _DismAddProvisionedAppxPackage
+_DismAddProvisionedAppxPackageEx
 _DismApplyCustomDataImage
 _DismApplyFfuImage
+_DismApplyOsImage
 _DismApplyProvisioningPackage
+_DismCaptureOsImage
 _DismCaptureSoftwareInventory
 _DismCleanImage
 _DismEnableDisableFeature
 _DismExportDriver
+_DismExportOsImage
 _DismExportSource
-_DismExportSourceEx
 _DismGetCapabilitiesEx
 _DismGetCapabilityInfoEx
 _DismGetCurrentEdition
@@ -30,6 +34,7 @@ _DismGetNonRemovableAppxAppsPolicy
 _DismGetOsInfo
 _DismGetOSUninstallWindow
 _DismGetPackageInfoEx
+_DismGetPackagesEx
 _DismGetProductKeyInfo
 _DismGetProvisionedAppSharedPackageContainers
 _DismGetProvisionedAppxPackages
@@ -48,6 +53,7 @@ _DismOptimizeImage
 _DismOptimizeProvisionedAppxPackages
 _DismRemoveAppxPackageFamilyFromUninstallBlocklist
 _DismRemoveCapabilityEx
+_DismRemoveLanguageEx
 _DismRemoveOSUninstall
 _DismRemovePackageEx
 _DismRemovePackageFamilyFromUninstallBlocklist
@@ -61,6 +67,7 @@ _DismSetAppxProvisionedDataFile
 _DismSetEdition
 _DismSetEdition2
 _DismSetFirstBootCommandLine
+_DismSetIntlSettings
 _DismSetMachineName
 _DismSetOSUninstallWindow
 _DismSetProductKey
@@ -74,6 +81,7 @@ _DismSysprepSpecialize
 _DismValidateProductKey
 DismAddCapability
 DismAddDriver
+DismAddLanguage
 DismAddPackage
 DismAddProvisionedAppxPackage
 DismApplyUnattend
@@ -105,6 +113,7 @@ DismOpenSession
 DismRemountImage
 DismRemoveCapability
 DismRemoveDriver
+DismRemoveLanguage
 DismRemovePackage
 DismRemoveProvisionedAppxPackage
 DismRestoreImageHealth

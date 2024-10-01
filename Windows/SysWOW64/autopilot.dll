@@ -1,0 +1,9 @@
+AutoPilotGetOobeSettingsOverride
+AutoPilotGetPolicyDwordByName
+AutoPilotGetPolicyStringByName
+AutoPilotIsLocalProfileAvailable
+AutoPilotIsNetworkRequired
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

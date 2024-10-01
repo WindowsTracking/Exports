@@ -1,3 +1,4 @@
 GetPrivateDDITable
+GetPrivateDDITableVersioned
 OpenAdapter
 SetAppCompatData

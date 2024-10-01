@@ -59,7 +59,9 @@ I_NetLogonSamLogonWithFlags
 I_NetLogonSendToSam
 I_NetLogonUasLogoff
 I_NetLogonUasLogon
+I_NetQueryLocatorNameMappings
 I_NetQuerySecureChannelDCInfo
+I_NetRequestLocatorNameMappingsUpdate
 I_NetServerAuthenticate
 I_NetServerAuthenticate2
 I_NetServerAuthenticate3
@@ -77,6 +79,7 @@ NetEnumerateTrustedDomains
 NetGetAnyDCName
 NetGetDCName
 NetIsServiceAccount
+NetIsServiceAccount2
 NetLogonGetTimeServiceParentDomain
 NetLogonSetServiceBits
 NetQueryServiceAccount

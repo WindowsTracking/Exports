@@ -1,0 +1,7 @@
+CreateGlobbedSil
+DumpHive
+DumpMergedCim
+GetFileSystemProvider
+GetRegistryProvider
+MergeGlobbedPackage
+OpenFileInCim

@@ -31,6 +31,8 @@ FwpmConnectionDestroyEnumHandle0
 FwpmConnectionEnum0
 FwpmConnectionGetById0
 FwpmConnectionGetSecurityInfo0
+FwpmConnectionPolicyAdd0
+FwpmConnectionPolicyDeleteByKey0
 FwpmConnectionSetSecurityInfo0
 FwpmConnectionSubscribe0
 FwpmConnectionUnsubscribe0
@@ -50,6 +52,7 @@ FwpmEventProviderFireNetEventEx0
 FwpmEventProviderIsNetEventTypeEnabled0
 FwpmFilterAdd0
 FwpmFilterCreateEnumHandle0
+FwpmFilterCreatePreciseEnumHandle
 FwpmFilterDeleteById0
 FwpmFilterDeleteByKey0
 FwpmFilterDestroyEnumHandle0

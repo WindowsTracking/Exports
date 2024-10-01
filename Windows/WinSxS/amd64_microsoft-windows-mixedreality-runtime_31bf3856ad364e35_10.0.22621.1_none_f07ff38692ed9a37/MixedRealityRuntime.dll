@@ -1,6 +1,0 @@
-DllCanUnloadNow
-DllGetActivationFactory
-DllGetClassObject
-ServiceMain
-SvchostPushServiceGlobals
-xrNegotiateLoaderRuntimeInterface

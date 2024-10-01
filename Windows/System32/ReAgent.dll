@@ -25,6 +25,7 @@ WinReHashWimFile
 WinReInitiateOfflineScanning
 WinReInstall
 WinReInstallOnTargetOS
+WinReInstallTarget
 WinReIsInstalledOnSystemPartition
 WinReIsWimBootEnabled
 WinReIsWinPE
@@ -51,6 +52,7 @@ WinReSetupInstall
 WinReSetupMigrateData
 WinReSetupRemoveWinRE
 WinReSetupRestoreWinREEx
+WinReSetupSaveWinREPartitionInfo
 WinReSetupSetImage
 WinReUnInstall
 WinReUpdateLogInstance

@@ -11,6 +11,7 @@ WinBioGetDomainLogonSetting
 WinBioGetEnabledSetting
 WinBioGetLogonSetting
 WinBioIdentifyWithCallback
+WinBioIsESSCapable
 WinBioIsLegacy
 WinBioLocateSensor
 WinBioLocateSensorWithCallback

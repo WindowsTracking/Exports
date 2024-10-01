@@ -1,6 +1,7 @@
 ActivatePackageVirtualizationContext
 AddLookaside
 AddProcessToHeliumContainer
+BeginCreatingHeliumContainerForDesktopAppXActivation
 CheckApplicationInCurrentPackage
 CheckAppXPackageBreakaway
 CloseAppExecutionAlias
@@ -54,6 +55,7 @@ ReleasePackageVirtualizationContext
 RemoveDesktopAppXMetadataForFolder
 RemoveLookaside
 RemoveLookasidePackage
+RundownHeliumContainerForDesktopAppXActivation
 SetDesktopAppXMetadataForFolder
 SetDesktopAppXMetadataForPackage
 TryActivateDesktopAppXApplication

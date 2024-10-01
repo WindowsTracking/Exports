@@ -12,3 +12,4 @@ DllCanUnloadNow
 DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
+PasskeyOTSPrompt

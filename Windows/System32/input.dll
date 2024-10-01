@@ -8,6 +8,7 @@ EnumEnabledLayoutOrTip
 EnumEnabledLayoutOrTipPrivate
 EnumLayoutOrTipForSetup
 GetDefaultLayout
+GetEnabledInputMethods
 GetLayoutDescription
 InputDll_DownlevelEnumLayoutOrTipForSetup
 InputDll_DownlevelInitialize

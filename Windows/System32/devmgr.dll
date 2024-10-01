@@ -1,8 +1,12 @@
+DeviceAction_RunDLLA
+DeviceAction_RunDLLW
 DeviceAdvancedPropertiesA
 DeviceAdvancedPropertiesW
 DeviceCreateHardwarePage
 DeviceCreateHardwarePageCustom
 DeviceCreateHardwarePageEx
+DeviceExecuteActionA
+DeviceExecuteActionW
 DeviceManager_ExecuteA
 DeviceManager_ExecuteW
 DeviceProblemTextA

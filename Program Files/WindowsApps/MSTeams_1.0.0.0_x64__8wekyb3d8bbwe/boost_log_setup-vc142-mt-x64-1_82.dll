@@ -1,0 +1,16 @@
+??$init_from_settings@_W@v2_mt_nt62@log@boost@@YAXAEBV?$basic_settings_section@_W@012@@Z
+??$init_from_settings@D@v2_mt_nt62@log@boost@@YAXAEBV?$basic_settings_section@D@012@@Z
+??$init_from_stream@_W@v2_mt_nt62@log@boost@@YAXAEAV?$basic_istream@_WU?$char_traits@_W@std@@@std@@@Z
+??$init_from_stream@D@v2_mt_nt62@log@boost@@YAXAEAV?$basic_istream@DU?$char_traits@D@std@@@std@@@Z
+??$parse_filter@_W@v2_mt_nt62@log@boost@@YA?AVfilter@012@PEB_W0@Z
+??$parse_filter@D@v2_mt_nt62@log@boost@@YA?AVfilter@012@PEBD0@Z
+??$parse_formatter@_W@v2_mt_nt62@log@boost@@YA?AV?$basic_formatter@_W@012@PEB_W0@Z
+??$parse_formatter@D@v2_mt_nt62@log@boost@@YA?AV?$basic_formatter@D@012@PEBD0@Z
+??$parse_settings@_W@v2_mt_nt62@log@boost@@YA?AV?$basic_settings@_W@012@AEAV?$basic_istream@_WU?$char_traits@_W@std@@@std@@@Z
+??$parse_settings@D@v2_mt_nt62@log@boost@@YA?AV?$basic_settings@D@012@AEAV?$basic_istream@DU?$char_traits@D@std@@@std@@@Z
+??$register_filter_factory@_W@v2_mt_nt62@log@boost@@YAXAEBVattribute_name@012@AEBV?$shared_ptr@U?$filter_factory@_W@v2_mt_nt62@log@boost@@@2@@Z
+??$register_filter_factory@D@v2_mt_nt62@log@boost@@YAXAEBVattribute_name@012@AEBV?$shared_ptr@U?$filter_factory@D@v2_mt_nt62@log@boost@@@2@@Z
+??$register_formatter_factory@_W@v2_mt_nt62@log@boost@@YAXAEBVattribute_name@012@AEBV?$shared_ptr@U?$formatter_factory@_W@v2_mt_nt62@log@boost@@@2@@Z
+??$register_formatter_factory@D@v2_mt_nt62@log@boost@@YAXAEBVattribute_name@012@AEBV?$shared_ptr@U?$formatter_factory@D@v2_mt_nt62@log@boost@@@2@@Z
+??$register_sink_factory@_W@v2_mt_nt62@log@boost@@YAXPEBDAEBV?$shared_ptr@U?$sink_factory@_W@v2_mt_nt62@log@boost@@@2@@Z
+??$register_sink_factory@D@v2_mt_nt62@log@boost@@YAXPEBDAEBV?$shared_ptr@U?$sink_factory@D@v2_mt_nt62@log@boost@@@2@@Z

@@ -95,11 +95,9 @@ DeleteDC
 DeleteEMFSpoolData
 DeleteEnhMetaFile
 DeleteFont
-DeleteHDCCFont
 DeleteMetaFile
 DescribePixelFormat
 DeviceCapabilitiesExA
-DocumentEventEx
 DPtoLP
 DrawEscape
 DwmCreatedBitmapRemotingOutput
@@ -401,6 +399,7 @@ GetWorldTransform
 hdcCreateDCW
 IcmDeleteLocalDC
 IcmReleaseCachedColorSpace
+InternalDeleteDC
 IntersectClipRect
 IntersectClipRectImpl
 InvertRgn
@@ -699,6 +698,7 @@ NtGdiGetOutlineTextMetricsInternalW
 NtGdiGetPath
 NtGdiGetPerBandInfo
 NtGdiGetPhysicalMonitorDescription
+NtGdiGetPhysicalMonitorFromTarget
 NtGdiGetPhysicalMonitors
 NtGdiGetPixel
 NtGdiGetRandomRgn
@@ -729,6 +729,7 @@ NtGdiHT_Get8BPPFormatPalette
 NtGdiHT_Get8BPPMaskPalette
 NtGdiIcmBrushInfo
 NtGdiInit
+NtGdiInit2
 NtGdiInitSpool
 NtGdiIntersectClipRect
 NtGdiInvertRgn
@@ -1001,9 +1002,9 @@ StrokePathImpl
 SwapBuffers
 TextOutA
 TextOutW
+TraceLoggingGdiBatchInProcessing
 TranslateCharsetInfo
 UnloadNetworkFonts
-UnloadUserModePrinterDriver
 UnrealizeObject
 UpdateColors
 UpdateICMRegKeyA

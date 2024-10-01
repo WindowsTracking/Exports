@@ -147,6 +147,7 @@ NetGroupGetUsers
 NetGroupSetInfo
 NetGroupSetUsers
 NetIsServiceAccount
+NetIsServiceAccount2
 NetJoinDomain
 NetLocalGroupAdd
 NetLocalGroupAddMember

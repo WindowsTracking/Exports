@@ -1,13 +1,4 @@
 AddService
-BMAPIAddress
-BMAPIDetails
-BMAPIFindNext
-BMAPIGetAddress
-BMAPIGetReadMail
-BMAPIReadMail
-BMAPIResolveName
-BMAPISaveMail
-BMAPISendMail
 DllRegisterServer
 DllUnregisterServer
 MailToProtocolHandler

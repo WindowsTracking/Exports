@@ -1,3 +1,5 @@
 DllCanUnloadNow
 DllGetActivationFactory
 GetCtacPropertyAlloc
+GetExternalFeatureState
+GetExternalFeatureStateWithReporting

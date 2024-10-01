@@ -1,7 +1,0 @@
-CreateDeviceBundle
-DllGetClassObject
-DllMain
-DllRegisterServer
-DllUnregisterServer
-ETW_TRACE_LOGGING_METADATA
-rust_eh_personality

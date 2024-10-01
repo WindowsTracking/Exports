@@ -1,6 +1,0 @@
-DllCanUnloadNow
-DllGetActivationFactory
-DllGetActivationFactoryMirage
-DllGetClassObject
-DllGetClassObjectMirage
-InjectDependency

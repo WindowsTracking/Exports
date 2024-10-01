@@ -18,6 +18,7 @@ ColorCplSaveAssociationList
 ColorCplSetUsePerUserProfiles
 ColorCplUninitialize
 ColorProfileAddDisplayAssociation
+ColorProfileGetDeviceCapabilities
 ColorProfileGetDisplayDefault
 ColorProfileGetDisplayList
 ColorProfileGetDisplayUserScope
@@ -75,6 +76,7 @@ InternalGetPS2CSAFromLCS
 InternalGetPS2PreviewCRD
 InternalGetPS2PreviewCRD2
 InternalRefreshCalibration
+InternalSetAccessibilityColorMatrix
 InternalSetDeviceConfig
 InternalSetDeviceGammaRamp
 InternalSetDeviceGDIGammaRamp

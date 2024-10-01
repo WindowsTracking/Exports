@@ -4,3 +4,4 @@ DllRegisterServer
 DllUnregisterServer
 GetProviderClassID
 MI_Main
+SetServiceCallback

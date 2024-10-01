@@ -1,0 +1,7 @@
+DllCanUnloadNow
+DllGetActivationFactory
+DllMain
+GetErrorContextIndex
+OverrideXamlMetadataProvider
+OverrideXamlResourcePropertyBag
+XamlCheckProcessRequirements

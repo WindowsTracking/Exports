@@ -43,10 +43,12 @@ MFCreateAsyncResult
 MFCreateAttributes
 MFCreateAudioMediaType
 MFCreateByteStreamHandlerAppServiceActivate
+MFCreateByteStreamHandlerInprocActivate
 MFCreateCollection
 MFCreateContentDecryptorContext
 MFCreateContentProtectionDevice
 MFCreateD3D12SynchronizationObject
+MFCreateDXGICrossAdapterBuffer
 MFCreateDXGIDeviceManager
 MFCreateDXGISurfaceBuffer
 MFCreateDXSurfaceBuffer
@@ -133,6 +135,7 @@ MFGetConfigurationPolicy
 MFGetConfigurationStore
 MFGetConfigurationString
 MFGetContentProtectionSystemCLSID
+MFGetDXGIDeviceManageMode
 MFGetMFTMerit
 MFGetNumericNameFromSockaddr
 MFGetPlaneSize

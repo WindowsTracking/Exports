@@ -5,6 +5,7 @@ BCryptConfigureContext
 BCryptConfigureContextFunction
 BCryptCreateContext
 BCryptCreateHash
+BCryptCreateMultiHash
 BCryptDecrypt
 BCryptDeleteContext
 BCryptDeriveKey
@@ -37,6 +38,7 @@ BCryptImportKey
 BCryptImportKeyPair
 BCryptKeyDerivation
 BCryptOpenAlgorithmProvider
+BCryptProcessMultiOperations
 BCryptQueryContextConfiguration
 BCryptQueryContextFunctionConfiguration
 BCryptQueryContextFunctionProperty

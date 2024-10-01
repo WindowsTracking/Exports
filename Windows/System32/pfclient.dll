@@ -20,6 +20,10 @@ MemWatcherQueryMetrics
 MemWatcherSetThresholds
 MemWatcherStart
 PfIuHistoryGet
+PfIuHistoryGetEx
+PfIuPredictFirstLongestRange
+PfIuPredictionsDataClose
+PfIuPredictionsDataOpen
 PfIuRestartAcceptable
 PfIuUptimeStatsGet
 PfRpcSendCommand

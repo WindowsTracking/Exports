@@ -1,6 +1,0 @@
-DllCanUnloadNow
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-Dot3ACCanShowBalloon
-Dot3ACOnBalloonClick

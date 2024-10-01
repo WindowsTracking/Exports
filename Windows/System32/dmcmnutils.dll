@@ -3,7 +3,9 @@ BinaryToHexString
 ComputeHmac
 CopyString
 CreateBstrArray
+CreateRebootCSPTasksFromRegistry
 DecodeBase64W
+DeleteRebootCSPTaskInRegistry
 DmCancelGetUserPermissionAsync
 DmCheckIfAadAccountLoggedOn
 DmCopyDirectoryRecursive
@@ -15,6 +17,7 @@ DmEnableTask
 DmEnumUsers
 DmExecuteProcessAndCollect
 DmGenerateAttestationClaims
+DmGenerateMaaAttestationClaims
 DmGetAadDeviceMdmEnrollmentResourceUrlWithDiscovery
 DmGetAadDeviceToken
 DmGetAadDeviceTokenWithDiscovery
@@ -22,6 +25,7 @@ DmGetAadEnrollmentResource
 DmGetAadUserToken
 DmGetActiveUserSid
 DMGetClientHardwareUID
+DmGetCorrelationVectorForDmSession
 DmGetCurrentUserSid
 DmGetCurrentUserToken
 DMGetDeviceClientID
@@ -29,7 +33,10 @@ DmGetEnrollmentTypeName
 DmGetEnrollmentTypeValue
 DmGetFileSize
 DmGetIMEI
+DmGetKeyFromContext
+DmGetKeyNameFromContext
 DmGetSmbiosSerialNumber
+DmGetTargetAik
 DmGetTpmInfo
 DmGetTpmIsAlgorithmSupported
 DmGetTpmState
@@ -41,6 +48,7 @@ DmGetUserTokenFromSid
 DmImpersonate
 DmInformUser
 DmInitializeContainer
+DmInitializeCVForLocalConfigSession
 DmInvalidateAadDeviceToken
 DmInvalidateAadUserToken
 DmIsDeviceConnected
@@ -90,7 +98,6 @@ Hash_Get
 Hash_Insert
 Hash_SetBucketThreshold
 HexStringToBinary
-InitializeCVForLocalConfigSession
 InvStrCmpIW
 InvStrCmpNIW
 InvStrCmpNW
@@ -118,3 +125,4 @@ SafeWideCharToMultiByte
 SetConnectionPriority
 SetPolicy
 UnicodeToMB
+WriteRebootCSPTaskToRegistry

@@ -23,7 +23,11 @@ WinHttpConnectionSetPolicyEntries
 WinHttpConnectionSetProxyInfo
 WinHttpConnectionUpdateIfIndexTable
 WinHttpCrackUrl
+WinHttpCreateProxyList
+WinHttpCreateProxyManager
 WinHttpCreateProxyResolver
+WinHttpCreateProxyResult
+WinHttpCreateUiCompatibleProxyString
 WinHttpCreateUrl
 WinHttpDetectAutoProxyConfigUrl
 WinHttpFreeProxyResult
@@ -47,6 +51,9 @@ WinHttpOpen
 WinHttpOpenRequest
 WinHttpPacJsWorkerMain
 WinHttpProbeConnectivity
+WinHttpProtocolCompleteUpgrade
+WinHttpProtocolReceive
+WinHttpProtocolSend
 WinHttpQueryAuthSchemes
 WinHttpQueryConnectionGroup
 WinHttpQueryDataAvailable
@@ -58,8 +65,10 @@ WinHttpReadDataEx
 WinHttpReadProxySettings
 WinHttpReadProxySettingsHvsi
 WinHttpReceiveResponse
+WinHttpRefreshProxySettings
 WinHttpRegisterProxyChangeNotification
 WinHttpResetAutoProxy
+WinHttpResolverGetProxyForUrl
 WinHttpSaveProxyCredentials
 WinHttpSendRequest
 WinHttpSetCredentials

@@ -1,6 +1,0 @@
-HandleWNFEventWrapper
-Initialize
-NotifyTimerExpiryWithId
-ProcessNextEventJsonBuilder
-SetParameter
-Uninitialize

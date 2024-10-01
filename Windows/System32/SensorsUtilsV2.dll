@@ -37,11 +37,13 @@ GetSystemTableInfo
 GetTimeStampFromFileTime
 InitPropVariantFromCLSIDArray
 InitPropVariantFromFloat
+InitPropVariantFromFloatVector
 IsCollectionListSame
 IsGUIDPresentInList
 IsKeyPresentInCollectionList
 IsKeyPresentInPropertyList
 IsSensorSubscribed
+IsTestSigningOn
 MapActivityConfidenceToState
 PropertiesListCopy
 PropertiesListGetFillableCount
@@ -60,6 +62,7 @@ PropKeyFindKeyGetUlong
 PropKeyFindKeyGetUshort
 PropKeyFindKeySetPropVariant
 PropVariantGetInformation
+PropVariantToFloatVector
 SensorCollectionGetAt
 SensorsQueryDeviceCompatFlags
 SensorsQueryDeviceCompatFlagsUsingSmbiosInformation

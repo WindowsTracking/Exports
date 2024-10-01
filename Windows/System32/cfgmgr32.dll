@@ -272,10 +272,12 @@ DevGetObjectsEx
 DevSetObjectProperties
 SwDeviceClose
 SwDeviceCreate
+SwDeviceGetAttributes
 SwDeviceGetLifetime
 SwDeviceInterfacePropertySet
 SwDeviceInterfaceRegister
 SwDeviceInterfaceSetState
 SwDevicePropertySet
+SwDeviceSetAttributes
 SwDeviceSetLifetime
 SwMemFree

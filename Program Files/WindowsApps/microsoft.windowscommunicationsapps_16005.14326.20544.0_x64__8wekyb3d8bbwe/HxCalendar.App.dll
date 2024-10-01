@@ -1,7 +1,0 @@
-?InitializeHostedSharedAppServices@Calendar@Hx@@YAXXZ
-?InitializeHostedUIAppServices@Calendar@Hx@@YAXXZ
-?ShutdownHostedSharedAppServices@Calendar@Hx@@YAXXZ
-?ShutdownHostedUIAppServices@Calendar@Hx@@YAXXZ
-DllCanUnloadNow
-DllGetActivationFactory
-LaunchHxCalendarApp

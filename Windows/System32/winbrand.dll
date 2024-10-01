@@ -9,6 +9,7 @@ BrandingLoadString
 BrandingLoadStringForEdition
 EulaFreeBuffer
 GetEULAFile
+GetEULAFileEx
 GetEULAInCurrentUILanguage
 GetHinstanceByNameSpace
 GetInstalledEULAPath

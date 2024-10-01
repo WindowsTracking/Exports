@@ -91,6 +91,7 @@ HamServicingClosePackageHandle
 HamServicingEnableServicing
 HamServicingOpenPackageHandle
 HamServicingQueryActiveAppsInPackage
+HamServicingQueryPackageState
 HamServicingTerminatePackage
 HamSessionStateLogoffSession
 HamSessionStateLogoffUser
@@ -109,6 +110,7 @@ HamTerminateSelfEx
 HamTerminateSelfOnProcessExit
 HamTryEstimateRemainingQuiesceTime
 HamUpdateActivityProperties
+IsActivityCoordinatorResourceSupported
 RmAccessCheck
 RmAccessCheckOnSelf
 RmAcquireResources
@@ -119,10 +121,8 @@ RmActivityImportanceTakeMostImportant
 RmApplyResourceSet
 RmApplyResourceSetToHost
 RmAvailabilityCheck
-RmConnectProcessManager
 RmConnectToResourceManager
 RmDisconnectFromResourceManager
-RmDisconnectProcessManager
 RmEnableLimits
 RmGameModeDisableForRegisteredProcess
 RmGameModeDisableForRegisteredProcessById
@@ -148,7 +148,6 @@ RmResourceLimitFlagsInitialize
 RmResourceLimitsInitialize
 RmResourceSetPropertiesInitialize
 RmSetHostLimit
-RmSetProcessManagement
 RmUnregisterActivityHost
 RmUnregisterActivityHostCallbacks
 RmUnregisterForGameMode

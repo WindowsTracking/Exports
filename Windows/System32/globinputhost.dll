@@ -6,6 +6,7 @@ WGIGetInputLanguagesForAllUsers
 WGIGetInputMethodDescription
 WGIGetInputMethodProperties
 WGIGetInputMethodTileName
+WGIGetUserLanguageInputMethods
 WGIIsImeInputMethod
 WGIIsImeScript
 WGIIsImmersiveInputMethod

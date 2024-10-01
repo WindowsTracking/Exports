@@ -31,6 +31,7 @@ DriverStoreEnumW
 DriverStoreFindW
 DriverStoreGetObjectPropertyKeysW
 DriverStoreGetObjectPropertyW
+DriverStoreGetParameter
 DriverStoreImportW
 DriverStoreMountNodeW
 DriverStoreOfflineAddDriverPackageA
@@ -49,11 +50,13 @@ DriverStoreRunDllW
 DriverStoreSelectNodeW
 DriverStoreSetLogContext
 DriverStoreSetObjectPropertyW
+DriverStoreSetParameter
 DriverStoreUnconfigureW
 DriverStoreUnmountNodeW
 DriverStoreUnpublishW
 DriverStoreUnreflectCriticalW
 DriverStoreUnreflectW
 DriverStoreUpdateDevicesW
+DriverStoreVerifyIntegrityW
 pServerDeleteDriverPackage
 pServerImportDriverPackage

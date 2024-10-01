@@ -1,6 +1,0 @@
-DecryptNormalMode
-DecryptRecoveryMode
-GetSidProtectionString
-LogonWithCredentials
-ProcessCurrentPolicy
-ResetPassword

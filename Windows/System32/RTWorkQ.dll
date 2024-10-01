@@ -4,7 +4,6 @@ RtwqAllocateWorkQueue
 RtwqBeginRegisterWorkQueueWithMMCSS
 RtwqBeginUnregisterWorkQueueWithMMCSS
 RtwqCancelDeadline
-RtwqCancelMultipleWaitingWorkItem
 RtwqCancelWorkItem
 RtwqCreateAsyncResult
 RtwqDebugGetOutstandingRefs
@@ -20,7 +19,6 @@ RtwqJoinWorkQueue
 RtwqLockPlatform
 RtwqLockSharedWorkQueue
 RtwqLockWorkQueue
-RtwqPutMultipleWaitingWorkItem
 RtwqPutWaitingWorkItem
 RtwqPutWorkItem
 RtwqRegisterPlatformEvents

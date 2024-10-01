@@ -7,6 +7,7 @@ FveAuthElementToRecoveryPasswordW
 FveAuthElementWriteExternalKeyExW
 FveAuthElementWriteExternalKeyW
 FveCanPinExceptionPolicyBeApplied
+FveClearRecoveryPasswordBackupInformation
 FveClearUserFlags
 FveCloseHandle
 FveCloseVolume
@@ -27,12 +28,14 @@ FveGetAllowKeyExport
 FveGetAuthMethodGuids
 FveGetAuthMethodInformation
 FveGetDataSet
+FveGetDataSetEx
 FveGetFipsAllowDisabled
 FveGetFveMethod
 FveGetFveMethodEDrv
 FveGetFveMethodEx
 FveGetIdentity
 FveGetKeyPackage
+FveGetRecoveryPasswordBackupAccountInformation
 FveGetStatus
 FveGetStatusW
 FveGetUserFlags
@@ -52,6 +55,7 @@ FveSelectBestRecoveryPasswordByBackupInformation
 FveSetAllowKeyExport
 FveSetFipsAllowDisabled
 FveSetFveMethod
+FveSetRecoveryPasswordBackupAccountInformation
 FveSetRecoveryPasswordBackupInformation
 FveSetUserFlags
 FveUpgradeVolume

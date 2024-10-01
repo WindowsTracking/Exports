@@ -1524,6 +1524,7 @@
 ?BinarySearch@?$ArrayList@PEAVString@UnBCL@@@UnBCL@@SAHPEAV12@PEAVString@2@PEAU?$IComparer@PEAVString@UnBCL@@@2@@Z
 ?BinarySearch@?$ArrayList@PEAVString@UnBCL@@@UnBCL@@UEAAHPEAVString@2@PEAU?$IComparer@PEAVString@UnBCL@@@2@@Z
 ?BlocksAllocated@Allocator@UnBCL@@SAII@Z
+?BlocksAllocatedByMap@Allocator@UnBCL@@SAIK@Z
 ?CanRegister@SerializationStream@UnBCL@@SAHXZ
 ?CharToOemA@?$CStringT@GV?$StrTraitATL@GV?$ChTraitsCRT@G@ATL@@@ATL@@@ATL@@QEAAXXZ
 ?CheckImplicitLoad@?$CStringT@GV?$StrTraitATL@GV?$ChTraitsCRT@G@ATL@@@ATL@@@ATL@@AEAA_NPEBX@Z
@@ -1679,6 +1680,9 @@
 ?DeleteSubKey@RegistryKey@UnBCL@@QEAAXPEBVString@2@H@Z
 ?DeleteSubKeyTree@RegistryKey@UnBCL@@QEAAXPEBVString@2@@Z
 ?DeleteValue@RegistryKey@UnBCL@@QEAAXPEBVString@2@@Z
+?Detach@BufferedStream@UnBCL@@UEAAPEAVStream@2@XZ
+?Detach@FileStream@UnBCL@@UEAAPEAXXZ
+?Detach@SerializationStream@UnBCL@@QEAAPEAVStream@2@XZ
 ?Dispose@BufferedStream@UnBCL@@UEAAXXZ
 ?Dispose@FileStream@UnBCL@@UEAAXXZ
 ?Dispose@MemoryStream@UnBCL@@UEAAXXZ
@@ -1694,6 +1698,7 @@
 ?Dump@HeapMemoryManager@UnBCL@@UEAAIPEAUILogHandler@@@Z
 ?DumpDelta@Allocator@UnBCL@@SAIPEAUILogHandler@@I@Z
 ?DumpDelta@HeapMemoryManager@UnBCL@@UEAAIPEAUILogHandler@@@Z
+?DumpDeltaByMap@Allocator@UnBCL@@SAIPEAUILogHandler@@K@Z
 ?Empty@?$CSimpleStringT@G$0A@@ATL@@QEAAXXZ
 ?EnableDelayedDeallocation@Allocator@UnBCL@@QEAAXH@Z
 ?EnableDelayedDeallocation@HeapMemoryManager@UnBCL@@UEAAXH@Z
@@ -2083,6 +2088,7 @@
 ?GetTemporaryFileName@File@UnBCL@@SAPEAVString@2@PEBV32@@Z
 ?GetTempPathName@Directory@UnBCL@@SAPEAVString@2@XZ
 ?GetThisThread@Thread@UnBCL@@SAPEAV12@XZ
+?GetThreadDefaultHeap@Object@UnBCL@@SAIXZ
 ?GetType@Object@UnBCL@@UEBAPEAVType@2@XZ
 ?GetTypeName@?$SerializableBase@V?$Array@E@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?NewLarvalArray@?$StaticArrayOps@E@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@UEBAPEBVString@2@XZ
 ?GetTypeName@?$SerializableBase@V?$Array@G@UnBCL@@$0A@V?$SimpleInstanceFactory@$1?NewLarvalArray@?$StaticArrayOps@G@_@UnBCL@@SAPEAUISerializable@4@XZ@2@@UnBCL@@UEBAPEBVString@2@XZ
@@ -2454,10 +2460,12 @@
 ?SetOOMHandler@Allocator@UnBCL@@SAXPEAUIOutOfMemoryHandler@@@Z
 ?SetRef@Allocator@UnBCL@@SAXI@Z
 ?SetRef@HeapMemoryManager@UnBCL@@UEAAXXZ
+?SetRefByMap@Allocator@UnBCL@@SAXK@Z
 ?SetSize@FileStream@UnBCL@@UEAAX_J@Z
 ?SetString@?$CSimpleStringT@G$0A@@ATL@@QEAAXPEBG@Z
 ?SetString@?$CSimpleStringT@G$0A@@ATL@@QEAAXPEBGH@Z
 ?SetSysString@?$CStringT@GV?$StrTraitATL@GV?$ChTraitsCRT@G@ATL@@@ATL@@@ATL@@QEBAPEAGPEAPEAG@Z
+?SetThreadDefaultHeap@Object@UnBCL@@SAXI@Z
 ?SetValue@?$Array@E@UnBCL@@UEAAXEH@Z
 ?SetValue@?$Array@G@UnBCL@@UEAAXGH@Z
 ?SetValue@?$Array@H@UnBCL@@UEAAXHH@Z
@@ -2587,6 +2595,7 @@
 ?UnregisterType@SerializationStream@UnBCL@@SAXPEBVString@2@HPEAUHINSTANCE__@@@Z
 ?Validate@Allocator@UnBCL@@SAXI@Z
 ?Validate@HeapMemoryManager@UnBCL@@UEAAXXZ
+?ValidateByMap@Allocator@UnBCL@@SAXK@Z
 ?ValueDestroy@?$Hashtable@PEAVString@UnBCL@@PEAV12@@UnBCL@@IEBAXPEAVString@2@@Z
 ?ValueEquals@?$Hashtable@PEAVString@UnBCL@@PEAV12@@UnBCL@@IEBAHPEAVString@2@0@Z
 ?Wait@Monitor@UnBCL@@SAHPEAVSyncObject@2@@Z

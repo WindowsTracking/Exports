@@ -3,6 +3,7 @@ CopyNBestCorrectionGraph
 CreateCustomUnimicSource
 CreateEngine
 CreateEngineConfig
+CreateEngineConfigWithCallback
 CreateIntentRecognizer
 CreateIntentRecognizerInternal
 CreateNBestPostprocessor
@@ -18,6 +19,7 @@ CreateUnimicITNTransformer
 CreateUnimicLIDResult
 CreateUnimicSinkToSplitChannelWaveFiles
 CreateUnimicSinkToWaveFile
+CreateUnimicSourceAligner
 CreateUnimicSourceFromMFCFile
 CreateUnimicSourceFromSplitChannelWaveFiles
 CreateUnimicSourceFromWaveFile
@@ -31,6 +33,7 @@ DeleteUnimicDecoderNBest
 DeleteUnimicFilter
 DeleteUnimicSink
 DeleteUnimicSource
+DeleteUnimicSourceAligner
 DestroyUnimicDecoderSFLM
 DestroyUnimicDecoderSFLMCluster
 DestroyUnimicForcedAlignment
@@ -42,12 +45,17 @@ GetConfigCopy
 GetEnginePerfCountersJsonStr
 GetEntities
 GetEntityCount
+GetErrKeywordCount
+GetErrKeywords
 GetErrorMessage
 GetFloatValue
 GetIntent
 GetIntentLength
+GetKeywordCount
+GetKeywords
 GetNBestConfScores
 GetNBestEntryLength
+GetNBestKeywordType
 GetNBestSentenceLength
 GetPerfCountersJsonStr
 GetPostprocessedNBest
@@ -71,6 +79,7 @@ GetUnimicDecoderNBestSentence
 GetUnimicDecoderNBestSentenceLanguageID
 GetUnimicDecoderNBestWordLID
 GetUnimicDecoderTelemetry
+GetUnimicFilterAlignReadPosInMs
 GetUnimicFilterInputPortCount
 GetUnimicFilterMillisecondsPerFrame
 GetUnimicFilterOutputPort
@@ -83,6 +92,7 @@ InitializeLogger
 IsEngineStarted
 JoinEngine
 ReadUnimicSource
+ResetEnginePerfCounter
 ResetUnimicDecoder
 RunIntentRecognizer
 RunUnimicDecoder
@@ -94,5 +104,6 @@ SetNBestPostprocessorSpec
 SetStringValue
 SetUIntValue
 SetUnimicFilterInputPort
+SetUserDefinedKeywords
 StartEngine
 WriteUnimicSink

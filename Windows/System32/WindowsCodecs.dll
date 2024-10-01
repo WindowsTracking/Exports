@@ -1,3 +1,5 @@
+DllCanUnloadNow
+DllFreeCodecResources
 DllGetClassObject
 IEnumString_Next_WIC_Proxy
 IEnumString_Reset_WIC_Proxy

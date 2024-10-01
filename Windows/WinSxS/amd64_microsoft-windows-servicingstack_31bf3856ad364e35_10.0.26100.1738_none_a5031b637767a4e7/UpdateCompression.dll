@@ -1,0 +1,9 @@
+ApplyDeltaB
+ApplyDeltaGetReverseB
+ApplyDeltaProvidedB
+CreateDeltaB
+DeltaFree
+DeltaNormalizeProvidedB
+GetDeltaInfoB
+GetDeltaInfoExB
+GetDeltaSignatureB

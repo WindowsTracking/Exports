@@ -70,8 +70,11 @@ SaslInitializeSecurityContextA
 SaslInitializeSecurityContextW
 SaslSetContextOption
 SealMessage
+SecAllocateAndSetCallTarget
+SecAllocateAndSetIPAddress
 SecCacheSspiPackages
 SecDeleteUserModeContext
+SecFreeCallContext
 SeciAllocateAndSetCallFlags
 SeciAllocateAndSetCallTarget
 SeciAllocateAndSetIPAddress

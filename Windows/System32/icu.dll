@@ -109,6 +109,7 @@ u_strFromUTF8Lenient
 u_strFromUTF8WithSub
 u_strFromWCS
 u_strHasMoreChar32Than
+u_stringHasBinaryProperty
 u_strlen
 u_strncasecmp
 u_strncat
@@ -191,6 +192,7 @@ ubiditransform_close
 ubiditransform_open
 ubiditransform_transform
 ublock_getCode
+ubrk_clone
 ubrk_close
 ubrk_countAvailable
 ubrk_current
@@ -238,6 +240,7 @@ ucal_getNow
 ucal_getTimeZoneDisplayName
 ucal_getTimeZoneID
 ucal_getTimeZoneIDForWindowsID
+ucal_getTimeZoneOffsetFromLocal
 ucal_getTimeZoneTransitionDate
 ucal_getType
 ucal_getTZDataVersion
@@ -289,6 +292,7 @@ ucnv_cbFromUWriteSub
 ucnv_cbFromUWriteUChars
 ucnv_cbToUWriteSub
 ucnv_cbToUWriteUChars
+ucnv_clone
 ucnv_close
 ucnv_compareNames
 ucnv_convert
@@ -362,6 +366,7 @@ ucnvsel_openFromSerialized
 ucnvsel_selectForString
 ucnvsel_selectForUTF8
 ucnvsel_serialize
+ucol_clone
 ucol_cloneBinary
 ucol_close
 ucol_closeElements
@@ -499,6 +504,7 @@ udatpg_getBestPattern
 udatpg_getBestPatternWithOptions
 udatpg_getDateTimeFormat
 udatpg_getDecimal
+udatpg_getDefaultHourCycle
 udatpg_getFieldDisplayName
 udatpg_getPatternForSkeleton
 udatpg_getSkeleton
@@ -515,9 +521,12 @@ udatpg_setDecimal
 udtitvfmt_close
 udtitvfmt_closeResult
 udtitvfmt_format
+udtitvfmt_formatToResult
+udtitvfmt_getContext
 udtitvfmt_open
 udtitvfmt_openResult
 udtitvfmt_resultAsValue
+udtitvfmt_setContext
 uenum_close
 uenum_count
 uenum_next
@@ -724,7 +733,18 @@ unumf_openResult
 unumf_resultAsValue
 unumf_resultGetAllFieldPositions
 unumf_resultNextFieldPosition
+unumf_resultToDecimalNumber
 unumf_resultToString
+unumrf_close
+unumrf_closeResult
+unumrf_formatDecimalRange
+unumrf_formatDoubleRange
+unumrf_openForSkeletonWithCollapseAndIdentityFallback
+unumrf_openResult
+unumrf_resultAsValue
+unumrf_resultGetFirstDecimalNumber
+unumrf_resultGetIdentityResult
+unumrf_resultGetSecondDecimalNumber
 unumsys_close
 unumsys_getDescription
 unumsys_getName
@@ -903,6 +923,9 @@ uset_closeOver
 uset_compact
 uset_complement
 uset_complementAll
+uset_complementAllCodePoints
+uset_complementRange
+uset_complementString
 uset_contains
 uset_containsAll
 uset_containsAllCodePoints
@@ -914,9 +937,11 @@ uset_equals
 uset_freeze
 uset_getItem
 uset_getItemCount
+uset_getRangeCount
 uset_getSerializedRange
 uset_getSerializedRangeCount
 uset_getSerializedSet
+uset_hasStrings
 uset_indexOf
 uset_isEmpty
 uset_isFrozen
@@ -926,12 +951,15 @@ uset_openPattern
 uset_openPatternOptions
 uset_remove
 uset_removeAll
+uset_removeAllCodePoints
 uset_removeAllStrings
 uset_removeRange
 uset_removeString
 uset_resemblesPattern
 uset_retain
 uset_retainAll
+uset_retainAllCodePoints
+uset_retainString
 uset_serialize
 uset_serializedContains
 uset_set

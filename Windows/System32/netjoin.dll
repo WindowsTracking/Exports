@@ -26,7 +26,6 @@ NetpSetComputerAccountPassword
 NetpStopService
 NetpUnJoinDomain
 NetpUpdateAutoenrolConfig
-NetpUpgradePreNT5JoinInfo
 NetpValidateName
 NetRequestOfflineDomainJoin
 NetRequestProvisioningPackageInstall

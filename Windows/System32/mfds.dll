@@ -15,6 +15,7 @@ InitLPCMMiracastAudioStream_
 InitMpeg1VideoStream_
 InitMpeg2VideoStream_
 InitMpegAudioStream_
+InitMpegHAudioStream_
 InitTrueHDAudioStream_
 PackMuxRate
 PackSCR

@@ -13,11 +13,7 @@ WcmCloseOnDemandRequestHandle
 WcmDeleteAppBasedRoutePolicy
 WcmDeleteProxyInformation
 WcmDeprovisionCapability
-WcmEnterConnectedStandby
-WcmEnterNetQuiet
 WcmEnumInterfaces
-WcmExitConnectedStandby
-WcmExitNetQuiet
 WcmFreeMemory
 WcmGetInterfaceContextTable
 WcmGetProfileList

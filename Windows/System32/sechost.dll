@@ -164,6 +164,7 @@ LsaICLookupNames
 LsaICLookupNamesWithCreds
 LsaICLookupSids
 LsaICLookupSidsWithCreds
+LsaIOpenPolicyWithCreds
 LsaLookupClose
 LsaLookupFreeMemory
 LsaLookupGetDomainInfo
@@ -224,6 +225,7 @@ ReleaseIdentityProviderEnumContext
 RemoveTraceCallback
 ReparseServiceConfig
 RpcClientCapabilityCheck
+ScSendSynchronousPowerMessage
 SetLocalRpcServerInterfaceSecurity
 SetLocalRpcServerProtseqSecurity
 SetServiceObjectSecurity
@@ -237,6 +239,7 @@ StartTraceA
 StartTraceW
 StopTraceW
 SubscribeServiceChangeNotifications
+TraceConfigureLastBranchRecord
 TraceQueryInformation
 TraceSetInformation
 UnsubscribeServiceChangeNotifications

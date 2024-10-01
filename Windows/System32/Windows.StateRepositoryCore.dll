@@ -7,6 +7,7 @@ SRCache_Free
 SRCache_GetDefaultAccountSid
 SRCacheContext_AddToCache
 SRCacheContext_CacheInitialize
+SRCacheContext_CacheReset
 SRCacheContext_CacheShutdown
 SRCacheContext_Close
 SRCacheContext_Create

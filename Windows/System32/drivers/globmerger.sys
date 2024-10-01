@@ -1,0 +1,11 @@
+CimfsMountBootVolume
+CimfsMountBootVolume2
+CimfsSetBootInformation
+CompositefsFreeBootLayers
+CompositefsGetBootLayers
+CompositefsMountBootLayers
+CompositefsSetBootInformation
+DllInitialize
+DllUnload
+GlobMergeHive
+NtYieldExecution

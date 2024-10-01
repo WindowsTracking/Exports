@@ -120,6 +120,7 @@ FwParseAddressToken
 FwParseAllPortVersions
 FwParseICMPTypeCodes
 FwParseInterfaceType
+FwParseInterfaceTypeCsp
 FwPolioConvertIPv6SubNetToRange
 FwPolioCopyAuthSet
 FwPolioCopyWFAddressesContents

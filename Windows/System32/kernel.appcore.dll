@@ -2,6 +2,9 @@ AcquireStateLock
 AddDependencyToProcessPackageGraph
 AddExtensionProgId
 AddPackageDependency
+AddPackageDependency2
+AddPackageNameAliasesByPackageDependency
+AddPackageNameAliasesByPackageFullName
 AppContainerDeriveSidFromMoniker
 AppContainerFreeMemory
 AppContainerLookupDisplayNameMrtReference
@@ -55,6 +58,7 @@ EnumerateExtensionNames
 EnumerateStateAtomValues
 EnumerateStateContainerItems
 ExtensionProgIdExists
+FindPackageDependency
 FindPackagesByPackageFamily
 FormatApplicationUserModelId
 FormatApplicationUserModelIdA
@@ -75,6 +79,7 @@ GetCurrentPackageId
 GetCurrentPackageInfo
 GetCurrentPackageInfo2
 GetCurrentPackageInfo3
+GetCurrentPackageInfo_PackageNameAliases
 GetCurrentPackagePath
 GetCurrentPackagePath2
 GetCurrentPackageResourcesContext
@@ -94,6 +99,7 @@ GetPackageApplicationProperty
 GetPackageApplicationPropertyString
 GetPackageApplicationResourcesContext
 GetPackageContext
+GetPackageDependencyInformation
 GetPackageFamilyName
 GetPackageFamilyNameFromFilePath
 GetPackageFamilyNameFromProgId
@@ -107,6 +113,7 @@ GetPackageId
 GetPackageInfo
 GetPackageInfo2
 GetPackageInfo3
+GetPackageNameAliasesByPackageFullName
 GetPackageOSMaxVersionTested
 GetPackagePath
 GetPackagePathByFullName
@@ -124,11 +131,13 @@ GetPackageStatusForUser
 GetPackageStatusForUserSid
 GetPackageTargetPlatformProperty
 GetPackageVolumeSisPath
+GetProcessesUsingPackageDependency
 GetProtocolAumid
 GetProtocolProperty
 GetPublisherCacheFolder
 GetPublisherRootFolder
 GetResolvedPackageFullNameForPackageDependency
+GetResolvedPackageFullNameForPackageDependency2
 GetRoamingLastObservedChangeTime
 GetSecureSystemAppDataFolder
 GetSerializedAtomBytes
@@ -157,6 +166,8 @@ IsMrtResourceRedirectionEnabled
 IsOnDemandRegistrationSupportedForExtensionCategory
 IsSideloadingEnabled
 IsSideloadingPolicyApplied
+MsixIsSystemPackageByAppUserModelId
+MsixIsSystemPackageByPackageFullName
 OpenPackageInfoByFullName
 OpenPackageInfoByFullNameForMachine
 OpenPackageInfoByFullNameForUser
@@ -180,6 +191,7 @@ PackageIdFromProductId
 PackageIsEffectiveSupportedUsersMultiple
 PackageNameAndPublisherIdFromFamilyName
 PackageNameAndPublisherIdFromFamilyNameA
+PackagePublisherAddUserIfNecessary
 PackagePublisherIdFromPublisher
 PackageRelativeApplicationIdFromProductId
 PackageSidFromFamilyName
@@ -229,6 +241,7 @@ SetStateVersion
 SharedLocalIsEnabled
 SubscribeStateChangeNotification
 TryCreatePackageDependency
+TryCreatePackageDependency2
 UnregisterStateChangeNotification
 UnregisterStateLock
 UnsubscribeStateChangeNotification
@@ -243,6 +256,8 @@ VerifyPackageFullName
 VerifyPackageFullNameA
 VerifyPackageId
 VerifyPackageIdA
+VerifyPackageName
+VerifyPackageNameA
 VerifyPackagePublisher
 VerifyPackagePublisherA
 VerifyPackageRelativeApplicationId
