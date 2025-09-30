@@ -141,7 +141,9 @@ TpmSetInstance
 TpmSetPhysicalPresenceRequest
 TpmSetPhysicalPresenceRequestEx
 TpmSetToLegacyDictionaryAttackParameters
+TpmSyncEkCertStores
 TpmTakeOwnership
+TpmTaskLogInformation
 TpmUnattendedSetup
 TpmVerifyDeviceHealth
 TpmWriteInformationSnapshotFile

@@ -444,7 +444,6 @@ LsaICLookupNamesWithCreds
 LsaICLookupSids
 LsaICLookupSidsWithCreds
 LsaInvokeTrustScanner
-LsaIOpenPolicyWithCreds
 LsaIsUserArsoAllowed
 LsaIsUserArsoEnabled
 LsaLookupNames
@@ -463,12 +462,15 @@ LsaOpenSecret
 LsaOpenTrustedDomain
 LsaOpenTrustedDomainByName
 LsaProfileDeleted
+LsaPurgeLocalSystemAccessTable
 LsaQueryCAPs
 LsaQueryDomainInformationPolicy
 LsaQueryForestTrustInformation
 LsaQueryForestTrustInformation2
 LsaQueryInformationPolicy
 LsaQueryInfoTrustedDomain
+LsaQueryLocalSystemAccess
+LsaQueryLocalSystemAccessAll
 LsaQuerySecret
 LsaQuerySecurityObject
 LsaQueryTrustedDomainInfo
@@ -482,6 +484,7 @@ LsaSetForestTrustInformation
 LsaSetForestTrustInformation2
 LsaSetInformationPolicy
 LsaSetInformationTrustedDomain
+LsaSetLocalSystemAccess
 LsaSetQuotasForAccount
 LsaSetSecret
 LsaSetSecurityObject

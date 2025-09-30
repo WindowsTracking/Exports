@@ -1,5 +1,0 @@
-MediaVRCreateORTCRenderer
-MediaVRDestroyORTCRenderer
-MediaVRGetORTCRenderContext
-MediaVRRequestKeyFrame
-MediaVRSetDecodingHealth

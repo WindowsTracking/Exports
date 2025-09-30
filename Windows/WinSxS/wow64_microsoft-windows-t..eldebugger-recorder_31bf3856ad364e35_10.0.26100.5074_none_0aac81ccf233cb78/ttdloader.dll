@@ -1,0 +1,6 @@
+GetCfgPointers
+InjectThread
+ParametersBlock
+StubDllEntry
+StubDllEntryWow64
+TriggerOSNotification

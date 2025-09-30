@@ -1,0 +1,4 @@
+DLL_GetResourceStringById
+DllCanUnloadNow
+DllGetActivationFactory
+GetSetting

@@ -1,4 +1,5 @@
 _BioLogonIdentifiedUser
+EXPERIMENTAL_WinBioGetEssState
 WinBioAcquireFocus
 WinBioAsyncEnumBiometricUnits
 WinBioAsyncEnumDatabases
@@ -15,6 +16,7 @@ WinBioConsumeFactorDeletedByService
 WinBioControlUnit
 WinBioControlUnitPrivileged
 WinBioDeleteTemplate
+WinBioDeleteVtl0Containers
 WinBioDiscardTicket
 WinBioEnrollAuthorize
 WinBioEnrollBegin

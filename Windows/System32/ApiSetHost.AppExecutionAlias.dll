@@ -17,6 +17,7 @@ GetAppExecutionAliasPackageFullNameEx
 GetAppExecutionAliasPath
 GetAppExecutionAliasPathEx
 LoadAppExecutionAliasInfoEx
+LoadAppExecutionAliasInfoEx2
 OpenAppExecutionAliasForUserEx
 PerformAppxLicenseRundownEx
 PersistAppExecutionAliasToFileEx

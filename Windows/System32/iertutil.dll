@@ -300,6 +300,7 @@ IEGetProcessModule
 IEGetTabWindowExports
 ImpersonateUser
 IntlPercentEncodeNormalize
+IsDriveAndNotIPv6
 IsDWORDProperty
 IsStringProperty
 IUriBuilderInternalCreateDomain

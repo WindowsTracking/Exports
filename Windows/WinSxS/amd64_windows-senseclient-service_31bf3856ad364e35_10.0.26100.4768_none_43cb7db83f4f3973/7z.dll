@@ -1,0 +1,13 @@
+CreateDecoder
+CreateEncoder
+CreateObject
+GetHandlerProperty
+GetHandlerProperty2
+GetHashers
+GetIsArc
+GetMethodProperty
+GetNumberOfFormats
+GetNumberOfMethods
+SetCaseSensitive
+SetCodecs
+SetLargePageMode

@@ -1,0 +1,6 @@
+MpAzStorageLibraryCreate
+MpAzStorageLibraryOperation
+MpAzStorageLibraryRelease
+MpAzSubmitBlobInitialize
+MpAzSubmitBlobUninitialize
+MpAzSubmitBlobUpload

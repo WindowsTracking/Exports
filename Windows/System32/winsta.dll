@@ -22,6 +22,7 @@ _WinStationUpdateClientCachedCredentials
 _WinStationUpdateSettings
 _WinStationUpdateUserConfig
 _WinStationWaitForConnect
+_WinStationWaitForConnectEx
 LogonIdFromWinStationNameA
 LogonIdFromWinStationNameW
 RemoteAssistancePrepareSystemRestore
@@ -44,6 +45,7 @@ ServerQueryInetConnectorInformationA
 ServerQueryInetConnectorInformationW
 ServerSetInternetConnectorStatus
 WinStationActivateLicense
+WinStationActiveSessionExists
 WinStationAutoReconnect
 WinStationBroadcastSystemMessage
 WinStationCheckAccess

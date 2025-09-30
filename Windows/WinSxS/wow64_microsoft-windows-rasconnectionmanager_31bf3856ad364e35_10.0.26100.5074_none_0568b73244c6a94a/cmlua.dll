@@ -1,0 +1,10 @@
+_GetCoCreateInstanceAsAdminHandle
+_RemoveShieldIcon
+_SetShieldButton
+_SetShieldIcon
+_ThrowErrorBox
+DllAddRef
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRelease

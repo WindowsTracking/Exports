@@ -31,7 +31,9 @@ SamiChangeKeys
 SamiChangePasswordUser
 SamiChangePasswordUser2
 SamiEncryptPasswords
+SamiFindOrCreateShadowAdminAccount
 SamiGetBadPasswordErrorMessage
+SamiIsShadowAdminAccount
 SamiLmChangePasswordUser
 SamiSetBootKeyInformation
 SamiSetDSRMPassword

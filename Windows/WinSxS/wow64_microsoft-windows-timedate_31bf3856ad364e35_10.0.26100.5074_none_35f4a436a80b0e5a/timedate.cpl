@@ -1,0 +1,6 @@
+CPlApplet
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer
+GetProxyDllInfo

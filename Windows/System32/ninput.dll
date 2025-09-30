@@ -5,6 +5,8 @@
 #2504
 #2505
 #2506
+#2507
+#2508
 AddPointerInteractionContext
 BufferPointerPacketsInteractionContext
 CreateInteractionContext

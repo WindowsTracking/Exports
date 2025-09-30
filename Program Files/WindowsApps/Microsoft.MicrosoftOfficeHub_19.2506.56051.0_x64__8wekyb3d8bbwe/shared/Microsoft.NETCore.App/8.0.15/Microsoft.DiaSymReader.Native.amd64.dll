@@ -1,0 +1,10 @@
+CreateNGenPdbWriter
+CreateSymReader
+CreateSymWriter
+DllCanUnloadNow
+DllGetClassObject
+DllGetClassObjectInternal
+DllRegisterServer
+DllUnregisterServer
+VSDllRegisterServer
+VSDllUnregisterServer

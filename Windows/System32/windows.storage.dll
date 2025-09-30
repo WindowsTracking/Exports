@@ -669,6 +669,7 @@ STORAGE_SHPathPrepareForWriteA
 STORAGE_SHPathPrepareForWriteW
 STORAGE_SHValidateMSUri
 StorageItemHelpers_IsSupportedRemovablePath
+Stream_ReadStringCoAllocW
 Stream_ReadStringW
 Stream_WriteStringW
 SVIDFromViewMode

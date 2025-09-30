@@ -1,3 +1,5 @@
+DllCanUnloadNow
+DllGetClassObject
 NgcAreCacheTypeApiFlagsValid
 NgcAreNCryptCacheTypeApiFlagsValid
 NgcAreStringsEqual
@@ -20,6 +22,7 @@ NgcIsCertTrustEnabled
 NgcIsCloudTrustEnabled
 NgcIsConsumerUser
 NgcIsInsecureTpm
+NgcIsPolicyEnabled
 NgcIsPostLogonCachingDisabled
 NgcPackGestureCollectionInputSerializationBuffer
 NgcSetBioProtectorUpdateNeeded

@@ -59,8 +59,10 @@ SensorSetThresholds
 SensorStart
 SensorStartCollection
 SensorStartHistory
+SensorStartStateChangeNotification
 SensorStop
 SensorStopHistory
+SensorStopStateChangeNotification
 SensorsUnregisterPowerNotifications
 SensorUnregisterDeviceRemovalNotification
 SensorUnregisterEvent

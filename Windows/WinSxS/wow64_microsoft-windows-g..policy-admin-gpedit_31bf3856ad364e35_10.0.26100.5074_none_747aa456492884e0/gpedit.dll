@@ -1,0 +1,12 @@
+#100
+#101
+#102
+#103
+BrowseForGPO
+CreateGPOLink
+DeleteAllGPOLinks
+DeleteGPOLink
+DllCanUnloadNow
+DllGetClassObject
+ExportRSoPData
+ImportRSoPData

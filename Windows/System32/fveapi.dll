@@ -111,6 +111,7 @@ FveNotifyVolumeAfterFormat
 FveOpenVolumeByHandle
 FveOpenVolumeExW
 FveOpenVolumeW
+FvePpfPredictionsUpdated
 FveProtectorTypeToFlags
 FveQuery
 FveQueryDeviceEncryptionSupport
@@ -125,6 +126,7 @@ FveSetAllowKeyExport
 FveSetDescriptionW
 FveSetFipsAllowDisabled
 FveSetFveMethod
+FveSetFveMethodEx
 FveSetIdentificationFieldW
 FveSetRecoveryPasswordBackupAccountInformation
 FveSetRecoveryPasswordBackupInformation

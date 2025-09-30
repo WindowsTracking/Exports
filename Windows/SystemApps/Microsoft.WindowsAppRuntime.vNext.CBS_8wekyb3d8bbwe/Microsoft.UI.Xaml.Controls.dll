@@ -1,0 +1,5 @@
+DeinitializeMUXC
+DllCanUnloadNow
+DllGetActivationFactory
+DllMain
+SendTelemetryOnSuspend

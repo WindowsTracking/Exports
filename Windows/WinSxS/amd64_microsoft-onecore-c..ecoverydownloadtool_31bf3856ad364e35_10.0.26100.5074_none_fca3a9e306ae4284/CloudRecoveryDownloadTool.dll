@@ -1,0 +1,4 @@
+CreateDeviceBundle
+DllGetClassObject
+DllMain
+ETW_TRACE_LOGGING_METADATA

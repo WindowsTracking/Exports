@@ -24,6 +24,7 @@ MFCallStackTracingRestoreSnapshot
 MFCallStackTracingTakeSnapshot
 MFCancelCreateFile
 MFCancelWorkItem
+MFCanEnableHWDRMByDefault
 MFCheckEnabledViaAppService
 MFClearLocalMFTs
 MFCombineSamples

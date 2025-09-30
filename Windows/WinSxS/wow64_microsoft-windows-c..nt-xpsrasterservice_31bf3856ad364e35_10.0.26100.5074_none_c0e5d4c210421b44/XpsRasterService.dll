@@ -1,0 +1,4 @@
+#1
+DllCanUnloadNow
+DllGetClassObject
+DrvPopulateFilterServices

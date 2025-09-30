@@ -46,6 +46,7 @@ SsCoreShareSetInfoForInstance
 SsCoreShareShutdownForScope
 SsCoreStartCsvVolumeDrain
 SsCoreStartInstance
+SsCoreStartInstanceEx
 SsCoreStopInstance
 SsCoreUninitialize
 SsCoreUnlockVolumes

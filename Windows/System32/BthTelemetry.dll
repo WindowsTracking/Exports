@@ -1,4 +1,5 @@
 BthCollectFingerprintInfo
+BthCollectRadioPerformanceInfo
 BthProcessEventDataDword
 BthProcessEventOccurrence
 BthProcessEventOccurrenceBthaddr

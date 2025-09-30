@@ -6,8 +6,10 @@ TelGetNumericPolicy
 TelGetRegionalSettingsValue
 TelGetStringPolicy
 TelGetWerTelemetryMode
+TelGetWerTelemetryModeWinRE
 TelIsOsInProcessorMode
 TelIsProcessorModeAllowed
 TelIsRestrictivePolicySet
 TelIsTelemetryTypeAllowed
+TelIsTelemetryTypeAllowedWinRE
 TelSetLocalTelemetrySetting

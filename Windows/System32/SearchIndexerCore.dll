@@ -114,6 +114,7 @@ sqlite3_hard_heap_limit64
 sqlite3_indexer_extensions_init
 sqlite3_interrupt
 sqlite3_is_interrupted
+sqlite3_key_v2
 sqlite3_keyword_check
 sqlite3_keyword_count
 sqlite3_keyword_name
@@ -151,6 +152,7 @@ sqlite3_progress_handler
 sqlite3_randomness
 sqlite3_realloc
 sqlite3_realloc64
+sqlite3_rekey_v2
 sqlite3_release_memory
 sqlite3_reset
 sqlite3_reset_auto_extension

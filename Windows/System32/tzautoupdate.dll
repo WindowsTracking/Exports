@@ -6,5 +6,6 @@ DllGetActivationFactory
 DllGetClassObject
 EnableTimeZoneAutoUpdate
 IsTimeZoneAutoUpdateEnabled
+ReadOneSettingsData
 ServiceMain
 SvchostPushServiceGlobals

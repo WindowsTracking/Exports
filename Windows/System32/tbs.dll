@@ -14,6 +14,7 @@ Tbsi_Is_Tpm_Present
 Tbsi_Physical_Presence_Command
 Tbsi_Revoke_Attestation
 Tbsi_ShaHash
+Tbsi_Tpm_Vendor_Maintenance_Mode
 Tbsip_Cancel_Commands
 Tbsip_Context_Close
 Tbsip_Submit_Command

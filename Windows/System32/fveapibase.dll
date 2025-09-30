@@ -55,6 +55,7 @@ FveSelectBestRecoveryPasswordByBackupInformation
 FveSetAllowKeyExport
 FveSetFipsAllowDisabled
 FveSetFveMethod
+FveSetFveMethodEx
 FveSetRecoveryPasswordBackupAccountInformation
 FveSetRecoveryPasswordBackupInformation
 FveSetUserFlags

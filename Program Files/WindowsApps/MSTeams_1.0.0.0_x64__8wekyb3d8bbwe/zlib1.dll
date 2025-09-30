@@ -6,6 +6,8 @@ z_compress2
 z_compressBound
 z_crc32
 z_crc32_combine
+z_crc32_combine_gen
+z_crc32_combine_op
 z_crc32_z
 z_deflate
 z_deflateBound

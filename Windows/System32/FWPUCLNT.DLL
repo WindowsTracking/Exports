@@ -44,6 +44,7 @@ FwpmEngineGetOption0
 FwpmEngineGetSecurityInfo0
 FwpmEngineOpen0
 FwpmEngineSetOption0
+FwpmEngineSetOption1
 FwpmEngineSetSecurityInfo0
 FwpmEventProviderCreate0
 FwpmEventProviderDestroy0

@@ -1,3 +1,4 @@
 DllMain
+GeneralizeForImaging
 ServiceMain
 SvchostPushServiceGlobals

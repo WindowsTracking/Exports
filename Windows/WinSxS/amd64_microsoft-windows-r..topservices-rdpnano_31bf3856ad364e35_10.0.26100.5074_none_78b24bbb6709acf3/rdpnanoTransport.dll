@@ -1,0 +1,6 @@
+CreateRdpUdpStreamWrapper
+CreateRdpWebSocketStreamWrapper
+DllMain
+FreeRdpUdpStreamWrapper
+FreeRdpWebSocketStreamWrapper
+RdpNanoInitialize2

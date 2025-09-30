@@ -134,6 +134,7 @@ DnsFreeWellKnownServers
 DnsFreeZtClientCertConfig
 DnsFreeZtConfig
 DnsFreeZtRules
+DnsFreeZtSettings
 DnsFreeZtTrustedCa
 DnsFreeZtTrustedServers
 DnsGetAdaptersInfo
@@ -180,6 +181,7 @@ DnsIsFlatRecord
 DnsIsNSECType
 DnsIsStatusRcode
 DnsIsStringCountValidForTextType
+DnsIsZtEnabled
 DnsLogEvent
 DnsMapRcodeToStatus
 DnsModifyRecordsInSet_A
@@ -288,7 +290,9 @@ DnsWriteQuestionToBuffer_UTF8
 DnsWriteQuestionToBuffer_W
 DnsWriteReverseNameStringForIpAddress
 DnsWriteReverseNameStringForIpAddressW
-Experimental_DnsIsZtEnabled
+DnsZtHelperGetSettings
+DnsZtHelperProcessClientCerts
+DnsZtNotifyDnscache
 ExtraInfo_Init
 Faz_AreServerListsInSameNameSpace
 FlushDnsPolicyUnreachableStatus

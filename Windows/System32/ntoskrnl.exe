@@ -2666,6 +2666,7 @@ RtlPrefixString
 RtlPrefixUnicodeString
 RtlQueryAllFeatureConfigurations
 RtlQueryAllInternalFeatureConfigurations
+RtlQueryAllInternalRuntimeFeatureConfigurations
 RtlQueryAtomInAtomTable
 RtlQueryDynamicTimeZoneInformation
 RtlQueryElevationFlags
@@ -2673,6 +2674,7 @@ RtlQueryFeatureConfiguration
 RtlQueryFeatureConfigurationChangeStamp
 RtlQueryImageFileKeyOption
 RtlQueryInformationAcl
+RtlQueryInternalFeatureConfiguration
 RtlQueryModuleInformation
 RtlQueryPackageClaims
 RtlQueryPackageIdentity

@@ -1,0 +1,10 @@
+CreateMemoryStream
+default_dnne_abort
+DeleteStream
+DetectFormat
+ExtractText
+FreeBuffer
+preload_runtime
+set_failure_callback
+try_preload_runtime
+WriteToStream

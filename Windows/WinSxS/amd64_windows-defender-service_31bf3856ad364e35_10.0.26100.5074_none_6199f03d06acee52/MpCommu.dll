@@ -1,0 +1,4 @@
+MpCommunicationCreateInstance
+MpCommunicationDownloadFile
+MpCommunicationInitialize
+MpCommunicationUninitialize

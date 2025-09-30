@@ -5,6 +5,7 @@ RasEapCreateConnectionPropertiesXml
 RasEapCreateMethodConfiguration
 RasEapCreateUserProperties
 RasEapCreateUserProperties2
+RasEapDeleteTimeStampWchar
 RasEapFreeMemory
 RasEapGetConfigBlobAndUserBlob
 RasEapGetCredentials
@@ -20,4 +21,7 @@ RasEapQueryInteractiveUIInputFields
 RasEapQueryUIBlobFromInteractiveUIInputFields
 RasEapQueryUserBlobFromCredentialInputFields
 RasEapSetRetryFlag
+RasEapSetTimeStampChar
+RasEapSetTimeStampWchar
+RasEapSortRasEntries
 RasEapUpdateServerConfig

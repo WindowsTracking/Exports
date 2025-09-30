@@ -1,0 +1,5 @@
+GetCfgPointers
+InjectThread
+ntdllLdrInitializeThunk
+ParametersBlock
+StubDllEntry

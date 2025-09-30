@@ -242,8 +242,6 @@ BlSiSetDrtmEnvironmentUnsafe
 BlStatusError
 BlStatusPrint
 BlStatusRegisterErrorHandler
-BlSvnGetApplicationSvn
-BlSvnGetChainStatus
 BlSymCryptGetAesBlockCipher
 BlSymCryptGetHmacSha256Algorithm
 BlTblSetEntry
@@ -265,6 +263,7 @@ BlUtlReleaseAcpiTable
 BlUtlSetAcpiTableOverrides
 BlUtlValidateMemoryRange
 BlValidateAmeCertChain
+BlValidateCertChain
 BlVsmCheckSystemPolicy
 BlVsmGetSystemPolicy
 BlVsmKeysFindKeyMapByType
@@ -272,6 +271,7 @@ BlVsmKeysGetCurrentLKeyRefFromArray
 BlVsmKeysGetCurrentLKeyRefFromPkg
 BlVsmKeysReadAndUnsealBackupLKeyPkg
 BlVsmKeysReadAndUnsealLKeyPkg
+BlVsmKeysReadAndUnsealLKeyPkgV2
 BlVsmKeysSupportedByPlatform
 bsearch
 DbgLoadImageSymbols
@@ -300,12 +300,6 @@ OslGetValueAtKey
 OslIsRunningInSecureKernel
 OslLoadMicrocodeUpdate
 qsort
-rsa_construction_fips186_3
-rsa_decryption
-rsa_destruction
-rsa_encryption
-rsa_export
-rsa_export_sizes
 RtlAnsiStringToUnicodeString
 RtlAppendUnicodeStringToString
 RtlAppendUnicodeToString
@@ -348,6 +342,7 @@ RtlNumberOfSetBits
 RtlPrefixUnicodeString
 RtlQueryFeatureConfiguration
 RtlQueryFeatureConfigurationChangeStamp
+RtlQueryInternalFeatureConfiguration
 RtlRbInsertNodeEx
 RtlRbRemoveNode
 RtlRecordFeatureUsage
@@ -368,6 +363,7 @@ RtlValidateDelayedFeatureUsageReportBuffer
 RtlValidateFeatureConfigurationBuffer
 RtlValidateFeatureUsageDataBuffer
 RtlValidateFeatureUsageSubscriptionBuffer
+RtlValidateGovernedFeatures
 RtlValidateHotPatchBase
 SbArePolicyOptionsSet
 SbDoesActivePolicyGrantPermission
@@ -406,6 +402,7 @@ SIPolicyIsSignedPolicyRequired
 SIPolicyReleaseState
 SIPolicySetTrialMode
 SIPolicyUmciEnabled
+SIPolicyVersion
 sprintf_s
 strcat_s
 strchr
@@ -438,6 +435,11 @@ SymCryptRngAesFips140_2Uninstantiate
 SymCryptRngAesGenerateSelftest
 SymCryptRngAesInstantiateSelftest
 SymCryptRngAesReseedSelftest
+SymCryptRsakeyAllocate
+SymCryptRsakeyFree
+SymCryptRsakeyGenerate
+SymCryptRsakeyGetValue
+SymCryptRsakeySizeofModulus
 SymCryptSha1
 SymCryptSha256
 SymCryptSha256Append
@@ -458,6 +460,10 @@ TpmApiSeal20Ex
 TpmApiTestAes256Capability20
 TpmApiTestRsa3kCapability20
 TpmApiUnsealEx
+VsmAntiRollbackIncrementCounter
+VsmGetActiveAntiRollbackPolicyVersion
+VsmGetLKeyPkgIdTpmCounter
+VsmProvisionLKeyPkgIdTpmCounter
 wcscat_s
 wcscmp
 wcscpy_s

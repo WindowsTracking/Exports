@@ -1,9 +1,0 @@
-AboutDialogProc
-ConfigureDialogProc
-DllCanUnloadNow
-DllGetClassObject
-DllMain
-DllRegisterServer
-DllUnregisterServer
-DriverDialogProc
-DriverProc

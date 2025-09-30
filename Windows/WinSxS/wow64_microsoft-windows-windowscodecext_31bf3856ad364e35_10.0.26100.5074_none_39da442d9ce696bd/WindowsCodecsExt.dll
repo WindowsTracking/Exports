@@ -1,0 +1,4 @@
+DllCanUnloadNow
+DllGetClassObject
+IWICColorTransform_Initialize_Proxy
+WICCreateColorTransform_Proxy

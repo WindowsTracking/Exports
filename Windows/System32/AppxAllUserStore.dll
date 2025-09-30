@@ -65,6 +65,7 @@ IsPackageInEndOfLifeKey
 IsPackageInStagedKey
 IsPackageInUpgradeKey
 IsPackageInUsersUpgradeKey
+IsPackageNeedingPreregister
 IsPackageOnPreinstalledVolume
 IsPackagePinned
 IsSystemInAuditBoot

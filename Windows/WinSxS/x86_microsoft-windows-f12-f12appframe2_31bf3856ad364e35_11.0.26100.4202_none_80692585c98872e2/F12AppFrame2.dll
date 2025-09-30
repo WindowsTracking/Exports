@@ -1,0 +1,7 @@
+AttachTools
+AttachToolsToDiagnosticsTarget
+DllCanUnloadNow
+DllGetClassObject
+DllInstall
+DllRegisterServer
+DllUnregisterServer

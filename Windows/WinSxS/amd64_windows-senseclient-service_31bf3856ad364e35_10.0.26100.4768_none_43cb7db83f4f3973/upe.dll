@@ -1,0 +1,10 @@
+CreatePolicyEngine
+CreatePolicyEvaluationContext
+CreatePolicyExtensionMethods
+CreatePolicyRuleLoader
+CreatePolicyRuleParser
+DllCanUnloadNow
+DllGetClassObject
+DllInstall
+DllRegisterServer
+DllUnregisterServer

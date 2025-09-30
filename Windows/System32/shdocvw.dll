@@ -120,6 +120,7 @@ SetQueryNetSessionCount
 SetShellOfflineState
 SHAddSubscribeFavorite
 SHGetIDispatchForFolder
+ShowStoreAppRecommendation
 SoftwareUpdateMessageBox
 URLQualifyA
 URLQualifyW

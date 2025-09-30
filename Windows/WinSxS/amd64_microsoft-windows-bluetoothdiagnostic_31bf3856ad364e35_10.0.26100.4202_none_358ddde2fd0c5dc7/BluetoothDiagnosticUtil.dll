@@ -1,0 +1,4 @@
+GetBluetoothInstanceId
+GetBluetoothRadioCount
+GetBluetoothState
+SetBluetoothRadio

@@ -1,0 +1,13 @@
+EdpAuditHarden
+EdpAuditLogApplicationGenerated
+EdpAuditLogApplicationLearning
+EdpAuditLogDataCopied
+EdpAuditLoggerRegister
+EdpAuditLoggerUnregister
+EdpAuditLogProtectionRemoved
+EdpAuditLogSiteLearning
+EdpAuditRead
+EdpFlushTraces
+EdpGetLogFullPathFromRelativePath
+ReadAuditLogByCount
+ReadAuditLogByTimeRange

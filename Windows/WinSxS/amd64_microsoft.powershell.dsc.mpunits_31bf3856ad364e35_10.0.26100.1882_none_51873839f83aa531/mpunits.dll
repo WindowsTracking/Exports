@@ -1,0 +1,14 @@
+_BinaryLogReader_GetNextInstance
+_BinaryLogReader_ValidateHeader
+MI_Main
+monitoring_platform_reactive_extensionsFT_V1
+monitoring_platformFT_V1
+MPUnitsTraps
+NITS_PRESENCE_STUB
+NITS_STUB
+SyncBmilReader_Create
+SyncBmilReader_Delete
+SyncBmilReader_ReadInstance
+SyncBmilWriter_Create
+SyncBmilWriter_Delete
+SyncBmilWriter_WriteInstance

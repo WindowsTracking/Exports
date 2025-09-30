@@ -28,6 +28,7 @@ curl_global_cleanup
 curl_global_init
 curl_global_init_mem
 curl_global_sslset
+curl_global_trace
 curl_maprintf
 curl_mfprintf
 curl_mime_addpart
@@ -49,6 +50,7 @@ curl_multi_add_handle
 curl_multi_assign
 curl_multi_cleanup
 curl_multi_fdset
+curl_multi_get_handles
 curl_multi_info_read
 curl_multi_init
 curl_multi_perform
@@ -61,6 +63,7 @@ curl_multi_socket_all
 curl_multi_strerror
 curl_multi_timeout
 curl_multi_wait
+curl_multi_waitfds
 curl_multi_wakeup
 curl_mvaprintf
 curl_mvfprintf

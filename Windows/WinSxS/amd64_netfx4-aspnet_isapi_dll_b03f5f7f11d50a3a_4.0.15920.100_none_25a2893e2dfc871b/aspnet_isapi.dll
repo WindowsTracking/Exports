@@ -1,0 +1,9 @@
+GetExtensionVersion
+HttpExtensionProc
+InstallMMCComComponents
+InstallMOF
+InstallStateService
+RegisterISAPI
+RegisterISAPIEx
+TerminateExtension
+UnregisterISAPI

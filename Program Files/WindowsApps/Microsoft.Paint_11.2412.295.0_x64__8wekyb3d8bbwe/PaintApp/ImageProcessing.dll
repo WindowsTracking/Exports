@@ -1,0 +1,11 @@
+??0CGdiplusInit@@QEAA@XZ
+??1CGdiplusInit@@QEAA@XZ
+??4CGdiplusInit@@QEAAAEAV0@AEBV0@@Z
+?CreatePropertyStoreOnFile@@YAJPEB_W_NPEAPEAUIPropertyStore@@@Z
+?GdiplusSafeStartup@CGdiplusInit@@CA?AW4Status@Gdiplus@@PEA_KPEBUGdiplusStartupInput@3@PEAUGdiplusStartupOutput@3@@Z
+?GetClsidOfEncoder@@YAHAEBU_GUID@@PEAU1@@Z
+?GetGdiplusDecoders@@YAHPEAIPEAPEAVImageCodecInfo@Gdiplus@@@Z
+?GetGdiplusEncoders@@YAHPEAIPEAPEAVImageCodecInfo@Gdiplus@@@Z
+?IsLoaded@CGdiplusInit@@QEBA_NXZ
+?LoadFileImage@GdiplusHelpers@@YA?AV?$unique_ptr@VBitmap@Gdiplus@@U?$default_delete@VBitmap@Gdiplus@@@std@@@std@@PEB_WPEAPEAVPropertyItem@Gdiplus@@PEAIPEAPEAXPEAUtagPROPVARIANT@@I@Z
+?LoadStreamImage@GdiplusHelpers@@YA?AV?$unique_ptr@VBitmap@Gdiplus@@U?$default_delete@VBitmap@Gdiplus@@@std@@@std@@AEBU?$com_ptr@UIStream@@@winrt@@PEAPEAVPropertyItem@Gdiplus@@PEAIPEAPEAXPEAUtagPROPVARIANT@@I@Z

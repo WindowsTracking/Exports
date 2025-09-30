@@ -2,6 +2,7 @@ ActivatePackageVirtualizationContext
 AddLookaside
 AddProcessToHeliumContainer
 BeginCreatingHeliumContainerForDesktopAppXActivation
+CAMHandlePackagedProcessLaunch
 CheckApplicationInCurrentPackage
 CheckAppXPackageBreakaway
 CloseAppExecutionAlias

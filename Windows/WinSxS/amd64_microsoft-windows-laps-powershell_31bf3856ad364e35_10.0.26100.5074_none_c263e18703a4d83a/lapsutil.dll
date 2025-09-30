@@ -1,0 +1,7 @@
+DecryptNormalMode
+DecryptRecoveryMode
+GetSidProtectionString
+IsAzureJoined
+LogonWithCredentials
+ProcessCurrentPolicy
+ResetPassword

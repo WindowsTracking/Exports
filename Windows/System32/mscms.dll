@@ -76,6 +76,7 @@ InternalGetPS2CSAFromLCS
 InternalGetPS2PreviewCRD
 InternalGetPS2PreviewCRD2
 InternalRefreshCalibration
+InternalRefreshCalibrationFromColorServer
 InternalSetAccessibilityColorMatrix
 InternalSetDeviceConfig
 InternalSetDeviceGammaRamp
