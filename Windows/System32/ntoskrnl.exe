@@ -1610,6 +1610,7 @@ KeSystemFullyCacheCoherent
 KeTestAlertThread
 KeTestSpinLock
 KeTryToAcquireGuardedMutex
+KeTryToAcquireInStackQueuedSpinLockAtDpcLevel
 KeTryToAcquireQueuedSpinLock
 KeTryToAcquireQueuedSpinLockRaiseToSynch
 KeTryToAcquireSpinLockAtDpcLevel
@@ -2036,6 +2037,7 @@ PoRegisterDeviceForIdleDetection
 PoRegisterDeviceNotify
 PoRegisterForEffectivePowerModeNotifications
 PoRegisterPowerSettingCallback
+PoRegisterSstNotificationHandler
 PoRegisterSystemState
 PoRequestPowerIrp
 PoRequestShutdownEvent
@@ -2058,6 +2060,7 @@ PoStartNextPowerIrp
 PoUnregisterCoalescingCallback
 PoUnregisterFromEffectivePowerModeNotifications
 PoUnregisterPowerSettingCallback
+PoUnregisterSstNotificationHandler
 PoUnregisterSystemState
 PoUserShutdownCancelled
 PoUserShutdownInitiated

@@ -1,0 +1,11 @@
+?allocate_wait_state@lock_pool@detail@atomics@boost@@YAPEAXPEAXPEDX@Z
+?free_wait_state@lock_pool@detail@atomics@boost@@YAXPEAX0@Z
+?long_lock@lock_pool@detail@atomics@boost@@YAPEAX_K@Z
+?notify_all@lock_pool@detail@atomics@boost@@YAXPEAXPEDX@Z
+?notify_one@lock_pool@detail@atomics@boost@@YAXPEAXPEDX@Z
+?short_lock@lock_pool@detail@atomics@boost@@YAPEAX_K@Z
+?signal_fence@lock_pool@detail@atomics@boost@@YAXXZ
+?thread_fence@lock_pool@detail@atomics@boost@@YAXXZ
+?unlock@lock_pool@detail@atomics@boost@@YAXPEAX@Z
+?wait@lock_pool@detail@atomics@boost@@YAXPEAX0@Z
+?wait_for@lock_pool@detail@atomics@boost@@YA_NPEAX0V?$duration@_JU?$ratio@$00$0DLJKMKAA@@std@@@chrono@std@@@Z

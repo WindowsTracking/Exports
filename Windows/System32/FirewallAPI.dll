@@ -21,6 +21,7 @@ FwAnalyzeFirewallPolicy
 FwAnalyzeFirewallPolicyOnProfile
 FwApiHelperFree
 FwApiHelperInit
+FWAuditLogPolicyImported
 FwBstrToIcmp
 FwBstrToInterfaceTypes
 FwBstrToInterfaceTypesCsp

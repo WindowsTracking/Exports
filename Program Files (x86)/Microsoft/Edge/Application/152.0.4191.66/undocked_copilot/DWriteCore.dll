@@ -1,0 +1,3 @@
+DWriteCoreCreateFactory
+DWriteCoreRegisterEventSink
+DWriteCoreUnregisterEventSink

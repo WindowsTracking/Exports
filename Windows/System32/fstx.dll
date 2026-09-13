@@ -18,6 +18,7 @@ FsTxCreateHardLinkByHandleNT
 FsTxCreateHardLinkNT
 FsTxCreateRecoverySession
 FsTxCreateSession
+FsTxCreateSession2
 FsTxDeInitGuidGenerator
 FsTxDeleteDirectory
 FsTxDeleteDirectoryByHandle

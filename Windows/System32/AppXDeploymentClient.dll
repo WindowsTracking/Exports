@@ -26,6 +26,7 @@ AppxRemovePackageForUserSid
 AppxRequestRemovePackageForUser
 AppxResetPackage
 AppxStagePackage
+AppxStagePackage2
 AppxSvcPrepareForSysprepGeneralize
 AppxValidatePackages
 AppxValidatePackagesWithOptions

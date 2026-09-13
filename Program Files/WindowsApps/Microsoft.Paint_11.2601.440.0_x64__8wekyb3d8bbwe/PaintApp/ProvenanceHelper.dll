@@ -1,0 +1,16 @@
+??0IProvenanceProvider@Provenance@Paint@@QEAA@$$QEAU012@@Z
+??0IProvenanceProvider@Provenance@Paint@@QEAA@AEBU012@@Z
+??0IProvenanceProvider@Provenance@Paint@@QEAA@XZ
+??0ProvenanceHelper@Provenance@Paint@@QEAA@AEBUIPropertySet@Collections@Foundation@Windows@winrt@@@Z
+??4IProvenanceProvider@Provenance@Paint@@QEAAAEAU012@$$QEAU012@@Z
+??4IProvenanceProvider@Provenance@Paint@@QEAAAEAU012@AEBU012@@Z
+??_7IProvenanceProvider@Provenance@Paint@@6B@
+?AuthoringFinalizeOutputToBufferAsync@ProvenanceHelper@Provenance@Paint@@QEAA?AU?$IAsyncOperation@UInMemoryRandomAccessStream@Streams@Storage@Windows@winrt@@@Foundation@Windows@winrt@@UIRandomAccessStream@Streams@Storage@67@V?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z
+?AuthoringFinalizeOutputToFile@ProvenanceHelper@Provenance@Paint@@QEAA_NAEBVpath@filesystem@std@@0AEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@6@@Z
+?GetBase64ManifestIngredients@ProvenanceHelper@Provenance@Paint@@UEBA?AV?$vector@Uhstring@winrt@@V?$allocator@Uhstring@winrt@@@std@@@std@@XZ
+?HasAIContent@ProvenanceHelper@Provenance@Paint@@QEBA_NXZ
+?IngredientCount@ProvenanceHelper@Provenance@Paint@@QEBAHXZ
+?InsertFileIngredientIfManifestExists@ProvenanceHelper@Provenance@Paint@@QEAA_NAEBVpath@filesystem@std@@@Z
+?InsertImageIngredientAsync@ProvenanceHelper@Provenance@Paint@@QEAA?AU?$IAsyncOperation@_N@Foundation@Windows@winrt@@AEBUIRandomAccessStream@Streams@Storage@67@@Z
+?InsertManifestIngredient@ProvenanceHelper@Provenance@Paint@@UEAA_NAEBUhstring@winrt@@@Z
+?Merge@ProvenanceHelper@Provenance@Paint@@QEAAXAEBU123@@Z

@@ -9,9 +9,7 @@ MsvpAvlSetTimestamp
 MsvpAvlToString
 MsvpCachePasswordsToCredential
 MsvpCalculateNtlm2Challenge
-MsvpCalculateNtlm2ChallengeNew
 MsvpCalculateNtlm2SessionKeys
-MsvpCalculateNtlm2SessionKeysNew
 MsvpCalculateNtlm3Owf
 MsvpCompareCredentials
 MsvpComputeSaltedHashedPassword
@@ -21,14 +19,10 @@ MsvpDeriveSecureCredKey
 MsvpGMSACred
 MsvpLm20GetNtlm3ChallengeResponse
 MsvpLm3Response
-MsvpLm3ResponseNew
 MsvpLm3ValidateResponse
-MsvpLm3ValidateResponseNew
 MsvpMakeSecretPasswordNT5
 MsvpNtlm3Response
-MsvpNtlm3ResponseNew
 MsvpNtlm3ValidateResponse
-MsvpNtlm3ValidateResponseNew
 MsvpPasswordValidate
 MsvpPutClearOwfsInPrimaryCredential
 MsvpUpdateSharedConfiguration

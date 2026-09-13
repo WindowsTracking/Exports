@@ -6,6 +6,7 @@ BCryptConfigureContextFunction
 BCryptCreateContext
 BCryptCreateHash
 BCryptCreateMultiHash
+BCryptDecapsulate
 BCryptDecrypt
 BCryptDeleteContext
 BCryptDeriveKey
@@ -16,6 +17,7 @@ BCryptDestroyKey
 BCryptDestroySecret
 BCryptDuplicateHash
 BCryptDuplicateKey
+BCryptEncapsulate
 BCryptEncrypt
 BCryptEnumAlgorithms
 BCryptEnumContextFunctionProviders
@@ -64,10 +66,12 @@ NCryptCloseProtectionDescriptor
 NCryptCreateClaim
 NCryptCreatePersistedKey
 NCryptCreateProtectionDescriptor
+NCryptDecapsulate
 NCryptDecrypt
 NCryptDeleteKey
 NCryptDeriveKey
 NCryptDuplicateKeyProtectorHandle
+NCryptEncapsulate
 NCryptEncrypt
 NCryptEnumAlgorithms
 NCryptEnumKeys
@@ -105,6 +109,7 @@ NCryptUnprotectSecret
 NCryptVerifyClaim
 NCryptVerifySignature
 SslChangeNotify
+SslCombineKeys
 SslComputeClientAuthHash
 SslComputeEapKeyBlock
 SslComputeFinishedHash
@@ -120,6 +125,7 @@ SslEncryptPacket
 SslEnumCipherSuites
 SslEnumCipherSuitesEx
 SslEnumEccCurves
+SslEnumGroups
 SslEnumProtocolProviders
 SslExpandBinderKey
 SslExpandExporterMasterKey

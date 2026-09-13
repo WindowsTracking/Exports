@@ -1,0 +1,5 @@
+_EditFSSecurity@32
+DllCanUnloadNow
+DllGetClassObject
+DllRegisterServer
+DllUnregisterServer

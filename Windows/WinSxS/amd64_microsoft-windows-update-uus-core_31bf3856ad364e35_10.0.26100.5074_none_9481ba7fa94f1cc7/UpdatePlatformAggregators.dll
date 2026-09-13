@@ -1,6 +1,0 @@
-DllMain
-Initialize
-NotifyTimerExpiryWithId
-ProcessNextEventJsonBuilder
-SetParameter
-Uninitialize

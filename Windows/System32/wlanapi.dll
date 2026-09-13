@@ -4,6 +4,7 @@ AcmGenerateNetworkId
 ConvertFrequencyToBandChannel
 ConvertPassPhraseKeyStringToBuffer
 FreeMSMSecConfig
+MSMSecAuthCipherValidForSafeMode
 MSMSecCreateDefaultProfileStatic
 MSMSecGetCopyOfSupportedAuthCiphers
 MSMSecGetNetworkCapabilitiesFromBSSDescriptionList
@@ -202,7 +203,6 @@ WlanPrivateCanDeleteProfile
 WlanPrivateClearAnqpCache
 WlanPrivateDeleteProfile
 WlanPrivateGetAnqpCacheResponse
-WlanPrivateGetAnqpOSUProviderList
 WlanPrivateGetAnqpVenueUrl
 WlanPrivateGetAvailableNetworkList
 WlanPrivateGetBssInfo

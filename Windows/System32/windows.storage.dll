@@ -121,6 +121,7 @@ CPrivateProfileCache_Save
 CRatingsCategorizer_CreateInstance
 CreateDisplayNameRemapTransferSource
 CreateExtrinsicPropertyStore
+CreateFileMetadataCache
 CreateHashItemTable
 CreateInfoTipFromItem
 CreateItemArrayFromItemStore

@@ -1,9 +1,0 @@
-MipDlpDecryptFile
-MipDlpDecryptOpcFileContent
-MipDlpEncryptFileWithLabelId
-MipDlpEncryptFileWithPl
-MipDlpFreeBuffer
-MipDlpGetLabelInfo
-MipDlpGetLabelInfoById
-MipDlpInit
-MipDlpTerminate

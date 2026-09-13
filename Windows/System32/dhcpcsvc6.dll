@@ -5,6 +5,7 @@ Dhcpv6CApiInitialize
 Dhcpv6EnableDhcp
 Dhcpv6EnableTracing
 Dhcpv6FreeCachedParamsData
+Dhcpv6FreeCachedParamsDataEx
 Dhcpv6FreeLeaseInfo
 Dhcpv6FreeLeaseInfoArray
 Dhcpv6GetTraceArray
@@ -18,6 +19,7 @@ Dhcpv6ReleasePrefixEx
 Dhcpv6RenewPrefix
 Dhcpv6RenewPrefixEx
 Dhcpv6RequestCachedParams
+Dhcpv6RequestCachedParamsEx
 Dhcpv6RequestParams
 Dhcpv6RequestPrefix
 Dhcpv6RequestPrefixEx

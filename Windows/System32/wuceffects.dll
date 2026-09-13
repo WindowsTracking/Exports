@@ -3,6 +3,7 @@ CreateAcrylicBrush
 CreateCrossfadeEffectFactory
 CreateCustomBrush
 CreateEffectDescription
+CreateFindMyMouseDimmingEffectFactory
 CreateMicaBrush
 CrossFadeToNewBrush
 DeserializeEffectDescription

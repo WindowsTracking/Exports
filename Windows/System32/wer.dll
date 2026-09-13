@@ -108,6 +108,7 @@ WerpSetTelemetryAppParams
 WerpSetTelemetryKernelParams
 WerpSetTelemetryServiceParams
 WerpSetTtdStatus
+WerpSetVelocityInformation
 WerpShowUpsellUI
 WerpStitchedMinidumpVmPostReadCallback
 WerpStitchedMinidumpVmPreReadCallback

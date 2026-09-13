@@ -1,7 +1,0 @@
-DrvSetupInstallDriver
-DrvSetupInstallWuDriver
-DrvSetupInstallWuDrivers
-DrvSetupQueryUpdateStatus
-DrvSetupUninstallDriver
-DrvSetupUninstallWuDrivers
-pDrvSetupUninstallDriver

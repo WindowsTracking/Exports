@@ -1,0 +1,11 @@
+_kBrotliContextLookupTable
+_kBrotliPrefixCodeRanges
+BrotliDefaultAllocFunc
+BrotliDefaultFreeFunc
+BrotliGetDictionary
+BrotliGetTransforms
+BrotliSetDictionaryData
+BrotliSharedDictionaryAttach
+BrotliSharedDictionaryCreateInstance
+BrotliSharedDictionaryDestroyInstance
+BrotliTransformDictionaryWord

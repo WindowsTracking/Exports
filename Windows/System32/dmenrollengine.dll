@@ -44,6 +44,7 @@ GetProviderID
 GetRecoveryInitiatedByServer
 GetRecoveryRetryCount
 GetRecoveryStatusEnum
+GetWasPrivateKeyBrokenByRenew
 IsLockedToMmpc
 MmpcDiscoverEndpoint
 OpenEnrollmentsHKEY
@@ -61,6 +62,7 @@ SetProviderID
 SetRecoveryInitiatedByServer
 SetRecoveryRetryCount
 SetRecoveryStateAndErrorCode
+SetWasPrivateKeyBrokenByRenew
 SwitchAADLinkedEnrollment
 SysprepGeneralize
 VerifyServerIsMmpcEx

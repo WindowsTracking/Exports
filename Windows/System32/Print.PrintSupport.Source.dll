@@ -38,6 +38,7 @@ RegeneratePdcForApp
 RemovePsaSession
 RemovePsaSessionForUserContext
 SetJobIdForPsaSession
+SetPassthroughJobAndOperationAttributes
 SetPrintTicketPsa
 SetPsaPreferredPdlConversionProcess
 ShoudPdcBeUpdatedNow

@@ -21,6 +21,7 @@
 #44
 #47
 #48
+#54
 CreateLogonCertificateRequest
 DeleteLogonCertificateRequest
 DllCanUnloadNow

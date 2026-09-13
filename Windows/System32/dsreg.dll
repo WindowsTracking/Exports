@@ -29,9 +29,12 @@ DsrGetJoinInfo
 DsrGetJoinInfoEx
 DsrGetPrtAuthorityInfo
 DsrGetResourceAccount
+DsrGetResourceAccountInfo
 DsrIsDeviceJoined
 DsrIsDeviceJoinedEx
 DsrIsWorkplaceJoined
+DsrProvisionResourceAccountCredentials
+DsrRemoveResourceAccountCredentials
 DsrSaveDeviceTokenProperties
 DsrSaveWorkplaceTokenProperties
 DsrWriteAutoJoinSvcAdminEvent

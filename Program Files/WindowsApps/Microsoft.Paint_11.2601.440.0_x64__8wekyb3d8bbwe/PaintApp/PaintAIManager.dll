@@ -1,0 +1,8 @@
+??0AIFactory@PaintAIManager@AI@Paint@@QEAA@AEBV?$function@$$A6A?AV?$task@Uhstring@winrt@@@Concurrency@@XZ@std@@AEBUhstring@winrt@@11W4ModelAvailability@27@222AEBUIPropertySet@Collections@Foundation@Windows@7@AEBV?$function@$$A6A?AV?$task@Uguid@winrt@@@Concurrency@@XZ@5@AEBV?$shared_ptr@VTaskOrchestrator@PlatformHelpers@Paint@@@5@@Z
+?GetCloudCreditsManager@AIFactory@PaintAIManager@AI@Paint@@QEBA?AUICloudCreditsManager@3winrt@@XZ
+?GetColoringBookManager@AIFactory@PaintAIManager@AI@Paint@@QEBA?AUIColoringBookManager@3winrt@@XZ
+?GetImageCreatorManager@AIFactory@PaintAIManager@AI@Paint@@QEBA?AUIImageCreatorManager@3winrt@@XZ
+?GetPromptModerationService@AIFactory@PaintAIManager@AI@Paint@@QEBA?AUIPromptModerationService@3winrt@@XZ
+?GetReimagineManager@AIFactory@PaintAIManager@AI@Paint@@QEBA?AUIReimagineManager@3winrt@@XZ
+?GetServiceOptions@AIFactory@PaintAIManager@AI@Paint@@QEBA?AUIServiceOptions@3winrt@@XZ
+?GetStickersManager@AIFactory@PaintAIManager@AI@Paint@@QEBA?AUIStickersManager@3winrt@@XZ

@@ -11,5 +11,6 @@ IsFolderPrivateForUser
 IsPathShared
 IsPathSharedA
 IsPathSharedW
+RefreshShareCacheAsync
 SetFolderPermissionsForSharing
 ShowShareFolderUI

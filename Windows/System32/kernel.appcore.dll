@@ -143,6 +143,7 @@ GetSecureSystemAppDataFolder
 GetSerializedAtomBytes
 GetSharedLocalFolder
 GetStagedPackageOrigin
+GetStagedPackageOrigin2
 GetStagedPackagePathByFullName
 GetStagedPackagePathByFullName2
 GetStateContainerDepth
@@ -164,6 +165,7 @@ IsDeveloperModeEnabled
 IsDeveloperModePolicyApplied
 IsMrtResourceRedirectionEnabled
 IsOnDemandRegistrationSupportedForExtensionCategory
+IsPackageFeatureSupported
 IsSideloadingEnabled
 IsSideloadingPolicyApplied
 MsixIsSystemPackageByAppUserModelId

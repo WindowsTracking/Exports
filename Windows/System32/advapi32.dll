@@ -395,6 +395,8 @@ IsValidSecurityDescriptor
 IsValidSid
 IsWellKnownSid
 LockServiceDatabase
+LogoffSecondaryUserFromSessionW
+LogonSecondaryUserIntoSessionW
 LogonUserA
 LogonUserExA
 LogonUserExExW

@@ -14,6 +14,7 @@ CompareObjectSDToSddl
 ConvertHResultToNtStatus
 ConvertNtStatusToHResult
 CreateKeyformFromAttributesIntoBuffer
+CreateSafeOSForRecovery
 DecompressManifest
 EstimateReconstructWindowsDiskNeeds
 EstimateReconstructWindowsRAMNeeds

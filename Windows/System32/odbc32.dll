@@ -5,7 +5,6 @@ CursorLibLockDesc
 CursorLibLockStmt
 CursorLibTransact
 DllBidEntryPoint
-g_hHeapMalloc
 GetODBCSharedData
 LockHandle
 ODBCGetTryWaitValue

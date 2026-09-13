@@ -1,0 +1,4 @@
+?InitializeDManipHook@@YAHKPEAX@Z
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject

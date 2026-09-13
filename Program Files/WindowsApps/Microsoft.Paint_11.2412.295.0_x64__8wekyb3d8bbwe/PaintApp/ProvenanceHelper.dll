@@ -1,7 +1,0 @@
-??0ProvenanceHelper@Provenance@Paint@@QEAA@AEBUIPropertySet@Collections@Foundation@Windows@winrt@@@Z
-?AuthoringFinalizeOutputToFile@ProvenanceHelper@Provenance@Paint@@QEAA_NAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@00@Z
-?HasAIContent@ProvenanceHelper@Provenance@Paint@@QEBA_NXZ
-?InsertImageIngredientAsync@ProvenanceHelper@Provenance@Paint@@QEAA?AU?$IAsyncOperation@_N@Foundation@Windows@winrt@@AEBUIRandomAccessStream@Streams@Storage@67@@Z
-?InsertManifestIngredient@ProvenanceHelper@Provenance@Paint@@QEAA_NAEBUhstring@winrt@@@Z
-?IsSupportedFileFormat@ProvenanceHelper@Provenance@Paint@@SA_NAEBU_GUID@@@Z
-?Merge@ProvenanceHelper@Provenance@Paint@@QEAAXAEBU123@@Z

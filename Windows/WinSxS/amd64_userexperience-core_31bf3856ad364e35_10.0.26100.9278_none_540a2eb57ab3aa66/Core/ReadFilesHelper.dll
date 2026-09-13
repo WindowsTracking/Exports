@@ -1,0 +1,4 @@
+CloseIFilterReader
+ExtractTextFromFile
+OpenIFilterReader
+ReadNextIFilterChunk

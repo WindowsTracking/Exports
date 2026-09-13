@@ -18,6 +18,7 @@ SRCacheContext_DeleteIfEmpty
 SRCacheContext_EnumerateData
 SRCacheContext_EnumerateIndex
 SRCacheContext_GetField_Binary
+SRCacheContext_GetField_Guid
 SRCacheContext_GetField_MultiString
 SRCacheContext_GetField_String
 SRCacheContext_GetField_UInt32
@@ -27,6 +28,7 @@ SRCacheContext_IsEmpty
 SRCacheContext_Open
 SRCacheContext_OpenSubContext
 SRCacheContext_SetField_Binary
+SRCacheContext_SetField_Guid
 SRCacheContext_SetField_MultiString
 SRCacheContext_SetField_String
 SRCacheContext_SetField_UInt32

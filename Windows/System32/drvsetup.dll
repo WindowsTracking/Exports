@@ -2,6 +2,7 @@ DrvSetupInstallDriver
 DrvSetupInstallWuDriver
 DrvSetupInstallWuDrivers
 DrvSetupQueryUpdateStatus
+DrvSetupQueryWuDriverRequirements
 DrvSetupUninstallDriver
 DrvSetupUninstallWuDrivers
 pDrvSetupUninstallDriver

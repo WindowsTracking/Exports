@@ -111,6 +111,7 @@ FveNotifyVolumeAfterFormat
 FveOpenVolumeByHandle
 FveOpenVolumeExW
 FveOpenVolumeW
+FvePcrMonPredictionsUpdated
 FvePpfPredictionsUpdated
 FveProtectorTypeToFlags
 FveQuery

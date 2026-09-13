@@ -1,6 +1,0 @@
-DllCanUnloadNow
-DllGetActivationFactory
-StartApplication
-StartApplicationWithArgs
-VSDesignerCanUnloadNow
-VSDesignerDllMain

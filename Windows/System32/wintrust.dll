@@ -131,6 +131,7 @@ WTIsFirstConfigCiResultPreferred
 WTLogConfigCiScriptEvent
 WTLogConfigCiScriptEvent2
 WTLogConfigCiSignerEvent
+WTLogSmartAppControlDefenderInfo
 WTValidateBioSignaturePolicy
 WVTAsn1CatMemberInfo2Decode
 WVTAsn1CatMemberInfo2Encode

@@ -73,6 +73,7 @@ DnsCheckNrptRuleIntegrity
 DnsCheckNrptRules
 DnsCleanupTcpConnections
 DnsConnectionDeletePolicyEntries
+DnsConnectionDeletePolicyEntriesByAppSid
 DnsConnectionDeletePolicyEntriesPrivate
 DnsConnectionDeleteProxyInfo
 DnsConnectionFreeNameList
@@ -95,7 +96,6 @@ DnsCreateStandardDnsNameCopy
 DnsCreateStringCopy
 DnsDeleteSettings
 DnsDeleteWellKnownServerProperty
-DnsDeleteZtRules
 DnsDeRegisterLocal
 DnsDhcpRegisterAddrs
 DnsDhcpRegisterHostAddrs
@@ -169,6 +169,7 @@ DnsGetZtClientCertConfig
 DnsGetZtConfig
 DnsGetZtFilterIds
 DnsGetZtRules
+DnsGetZtSettings
 DnsGetZtTrustedCa
 DnsGetZtTrustedServers
 DnsGlobals
@@ -255,12 +256,7 @@ DnsSetNrptRules
 DnsSetQueryRetryTimeouts
 DnsSetSettings
 DnsSetWellKnownServerProperty
-DnsSetZtClientCertConfig
-DnsSetZtConfig
-DnsSetZtRules
 DnsSetZtSettings
-DnsSetZtTrustedCa
-DnsSetZtTrustedServers
 DnsSplitDotHost
 DnsStartMulticastQuery
 DnsStatusString
@@ -292,6 +288,7 @@ DnsWriteReverseNameStringForIpAddress
 DnsWriteReverseNameStringForIpAddressW
 DnsZtHelperGetSettings
 DnsZtHelperProcessClientCerts
+DnsZtHelperPromoteConfig
 DnsZtNotifyDnscache
 ExtraInfo_Init
 Faz_AreServerListsInSameNameSpace

@@ -2,6 +2,7 @@ GetAsymmetricEncryptionInterface
 GetCipherInterface
 GetHashInterface
 GetKeyDerivationInterface
+GetKeyEncapsulationInterface
 GetRngInterface
 GetSecretAgreementInterface
 GetSignatureInterface

@@ -4,6 +4,7 @@
 #103
 #104
 #108
+#109
 DllMain
 XInputEnable
 XInputGetAudioDeviceIds

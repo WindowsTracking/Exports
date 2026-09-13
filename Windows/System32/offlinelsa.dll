@@ -2,6 +2,7 @@ LsaOfflineAddAccountRights
 LsaOfflineAddPrivilegesToAccount
 LsaOfflineClose
 LsaOfflineCreateAccount
+LsaOfflineCreateSecret
 LsaOfflineDelete
 LsaOfflineEnumerateAccountRights
 LsaOfflineEnumerateAccounts
@@ -12,8 +13,13 @@ LsaOfflineOpenAccount
 LsaOfflineOpenPolicy
 LsaOfflineOpenPolicyExternal
 LsaOfflineOpenPolicyForInstaller
+LsaOfflineOpenSecret
 LsaOfflineQueryInformationPolicy
+LsaOfflineQuerySecret
 LsaOfflineRemoveAccountRights
 LsaOfflineRemovePrivilegesFromAccount
+LsaOfflineRetrievePrivateData
+LsaOfflineSetSecret
 LsaOfflineSetSystemAccessAccount
+LsaOfflineStorePrivateData
 LsaOfflineSyskeyRequest

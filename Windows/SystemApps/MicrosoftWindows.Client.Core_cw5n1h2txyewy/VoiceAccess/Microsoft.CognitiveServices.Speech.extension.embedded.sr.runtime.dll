@@ -1,6 +1,7 @@
 BuildNBestCorrectionGraph
 CopyNBestCorrectionGraph
 CreateCustomUnimicSource
+CreateCustomUnimicSourceSilero
 CreateEngine
 CreateEngineConfig
 CreateEngineConfigWithCallback
@@ -9,9 +10,11 @@ CreateIntentRecognizer
 CreateIntentRecognizerInternal
 CreateNBestPostprocessor
 CreatePhraseListSFLM
+CreatePhraseListSFLMExt
 CreateRequestConfig
 CreateUnimicDecoder
 CreateUnimicDecoderInternal
+CreateUnimicDecoderLLMContext
 CreateUnimicDecoderSFLM
 CreateUnimicDecoderSFLMCluster
 CreateUnimicFilter
@@ -26,6 +29,7 @@ CreateUnimicSourceFromSplitChannelWaveFiles
 CreateUnimicSourceFromWaveFile
 DeleteConfig
 DeleteEngine
+DeleteInitializationStore
 DeleteIntentRecognizer
 DeleteIntentRecognizerBest
 DeleteNBestPostprocessor
@@ -35,6 +39,7 @@ DeleteUnimicFilter
 DeleteUnimicSink
 DeleteUnimicSource
 DeleteUnimicSourceAligner
+DestroyUnimicDecoderLLMContext
 DestroyUnimicDecoderSFLM
 DestroyUnimicDecoderSFLMCluster
 DestroyUnimicForcedAlignment
@@ -44,6 +49,7 @@ DetectHardwareAccelerationSupport
 GetBoolValue
 GetCompatibilityKey
 GetConfigCopy
+GetConfigDefaultSilenceTimeout
 GetEnginePerfCountersJsonStr
 GetEntities
 GetEntityCount
@@ -85,12 +91,14 @@ GetUnimicDecoderNBestLexicalLength
 GetUnimicDecoderNBestLexicalText
 GetUnimicDecoderNBestSentence
 GetUnimicDecoderNBestSentenceLanguageID
+GetUnimicDecoderNBestSentenceLanguageIDNthBest
+GetUnimicDecoderNBestSentenceLID
+GetUnimicDecoderNBestSpeechScore
 GetUnimicDecoderNBestWordLID
 GetUnimicDecoderPhoneCount
 GetUnimicDecoderPhoneFrameCount
 GetUnimicDecoderPhoneScores
 GetUnimicDecoderTelemetry
-GetUnimicDecoderVADSpeechScore
 GetUnimicFilterAlignReadPosInMs
 GetUnimicFilterInputPortCount
 GetUnimicFilterMillisecondsPerFrame
@@ -103,7 +111,9 @@ GetUnimicSourceSampleRate
 InitializeLogger
 IsEngineStarted
 JoinEngine
+PreInitialize
 ReadUnimicSource
+ReadUnimicSource2
 ResetEnginePerfCounter
 ResetUnimicDecoder
 RunIntentRecognizer

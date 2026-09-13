@@ -9,6 +9,7 @@ WinHttpCheckPlatform
 WinHttpCloseHandle
 WinHttpConnect
 WinHttpConnectionDeletePolicyEntries
+WinHttpConnectionDeletePolicyEntriesByAppSid
 WinHttpConnectionDeleteProxyInfo
 WinHttpConnectionFreeNameList
 WinHttpConnectionFreeProxyInfo

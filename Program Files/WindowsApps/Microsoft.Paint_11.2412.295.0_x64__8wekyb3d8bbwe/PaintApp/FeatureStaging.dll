@@ -1,9 +1,0 @@
-?Feature_AllowGenFillForLowMemory_IsEnabled@Velocity@Paint@@YA_NXZ
-?Feature_AllowNPUOnLNLDevices_IsEnabled@Velocity@Paint@@YA_NXZ
-?Feature_AllowNPUOnSTXDevices_IsEnabled@Velocity@Paint@@YA_NXZ
-?Feature_AllowProdigyPilotMarkets_IsEnabled@Velocity@Paint@@YA_NXZ
-?Feature_AllowProdigyWW_IsEnabled@Velocity@Paint@@YA_NXZ
-?Feature_ForceNPUBetaDriverOnLNLDevices_IsEnabled@Velocity@Paint@@YA_NXZ
-?Feature_ForceNPUBetaDriverOnSTXDevices_IsEnabled@Velocity@Paint@@YA_NXZ
-?Feature_GenerativeFill_IsEnabled@Velocity@Paint@@YA_NXZ
-?Feature_UseLLMImageCreatorEndpoint_IsEnabled@Velocity@Paint@@YA_NXZ

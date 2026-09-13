@@ -1,8 +1,0 @@
-NlmGetBestCostNetworkConnection
-NlmGetCostedNetworkSettings
-NlmSetCostedNetworkSettings
-ServiceInitialized
-ServiceMain
-ServiceRequestInProcess
-VpnProfileMatchingNrpt
-VpnProfileNrptHasExemptions

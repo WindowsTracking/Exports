@@ -1,9 +1,0 @@
-ddebug_screen_create
-DllCanUnloadNow
-DllGetActivationFactory
-DllGetClassObject
-DllRegisterServer
-DllUnregisterServer
-noop_screen_create
-trace_screen_create
-util_run_tests

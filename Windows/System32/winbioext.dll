@@ -1,6 +1,5 @@
 DllCanUnloadNow
 DllGetClassObject
-EXPERIMENTAL_WinBioGetEssState
 WinBioAcquireFocus
 WinBioAsyncEnumDatabases
 WinBioAsyncMonitorFrameworkChanges

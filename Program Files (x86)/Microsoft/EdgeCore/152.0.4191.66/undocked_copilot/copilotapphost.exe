@@ -1,0 +1,7 @@
+HandleDeviceChanges
+InitializeServices
+ShutdownServices
+StartCaptureAudio
+StartWakeWordDetection
+StopCaptureAudio
+StopWakeWordDetection

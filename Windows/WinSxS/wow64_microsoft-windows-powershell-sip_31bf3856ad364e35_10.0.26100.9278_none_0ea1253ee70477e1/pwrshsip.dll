@@ -1,0 +1,8 @@
+DllRegisterServer
+DllUnregisterServer
+PsCreateHash
+PsDelSignature
+PsGetSignature
+PsIsMyFileType
+PsPutSignature
+PsVerifyHash

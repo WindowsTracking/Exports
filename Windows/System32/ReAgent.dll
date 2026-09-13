@@ -11,6 +11,7 @@ WinReClearRecoveryTestMode
 WinReClearSetting
 WinReClearSettingEx
 WinReConfigureTask
+WinReConstructWinRe
 WinReCopyDiagnosticFiles
 WinReCopyLogFilesToRamdisk
 WinReCreateLogInstance
@@ -23,15 +24,18 @@ WinReGetConfig
 WinReGetCustomization
 WinReGetError
 WinReGetLogDirPath
+WinReGetManagedSetting
 WinReGetRecoveryTestMode
 WinReGetSetting
 WinReGetTrustedBootApps
 WinReGetWIMInfo
+WinReGetWimVersion
 WinReHashBootApp
 WinReHashWimFile
 WinReInitiateOfflineScanning
 WinReInstall
 WinReInstallOnTargetOS
+WinReInstallOnTargetOSEx
 WinReInstallTarget
 WinReIsInstalledOnSystemPartition
 WinReIsSettingManaged
@@ -63,6 +67,7 @@ WinReSetupBackupWinRE
 WinReSetupCheckWinRE
 WinReSetupInstall
 WinReSetupMigrateData
+WinReSetupMigrateOEMTools
 WinReSetupRemoveWinRE
 WinReSetupRestoreWinREEx
 WinReSetupSaveWinREPartitionInfo

@@ -4,6 +4,7 @@ UtcCreateSessionHandle
 UtcDownloadLatestSettingsForNamespaceEx
 UtcEscalateScenarioEx
 UtcForceUpload
+UtcGetActiveScenarioList2
 UtcGetTimerConfiguration
 UtcIsScenarioActive
 UtcSetTelemetryOptIn

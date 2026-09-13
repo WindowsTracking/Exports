@@ -1,0 +1,4 @@
+InitializeAriaTelemetry
+LogTelemetryEvent
+PreloadAriaDll
+ShutdownAriaTelemetry

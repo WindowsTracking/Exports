@@ -13,3 +13,4 @@ DllGetClassObject
 DllRegisterServer
 DllUnregisterServer
 PasskeyOTSPrompt
+WHOTSLaunch

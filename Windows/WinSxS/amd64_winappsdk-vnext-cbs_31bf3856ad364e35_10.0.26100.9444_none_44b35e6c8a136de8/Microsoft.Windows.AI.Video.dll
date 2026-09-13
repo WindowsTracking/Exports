@@ -1,0 +1,5 @@
+CreateBuffer
+CreateDirect3DSurface
+DllCanUnloadNow
+DllGetActivationFactory
+GetSurfaceDataPointer

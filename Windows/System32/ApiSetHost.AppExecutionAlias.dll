@@ -3,8 +3,10 @@ CloseAppExecutionAliasEx
 CompleteAppExecutionAliasProcessCreationEx
 CompletePackagedProcessCreationEx
 CreateAndPersistAppExecutionAliasEx
+CreateAndPersistAppExecutionAliasEx2
 CreateAppExecutionAliasEx
 CreateAppExecutionAliasEx2
+CreateAppExecutionAliasEx3
 DllCanUnloadNow
 DllGetActivationFactory
 DllGetClassObject
@@ -16,6 +18,8 @@ GetAppExecutionAliasPackageFamilyNameEx
 GetAppExecutionAliasPackageFullNameEx
 GetAppExecutionAliasPath
 GetAppExecutionAliasPathEx
+GetHostIdEx
+GetHostParametersEx
 LoadAppExecutionAliasInfoEx
 LoadAppExecutionAliasInfoEx2
 OpenAppExecutionAliasForUserEx

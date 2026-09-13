@@ -6,6 +6,7 @@ BCryptConfigureContextFunction
 BCryptCreateContext
 BCryptCreateHash
 BCryptCreateMultiHash
+BCryptDecapsulate
 BCryptDecrypt
 BCryptDeleteContext
 BCryptDeriveKey
@@ -16,6 +17,7 @@ BCryptDestroyKey
 BCryptDestroySecret
 BCryptDuplicateHash
 BCryptDuplicateKey
+BCryptEncapsulate
 BCryptEncrypt
 BCryptEnumAlgorithms
 BCryptEnumContextFunctionProviders

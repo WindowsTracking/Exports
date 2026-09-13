@@ -103,3 +103,4 @@ WgxConnection_Create
 WgxConnection_Disconnect
 WgxConnection_SameThreadPresent
 WgxConnection_ShouldForceSoftwareForGraphicsStreamClient
+WpfGfx_SetDisableBoundsCheckProtection

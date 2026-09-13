@@ -6,4 +6,8 @@ EapConvertHostToWireFormat32
 EapConvertWireToHostFormat16
 EapConvertWireToHostFormat24
 EapConvertWireToHostFormat32
+EapHostWinREAcquire
+EapHostWinRECleanup
+EapHostWinREGetSharedContext
+EapHostWinREReleaseAndArmIdle
 EapUseLegacyTlsStack

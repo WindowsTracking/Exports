@@ -320,6 +320,12 @@
 ??0Mutex@UnBCL@@QEAA@$$QEAV01@@Z
 ??0Mutex@UnBCL@@QEAA@AEBV01@@Z
 ??0Mutex@UnBCL@@QEAA@XZ
+??0NotImplementedException@UnBCL@@QEAA@$$QEAV01@@Z
+??0NotImplementedException@UnBCL@@QEAA@AEBV01@@Z
+??0NotImplementedException@UnBCL@@QEAA@PEBG@Z
+??0NotImplementedException@UnBCL@@QEAA@PEBVString@1@@Z
+??0NotImplementedException@UnBCL@@QEAA@PEBVString@1@PEAVException@1@@Z
+??0NotImplementedException@UnBCL@@QEAA@XZ
 ??0NotSupportedException@UnBCL@@QEAA@$$QEAV01@@Z
 ??0NotSupportedException@UnBCL@@QEAA@AEBV01@@Z
 ??0NotSupportedException@UnBCL@@QEAA@PEBG@Z
@@ -592,6 +598,7 @@
 ??1MultiSz@UnBCL@@UEAA@XZ
 ??1MutableString@UnBCL@@UEAA@XZ
 ??1Mutex@UnBCL@@UEAA@XZ
+??1NotImplementedException@UnBCL@@UEAA@XZ
 ??1NotSupportedException@UnBCL@@UEAA@XZ
 ??1Object@UnBCL@@UEAA@XZ
 ??1ObjectDisposedException@UnBCL@@UEAA@XZ
@@ -832,6 +839,8 @@
 ??4MutableString@UnBCL@@QEAAAEAV01@PEBG@Z
 ??4Mutex@UnBCL@@QEAAAEAV01@$$QEAV01@@Z
 ??4Mutex@UnBCL@@QEAAAEAV01@AEBV01@@Z
+??4NotImplementedException@UnBCL@@QEAAAEAV01@$$QEAV01@@Z
+??4NotImplementedException@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4NotSupportedException@UnBCL@@QEAAAEAV01@$$QEAV01@@Z
 ??4NotSupportedException@UnBCL@@QEAAAEAV01@AEBV01@@Z
 ??4Object@UnBCL@@QEAAAEAV01@AEBV01@@Z
@@ -1154,6 +1163,7 @@
 ??_7Mutex@UnBCL@@6BIDisposable@1@@
 ??_7Mutex@UnBCL@@6BObject@1@@
 ??_7Mutex@UnBCL@@6BWaitHandle@1@@
+??_7NotImplementedException@UnBCL@@6B@
 ??_7NotSupportedException@UnBCL@@6B@
 ??_7Object@UnBCL@@6B@
 ??_7ObjectDisposedException@UnBCL@@6B@
@@ -2380,6 +2390,7 @@
 ?Right@?$CStringT@GV?$StrTraitATL@GV?$ChTraitsCRT@G@ATL@@@ATL@@@ATL@@QEBA?AV12@H@Z
 ?s_Handler@Logging@UnBCL@@0PEAUILogHandler@@EA
 ?s_InternPool@String@UnBCL@@1PEAV?$Hashtable@PEAVString@UnBCL@@PEAV12@@2@EA
+?s_InternPoolLock@String@UnBCL@@1U_RTL_SRWLOCK@@A
 ?s_Manager@Allocator@UnBCL@@0PAPEAUIHeapMemory@@A
 ?s_Manager_Init@Allocator@UnBCL@@0HA
 ?s_OOMHandler@Allocator@UnBCL@@0PEAUIOutOfMemoryHandler@@EA
